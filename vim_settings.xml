@@ -120,12 +120,12 @@
         <mark key="." line="12" column="31" />
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1493147755355">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1493149311903">
         <mark key="'" line="272" column="55" />
-        <mark key="]" line="239" column="61" />
-        <mark key="^" line="265" column="23" />
-        <mark key="." line="239" column="0" />
-        <mark key="[" line="239" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="^" line="329" column="15" />
+        <mark key="." line="317" column="0" />
+        <mark key="[" line="317" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/view.phtml" timestamp="1492457215125">
         <mark key="]" line="42" column="0" />
@@ -763,46 +763,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy53cmFwcycpLmZpbmQoJy53cmFwJykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV4dFN0ZXAgPiAyICYmICFzZWxmLmhhc1NlbnRpbWVudCkgeyByZXR1cm47IH0K</text>
       </register>
       <register name="/" type="4">
         <text>self.token_front</text>
       </register>
       <register name="-" type="4">
-        <text>38</text>
+        <text>nextStep</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>38</text>
       </register>
       <register name="2" type="4">
-        <text>@active_color_1</text>
+        <text>nextStep</text>
       </register>
-      <register name="1" type="4">
-        <text>38</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobmV4dFN0ZXAgPiAyICYmICFzZWxmLmhhc1NlbnRpbWVudCkgeyByZXR1cm47IH0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy53cmFwcycpLmZpbmQoJy53cmFwJykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV4dFN0ZXAgPiAyICYmICFzZWxmLmhhc1NlbnRpbWVudCkgeyByZXR1cm47IH0K</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
-      </register>
-      <register name="6" type="4">
-        <text>g</text>
-      </register>
-      <register name="5" type="4">
         <text>_</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIC5zaXplKDEwMCUsIDIwMHB4KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>@active_color_1</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NlbGYudG9rZW5fZnJvbnQvZnJvbnQvZw==</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>remove</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
