@@ -120,12 +120,12 @@
         <mark key="." line="12" column="31" />
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1493133691122">
-        <mark key="'" line="383" column="12" />
-        <mark key="]" line="76" column="63" />
-        <mark key="^" line="76" column="63" />
-        <mark key="." line="76" column="63" />
-        <mark key="[" line="76" column="59" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1493143993920">
+        <mark key="'" line="440" column="12" />
+        <mark key="]" line="178" column="7" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="7" />
+        <mark key="[" line="177" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/view.phtml" timestamp="1492457215125">
         <mark key="]" line="42" column="0" />
@@ -171,11 +171,11 @@
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1493139023996">
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="[" line="4" column="17" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1493143866408">
+        <mark key="]" line="73" column="64" />
+        <mark key="^" line="73" column="64" />
+        <mark key="." line="73" column="64" />
+        <mark key="[" line="74" column="73" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Renewal/Model/AarpCellMember.php" timestamp="1476461661115">
         <mark key="]" line="2" column="16" />
@@ -183,12 +183,12 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1493131072866">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1493143579697">
         <mark key="'" line="7" column="24" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="69" column="14" />
-        <mark key="." line="70" column="0" />
-        <mark key="[" line="70" column="0" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="246" column="25" />
+        <mark key="." line="51" column="0" />
+        <mark key="[" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" timestamp="1480714027713">
         <mark key="]" line="215" column="14" />
@@ -761,47 +761,47 @@
       <jump line="5264" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;bday&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>self.token_front</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;bday&quot;</text>
+        <text>globe</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>globe</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;bday&quot;</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNjcm9waW1hZ2Vfb3ZlcmxheScpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVFdmVyeXRoaW5nKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>uploadFile</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5uZXh0QnV0dG9uLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>[0]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>key</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgYmFja1VybCA9ICIiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkuZWFjaChzZWxmLmZpbGVzVG9VcGxvYWQsIGZ1bmN0aW9uKGtleSwgdmFsdWUpIHsKICAgICAgICAgICAgZm9ybURhdGEuYXBwZW5kKCJmaWxlIiwgdmFsdWUpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVFdmVyeXRoaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NlbGYudG9rZW5fZnJvbnQvZnJvbnQvZw==</text>
       </register>
-      <register name="9" type="4">
-        <text>jQuery('#frmImage')[0]);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoKQo=</text>
+      <register name="8" type="4">
+        <text>remove</text>
       </register>
     </registers>
     <search>
