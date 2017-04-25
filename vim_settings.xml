@@ -171,11 +171,11 @@
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1493131855231">
-        <mark key="]" line="121" column="44" />
-        <mark key="^" line="121" column="44" />
-        <mark key="." line="121" column="44" />
-        <mark key="[" line="95" column="17" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1493139023996">
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Renewal/Model/AarpCellMember.php" timestamp="1476461661115">
         <mark key="]" line="2" column="16" />
@@ -761,47 +761,47 @@
       <jump line="5264" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;bday&quot;</text>
       </register>
       <register name="/" type="4">
         <text>self.token_front</text>
       </register>
       <register name="-" type="4">
+        <text>&quot;bday&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>s</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkuZWFjaChzZWxmLmZpbGVzVG9VcGxvYWQsIGZ1bmN0aW9uKGtleSwgdmFsdWUpIHsKICAgICAgICAgICAgZm9ybURhdGEuYXBwZW5kKCJmaWxlIiwgdmFsdWUpOwogICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>s</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>&quot;bday&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNjcm9waW1hZ2Vfb3ZlcmxheScpLnNob3coKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoKQo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>uploadFile</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>[0]</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>key</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBqUXVlcnkuZWFjaChzZWxmLmZpbGVzVG9VcGxvYWQsIGZ1bmN0aW9uKGtleSwgdmFsdWUpIHsKICAgICAgICAgICAgZm9ybURhdGEuYXBwZW5kKCJmaWxlIiwgdmFsdWUpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NlbGYudG9rZW5fZnJvbnQvZnJvbnQvZw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQWpheCBldmVudHMK</text>
-      </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>jQuery('#frmImage')[0]);</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtRGF0YS5hcHBlbmQoKQo=</text>
       </register>
     </registers>
     <search>
