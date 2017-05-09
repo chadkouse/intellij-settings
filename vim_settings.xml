@@ -31,11 +31,11 @@
         <mark key="." line="51" column="127" />
         <mark key="[" line="51" column="127" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1494347941996">
-        <mark key="]" line="385" column="39" />
-        <mark key="^" line="385" column="39" />
-        <mark key="." line="385" column="39" />
-        <mark key="[" line="385" column="39" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1494353840293">
+        <mark key="]" line="341" column="35" />
+        <mark key="^" line="386" column="39" />
+        <mark key="." line="341" column="0" />
+        <mark key="[" line="341" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/GiftCert/controllers/ApiController.php" timestamp="1472753014071">
         <mark key="]" line="144" column="66" />
@@ -670,8 +670,8 @@
       <jump line="154" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>black</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy53cmFwb3ZlcicpLmhpZGUoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>step5</text>
@@ -689,7 +689,7 @@
         <text>black</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJwbGF5IiBzcmM9Ijw/cGhwIGVjaG8gTWFnZTo6Z2V0RGVzaWduKCktPmdldFNraW5VcmwoKTsgPz5pbWFnZXMvZ2lmdHRva2Vucy9kZXNpZ24vcGxheWJ1dHRvbi5wbmciIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy53cmFwb3ZlcicpLmhpZGUoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
