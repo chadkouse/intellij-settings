@@ -343,6 +343,12 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1494600689347">
+        <mark key="]" line="1287" column="45" />
+        <mark key="^" line="1287" column="45" />
+        <mark key="." line="1287" column="45" />
+        <mark key="[" line="1287" column="46" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/Aaa_TQS1.xml" timestamp="1474910021418">
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
@@ -372,9 +378,6 @@
         <mark key="^" line="96" column="21766" />
         <mark key="." line="96" column="21766" />
         <mark key="[" line="96" column="21767" />
-      </file>
-      <file name="/a.dummy" timestamp="1494518318822">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1493237288907">
         <mark key="]" line="25" column="230" />
@@ -687,46 +690,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZW5kaWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0gJHBlckl0ZW0tPmdldEluc2lkZU1lc3NhZ2UoKTsKICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0ganNvbl9kZWNvZGUoJGluc2lkZU1lc3NhZ2UsIHRydWUpOwogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRpbnNpZGVNZXNzYWdlWydtZXNzYWdlX2lkJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSAkdGhpcy0+ZXNjYXBlSHRtbChzdHJ0b3VwcGVyKCRpbnNpZGVNZXNzYWdlWydtZXNzYWdlX2lkJ10pKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSAiU1VSUFJJU0UiOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJGJvZHkgPSAkdGhpcy0+Z2V0VG9rZW5FbWFpbEJvZHkoJHRvTmFtZUVkbSwgJGZyb21GaXJzdE5hbWUsICRpbnNpZGVNZXNzYWdlLCAkbWVzc2FnZVVSTCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>step5</text>
       </register>
       <register name="-" type="4">
-        <text>pinSearch</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>pinsearch</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>pinSearch</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kaWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0gJHBlckl0ZW0tPmdldEluc2lkZU1lc3NhZ2UoKTsKICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0ganNvbl9kZWNvZGUoJGluc2lkZU1lc3NhZ2UsIHRydWUpOwogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRpbnNpZGVNZXNzYWdlWydtZXNzYWdlX2lkJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSAkdGhpcy0+ZXNjYXBlSHRtbChzdHJ0b3VwcGVyKCRpbnNpZGVNZXNzYWdlWydtZXNzYWdlX2lkJ10pKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSAiU1VSUFJJU0UiOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJGJvZHkgPSAkdGhpcy0+Z2V0VG9rZW5FbWFpbEJvZHkoJHRvTmFtZUVkbSwgJGZyb21GaXJzdE5hbWUsICRpbnNpZGVNZXNzYWdlLCAkbWVzc2FnZVVSTCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAKZW5kaWY7CgpzZXRjb29raWUoImlzYWFhbWF0cXMxdmFsaWQiLCAndHJ1ZScsIHRpbWUoKSArIDQzMjAwLCAiLyIpOyAvLzEyIGhvdXJzCgo/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVkFVTFQgSU5URUdSQVRJT046CiAgICAgICAgICAgICAgICAkb3JkZXI9TWFnZTo6Z2V0TW9kZWwoJ3NhbGVzL29yZGVyJyktPmdldENvbGxlY3Rpb24oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0T3JkZXIoJ2NyZWF0ZWRfYXQnLCdERVNDJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNldFBhZ2VTaXplKDEpIC0+Z2V0Rmlyc3RJdGVtKCk7CiAgICAgICAgICAgICAgICAkaW5jcmVtZW50YWw9JG9yZGVyLT5nZXRJbmNyZW1lbnRJZCgpOwogICAgICAgICAgICAgICAgJHZhdWx0SWQ9TWFnZTo6Z2V0TW9kZWwoJ3ZhdWx0L3ZhdWx0JyktPmdldElkT2ZWYXVsdCgkaW5jcmVtZW50YWwpOwogICAgICAgICAgICAgICAgaWYoJHZhdWx0SWQpICRtZXNzYWdlVVJMIC49Ii92LyR2YXVsdElkIjsKICAgICAgICAgICAgICAgIC8vVkFVTFQgRU5EOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>12 hours</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">RmFpbAo=</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRkYXRhSGVscGVyLT5pc0dpZnRUb2tlbigkcHJvZHVjdCkpIHsK</text>
       </register>
       <register name="8" type="4">
-        <text>true</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
