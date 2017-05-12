@@ -326,10 +326,10 @@
         <mark key="[" line="1214" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1494614270477">
-        <mark key="]" line="3838" column="41" />
-        <mark key="^" line="3838" column="41" />
-        <mark key="." line="3838" column="41" />
-        <mark key="[" line="3838" column="33" />
+        <mark key="]" line="3977" column="41" />
+        <mark key="^" line="3977" column="41" />
+        <mark key="." line="3977" column="41" />
+        <mark key="[" line="3977" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" timestamp="1476814805108">
         <mark key="]" line="34" column="50" />
@@ -342,12 +342,6 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1494614499201">
-        <mark key="]" line="994" column="22" />
-        <mark key="^" line="994" column="22" />
-        <mark key="." line="994" column="22" />
-        <mark key="[" line="994" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/Aaa_TQS1.xml" timestamp="1474910021418">
         <mark key="]" line="2" column="16" />
@@ -398,10 +392,7 @@
         <mark key="[" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1494442240610">
-        <mark key="]" line="3167" column="25" />
-        <mark key="^" line="5805" column="37" />
-        <mark key="." line="3167" column="25" />
-        <mark key="[" line="3167" column="24" />
+        <mark key="^" line="6151" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaama/template/aaamatqs1/success.phtml" timestamp="1494546341159">
         <mark key="]" line="2" column="0" />
@@ -552,12 +543,12 @@
         <mark key="." line="2" column="42" />
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1494428310190">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1494621819212">
         <mark key="'" line="177" column="0" />
-        <mark key="]" line="638" column="24" />
-        <mark key="^" line="638" column="24" />
-        <mark key="." line="638" column="24" />
-        <mark key="[" line="640" column="134" />
+        <mark key="]" line="776" column="23" />
+        <mark key="^" line="776" column="23" />
+        <mark key="." line="776" column="23" />
+        <mark key="[" line="776" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Renewal/Model/Mysql4/Cellmember.php" timestamp="1476461751648">
         <mark key="]" line="5" column="39" />
