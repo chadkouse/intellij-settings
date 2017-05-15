@@ -126,6 +126,9 @@
         <mark key="." line="466" column="16" />
         <mark key="[" line="433" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1494878527098">
+        <mark key="[" line="146" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/view.phtml" timestamp="1494269819141">
         <mark key="]" line="79" column="4" />
         <mark key="[" line="75" column="0" />
@@ -209,6 +212,10 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.css" timestamp="1494878045272">
+        <mark key="]" line="704" column="18" />
+        <mark key="[" line="702" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsResult.php" timestamp="1476809707595">
         <mark key="]" line="4" column="41" />
@@ -546,12 +553,9 @@
         <mark key="." line="2" column="42" />
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1494621819212">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1494878026097">
         <mark key="'" line="177" column="0" />
-        <mark key="]" line="776" column="23" />
-        <mark key="^" line="776" column="23" />
-        <mark key="." line="776" column="23" />
-        <mark key="[" line="776" column="21" />
+        <mark key="[" line="642" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Renewal/Model/Mysql4/Cellmember.php" timestamp="1476461751648">
         <mark key="]" line="5" column="39" />
@@ -683,8 +687,8 @@
       <jump line="154" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7CiAgLW1vei1hcHBlYXJhbmNlOiBub25lOwogIGFwcGVhcmFuY2U6IG5vbmU7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>step5</text>
@@ -702,7 +706,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJvZHkgPSAkdGhpcy0+Z2V0VG9rZW5FbWFpbEJvZHkoJHRvTmFtZUVkbSwgJGZyb21GaXJzdE5hbWUsICRpbnNpZGVNZXNzYWdlLCAkbWVzc2FnZVVSTCk7Cg==</text>
+        <text encoding="base64">ICAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7CiAgLW1vei1hcHBlYXJhbmNlOiBub25lOwogIGFwcGVhcmFuY2U6IG5vbmU7Cg==</text>
       </register>
       <register name="7" type="4">
         <text>a</text>
