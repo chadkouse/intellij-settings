@@ -43,11 +43,11 @@
         <mark key="." line="51" column="127" />
         <mark key="[" line="51" column="127" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1494429469263">
-        <mark key="]" line="83" column="19" />
-        <mark key="^" line="135" column="12" />
-        <mark key="." line="77" column="0" />
-        <mark key="[" line="77" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1494873219123">
+        <mark key="]" line="363" column="37" />
+        <mark key="^" line="363" column="37" />
+        <mark key="." line="363" column="37" />
+        <mark key="[" line="362" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/GiftCert/controllers/ApiController.php" timestamp="1472753014071">
         <mark key="]" line="144" column="66" />
@@ -276,11 +276,11 @@
         <mark key="." line="25" column="18" />
         <mark key="[" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1476816696575">
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="199" column="39" />
-        <mark key="." line="157" column="0" />
-        <mark key="[" line="157" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1494874367594">
+        <mark key="]" line="184" column="59" />
+        <mark key="^" line="184" column="59" />
+        <mark key="." line="184" column="59" />
+        <mark key="[" line="182" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/community/Magestore/Bannerslider/Block/Default.php" timestamp="1494515749501">
         <mark key="]" line="137" column="8" />
@@ -334,7 +334,7 @@
         <mark key="." line="3977" column="41" />
         <mark key="[" line="3977" column="33" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" timestamp="1476814805108">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" timestamp="1494873791350">
         <mark key="]" line="34" column="50" />
         <mark key="^" line="33" column="71" />
         <mark key="." line="34" column="73" />
@@ -369,9 +369,6 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
         <mark key="[" line="9" column="63" />
-      </file>
-      <file name="/a.dummy" timestamp="1494859449960">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1493237288907">
         <mark key="]" line="25" column="230" />
@@ -687,37 +684,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>step5</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGJvZHkgPSAkdGhpcy0+Z2V0VG9rZW5FbWFpbEJvZHkoJHRvTmFtZUVkbSwgJGZyb21GaXJzdE5hbWUsICRpbnNpZGVNZXNzYWdlLCAkbWVzc2FnZVVSTCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
-      </register>
-      <register name="6" type="4">
         <text>a</text>
       </register>
+      <register name="6" type="4">
+        <text>:</text>
+      </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
