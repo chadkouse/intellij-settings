@@ -21,9 +21,11 @@
         <mark key="." line="79" column="8" />
         <mark key="[" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/list.phtml" timestamp="1494957627721">
-        <mark key="]" line="102" column="26" />
-        <mark key="[" line="21" column="50" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/list.phtml" timestamp="1494958608651">
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="[" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshop/css/font-face.css" timestamp="1494361033744">
         <mark key="]" line="1" column="0" />
@@ -295,7 +297,7 @@
         <mark key="]" line="137" column="8" />
         <mark key="[" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/product/list.phtml" timestamp="1494270914096">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/product/list.phtml" timestamp="1494958852409">
         <mark key="]" line="67" column="0" />
         <mark key="^" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -378,6 +380,9 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
         <mark key="[" line="9" column="63" />
+      </file>
+      <file name="/a.dummy" timestamp="1494958853283">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1493237288907">
         <mark key="]" line="25" column="230" />
