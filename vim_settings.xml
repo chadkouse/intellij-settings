@@ -45,7 +45,11 @@
         <mark key="." line="51" column="127" />
         <mark key="[" line="51" column="127" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1494956294686" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1495038804792">
+        <mark key="]" line="654" column="25" />
+        <mark key="." line="654" column="25" />
+        <mark key="[" line="654" column="24" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/GiftCert/controllers/ApiController.php" timestamp="1472753014071">
         <mark key="]" line="144" column="66" />
         <mark key="^" line="144" column="66" />
@@ -134,8 +138,11 @@
         <mark key="." line="466" column="16" />
         <mark key="[" line="433" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1494880318880">
-        <mark key="[" line="139" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1495038813384">
+        <mark key="'" line="95" column="0" />
+        <mark key="]" line="575" column="25" />
+        <mark key="." line="575" column="25" />
+        <mark key="[" line="575" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/product/list/token.phtml" timestamp="1494271795858">
         <mark key="]" line="11" column="27" />
@@ -674,13 +681,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
       <jump line="154" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" />
       <jump line="286" column="26" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+Z2V0VXJsKCcnKSA/Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>reader</text>
+        <text>10000</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+Z2V0VXJsKCcnKSA/Pg==</text>
@@ -720,9 +728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reader</last-search>
+      <last-search>10000</last-search>
       <last-offset />
-      <last-pattern>reader</last-pattern>
+      <last-pattern>10000</last-pattern>
       <last-replace>front</last-replace>
       <last-substitute>self.token_front</last-substitute>
       <last-dir>1</last-dir>
@@ -734,6 +742,7 @@
         <entry>snowglobe</entry>
         <entry>step5</entry>
         <entry>reader</entry>
+        <entry>10000</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
