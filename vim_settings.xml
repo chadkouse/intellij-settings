@@ -45,11 +45,6 @@
         <mark key="." line="51" column="127" />
         <mark key="[" line="51" column="127" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1495038804792">
-        <mark key="]" line="211" column="25" />
-        <mark key="." line="211" column="25" />
-        <mark key="[" line="211" column="24" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/GiftCert/controllers/ApiController.php" timestamp="1472753014071">
         <mark key="]" line="144" column="66" />
         <mark key="^" line="144" column="66" />
@@ -251,7 +246,7 @@
         <mark key="." line="25" column="31" />
         <mark key="[" line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/list/token.phtml" timestamp="1492457284657">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/list/token.phtml" timestamp="1495063631064">
         <mark key="]" line="24" column="158" />
         <mark key="^" line="24" column="157" />
         <mark key="." line="24" column="158" />
@@ -353,11 +348,6 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1495050455633">
-        <mark key="]" line="1006" column="25" />
-        <mark key="." line="1006" column="25" />
-        <mark key="[" line="1006" column="25" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/Aaa_TQS1.xml" timestamp="1474910021418">
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
@@ -382,7 +372,6 @@
         <mark key="." line="9" column="63" />
         <mark key="[" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token_email.html" timestamp="1495050369547" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1493237288907">
         <mark key="]" line="25" column="230" />
         <mark key="^" line="25" column="51" />
@@ -404,12 +393,6 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="[" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/bday_demo.phtml" timestamp="1495050867355">
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1494442240610">
         <mark key="^" line="6151" column="37" />
@@ -466,6 +449,9 @@
         <mark key="^" line="74" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="[" line="75" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1495063632445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaa/template/page/template/links.phtml" timestamp="1495039749812">
         <mark key="]" line="51" column="19" />
@@ -708,47 +694,47 @@
       <jump line="95" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkcHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCJjYXRhbG9nL3Byb2R1Y3QiKS0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'images/haptic/bday/video.mp4'</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>$fromFirstName . ' sent you a special gift!'</text>
+        <text>'images/haptic/bday/video.mp4'</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+Z2V0VXJsKCcnKSA/Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>WINNER</text>
+        <text encoding="base64">JHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9oYXB0aWMvYmRheS92aWRlby5tcDQnKQ==</text>
       </register>
       <register name="1" type="4">
-        <text>$fromFirstName . ' sent you a special gift!'</text>
+        <text>'images/haptic/bday/video.mp4'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkcHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCJjYXRhbG9nL3Byb2R1Y3QiKS0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWVtcHR5KCRzY2hlZHVsZUluZm8pKSB7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+Z2V0VXJsKCcnKSA/Pg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>WINNER</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWVtcHR5KCRzY2hlZHVsZUluZm8pKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>$fromFirstName . ' sent you a special gift!'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
