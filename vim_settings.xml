@@ -129,8 +129,11 @@
         <mark key="." line="466" column="16" />
         <mark key="[" line="433" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1495049376005">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1495120117952">
         <mark key="'" line="95" column="0" />
+        <mark key="]" line="778" column="53" />
+        <mark key="." line="778" column="0" />
+        <mark key="[" line="778" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/product/list/token.phtml" timestamp="1494271795858">
         <mark key="]" line="11" column="27" />
@@ -168,8 +171,11 @@
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1495049409454">
-        <mark key="^" line="151" column="37" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1495120043993">
+        <mark key="]" line="152" column="62" />
+        <mark key="^" line="152" column="62" />
+        <mark key="." line="152" column="62" />
+        <mark key="[" line="152" column="58" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaama/layout/page.xml" timestamp="1494518444772">
         <mark key="]" line="38" column="65" />
@@ -357,7 +363,7 @@
         <mark key="." line="9" column="63" />
         <mark key="[" line="9" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1495118872487">
+      <file name="/a.dummy" timestamp="1495120103191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1495118503244">
@@ -469,7 +475,7 @@
         <mark key="." line="5381" column="14" />
         <mark key="[" line="5381" column="11" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1495049692874">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1495119917535">
         <mark key="]" line="542" column="41" />
         <mark key="[" line="479" column="0" />
       </file>
@@ -503,7 +509,7 @@
         <mark key="." line="395" column="8" />
         <mark key="[" line="395" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshop/template/personalizations/personalization/schedule.phtml" timestamp="1495048504332">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshop/template/personalizations/personalization/schedule.phtml" timestamp="1495120115585">
         <mark key="]" line="810" column="52" />
         <mark key="[" line="810" column="0" />
       </file>
@@ -567,6 +573,7 @@
         <mark key="." line="86" column="105" />
         <mark key="[" line="86" column="90" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/schedule.phtml" timestamp="1495119827700" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/styles-mobile.min.css" timestamp="1481210953315">
         <mark key="]" line="2329" column="0" />
         <mark key="^" line="2328" column="21" />
@@ -688,46 +695,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YXJfZHVtcCgkcmVzdWx0KTtkaWU7Cg==</text>
+        <text encoding="base64">CQkJCQlqUXVlcnkoIiNjc3ZfcXR5IikudmFsKGRhdGEucXR5KTsK</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>kula</text>
+        <text>v</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRzY2hlZHVsZUluZm9bJ3NpbmdsZV9naWZ0Y2FyZCddKSAmJiAkc2NoZWR1bGVJbmZvWydzaW5nbGVfZ2lmdGNhcmQnXSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5fcmVkaXJlY3QoJ3BlcnNvbmFsaXphdGlvbnMvY2FyZHMvdXBkYXRlL3BpLycgLiAkcGVySXRlbS0+Z2V0SWQoKSAuICcvc3RlcC9yZXZpZXcnKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAvL1NlbmQgdG8gY29tZmlybWF0aW9uIHBhZ2UgaWYgbm8gcGF5bWVudCByZXF1aXJlZAogICAgICAgICAgICAgICAgICAgICAgICAkX3Byb2R1Y3QgPSBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0JyktPmxvYWQoJHBlckl0ZW0tPmdldFByb2R1Y3RJZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSA9PSAkcGVySXRlbS0+Z2V0SG9sZGVySWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgJHBlckl0ZW0tPmdldElzRGlnaXRhbCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiAhTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zJyktPmlzR2lmdENhcmQoJF9wcm9kdWN0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgJHBlckl0ZW0tPmdldEVjYXJkUHJpY2UoKSA9PSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvZ2lmdGNhcmRzaG9wJyktPmlzR2lmdENhcmRTaG9wKCkKICAgICAgICAgICAgICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwZXJJdGVtcyA9IGFycmF5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICgkcGVySXRlbUlkcyBhcyAkcGVySXRlbUlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBlckl0ZW0gPSBNYWdlOjpnZXRNb2RlbCgncGVyc29uYWxpemF0aW9ucy9wZXJzb25hbGl6YXRpb25zX2l0ZW0nKS0+bG9hZCgkcGVySXRlbUlkKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVySXRlbXNbXSA9ICRwZXJJdGVtOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25TY2hlZHVsZUNvbGxlY3Rpb24gPSBNYWdlOjpnZXRNb2RlbCgncGVyc29uYWxpemF0aW9ucy9wZXJzb25hbGl6YXRpb25zX3NjaGVkdWxlJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5nZXRDb2xsZWN0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5hZGRGaWVsZFRvRmlsdGVyKCdpdGVtX2lkJywgaW50dmFsKCRwZXJJdGVtLT5nZXRJdGVtSWQoKSkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtcyA9ICRwZXJzb25hbGl6YXRpb25TY2hlZHVsZUNvbGxlY3Rpb24tPmdldERhdGEoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQoJGl0ZW1zKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPmxvYWQoJGl0ZW1zWzBdWydpZCddKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVyc29uYWxpemF0aW9uU2NoZWR1bGUgPSBNYWdlOjpnZXRNb2RlbCgncGVyc29uYWxpemF0aW9ucy9wZXJzb25hbGl6YXRpb25zX3NjaGVkdWxlJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+bG9hZCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSAkdGhpcy0+bm9QYXltZW50UmVxdWlyZWQoJHBlckl0ZW0sICRwZXJzb25hbGl6YXRpb25TY2hlZHVsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCEkcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHJlc3VsdCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENyZWF0ZSBPcmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5fY3JlYXRlRGVmYXVsdE9yZGVyKCRwZXJJdGVtcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gQ2xlYXIgYWxsIHNlc3Npb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc2Vzc2lvbiA9IE1hZ2U6OmdldFNpbmdsZXRvbigncGVyc29uYWxpemF0aW9ucy9zZXNzaW9uJywgYXJyYXkoJ25hbWUnID0+ICdmcm9udGVuZCcpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc2Vzc2lvbi0+c2V0UGVyc29uYWxpemF0aW9uSWQoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHNlc3Npb24tPnNldFBob3RvYm9va1Ztc0lkKG51bGwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzZXNzaW9uLT5zZXRQaG90b2Jvb2tQaG90b3NEYXRhKG51bGwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzZXNzaW9uLT5zZXROb1BheW1lbnQodHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFnZTo6YXBwKCktPmdldEZyb250Q29udHJvbGxlcigpLT5nZXRSZXNwb25zZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0UmVkaXJlY3QoJy9wZXJzb25hbGl6YXRpb25zL2NhcmRzL2NvbmZpcm1hdGlvbi8nKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtPnNlbmRSZXNwb25zZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPl9yZWRpcmVjdCgicGVyc29uYWxpemF0aW9ucy9jYXJkcy9yZXZpZXciKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>h</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YXJfZHVtcCgkcmVzdWx0KTtkaWU7Cg==</text>
+      <register name="1" type="4">
+        <text>v</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnRvbG93ZXIoJHN0b3JlLT5nZXRDb2RlKCkpID09Imt1bGEiIHx8Cg==</text>
+        <text encoding="base64">CQkJCQlqUXVlcnkoIiNjc3ZfcXR5IikudmFsKGRhdGEucXR5KTsK</text>
       </register>
       <register name="7" type="4">
-        <text>'images/haptic/bday/video.mp4'</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>kula</text>
+        <text>w</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnRvbG93ZXIoTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSk9PSJib25lZmlzaCIgfHwK</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>kula</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9oYXB0aWMvYmRheS92aWRlby5tcDQnKQ==</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
