@@ -45,6 +45,7 @@
         <mark key="." line="51" column="127" />
         <mark key="[" line="51" column="127" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app_mobile.js" timestamp="1495206748688" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/GiftCert/controllers/ApiController.php" timestamp="1472753014071">
         <mark key="]" line="144" column="66" />
         <mark key="^" line="144" column="66" />
@@ -176,6 +177,12 @@
         <mark key="]" line="179" column="49" />
         <mark key="." line="179" column="0" />
         <mark key="[" line="179" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/gifttokens/design.phtml" timestamp="1495206939753">
+        <mark key="]" line="111" column="48" />
+        <mark key="^" line="111" column="48" />
+        <mark key="." line="111" column="48" />
+        <mark key="[" line="111" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaama/layout/page.xml" timestamp="1494518444772">
         <mark key="]" line="38" column="65" />
@@ -692,46 +699,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>show</text>
+        <text>Shake the Snow Globe</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>Shake the Snow Globe</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>SNOW</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>Shake the snowglobe!</text>
       </register>
       <register name="1" type="4">
-        <text>show</text>
+        <text>Shake the Snow Globe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjZXJyb3JNZXNzYWdlUXVhbnRpdHknKS50ZXh0KCJGb3IgbW9yZSB0aGFuIDkgcmVjaXBpZW50cyBwbGVhc2UgdXNlIHRoZSBDU1YgdXBsb2FkIG9wdGlvbiIpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICJzbm93Z2xvYmUiID0+IGFycmF5KCJza3UiPT4iU1QtSEFQVElDU05PVyIsICJuYW1lIj0+IlNoYWtlIHRoZSBzbm93Z2xvYmUhIiwgImhlYWRsaW5lIj0+IlNoYWtlIHRoZSBTbm93IEdsb2JlIiwgInN1YmxpbmUiPT4idG8gZ2V0IHlvdXIgZ2lmdCIpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>show</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>snowglobe</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
