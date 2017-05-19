@@ -155,7 +155,7 @@
         <mark key="." line="135" column="278" />
         <mark key="[" line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aaa/AaaSSO/controllers/IndexController.php" timestamp="1491317372386">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aaa/AaaSSO/controllers/IndexController.php" timestamp="1495210214868">
         <mark key="]" line="92" column="77" />
         <mark key="^" line="92" column="77" />
         <mark key="." line="92" column="77" />
@@ -699,46 +699,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Shake the Snow Globe</text>
+        <text>'WCS Birthday Week Winner'</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>Shake the Snow Globe</text>
+        <text>'WCS Birthday Week Winner'</text>
       </register>
       <register name="3" type="4">
-        <text>SNOW</text>
-      </register>
-      <register name="2" type="4">
         <text>Shake the snowglobe!</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>Shake the Snow Globe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJzbm93Z2xvYmUiID0+IGFycmF5KCJza3UiPT4iU1QtSEFQVElDU05PVyIsICJuYW1lIj0+IlNoYWtlIHRoZSBzbm93Z2xvYmUhIiwgImhlYWRsaW5lIj0+IlNoYWtlIHRoZSBTbm93IEdsb2JlIiwgInN1YmxpbmUiPT4idG8gZ2V0IHlvdXIgZ2lmdCIpCg==</text>
+      <register name="1" type="4">
+        <text>'WCS Birthday Week Winner'</text>
+      </register>
+      <register name="0" type="4">
+        <text>'WCS Birthday Week Winner'</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>show</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>snowglobe</text>
       </register>
+      <register name="4" type="4">
+        <text>SNOW</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -761,6 +761,7 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
