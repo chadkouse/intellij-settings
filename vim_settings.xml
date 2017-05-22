@@ -358,6 +358,11 @@
         <mark key="." line="175" column="0" />
         <mark key="[" line="175" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/checkout/onepage.phtml" timestamp="1495469770210">
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/page/renewal.phtml" timestamp="1476724867194">
         <mark key="]" line="35" column="71" />
         <mark key="^" line="35" column="71" />
@@ -379,10 +384,6 @@
         <mark key="." line="25" column="230" />
         <mark key="[" line="25" column="321" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/Helper/Data.php" timestamp="1495050783656">
-        <mark key="]" line="858" column="84" />
-        <mark key="[" line="858" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/renewal/index.phtml" timestamp="1478789464859">
         <mark key="]" line="161" column="37" />
         <mark key="^" line="161" column="37" />
@@ -394,6 +395,9 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
+        <mark key="[" line="45" column="2" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1495468494244">
         <mark key="]" line="3108" column="67" />
@@ -509,10 +513,6 @@
         <mark key="." line="395" column="8" />
         <mark key="[" line="395" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshop/template/personalizations/personalization/schedule.phtml" timestamp="1495120115585">
-        <mark key="]" line="810" column="52" />
-        <mark key="[" line="810" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aaa/AaaSSO/etc/config.xml" timestamp="1474909638500">
         <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="16" />
@@ -603,6 +603,7 @@
         <mark key="." line="3" column="19" />
         <mark key="[" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/checkout.xml" timestamp="1495469796469" />
     </filemarks>
     <jumps>
       <jump line="3" column="17" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/etc/config.xml" />
@@ -696,7 +697,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSRoZWxwZXItPmNyZWF0ZVNoaXBtZW50SWZOZWVkZWQoJHBlckl0ZW0tPmdldElkKCkpOwo=</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
@@ -705,37 +706,37 @@
         <text>'WCS Birthday Week Winner'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGhvbGlkYXlEZWZhdWx0ID0gJGhlbHBlci0+Z2V0Q2F0ZWdvcnlCeU5hbWUoIkhvbGlkYXkiKTsKJHRoYW5rc0dpdmluZyA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJUaGFua3NnaXZpbmciKTsKJGVhc3RlciA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJFYXN0ZXIiKTsKJG1vdGhlckRheSAgPSAkaGVscGVyLT5nZXRDYXRlZ29yeUJ5TmFtZSgiTW90aGVyJ3MgRGF5Iik7CiRmYXRoZXJEYXkgID0gJGhlbHBlci0+Z2V0Q2F0ZWdvcnlCeU5hbWUoIkZhdGhlcidzIERheSIpOwokaGFsbG93ZWVuICA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJIYWxsb3dlZW4iKTsKJGhhbnVra2FoICA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJIYW51a2thaCIpOwo=</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoImhlcmUyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCSRoZWxwZXItPmNyZWF0ZVNoaXBtZW50SWZOZWVkZWQoJHBlckl0ZW0tPmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iYmlsbGluZzpjb21wYW55IiBuYW1lPSJiaWxsaW5nW2NvbXBhbnldIiB2YWx1ZT0iPD9waHAgZWNobyAkdGhpcy0+aHRtbEVzY2FwZSgkdGhpcy0+Z2V0QWRkcmVzcygpLT5nZXRDb21wYW55KCkpID8+IiB0aXRsZT0iPD9waHAgZWNobyAkdGhpcy0+X18oJ0NvbXBhbnknKSA/PiIgY2xhc3M9ImlucHV0LXRleHQiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Shake the Snow Globe</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'WCS Birthday Week Winner'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmICgkbW90aGVyRGF5LT5nZXRJZCgpKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjYXRlZ29yeVVybEluZm8gPSAkaGVscGVyLT5nZXRDYXRlZ29yeVVybEluZm8oJG1vdGhlckRheS0+Z2V0SWQoKSwgJHVybF9wYXJhbXMsIGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICRjYXRlZ29yeVVybEluZm9bJ3VybCddIC4gJyZjYXJkdHlwZT0nIC4gJHVybF9wYXJhbXNbJ2NhcmR0eXBlJ10gLiAiJmZvcm1hdD0iIC4gJGZvcm1hdFR5cGU7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSI8P3BocCBlY2hvICRvY2NhdGlvbl9pZCA9PSAkbW90aGVyRGF5LT5nZXRJZCgpID8gJ2FjdGl2ZScgOiAnJyA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iPD9waHAgZWNobyAkdXJsOz8+Ij48P3BocCBlY2hvICRtb3RoZXJEYXktPmdldE5hbWUoKTs/PjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWJveCI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJiaWxsaW5nOmNvbXBhbnkiIG5hbWU9ImJpbGxpbmdbY29tcGFueV0iIHZhbHVlPSI8P3BocCBlY2hvICR0aGlzLT5odG1sRXNjYXBlKCR0aGlzLT5nZXRBZGRyZXNzKCktPmdldENvbXBhbnkoKSkgPz4iIHRpdGxlPSI8P3BocCBlY2hvICR0aGlzLT5fXygnQ29tcGFueScpID8+IiBjbGFzcz0iaW5wdXQtdGV4dCIgLz4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmICgkZmF0aGVyRGF5LT5nZXRJZCgpKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjYXRlZ29yeVVybEluZm8gPSAkaGVscGVyLT5nZXRDYXRlZ29yeVVybEluZm8oJGZhdGhlckRheS0+Z2V0SWQoKSwgJHVybF9wYXJhbXMsIGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICRjYXRlZ29yeVVybEluZm9bJ3VybCddIC4gJyZjYXJkdHlwZT0nIC4gJHVybF9wYXJhbXNbJ2NhcmR0eXBlJ10gLiAiJmZvcm1hdD0iIC4gJGZvcm1hdFR5cGU7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSI8P3BocCBlY2hvICRvY2NhdGlvbl9pZCA9PSAkZmF0aGVyRGF5LT5nZXRJZCgpID8gJ2FjdGl2ZScgOiAnJyA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iPD9waHAgZWNobyAkdXJsOz8+Ij48P3BocCBlY2hvICRmYXRoZXJEYXktPmdldE5hbWUoKTs/PjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoImhlcmUiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>SNOW</text>
+      <register name="9" type="2">
+        <text encoding="base64">JGhvbGlkYXlEZWZhdWx0ID0gJGhlbHBlci0+Z2V0Q2F0ZWdvcnlCeU5hbWUoIkhvbGlkYXkiKTsKJHRoYW5rc0dpdmluZyA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJUaGFua3NnaXZpbmciKTsKJGVhc3RlciA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJFYXN0ZXIiKTsKJG1vdGhlckRheSAgPSAkaGVscGVyLT5nZXRDYXRlZ29yeUJ5TmFtZSgiTW90aGVyJ3MgRGF5Iik7CiRmYXRoZXJEYXkgID0gJGhlbHBlci0+Z2V0Q2F0ZWdvcnlCeU5hbWUoIkZhdGhlcidzIERheSIpOwokaGFsbG93ZWVuICA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJIYWxsb3dlZW4iKTsKJGhhbnVra2FoICA9ICRoZWxwZXItPmdldENhdGVnb3J5QnlOYW1lKCJIYW51a2thaCIpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Shake the snowglobe!</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -757,8 +758,8 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
