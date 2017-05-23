@@ -8,6 +8,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1495555301223">
+        <mark key="]" line="162" column="56" />
+        <mark key="^" line="794" column="27" />
+        <mark key="." line="162" column="0" />
+        <mark key="[" line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/layout/checkout.xml" timestamp="1495475919981">
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
@@ -18,10 +24,11 @@
         <mark key="." line="50" column="6" />
         <mark key="[" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/token.min.js" timestamp="1495488867210">
-        <mark key="]" line="895" column="0" />
-        <mark key="." line="895" column="0" />
-        <mark key="[" line="895" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/token.min.js" timestamp="1495555902727">
+        <mark key="]" line="643" column="44" />
+        <mark key="^" line="641" column="34" />
+        <mark key="." line="642" column="0" />
+        <mark key="[" line="642" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Store/Observer.php" timestamp="1495550089096">
         <mark key="]" line="282" column="84" />
@@ -45,7 +52,7 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495554070772">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495555049675">
         <mark key="]" line="42" column="85" />
         <mark key="^" line="42" column="85" />
         <mark key="." line="42" column="85" />
@@ -57,6 +64,12 @@
         <mark key="^" line="241" column="27" />
         <mark key="." line="253" column="0" />
         <mark key="[" line="250" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1495555251740">
+        <mark key="]" line="1003" column="67" />
+        <mark key="^" line="1003" column="67" />
+        <mark key="." line="1003" column="67" />
+        <mark key="[" line="1003" column="67" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/personalizations/preview/digital_token.phtml" timestamp="1495550971001">
         <mark key="]" line="20" column="85" />
@@ -78,6 +91,16 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="25" column="0" />
       </file>
+      <file name="/a.txt" timestamp="1495118503244">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/bday_demo.phtml" timestamp="1495555076718">
+        <mark key="]" line="12" column="0" />
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
+        <mark key="[" line="45" column="2" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/page.xml" timestamp="1495552952351" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamobile/template/personalizations/preview/digital_token.phtml" timestamp="1495550975590">
         <mark key="]" line="28" column="85" />
@@ -93,6 +116,12 @@
         <mark key="]" line="19" column="85" />
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1495555052210">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1495124776930">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshop/css/style-token-mobile.css" timestamp="1495553962218">
         <mark key="]" line="73" column="15" />
@@ -120,11 +149,11 @@
         <mark key="[" line="73" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/Design/Package.php" timestamp="1495549759624" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1495551011577">
-        <mark key="]" line="75" column="85" />
-        <mark key="^" line="73" column="80" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="72" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1495555950014">
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="30" column="10" />
+        <mark key="[" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamamobile/template/personalizations/preview/digital_token.phtml" timestamp="1495550980672">
         <mark key="]" line="28" column="85" />
@@ -228,46 +257,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tokenof/gift_tokens_logo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>tokenof/gift_tokens_logo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>|</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>|</text>
       </register>
       <register name="1" type="4">
-        <text>tokenof/gift_tokens_logo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9Im1heC13aWR0aDo3NSU7ZmxvYXQ6bGVmdDsiPgogICAgICAgIDxpbWcgc3R5bGU9Im1heC13aWR0aDoxMDAlOyIgc3JjPSI8P3BocCBlY2hvICR0aGlzLT5nZXRTa2luVXJsKCdpbWFnZXMvcGF0ZW50ZWRfcHJvcGVydHkucG5nJyk7ID8+Ij4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJc2VsZi5hbmltYXRlKCk7CgkJCXNlbGYuc3BpbkNvbXBsZXRlTGlzdGVuZXIoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>patented_property.png</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>png</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PA==</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>left</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
