@@ -36,11 +36,11 @@
         <mark key="." line="282" column="84" />
         <mark key="[" line="282" column="84" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495550948071">
-        <mark key="]" line="87" column="85" />
-        <mark key="^" line="218" column="14" />
-        <mark key="." line="84" column="0" />
-        <mark key="[" line="84" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495556848922">
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="224" column="14" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495550966383">
         <mark key="]" line="19" column="85" />
@@ -149,11 +149,11 @@
         <mark key="[" line="73" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/Design/Package.php" timestamp="1495549759624" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1495555950014">
-        <mark key="]" line="30" column="10" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1495556807249">
+        <mark key="]" line="35" column="14" />
         <mark key="^" line="72" column="26" />
         <mark key="." line="30" column="10" />
-        <mark key="[" line="30" column="10" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamamobile/template/personalizations/preview/digital_token.phtml" timestamp="1495550980672">
         <mark key="]" line="28" column="85" />
@@ -256,8 +256,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/style-token.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
@@ -265,26 +265,26 @@
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>|</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>|</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJc2VsZi5hbmltYXRlKCk7CgkJCXNlbGYuc3BpbkNvbXBsZXRlTGlzdGVuZXIoKTsK</text>
+        <text encoding="base64">PD9waHAgaWYgKHN0cnRvbG93ZXIoJHByb2R1Y3QtPmdldFNrdSgpKSA9PSAndC1nYzUnKTogPz4KICAgIC5nY2lfdG9rZW5fYXJyb3dzIHsKICAgICAgICBkaXNwbGF5Om5vbmUgIWltcG9ydGFudDsKICAgIH0KCjw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>|</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>|</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -293,10 +293,10 @@
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
