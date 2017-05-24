@@ -201,6 +201,13 @@
         <mark key="." line="90" column="7" />
         <mark key="[" line="658" column="27" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" timestamp="1495647016406">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="119" column="171" />
+        <mark key="^" line="119" column="171" />
+        <mark key="." line="119" column="171" />
+        <mark key="[" line="119" column="172" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/aaatqs1.xml" timestamp="1474910835219">
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="56" />
@@ -374,16 +381,16 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1495644914687">
+        <mark key="]" line="2004" column="79" />
+        <mark key="^" line="2004" column="79" />
+        <mark key="." line="2004" column="79" />
+        <mark key="[" line="2004" column="71" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/personalizations/preview/digital_token.phtml" timestamp="1495550971001">
         <mark key="]" line="20" column="85" />
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email.html" timestamp="1495641558866">
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="100" column="454" />
-        <mark key="." line="93" column="0" />
-        <mark key="[" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/Aaa_TQS1.xml" timestamp="1474910021418">
         <mark key="]" line="2" column="16" />
@@ -817,49 +824,51 @@
       <jump line="262" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/style-token.css" />
       <jump line="267" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/style-token.css" />
       <jump line="24" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/style-token.css" />
+      <jump line="120" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImhlaWdodDogMjkycHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjkycHgiPjxhIGhyZWY9Int7Vmlld1VybH19IiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IlZpZXcgeW91ciBnaWZ0IiBzdHlsZT0iYm9yZGVyOiBub25lOyBjb2xvcjogIzYyNjM3MCAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiAxMHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxpbmUtaGVpZ2h0OiAxOyAgbWFyZ2luLXRvcDowOyBwYWRkaW5nLXRvcDowOyBtYXJnaW4tcmlnaHQ6MDsgcGFkZGluZy1yaWdodDowOyBtYXJnaW4tYm90dG9tOjA7IHBhZGRpbmctYm90dG9tOjA7IG1hcmdpbi1sZWZ0OjA7IHBhZGRpbmctbGVmdDowOyAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LXNoYWRvdzogbm9uZSI+PGltZyBhbHQ9IkdpZnQgVG9rZW4iIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvaW1hZ2UtZjhmMmUxZWIzNzhiOTA4YTdiMTM0NzZkOGM4NTcxNGU2ZGMwMjFiMi5qcGciIHN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDI5MnB4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogMjkycHg7IG1heC13aWR0aDogMjkycHg7IG1pbi1oZWlnaHQ6IDI5MnB4OyBtaW4td2lkdGg6IDI5MnB4OyB3aWR0aDogMjkycHgiIC8+PC9hPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMwQTA4MEI7IGhlaWdodDogMzhweDsgd2lkdGg6IDg5MHB4IiBiZ2NvbG9yPSIjMEEwODBCIj48aW1nIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvYm9uZWZpc2gtcmVjaXBpZW50LW5hbWUuanBnIiBzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogI0ZGRkZGRiAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzOHB4OyBsaW5lLWhlaWdodDogMDsgbWF4LWhlaWdodDogMzhweDsgbWF4LXdpZHRoOiA4OTBweDsgbWluLWhlaWdodDogMzhweDsgbWluLXdpZHRoOiA4OTBweDsgd2lkdGg6IDg5MHB4IiAvPjwvdGQ+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>https://uat.thegiftcardshop.com/media/catalog/product/cache/13/image/9df78eab33525d08d6e5fb8d27136e95/r/o/rockstar.png</text>
+        <text>y</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>https://uat.thegiftcardshop.com/media/catalog/product/cache/13/image/9df78eab33525d08d6e5fb8d27136e95/r/o/rockstar.png</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImhlaWdodDogMjkycHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjkycHgiPjxhIGhyZWY9Int7Vmlld1VybH19IiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IlZpZXcgeW91ciBnaWZ0IiBzdHlsZT0iYm9yZGVyOiBub25lOyBjb2xvcjogIzYyNjM3MCAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiAxMHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxpbmUtaGVpZ2h0OiAxOyAgbWFyZ2luLXRvcDowOyBwYWRkaW5nLXRvcDowOyBtYXJnaW4tcmlnaHQ6MDsgcGFkZGluZy1yaWdodDowOyBtYXJnaW4tYm90dG9tOjA7IHBhZGRpbmctYm90dG9tOjA7IG1hcmdpbi1sZWZ0OjA7IHBhZGRpbmctbGVmdDowOyAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LXNoYWRvdzogbm9uZSI+PGltZyBhbHQ9IkdpZnQgVG9rZW4iIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvaW1hZ2UtZjhmMmUxZWIzNzhiOTA4YTdiMTM0NzZkOGM4NTcxNGU2ZGMwMjFiMi5qcGciIHN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDI5MnB4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogMjkycHg7IG1heC13aWR0aDogMjkycHg7IG1pbi1oZWlnaHQ6IDI5MnB4OyBtaW4td2lkdGg6IDI5MnB4OyB3aWR0aDogMjkycHgiIC8+PC9hPjwvdGQ+Cg==</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGEgaHJlZj0ie3tWaWV3VXJsfX0iIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iVmlldyB5b3VyIGdpZnQiIHN0eWxlPSJib3JkZXI6IG5vbmU7IGNvbG9yOiAjNjI2MzcwICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBmb250LXNpemU6IDEwcHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC13ZWlnaHQ6IDQwMDsgbGluZS1oZWlnaHQ6IDE7ICBtYXJnaW4tdG9wOjA7IHBhZGRpbmctdG9wOjA7IG1hcmdpbi1yaWdodDowOyBwYWRkaW5nLXJpZ2h0OjA7IG1hcmdpbi1ib3R0b206MDsgcGFkZGluZy1ib3R0b206MDsgbWFyZ2luLWxlZnQ6MDsgcGFkZGluZy1sZWZ0OjA7ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7IHRleHQtc2hhZG93OiBub25lIj4=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CgoK</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMwQTA4MEI7IGhlaWdodDogMzhweDsgd2lkdGg6IDg5MHB4IiBiZ2NvbG9yPSIjMEEwODBCIj48aW1nIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvYm9uZWZpc2gtcmVjaXBpZW50LW5hbWUuanBnIiBzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogI0ZGRkZGRiAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzOHB4OyBsaW5lLWhlaWdodDogMDsgbWF4LWhlaWdodDogMzhweDsgbWF4LXdpZHRoOiA4OTBweDsgbWluLWhlaWdodDogMzhweDsgbWluLXdpZHRoOiA4OTBweDsgd2lkdGg6IDg5MHB4IiAvPjwvdGQ+Cg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PCEtLSBjb250ZW50IHN0YXJ0IC0tPjxoMiBzdHlsZT0iY29sb3I6ICNGRkZGRkYgIWltcG9ydGFudDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMjhweDsgZm9udC1zdHlsZTogbm9ybWFsOyBmb250LXdlaWdodDogNDAwOyBsaW5lLWhlaWdodDogNDBweDsgIG1hcmdpbi10b3A6MDsgcGFkZGluZy10b3A6MDsgbWFyZ2luLXJpZ2h0OjA7IHBhZGRpbmctcmlnaHQ6MDsgbWFyZ2luLWJvdHRvbTowOyBwYWRkaW5nLWJvdHRvbTowOyBtYXJnaW4tbGVmdDowOyBwYWRkaW5nLWxlZnQ6MDsgIHRleHQtYWxpZ246IGNlbnRlcjsgdGV4dC1zaGFkb3c6IG5vbmUiIGFsaWduPSJjZW50ZXIiPjxzcGFuIGNsYXNzPSJoMl9jb2xvcl9zcGFuX3dyYXBwZXIiIHN0eWxlPSJjb2xvcjogI0ZGRkZGRiI+e3tTZW5kZXJOYW1lfX0gc2VudCB5b3UgYSBHaWZ0IFRva2VuJnRyYWRlOzwvc3Bhbj48L2gyPjwhLS0gY29udGVudCBlbmQgLS0+</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e1NlbmRlck5hbWV9fSBzZW50IHlvdSBhIEdpZnQgVG9rZW4mdHJhZGU7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgCiAgICDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoAogICAgwqAgwqAgwqAgwqAgwqAgwqAgwqAgwqAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImhlaWdodDogMjkycHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjkycHgiPjxhIGhyZWY9Int7Vmlld1VybH19IiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IlZpZXcgeW91ciBnaWZ0IiBzdHlsZT0iYm9yZGVyOiBub25lOyBjb2xvcjogIzYyNjM3MCAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiAxMHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxpbmUtaGVpZ2h0OiAxOyAgbWFyZ2luLXRvcDowOyBwYWRkaW5nLXRvcDowOyBtYXJnaW4tcmlnaHQ6MDsgcGFkZGluZy1yaWdodDowOyBtYXJnaW4tYm90dG9tOjA7IHBhZGRpbmctYm90dG9tOjA7IG1hcmdpbi1sZWZ0OjA7IHBhZGRpbmctbGVmdDowOyAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LXNoYWRvdzogbm9uZSI+PGltZyBhbHQ9IkdpZnQgVG9rZW4iIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvaW1hZ2UtNzMxNzQ3MDUxYzJlYzFlYzk1NzNkYTVlNDFkZjE3YzgyMjE3OWFhMy5qcGciIHN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDI5MnB4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogMjkycHg7IG1heC13aWR0aDogMjkycHg7IG1pbi1oZWlnaHQ6IDI5MnB4OyBtaW4td2lkdGg6IDI5MnB4OyB3aWR0aDogMjkycHgiIC8+PC9hPjwvdGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CcKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgCgnCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoAoJwqAgwqAgwqAgwqAgwqAgwqAgwqAgwqAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e1JlY2lwaWVudE5hbWV9fQo=</text>
       </register>
     </registers>
     <search>
