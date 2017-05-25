@@ -171,11 +171,11 @@
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1495488645689">
-        <mark key="]" line="144" column="143" />
-        <mark key="^" line="126" column="127" />
-        <mark key="." line="144" column="143" />
-        <mark key="[" line="144" column="143" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1495735996454">
+        <mark key="]" line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="34" column="59" />
+        <mark key="[" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/gifttokens/design.phtml" timestamp="1495489166206">
         <mark key="]" line="260" column="0" />
@@ -195,11 +195,11 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1495132771958">
-        <mark key="]" line="90" column="7" />
-        <mark key="^" line="90" column="7" />
-        <mark key="." line="90" column="7" />
-        <mark key="[" line="658" column="27" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1495736022246">
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="[" line="27" column="10" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" timestamp="1495647016406">
         <mark key="'" line="0" column="0" />
@@ -448,12 +448,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
         <mark key="[" line="45" column="2" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1495729805287">
-        <mark key="]" line="3813" column="75" />
-        <mark key="^" line="3813" column="75" />
-        <mark key="." line="3813" column="75" />
-        <mark key="[" line="3813" column="76" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/SvsResult.php" timestamp="1476809687012">
         <mark key="]" line="3" column="43" />
@@ -809,46 +803,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EE9B3254F5D99D5178AB5CFAD77205B093A9281C0BC171D158DBFDA6F107A637</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>EE9B3254F5D99D5178AB5CFAD77205B093A9281C0BC171D158DBFDA6F107A637</text>
+        <text>div</text>
       </register>
-      <register name="3" type="4">
-        <text>, null, 'giftcertificatescom.log'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjphYnNvbHV0ZTsKICB0b3A6IDUwJTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>Key</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAtNXB4Owo=</text>
       </register>
       <register name="1" type="4">
-        <text>EE9B3254F5D99D5178AB5CFAD77205B093A9281C0BC171D158DBFDA6F107A637</text>
+        <text>div</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIktleTogIiAuICRrZXksIG51bGwsICdnaWZ0Y2VydGlmaWNhdGVzY29tLmxvZycpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="7" type="4">
+        <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="5" type="4">
+        <text>span</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMwQTA4MEI7IGhlaWdodDogMzhweDsgd2lkdGg6IDg5MHB4IiBiZ2NvbG9yPSIjMEEwODBCIj48aW1nIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvYm9uZWZpc2gtcmVjaXBpZW50LW5hbWUuanBnIiBzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogI0ZGRkZGRiAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzOHB4OyBsaW5lLWhlaWdodDogMDsgbWF4LWhlaWdodDogMzhweDsgbWF4LXdpZHRoOiA4OTBweDsgbWluLWhlaWdodDogMzhweDsgbWluLXdpZHRoOiA4OTBweDsgd2lkdGg6IDg5MHB4IiAvPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiA1MCU7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgCiAgICDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoAogICAgwqAgwqAgwqAgwqAgwqAgwqAgwqAgwqAK</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
     </registers>
     <search>
