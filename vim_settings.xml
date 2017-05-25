@@ -358,6 +358,12 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1495742761390">
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="213" column="67" />
+        <mark key="." line="219" column="0" />
+        <mark key="[" line="219" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email.html" timestamp="1495739309935">
         <mark key="]" line="119" column="447" />
         <mark key="^" line="119" column="447" />
@@ -724,47 +730,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gc_cert[&quot;Sku&quot;]</text>
       </register>
-      <register name="3" type="4">
-        <text>|</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJ0cyA9IGV4cGxvZGUoJ18nLCAkc3RyaW5nKTsKICAgICAgICAgICAgICAgICRsYXN0ID0gYXJyYXlfcG9wKCRwYXJ0cyk7CiAgICAgICAgICAgICAgICAkcGFydHMgPSBhcnJheShpbXBsb2RlKCdfJywgJHBhcnRzKSwgJGxhc3QpOwogICAgICAgICAgICAgICAgZWNobyAkcGFydHNbMF07IC8vIG91dHB1dHMgIm9uZV90d29fdGhyZWUiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>|</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBmb250LWZhY2UgewogICAgICAgIGZvbnQtZmFtaWx5OiAiQmlnIE5vb2RsZSBUaWx0aW5nIjsKICAgICAgICBzcmM6IHVybCgiPD9waHAgZWNobyAkdGhpcy0+Z2V0U2tpblVybCgnZm9udHMvQmlnTm9vZGxlVGlsdGluZy5lb3Q/I2llZml4Jyk7ID8+IikgZm9ybWF0KCdlbWJlZGRlZC1vcGVudHlwZScpLAogICAgICAgIHVybCgiPD9waHAgZWNobyAkdGhpcy0+Z2V0U2tpblVybCgnZm9udHMvQmlnTm9vZGxlVGlsdGluZy5vdGYnKTsgPz4iKSBmb3JtYXQoIm9wZW50eXBlIiksCiAgICAgICAgdXJsKCI8P3BocCBlY2hvICR0aGlzLT5nZXRTa2luVXJsKCdmb250cy9CaWdOb29kbGVUaWx0aW5nLndvZmYnKTsgPz4iKSBmb3JtYXQoIndvZmYiKSwKICAgICAgICB1cmwoIjw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ZvbnRzL0JpZ05vb2RsZVRpbHRpbmcudHRmJyk7ID8+IikgZm9ybWF0KCJ0cnVldHlwZSIpLAogICAgICAgIHVybCgiPD9waHAgZWNobyAkdGhpcy0+Z2V0U2tpblVybCgnZm9udHMvQmlnTm9vZGxlVGlsdGluZy5zdmcjQmlnTm9vZGxlVGlsdGluZycpOyA/PiIpIGZvcm1hdCgic3ZnIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJGdjX2NlcnRzIGFzICRnY19jZXJ0KSB7CiAgICAgICAgICAgICAgICBpZiAoc3RyY2FzZWNtcCgkZ2NfY2VydFsiU2t1Il0sICRwcm9kdWN0X2djX3NrdSkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgICRkZWxpdmVyeV91cmwgPSAkZ2NfY2VydFsiUmVkZW1wdGlvblVybCJdOwogICAgICAgICAgICAgICAgICAgICRnY19zZXJpYWxfbnVtYmVyID0gJGdjX2NlcnRbIlNlcmlhbE51bWJlciJdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHJvZHVjdF9nY19za3VfcHJlZml4ID0gaW1wbG9kZSgnLScsICRwcm9kdWN0X2djX3NrdV9wcmVmaXgpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>gc_cert[&quot;Sku&quot;]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>@passive_color_1</text>
+        <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text>Telephone</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
