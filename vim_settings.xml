@@ -182,12 +182,6 @@
         <mark key="." line="34" column="19" />
         <mark key="[" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" timestamp="1495818717769">
-        <mark key="]" line="220" column="14" />
-        <mark key="^" line="220" column="14" />
-        <mark key="." line="220" column="14" />
-        <mark key="[" line="219" column="6" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email2.html" timestamp="1495647016406">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="119" column="171" />
@@ -418,7 +412,6 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
         <mark key="[" line="45" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1495816337790" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/SvsResult.php" timestamp="1476809687012">
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
@@ -563,18 +556,7 @@
         <mark key="." line="202" column="41" />
         <mark key="[" line="202" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1495128259171">
-        <mark key="]" line="504" column="0" />
-        <mark key="^" line="2404" column="60" />
-        <mark key="." line="504" column="0" />
-        <mark key="[" line="504" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1495818683849">
-        <mark key="]" line="169" column="55" />
-        <mark key="^" line="169" column="55" />
-        <mark key="." line="169" column="55" />
-        <mark key="[" line="169" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1495820970644" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Renewal/Model/Mysql4/Cellmember.php" timestamp="1476461751648">
         <mark key="]" line="5" column="39" />
         <mark key="^" line="5" column="39" />
@@ -728,7 +710,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAgaWYgKHN0cnRvbG93ZXIoJHByb2R1Y3QtPmdldFNrdSgpKSAhPSAndC1nYzUnKTogPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ2NvcmUvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7CiAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25TZXNzaW9uID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwovLwogICAgICAgICAgICAkcGkgPSAoaW50KSRzZXNzaW9uLT5nZXRQZXJzb25hbGl6YXRpb25JZCgpOwoKICAgICAgICAgICAgLy9pZiB3ZSBkbyBub3QgaGF2ZSBhIHNlc3Npb24gcGVyc29uYWxpemF0aW9uIGlkIHN0b3JlZCB0aGVuIHJlZGlyZWN0CiAgICAgICAgICAgIGlmICgkcGkgPT0gMCkgewo=</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
@@ -746,7 +728,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAgaWYgKHN0cnRvbG93ZXIoJHByb2R1Y3QtPmdldFNrdSgpKSAhPSAndC1nYzUnKTogPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ2NvcmUvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7CiAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25TZXNzaW9uID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwovLwogICAgICAgICAgICAkcGkgPSAoaW50KSRzZXNzaW9uLT5nZXRQZXJzb25hbGl6YXRpb25JZCgpOwoKICAgICAgICAgICAgLy9pZiB3ZSBkbyBub3QgaGF2ZSBhIHNlc3Npb24gcGVyc29uYWxpemF0aW9uIGlkIHN0b3JlZCB0aGVuIHJlZGlyZWN0CiAgICAgICAgICAgIGlmICgkcGkgPT0gMCkgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
