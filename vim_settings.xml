@@ -358,12 +358,6 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1495742761390">
-        <mark key="]" line="219" column="0" />
-        <mark key="^" line="213" column="67" />
-        <mark key="." line="219" column="0" />
-        <mark key="[" line="219" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email.html" timestamp="1495739309935">
         <mark key="]" line="119" column="447" />
         <mark key="^" line="119" column="447" />
@@ -517,12 +511,7 @@
         <mark key="." line="79" column="50" />
         <mark key="[" line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/controllers/Adminhtml/DeliveryController.php" timestamp="1474985074871">
-        <mark key="]" line="21" column="113" />
-        <mark key="^" line="21" column="113" />
-        <mark key="." line="21" column="113" />
-        <mark key="[" line="21" column="111" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/controllers/Adminhtml/DeliveryController.php" timestamp="1495811058903" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GiftCertificatesCom.php" timestamp="1492010260822">
         <mark key="]" line="395" column="8" />
         <mark key="^" line="396" column="33" />
