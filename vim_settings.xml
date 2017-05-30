@@ -281,11 +281,11 @@
         <mark key="." line="9" column="46" />
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Order.php" timestamp="1495825544189">
-        <mark key="]" line="575" column="133" />
-        <mark key="^" line="575" column="133" />
-        <mark key="." line="575" column="133" />
-        <mark key="[" line="575" column="132" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Order.php" timestamp="1496177956321">
+        <mark key="]" line="503" column="162" />
+        <mark key="^" line="503" column="162" />
+        <mark key="." line="503" column="162" />
+        <mark key="[" line="503" column="160" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/catalog.xml" timestamp="1494270939535">
         <mark key="]" line="148" column="126" />
@@ -558,7 +558,7 @@
         <mark key="." line="4" column="26" />
         <mark key="[" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1496171964847">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1496177779635">
         <mark key="[" line="285" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/page/html/renewalHeader.phtml" timestamp="1476724536603">
@@ -731,47 +731,47 @@
       <jump line="233" column="10" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQm9uZWZpc2ggQ29ja3RhaWwgSGFwdGljIC0tPgogICAgPHBlcnNvbmFsaXphdGlvbnNfcHJldmlld19oYXB0aWNib25lZmlzaGNvY2t0YWlsIHRyYW5zbGF0ZT0ibGFiZWwiPgogICAgICAgIDxsYWJlbD5EaWdpdGFsIEhhcHRpYyBCb25lZmlzaENvY2t0YWlsPC9sYWJlbD4KICAgICAgICA8IS0tIE1hZ2VfQ2F0YWxvZyAtLT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9InJvb3QiPgogICAgICAgICAgICA8YWN0aW9uIG1ldGhvZD0ic2V0VGVtcGxhdGUiPjx0ZW1wbGF0ZT50b2tlbm9mcGFnZS9sYW5kaW5nLnBodG1sPC90ZW1wbGF0ZT48L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImhlYWQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5wcmV2aWV3LmRpZ2l0YWwudG9rZW5vZyIgYXM9InByZXZpZXdkaWdpdGFsdG9rZW5vZyIgdGVtcGxhdGU9InBlcnNvbmFsaXphdGlvbnMvcHJldmlldy9kaWdpdGFsX3Rva2VuX29nLnBodG1sIi8+IC0tPgogICAgICAgIDwvcmVmZXJlbmNlPgoKICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5wcmV2aWV3LmhhcHRpYy5ib25lZmlzaGNvY2t0YWlsIiBhcz0icHJldmlld2hhcHRpY2JvbmVmaXNoY29ja3RhaWwiIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3ByZXZpZXcvaGFwdGljX2JvbmVmaXNoY29ja3RhaWwucGh0bWwiLz4gLS0+CiAgICAgICAgPC9yZWZlcmVuY2U+CiAgICA8L3BlcnNvbmFsaXphdGlvbnNfcHJldmlld19oYXB0aWNib25lZmlzaGNvY2t0YWlsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>spinner</text>
+        <text>png</text>
       </register>
       <register name="3" type="4">
-        <text>Spinner</text>
-      </register>
-      <register name="2" type="4">
         <text>Digital</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>spinner</text>
+      </register>
+      <register name="1" type="4">
+        <text>png</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwhLS0gQm9uZWZpc2ggQ29ja3RhaWwgSGFwdGljIC0tPgogICAgPHBlcnNvbmFsaXphdGlvbnNfcHJldmlld19oYXB0aWNib25lZmlzaGNvY2t0YWlsIHRyYW5zbGF0ZT0ibGFiZWwiPgogICAgICAgIDxsYWJlbD5EaWdpdGFsIEhhcHRpYyBCb25lZmlzaENvY2t0YWlsPC9sYWJlbD4KICAgICAgICA8IS0tIE1hZ2VfQ2F0YWxvZyAtLT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9InJvb3QiPgogICAgICAgICAgICA8YWN0aW9uIG1ldGhvZD0ic2V0VGVtcGxhdGUiPjx0ZW1wbGF0ZT50b2tlbm9mcGFnZS9sYW5kaW5nLnBodG1sPC90ZW1wbGF0ZT48L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImhlYWQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5wcmV2aWV3LmRpZ2l0YWwudG9rZW5vZyIgYXM9InByZXZpZXdkaWdpdGFsdG9rZW5vZyIgdGVtcGxhdGU9InBlcnNvbmFsaXphdGlvbnMvcHJldmlldy9kaWdpdGFsX3Rva2VuX29nLnBodG1sIi8+IC0tPgogICAgICAgIDwvcmVmZXJlbmNlPgoKICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5wcmV2aWV3LmhhcHRpYy5ib25lZmlzaGNvY2t0YWlsIiBhcz0icHJldmlld2hhcHRpY2JvbmVmaXNoY29ja3RhaWwiIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3ByZXZpZXcvaGFwdGljX2JvbmVmaXNoY29ja3RhaWwucGh0bWwiLz4gLS0+CiAgICAgICAgPC9yZWZlcmVuY2U+CiAgICA8L3BlcnNvbmFsaXphdGlvbnNfcHJldmlld19oYXB0aWNib25lZmlzaGNvY2t0YWlsPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
-      </register>
-      <register name="6" type="4">
         <text>store800f</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LCAiaGVhZGxpbmUiPT4iU3BpbiB0byBXaW4hIiwgInN1YmxpbmUiPT4idG8gZ2V0IHlvdXIgZ2lmdCI=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LCAic3VibGluZSI9PiJ0byBnZXQgeW91ciBnaWZ0Ig==</text>
+      </register>
+      <register name="4" type="4">
+        <text>Spinner</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
