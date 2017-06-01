@@ -85,11 +85,11 @@
         <mark key="." line="1" column="33" />
         <mark key="[" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/bonefishcocktail/index.html" timestamp="1496330466554">
-        <mark key="]" line="262" column="4" />
-        <mark key="^" line="262" column="4" />
-        <mark key="." line="262" column="4" />
-        <mark key="[" line="262" column="4" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/bonefishcocktail/index.html" timestamp="1496331566979">
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="88" column="50" />
+        <mark key="." line="95" column="0" />
+        <mark key="[" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu.phtml" timestamp="1495212028622">
         <mark key="]" line="223" column="42" />
@@ -793,8 +793,8 @@
       <jump line="233" column="10" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jQuery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSJpbWFnZXMvYmFja2dyb3VuZC1mdWxsLmpwZyIgd2lkdGg9IjEwMCUiIGNsYXNzPSJtYWluX2JhY2tncm91bmQiPgo=</text>
       </register>
       <register name="/" type="4">
         <text>10000</text>
@@ -802,38 +802,38 @@
       <register name="-" type="4">
         <text>jQuery</text>
       </register>
-      <register name="3" type="4">
-        <text>ront</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CWZ1bmN0aW9uIHNoYXJlVG9GQigpIHsKCQlGQi51aSh7CgkJCW1ldGhvZDogJ2ZlZWQnLAoJCQlsaW5rOiAnaHR0cDovL2dpZnQtdG9rZW5zLmNvbScsCgkJCWRlc2NyaXB0aW9uOiAnQSBuZXcgZ2lmdGluZyBhcHAgdGhhdCBhbGxvd3MgeW91IHRvIHNlbmQgYSB0b2tlbiBvZiBhcHByZWNpYXRpb24sIGZyaWVuZHNoaXAsIGNlbGVicmF0aW9uIGFuZCBtdWNoIG1vcmUhIFNwZW5kcyBsaWtlIGEgZ2lmdCBjYXJkLCBidXQgZmVlbHMgbGlrZSBhIGdpZnQuJywKCQkJcGljdHVyZTogJzw/cGhwIGVjaG8gJHByZXZpZXdEYXRhWyJmYl9zaGFyZV9pbWFnZV91cmwiXTsgPz4nCgkJfSwgZnVuY3Rpb24ocmVzcG9uc2Upe30pOwoJfQoJCglqUXVlcnkoJy5zaGFyZVRvRmInKS5vbigiY2xpY2siLCBmdW5jdGlvbihlKSB7CgkJZS5wcmV2ZW50RGVmYXVsdCgpOwoJCXNoYXJlVG9GQigpOwoJfSk7CgkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>jQuery</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSJpbWFnZXMvYmFja2dyb3VuZC1mdWxsLmpwZyIgd2lkdGg9IjEwMCUiIGNsYXNzPSJtYWluX2JhY2tncm91bmQiPgo=</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">CXN0clJlZGVlbSA9IGRlY29kZVVSSUNvbXBvbmVudCgkLnVybFBhcmFtKCdyRCcpKTsK</text>
+        <text encoding="base64">CQk8aW1nIHNyYz0iaW1hZ2VzL2JhY2tncm91bmQxLmpwZyIgd2lkdGg9IjEwMCUiPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCI+Cg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>strRedeem</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>rD</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ps</text>
+      </register>
+      <register name="4" type="4">
+        <text>ront</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxzY3JpcHQ+Cg==</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCI+Cg==</text>
       </register>
     </registers>
     <search>
