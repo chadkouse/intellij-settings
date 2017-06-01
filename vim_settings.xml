@@ -73,11 +73,11 @@
         <mark key="." line="11" column="56" />
         <mark key="[" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/tokenofpage/index.phtml" timestamp="1493303843411">
-        <mark key="]" line="209" column="23" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/tokenofpage/index.phtml" timestamp="1496335581703">
+        <mark key="]" line="231" column="57" />
         <mark key="^" line="209" column="23" />
-        <mark key="." line="209" column="23" />
-        <mark key="[" line="209" column="20" />
+        <mark key="." line="231" column="0" />
+        <mark key="[" line="232" column="154" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.7-0.1.8.php" timestamp="1491859297128">
         <mark key="]" line="1" column="33" />
@@ -571,6 +571,12 @@
         <mark key="." line="228" column="21" />
         <mark key="[" line="241" column="21" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/tokenofpage/index.phtml" timestamp="1496335554894">
+        <mark key="]" line="231" column="56" />
+        <mark key="^" line="233" column="22" />
+        <mark key="." line="233" column="22" />
+        <mark key="[" line="231" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GiftCertificatesCom.php" timestamp="1495816862206">
         <mark key="]" line="179" column="52" />
         <mark key="^" line="179" column="52" />
@@ -792,8 +798,8 @@
       <jump line="47" column="103" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/bonefishcocktail/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>recipient</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8P3BocCBpZiAoJHByZXZpZXdEYXRhWydsYW5kaW5nX2hlYWRlcl91cmwnXSk6ID8+Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
@@ -811,7 +817,7 @@
         <text>recipient</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0iaW1hZ2VzL2JhY2tncm91bmQxLmpwZyIgd2lkdGg9IjEwMCUiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8P3BocCBpZiAoJHByZXZpZXdEYXRhWydsYW5kaW5nX2hlYWRlcl91cmwnXSk6ID8+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PGEgaHJlZj0iIyIgdGFyZ2V0PSJfdG9wIiBpZD0iY2xpY2tfaG9sZGVyIj48L2E+Cg==</text>
