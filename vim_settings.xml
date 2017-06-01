@@ -564,6 +564,11 @@
         <mark key="." line="79" column="50" />
         <mark key="[" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.css" timestamp="1496343217927">
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
+        <mark key="[" line="402" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1496342954962">
         <mark key="]" line="200" column="28" />
         <mark key="^" line="200" column="42" />
@@ -811,8 +816,8 @@
       <jump line="94" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish2_token_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb250LWZhbWlseTogJ0RpbicK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
@@ -821,37 +826,37 @@
         <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
-      </register>
-      <register name="2" type="4">
         <text>m</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>'</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmb250LWZhbWlseTogJ0RpbicK</text>
       </register>
       <register name="0" type="4">
         <text>'DIN Condensed'</text>
       </register>
       <register name="7" type="4">
-        <text>M</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>d</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>i</text>
+      </register>
+      <register name="4" type="4">
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>M</text>
       </register>
     </registers>
     <search>
