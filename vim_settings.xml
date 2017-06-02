@@ -201,12 +201,12 @@
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1496351076610">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1496411708574">
         <mark key="'" line="10" column="77" />
-        <mark key="]" line="61" column="36" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="61" column="36" />
-        <mark key="[" line="61" column="42" />
+        <mark key="]" line="174" column="23" />
+        <mark key="^" line="174" column="23" />
+        <mark key="." line="174" column="23" />
+        <mark key="[" line="174" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/gifttokens/design.phtml" timestamp="1496171331931">
         <mark key="]" line="10" column="126" />
@@ -299,7 +299,7 @@
         <mark key="." line="16" column="96" />
         <mark key="[" line="16" column="92" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.less" timestamp="1496347290584">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.less" timestamp="1496411389008">
         <mark key="]" line="220" column="17" />
         <mark key="^" line="220" column="17" />
         <mark key="." line="220" column="17" />
@@ -575,11 +575,6 @@
         <mark key="." line="79" column="50" />
         <mark key="[" line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.css" timestamp="1496343217927">
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-        <mark key="[" line="207" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1496342954962">
         <mark key="]" line="200" column="28" />
         <mark key="^" line="200" column="42" />
@@ -711,11 +706,8 @@
         <mark key="." line="163" column="13" />
         <mark key="[" line="163" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/styles.min.css" timestamp="1496349964809">
-        <mark key="]" line="542" column="50" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/styles.min.css" timestamp="1496411415090">
         <mark key="^" line="542" column="19" />
-        <mark key="." line="542" column="0" />
-        <mark key="[" line="542" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/Aarp_Webservice.xml" timestamp="1491509003520">
         <mark key="]" line="3" column="19" />
@@ -832,46 +824,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>S</text>
+        <text>b</text>
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>b</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2NoZWNrb3V0LXJldmlldy10YWJsZSB0ZC5hLXJpZ2h0IHsKCXBhZGRpbmctdG9wOiA2cHg7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>u</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>b</text>
       </register>
-      <register name="5" type="4">
-        <text>x</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2Rlc2lnbl9wYW5lbCAuc3RlcDIgLnBhbmVsX3JpZ2h0ICNzZW50aW1lbnRfbGlzdCAuc2VudGltZW50X2l0ZW0uYWN0aXZlIHsKICAgIGJvcmRlcjogc29saWQgM3B4ICM1MzBjMWI7Cn0K</text>
       </register>
       <register name="4" type="4">
-        <text>right</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>5</text>
+        <text>right</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>S</text>
       </register>
     </registers>
     <search>
