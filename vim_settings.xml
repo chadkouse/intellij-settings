@@ -238,6 +238,12 @@
         <mark key="." line="9" column="56" />
         <mark key="[" line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/checkoutonepage.css" timestamp="1496405743322">
+        <mark key="]" line="1556" column="33" />
+        <mark key="^" line="1556" column="33" />
+        <mark key="." line="1556" column="33" />
+        <mark key="[" line="1558" column="1" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/kula/template/catalog/product/list/giftcard.phtml" timestamp="1478283326620">
         <mark key="]" line="8" column="0" />
         <mark key="^" line="41" column="25" />
@@ -346,6 +352,11 @@
         <mark key="^" line="221" column="34" />
         <mark key="." line="222" column="51" />
         <mark key="[" line="222" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/checkout/onepage/review/info.phtml" timestamp="1496405848477">
+        <mark key="]" line="43" column="105" />
+        <mark key="." line="43" column="105" />
+        <mark key="[" line="43" column="104" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/styles-mobile.min.css" timestamp="1496348882814">
         <mark key="]" line="508" column="0" />
@@ -821,46 +832,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//gci-staticcdn.s3.amazonaws.com/media/gifttokens/demos/demo.webm</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>//gci-staticcdn.s3.amazonaws.com/media/gifttokens/demos/demo.webm</text>
+        <text>b</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>S</text>
       </register>
       <register name="2" type="4">
-        <text>:</text>
+        <text>u</text>
       </register>
       <register name="1" type="4">
-        <text>//gci-staticcdn.s3.amazonaws.com/media/gifttokens/demos/demo.webm</text>
+        <text>b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2aWRlbyB3aWR0aD0iMTAwJSIgaWQ9InRva2VuX2RlbW8iIGNsYXNzPSJ2aWRlby1qcyIgcHJlbG9hZD0iYXV0byIKICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9Ii8vZ2NpLXN0YXRpY2Nkbi5zMy5hbWF6b25hd3MuY29tL21lZGlhL2dpZnR0b2tlbnMvZGVtb3MvZGVtby5wbmciPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2Ugc3JjPSIvL2djaS1zdGF0aWNjZG4uczMuYW1hem9uYXdzLmNvbS9tZWRpYS9naWZ0dG9rZW5zL2RlbW9zL2RlbW8ud2VibSIgdHlwZT0idmlkZW8vd2VibSI+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZSBzcmM9Ii8vZ2NpLXN0YXRpY2Nkbi5zMy5hbWF6b25hd3MuY29tL21lZGlhL2dpZnR0b2tlbnMvZGVtb3MvZGVtby5tcDQiIHR5cGU9InZpZGVvL21wNCI+CiAgICAgICAgICAgICAgICA8L3ZpZGVvPgo=</text>
+        <text encoding="base64">I2NoZWNrb3V0LXJldmlldy10YWJsZSB0ZC5hLXJpZ2h0IHsKCXBhZGRpbmctdG9wOiA2cHg7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text>//gci-staticcdn.s3.amazonaws.com/media/gifttokens/demos/demo.mp4</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>right</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>5</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
