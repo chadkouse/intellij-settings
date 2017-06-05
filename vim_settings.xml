@@ -111,11 +111,11 @@
         <mark key="." line="31" column="0" />
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/checkout/success.phtml" timestamp="1496694246886">
-        <mark key="]" line="86" column="55" />
-        <mark key="^" line="56" column="76" />
-        <mark key="." line="86" column="55" />
-        <mark key="[" line="86" column="55" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/checkout/success.phtml" timestamp="1496695916226">
+        <mark key="]" line="86" column="67" />
+        <mark key="^" line="86" column="83" />
+        <mark key="." line="86" column="67" />
+        <mark key="[" line="86" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/persistent/checkout/onepage/billing.phtml" timestamp="1496349705235">
         <mark key="]" line="44" column="65" />
@@ -839,46 +839,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Click to Send</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Click to Send</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>+</text>
+        <text>Send SMS</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Click to Send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRkYXRhSGVscGVyID0gTWFnZTo6aGVscGVyKCJwZXJzb25hbGl6YXRpb25zIik7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>w</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
