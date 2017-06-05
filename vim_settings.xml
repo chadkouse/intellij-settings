@@ -111,11 +111,11 @@
         <mark key="." line="31" column="0" />
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/checkout/success.phtml" timestamp="1496695916226">
-        <mark key="]" line="86" column="67" />
-        <mark key="^" line="86" column="83" />
-        <mark key="." line="86" column="67" />
-        <mark key="[" line="86" column="17" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/checkout/success.phtml" timestamp="1496696992792">
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="[" line="89" column="52" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/persistent/checkout/onepage/billing.phtml" timestamp="1496349705235">
         <mark key="]" line="44" column="65" />
@@ -418,11 +418,11 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1496694207772">
-        <mark key="]" line="2012" column="79" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1496696764938">
+        <mark key="]" line="201" column="33" />
         <mark key="^" line="2012" column="79" />
         <mark key="." line="2012" column="79" />
-        <mark key="[" line="2012" column="79" />
+        <mark key="[" line="200" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email.html" timestamp="1496340440657">
         <mark key="]" line="102" column="499" />
@@ -838,8 +838,8 @@
       <jump line="10" column="77" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Click to Send</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZGV0ZWN0ID0gbmV3IE1vYmlsZV9EZXRlY3QoKTsKICAgICAgICAkaXNJb3MgPSAkZGV0ZWN0LT5pc2lPUygpOwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
@@ -857,7 +857,7 @@
         <text>Click to Send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRkYXRhSGVscGVyID0gTWFnZTo6aGVscGVyKCJwZXJzb25hbGl6YXRpb25zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGV0ZWN0ID0gbmV3IE1vYmlsZV9EZXRlY3QoKTsKICAgICAgICAkaXNJb3MgPSAkZGV0ZWN0LT5pc2lPUygpOwo=</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
