@@ -416,12 +416,7 @@
         <mark key="." line="175" column="0" />
         <mark key="[" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1496848879717">
-        <mark key="]" line="1194" column="0" />
-        <mark key="^" line="1193" column="96" />
-        <mark key="." line="1194" column="0" />
-        <mark key="[" line="1194" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1496850590175" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/page/renewal.phtml" timestamp="1476724867194">
         <mark key="]" line="35" column="71" />
         <mark key="^" line="35" column="71" />
@@ -621,9 +616,9 @@
         <mark key="." line="15" column="44" />
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/etc/config.xml" timestamp="1479404945290">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/etc/config.xml" timestamp="1496850115869">
         <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="25" />
+        <mark key="^" line="31" column="46" />
         <mark key="." line="4" column="26" />
         <mark key="[" line="4" column="25" />
       </file>
@@ -818,46 +813,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hZ2U6OmxvZwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>AttributeText</text>
       </register>
       <register name="3" type="4">
-        <text>email</text>
+        <text>m</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdnNTdGF0cyA9ICRzdnNIZWxwZXItPmdlbmVyYXRlRGVsaXZlcnlVcmwoMSwgJHBlcnNvbmFsaXphdGlvblF1b3RlSXRlbSwgJHRoaXMtPmdldFJlY2lwaWVudE5hbWVGcm9tUGVyc29uYWxpemF0aW9uKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0pKTsK</text>
+      <register name="2" type="4">
+        <text>AttributeText</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hZ2U6OmxvZwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGFycmF5KCdzdGF0dXMnPT4xLCAnbWVzc2FnZSc9PidTdWNjZXNzZnVsbHkgc2VudCBlbWFpbC4nKTsK</text>
+        <text encoding="base64">CQkJCQkJPGFzc2lnbmVkX2NvdXBvbl9jb2RlIC8+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>A</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
