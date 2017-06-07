@@ -401,11 +401,11 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1496803822545">
-        <mark key="]" line="228" column="15" />
-        <mark key="^" line="228" column="15" />
-        <mark key="." line="228" column="15" />
-        <mark key="[" line="228" column="14" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1496805869915">
+        <mark key="]" line="185" column="14" />
+        <mark key="^" line="185" column="14" />
+        <mark key="." line="185" column="14" />
+        <mark key="[" line="185" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish_token_email.html" timestamp="1496340440657">
         <mark key="]" line="102" column="499" />
@@ -470,9 +470,9 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
         <mark key="[" line="45" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1496803689878">
-        <mark key="]" line="3812" column="61" />
-        <mark key="[" line="3812" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1496805864833">
+        <mark key="]" line="3811" column="76" />
+        <mark key="[" line="3811" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/SvsResult.php" timestamp="1476809687012">
         <mark key="]" line="3" column="43" />
@@ -826,47 +826,47 @@
       <jump line="10" column="77" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="&quot;" type="4">
+        <text>svs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>if ($isGiftango) {</text>
+        <text>svs</text>
       </register>
-      <register name="3" type="4">
-        <text>if ($isGiftango) {</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkcHJldmlld0RhdGFbJ2dpZnRhbmdvX2lkJ10gPSAnJzsKICAgICAgICAgICAgJHByZXZpZXdEYXRhWydkZWxpdmVyeVVybCddID0gJyc7Cg==</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkZ2NIZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvc3ZzJyk7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>svs</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN2c0hlbHBlciA9IE1hZ2U6OmhlbHBlcigncGVyc29uYWxpemF0aW9ucy9zdnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdjSGVscGVyID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL2dpZnRDZXJ0aWZpY2F0ZXNDb20nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>product</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkZ2NIZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvZ2lmdENlcnRpZmljYXRlc0NvbScpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>if ($isGiftango) {</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkcHJldmlld0RhdGFbJ2dpZnRhbmdvX2lkJ10gPSAnJzsKICAgICAgICAgICAgJHByZXZpZXdEYXRhWydkZWxpdmVyeVVybCddID0gJyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>product</text>
       </register>
     </registers>
     <search>
