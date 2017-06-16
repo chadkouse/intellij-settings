@@ -325,11 +325,6 @@
         <mark key="." line="25" column="18" />
         <mark key="[" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/gifttokens/design.phtml" timestamp="1496936288535">
-        <mark key="]" line="198" column="246" />
-        <mark key="." line="198" column="246" />
-        <mark key="[" line="198" column="246" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1497552123868">
         <mark key="'" line="289" column="61" />
       </file>
@@ -522,11 +517,6 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="[" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/svsexport/manual.phtml" timestamp="1497550707530">
-        <mark key="]" line="12" column="59" />
-        <mark key="." line="12" column="59" />
-        <mark key="[" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
         <mark key="[" line="45" column="2" />
@@ -911,47 +901,47 @@
       <jump line="285" column="61" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3M+R0NJX0JvbmVmaXNoX01vZGVsX015c3FsNF9PcHRpbjwvY2xhc3M+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ilesDir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>Weblog</text>
+        <text>ilesDir</text>
       </register>
       <register name="3" type="4">
-        <text>Weblog_Model_Resource_Mysql4_Setup</text>
+        <text>&quot;No files found to run&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>Weblog</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCRmaWxlc0Rpcik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3M+R0NJX0JvbmVmaXNoX01vZGVsX015c3FsNF9PcHRpbjwvY2xhc3M+Cg==</text>
+      <register name="1" type="4">
+        <text>ilesDir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAnUnVubmluZyB1cGdyYWRlLTAuMS4wLTAuMS4xLnBocCBmb3I6ICcuZ2V0X2NsYXNzKCR0aGlzKS4iXG4gPGJyIC8+IFxuIjsKLy8gT2xkIG1pZ3JhdGlvbiBmcm9tIFBlcnNvbmFsaXphdGlvbiAtPiBteXNxbDQtdXBncmFkZS0wLjUuOS0wLjYuMC5waHAKJGluc3RhbGxlciA9ICR0aGlzOwoKJGluc3RhbGxlci0+c3RhcnRTZXR1cCgpOwoKJGluc3RhbGxlci0+cnVuKCIKRFJPUCBUQUJMRSBJRiBFWElTVFMgeyR0aGlzLT5nZXRUYWJsZSgnZ2NpX2N1c3RvbV9ncmVldGluZ19jYXJkJyl9OwpDUkVBVEUgVEFCTEUgeyR0aGlzLT5nZXRUYWJsZSgnZ2NpX2N1c3RvbV9ncmVldGluZ19jYXJkJyl9ICgKCSBgaWRgIGludCgxMSkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAJIGBwZXJfaXRlbV9pZGAgaW50KDExKSB1bnNpZ25lZCBOT1QgTlVMTCwKIAkgYGlkZW50aWZpZXJgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCwKIAkgYG5hbWVgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCwKIAkgIFBSSU1BUlkgS0VZIChgaWRgKQoJKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTEgREVGQVVMVCBDSEFSU0VUPXV0Zjg7CiIpOwovLyBPbGQgbWlncmF0aW9uIGZyb20gUGVyc29uYWxpemF0aW9uIC0+IG15c3FsNC11cGdyYWRlLTAuNi4wLTAuNi4xLnBocAokaW5zdGFsbGVyID0gJHRoaXM7CgokaW5zdGFsbGVyLT5zdGFydFNldHVwKCk7CiRpbnN0YWxsZXItPnJ1bigiQUxURVIgVEFCTEUgYGdjaV9mbGF0X3BlcnNvbmFsaXphdGlvbnNfaXRlbWAgQUREIGBiYWNrX3Bob3RvX3BhcmFtc2AgVEVYVCBOVUxMIEFGVEVSIGBpbnNpZGVfcGhvdG9fcGFyYW1zYCIpOwoKJGluc3RhbGxlci0+ZW5kU2V0dXAoKTsKLy8gT2xkIG1pZ3JhdGlvbiBmcm9tIFBlcnNvbmFsaXphdGlvbiAtPiBteXNxbDQtdXBncmFkZS0wLjYuMS0wLjYuMi5waHAKJGluc3RhbGxlciA9ICR0aGlzOwoKJGluc3RhbGxlci0+c3RhcnRTZXR1cCgpOwokaW5zdGFsbGVyLT5ydW4oIkFMVEVSIFRBQkxFIGBnY2lfY3VzdG9tX2dyZWV0aW5nX2NhcmRgIEFERCBgY3JlYXRlZF9kYXRlYCBEQVRFVElNRSBOVUxMIEFGVEVSIGBuYW1lYCwgQUREIGB1cGRhdGVfZGF0ZWAgREFURVRJTUUgTlVMTCBBRlRFUiBgY3JlYXRlZF9kYXRlYCIpOwoKJGluc3RhbGxlci0+ZW5kU2V0dXAoKTsKCi8vIE9sZCBtaWdyYXRpb24gZnJvbSBQZXJzb25hbGl6YXRpb24gLT4gbXlzcWw0LXVwZ3JhZGUtMC42LjItMC42LjMucGhwCiRpbnN0YWxsZXIgPSAkdGhpczsKCiRpbnN0YWxsZXItPnN0YXJ0U2V0dXAoKTsKJGluc3RhbGxlci0+cnVuKCJBTFRFUiBUQUJMRSBgZ2NpX2ZsYXRfcGVyc29uYWxpemF0aW9uc19pdGVtYCBBREQgYHBhcmVudF9pdGVtX2lkYCBJTlQoMTEpIE5VTEwgQUZURVIgYGl0ZW1faWRgIik7CgokaW5zdGFsbGVyLT5lbmRTZXR1cCgpOwoKLy8gTmV3IG1pZ3JhdGlvbgokaW5zdGFsbGVyLT5lbmRTZXR1cCgpOwoKJGluc3RhbGxlciA9ICR0aGlzOwokaW5zdGFsbGVyLT5zdGFydFNldHVwKCk7CiRpbnN0YWxsZXItPnJ1bigiQUxURVIgVEFCTEUgYGdjaV9jdXN0b21fZ3JlZXRpbmdfY2FyZGAgQUREIGBwdWJsaXNoX3N0YXR1c2AgVkFSQ0hBUigzMikgQ0hBUkFDVEVSIFNFVCB1dGY4IENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMIERFRkFVTFQgJ0luIFByb2dyZXNzJyA7Iik7CiRpbnN0YWxsZXItPmVuZFNldHVwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiTm8gZmlsZXMgZm91bmQgdG8gcnVuIik7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">TWFnZV9Db3JlX01vZGVsX1Jlc291cmNlX1NldHVwPC9jbGFzcw==</text>
+        <text>Weblog_Model_Resource_Mysql4_Setup</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">TWFnZV9Db3JlX01vZGVsX1Jlc291cmNlX1NldHVwPC9jbGFzcw==</text>
+        <text>Weblog</text>
       </register>
-      <register name="5" type="4">
-        <text>Mage_Core_Model_Resource_Setup</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3M+R0NJX0JvbmVmaXNoX01vZGVsX015c3FsNF9PcHRpbjwvY2xhc3M+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Alanstormdotcom</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aG9ybwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>Mage_Core_Model_Resource_Setup</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>Alanstormdotcom</text>
       </register>
     </registers>
     <search>
