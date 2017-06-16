@@ -295,12 +295,6 @@
         <mark key="." line="16" column="96" />
         <mark key="[" line="16" column="92" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/etc/config.xml" timestamp="1497622401549">
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="34" />
-        <mark key="[" line="60" column="27" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.less" timestamp="1496411389008">
         <mark key="]" line="220" column="17" />
         <mark key="^" line="220" column="17" />
@@ -711,7 +705,7 @@
         <mark key="." line="202" column="41" />
         <mark key="[" line="202" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/Model/Mysql4/Optin.php" timestamp="1497622247755">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/Model/Mysql4/Optin.php" timestamp="1497625867693">
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="10" column="0" />
@@ -917,47 +911,47 @@
       <jump line="285" column="61" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3M+R0NJX0JvbmVmaXNoX01vZGVsX015c3FsNF9PcHRpbjwvY2xhc3M+Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Weblog</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>Weblog_Model_Resource_Mysql4_Setup</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>Weblog</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3M+R0NJX0JvbmVmaXNoX01vZGVsX015c3FsNF9PcHRpbjwvY2xhc3M+Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAnUnVubmluZyB1cGdyYWRlLTAuMS4wLTAuMS4xLnBocCBmb3I6ICcuZ2V0X2NsYXNzKCR0aGlzKS4iXG4gPGJyIC8+IFxuIjsKLy8gT2xkIG1pZ3JhdGlvbiBmcm9tIFBlcnNvbmFsaXphdGlvbiAtPiBteXNxbDQtdXBncmFkZS0wLjUuOS0wLjYuMC5waHAKJGluc3RhbGxlciA9ICR0aGlzOwoKJGluc3RhbGxlci0+c3RhcnRTZXR1cCgpOwoKJGluc3RhbGxlci0+cnVuKCIKRFJPUCBUQUJMRSBJRiBFWElTVFMgeyR0aGlzLT5nZXRUYWJsZSgnZ2NpX2N1c3RvbV9ncmVldGluZ19jYXJkJyl9OwpDUkVBVEUgVEFCTEUgeyR0aGlzLT5nZXRUYWJsZSgnZ2NpX2N1c3RvbV9ncmVldGluZ19jYXJkJyl9ICgKCSBgaWRgIGludCgxMSkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAJIGBwZXJfaXRlbV9pZGAgaW50KDExKSB1bnNpZ25lZCBOT1QgTlVMTCwKIAkgYGlkZW50aWZpZXJgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCwKIAkgYG5hbWVgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCwKIAkgIFBSSU1BUlkgS0VZIChgaWRgKQoJKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTEgREVGQVVMVCBDSEFSU0VUPXV0Zjg7CiIpOwovLyBPbGQgbWlncmF0aW9uIGZyb20gUGVyc29uYWxpemF0aW9uIC0+IG15c3FsNC11cGdyYWRlLTAuNi4wLTAuNi4xLnBocAokaW5zdGFsbGVyID0gJHRoaXM7CgokaW5zdGFsbGVyLT5zdGFydFNldHVwKCk7CiRpbnN0YWxsZXItPnJ1bigiQUxURVIgVEFCTEUgYGdjaV9mbGF0X3BlcnNvbmFsaXphdGlvbnNfaXRlbWAgQUREIGBiYWNrX3Bob3RvX3BhcmFtc2AgVEVYVCBOVUxMIEFGVEVSIGBpbnNpZGVfcGhvdG9fcGFyYW1zYCIpOwoKJGluc3RhbGxlci0+ZW5kU2V0dXAoKTsKLy8gT2xkIG1pZ3JhdGlvbiBmcm9tIFBlcnNvbmFsaXphdGlvbiAtPiBteXNxbDQtdXBncmFkZS0wLjYuMS0wLjYuMi5waHAKJGluc3RhbGxlciA9ICR0aGlzOwoKJGluc3RhbGxlci0+c3RhcnRTZXR1cCgpOwokaW5zdGFsbGVyLT5ydW4oIkFMVEVSIFRBQkxFIGBnY2lfY3VzdG9tX2dyZWV0aW5nX2NhcmRgIEFERCBgY3JlYXRlZF9kYXRlYCBEQVRFVElNRSBOVUxMIEFGVEVSIGBuYW1lYCwgQUREIGB1cGRhdGVfZGF0ZWAgREFURVRJTUUgTlVMTCBBRlRFUiBgY3JlYXRlZF9kYXRlYCIpOwoKJGluc3RhbGxlci0+ZW5kU2V0dXAoKTsKCi8vIE9sZCBtaWdyYXRpb24gZnJvbSBQZXJzb25hbGl6YXRpb24gLT4gbXlzcWw0LXVwZ3JhZGUtMC42LjItMC42LjMucGhwCiRpbnN0YWxsZXIgPSAkdGhpczsKCiRpbnN0YWxsZXItPnN0YXJ0U2V0dXAoKTsKJGluc3RhbGxlci0+cnVuKCJBTFRFUiBUQUJMRSBgZ2NpX2ZsYXRfcGVyc29uYWxpemF0aW9uc19pdGVtYCBBREQgYHBhcmVudF9pdGVtX2lkYCBJTlQoMTEpIE5VTEwgQUZURVIgYGl0ZW1faWRgIik7CgokaW5zdGFsbGVyLT5lbmRTZXR1cCgpOwoKLy8gTmV3IG1pZ3JhdGlvbgokaW5zdGFsbGVyLT5lbmRTZXR1cCgpOwoKJGluc3RhbGxlciA9ICR0aGlzOwokaW5zdGFsbGVyLT5zdGFydFNldHVwKCk7CiRpbnN0YWxsZXItPnJ1bigiQUxURVIgVEFCTEUgYGdjaV9jdXN0b21fZ3JlZXRpbmdfY2FyZGAgQUREIGBwdWJsaXNoX3N0YXR1c2AgVkFSQ0hBUigzMikgQ0hBUkFDVEVSIFNFVCB1dGY4IENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMIERFRkFVTFQgJ0luIFByb2dyZXNzJyA7Iik7CiRpbnN0YWxsZXItPmVuZFNldHVwKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IAkgYGVtYWlsYCBpbnQoMTEpIHVuc2lnbmVkIE5PVCBOVUxMLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">TWFnZV9Db3JlX01vZGVsX1Jlc291cmNlX1NldHVwPC9jbGFzcw==</text>
       </register>
       <register name="6" type="4">
-        <text>name</text>
+        <text encoding="base64">TWFnZV9Db3JlX01vZGVsX1Jlc291cmNlX1NldHVwPC9jbGFzcw==</text>
       </register>
       <register name="5" type="4">
-        <text>Api800f</text>
+        <text>Mage_Core_Model_Resource_Setup</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>Alanstormdotcom</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>email_address</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>identifier</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
