@@ -169,11 +169,11 @@
         <mark key="." line="9" column="39" />
         <mark key="[" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_bonefishcocktail.phtml" timestamp="1496181238428">
-        <mark key="]" line="25" column="400" />
-        <mark key="^" line="25" column="400" />
-        <mark key="." line="25" column="400" />
-        <mark key="[" line="25" column="399" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_bonefishcocktail.phtml" timestamp="1497885703819">
+        <mark key="]" line="25" column="346" />
+        <mark key="^" line="25" column="346" />
+        <mark key="." line="25" column="346" />
+        <mark key="[" line="25" column="339" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/redeeminternal.phtml" timestamp="1481048037990">
         <mark key="]" line="107" column="15" />
@@ -542,11 +542,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/haptic_bonefishcocktail.phtml" timestamp="1496333619212">
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="[" line="19" column="39" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/haptic_bonefishcocktail.phtml" timestamp="1497885713147">
+        <mark key="]" line="26" column="346" />
+        <mark key="^" line="26" column="346" />
+        <mark key="." line="26" column="346" />
+        <mark key="[" line="26" column="339" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/renewal/index.phtml" timestamp="1478789464859">
         <mark key="]" line="161" column="37" />
@@ -961,47 +961,47 @@
       <jump line="37" column="44" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>fixed</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25IZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9ucycpCiAgICAgICAgICAgICAgICAkbGluayA9ICRwcmV2aWV3RGF0YVtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>fixed</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>fixed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHByb2R1Y3QgPSBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0JykKICAgICAgICAgICAgICAgIC0+c2V0U3RvcmVJZChNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0SWQoKSkKICAgICAgICAgICAgICAgIC0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>personalizationSchedule</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzY2hlZHVsZSA9IE1hZ2U6OmdldE1vZGVsKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfc2NoZWR1bGUnKS0+bG9hZCgkcGVySXRlbS0+Z2V0SWQoKSwgIml0ZW1faWQiKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRwcmV2aWV3RGF0YSA9IE1hZ2U6OmhlbHBlcigncGVyc29uYWxpemF0aW9ucy9wZXJzb25hbGl6YXRpb24nKS0+Z2V0RGlnaXRhbFRva2VuUHJldmlld0RhdGEoJHBlckl0ZW0sICRzY2hlZHVsZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25IZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9ucycpCiAgICAgICAgICAgICAgICAkbGluayA9ICRwcmV2aWV3RGF0YVtdCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb2R1Y3QgPSBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0JyktPmxvYWQoJHBlckl0ZW0tPmdldFByb2R1Y3RJZCgpKTsK</text>
+      <register name="8" type="4">
+        <text>personalizationSchedule</text>
       </register>
     </registers>
     <search>
