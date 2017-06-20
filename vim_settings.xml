@@ -366,11 +366,11 @@
         <mark key="." line="25" column="18" />
         <mark key="[" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/page/checkout_onepage.phtml" timestamp="1497826356571">
-        <mark key="]" line="99" column="24" />
-        <mark key="^" line="99" column="24" />
-        <mark key="." line="99" column="24" />
-        <mark key="[" line="98" column="82" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/page/checkout_onepage.phtml" timestamp="1497988537318">
+        <mark key="]" line="101" column="32" />
+        <mark key="^" line="101" column="32" />
+        <mark key="." line="101" column="32" />
+        <mark key="[" line="101" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/Block/Adminhtml/Order/View/Tab/EmailTracking.php" timestamp="1496930369969" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1497552123868">
@@ -965,47 +965,47 @@
       <jump line="3438" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x-coord</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
+        <text>x-coord</text>
+      </register>
+      <register name="3" type="4">
         <text>sound_application</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>sound_application</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>x-coord</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxwZXJzb25hbGl6YXRpb25zX3NvdW5kX2FwcGxpY2F0aW9uPgogICAgICAgIDxyZWZlcmVuY2UgbmFtZT0icm9vdCI+CiAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJzZXRUZW1wbGF0ZSI+CiAgICAgICAgICAgICAgICA8dGVtcGxhdGU+cGFnZS9jb21wbGV0ZWx5ZW1wdHkucGh0bWw8L3RlbXBsYXRlPgogICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8cmVtb3ZlIG5hbWU9InBlcnNvbmFsaXphdGlvbi5oZWFkZXIiLz4KICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+CiAgICAgICAgPC9yZWZlcmVuY2U+CiAgICA8L3BlcnNvbmFsaXphdGlvbnNfc291bmRfYXBwbGljYXRpb24+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>+</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>+</text>
       </register>
       <register name="5" type="4">
         <text>+</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>+</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>+</text>
       </register>
     </registers>
     <search>
