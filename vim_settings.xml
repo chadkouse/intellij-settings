@@ -763,10 +763,10 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1497823907652">
         <mark key="[" line="797" column="5" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1497983080661">
-        <mark key="]" line="2729" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1497983909915">
+        <mark key="]" line="48" column="113" />
         <mark key="." line="2729" column="0" />
-        <mark key="[" line="2729" column="0" />
+        <mark key="[" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1496803309105">
         <mark key="]" line="218" column="28" />
@@ -977,7 +977,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBlcnNvbmFsaXphdGlvblNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ3BlcnNvbmFsaXphdGlvbnMvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
@@ -995,7 +995,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBlcnNvbmFsaXphdGlvblNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ3BlcnNvbmFsaXphdGlvbnMvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7Cg==</text>
       </register>
       <register name="7" type="4">
         <text>+</text>
