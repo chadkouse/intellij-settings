@@ -342,6 +342,12 @@
         <mark key="." line="9" column="46" />
         <mark key="[" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/checkout/success.phtml" timestamp="1497986231064">
+        <mark key="]" line="92" column="54" />
+        <mark key="^" line="92" column="54" />
+        <mark key="." line="92" column="54" />
+        <mark key="[" line="92" column="41" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/catalog.xml" timestamp="1494270939535">
         <mark key="]" line="148" column="126" />
         <mark key="^" line="148" column="110" />
@@ -366,11 +372,6 @@
         <mark key="." line="99" column="24" />
         <mark key="[" line="98" column="82" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/gifttokens/design.phtml" timestamp="1497823896622">
-        <mark key="]" line="212" column="180" />
-        <mark key="." line="212" column="0" />
-        <mark key="[" line="212" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/Block/Adminhtml/Order/View/Tab/EmailTracking.php" timestamp="1496930369969" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1497552123868">
         <mark key="'" line="289" column="61" />
@@ -392,11 +393,6 @@
         <mark key="^" line="221" column="34" />
         <mark key="." line="222" column="51" />
         <mark key="[" line="222" column="49" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/checkout/onepage/review/info.phtml" timestamp="1496405848477">
-        <mark key="]" line="43" column="105" />
-        <mark key="." line="43" column="105" />
-        <mark key="[" line="43" column="104" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/styles-mobile.min.css" timestamp="1496348882814">
         <mark key="]" line="508" column="0" />
@@ -567,11 +563,6 @@
         <mark key="." line="2" column="34" />
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/svsexport/manual.phtml" timestamp="1497550707530">
-        <mark key="]" line="12" column="59" />
-        <mark key="." line="12" column="59" />
-        <mark key="[" line="12" column="58" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/customer/widget/name.phtml" timestamp="1495469416244">
         <mark key="[" line="45" column="2" />
       </file>
@@ -703,16 +694,17 @@
         <mark key="." line="79" column="50" />
         <mark key="[" line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style_mobile.less" timestamp="1497823926334">
-        <mark key="]" line="813" column="5" />
-        <mark key="." line="803" column="0" />
-        <mark key="[" line="803" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1496342954962">
         <mark key="]" line="200" column="28" />
         <mark key="^" line="200" column="42" />
         <mark key="." line="200" column="28" />
         <mark key="[" line="200" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/catalog/product/list.phtml" timestamp="1497985812076">
+        <mark key="]" line="153" column="5" />
+        <mark key="^" line="153" column="5" />
+        <mark key="." line="153" column="5" />
+        <mark key="[" line="143" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GiftCertificatesCom.php" timestamp="1495816862206">
         <mark key="]" line="179" column="52" />
@@ -738,7 +730,7 @@
         <mark key="." line="15" column="44" />
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1497984968434">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1497985800281">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="2138" column="0" />
         <mark key="^" line="2130" column="40" />
@@ -764,10 +756,11 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1497983909915">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1497985844498">
+        <mark key="'" line="3438" column="16" />
         <mark key="]" line="48" column="113" />
         <mark key="." line="2729" column="0" />
-        <mark key="[" line="48" column="0" />
+        <mark key="[" line="5171" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_token.phtml" timestamp="1496803309105">
         <mark key="]" line="218" column="28" />
@@ -793,11 +786,6 @@
         <mark key="^" line="86" column="106" />
         <mark key="." line="86" column="105" />
         <mark key="[" line="86" column="90" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1496342618859">
-        <mark key="]" line="387" column="0" />
-        <mark key="." line="387" column="0" />
-        <mark key="[" line="387" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/Model/Optin.php" timestamp="1497622220851">
         <mark key="]" line="10" column="35" />
@@ -875,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="20" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Block/Form/Vestapaymentmethod.php" />
       <jump line="2" column="0" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Block/Form/Vestapaymentmethod.php" />
       <jump line="2" column="28" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Model/Paymentmethod.php" />
       <jump line="1" column="40" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Block/Info/Vestapaymentmethod.php" />
@@ -975,6 +962,7 @@
       <jump line="37" column="44" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" />
       <jump line="587" column="46" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" />
+      <jump line="3438" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
