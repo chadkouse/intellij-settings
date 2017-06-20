@@ -738,8 +738,12 @@
         <mark key="." line="15" column="44" />
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1496177779635">
-        <mark key="[" line="285" column="45" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" timestamp="1497984968434">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="2138" column="0" />
+        <mark key="^" line="2130" column="40" />
+        <mark key="." line="2138" column="0" />
+        <mark key="[" line="2138" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/page/html/renewalHeader.phtml" timestamp="1476724536603">
         <mark key="]" line="2" column="42" />
@@ -759,9 +763,6 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" timestamp="1497823907652">
-        <mark key="[" line="797" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1497983909915">
         <mark key="]" line="48" column="113" />
@@ -874,8 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="17" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/etc/config.xml" />
-      <jump line="65" column="20" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/etc/config.xml" />
       <jump line="1" column="20" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Block/Form/Vestapaymentmethod.php" />
       <jump line="2" column="0" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Block/Form/Vestapaymentmethod.php" />
       <jump line="2" column="28" filename="$USER_HOME$/src/beanstalkapp/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Model/Paymentmethod.php" />
@@ -974,28 +973,30 @@
       <jump line="10" column="77" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
       <jump line="285" column="61" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" />
       <jump line="37" column="44" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" />
+      <jump line="587" column="46" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/layout/personalizations.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBlcnNvbmFsaXphdGlvblNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ3BlcnNvbmFsaXphdGlvbnMvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>sound_application</text>
       </register>
-      <register name="3" type="4">
-        <text>+</text>
-      </register>
-      <register name="2" type="4">
-        <text>+</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gTWFnZTo6Z2V0U2luZ2xldG9uKCdwZXJzb25hbGl6YXRpb25zL3Nlc3Npb24nLCBhcnJheSgnbmFtZScgPT4gJ2Zyb250ZW5kJykpOwo=</text>
       </register>
+      <register name="2" type="4">
+        <text>sound_application</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+Cg==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBlcnNvbmFsaXphdGlvblNlc3Npb24gPSBNYWdlOjpnZXRTaW5nbGV0b24oJ3BlcnNvbmFsaXphdGlvbnMvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxwZXJzb25hbGl6YXRpb25zX3NvdW5kX2FwcGxpY2F0aW9uPgogICAgICAgIDxyZWZlcmVuY2UgbmFtZT0icm9vdCI+CiAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJzZXRUZW1wbGF0ZSI+CiAgICAgICAgICAgICAgICA8dGVtcGxhdGU+cGFnZS9jb21wbGV0ZWx5ZW1wdHkucGh0bWw8L3RlbXBsYXRlPgogICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8cmVtb3ZlIG5hbWU9InBlcnNvbmFsaXphdGlvbi5oZWFkZXIiLz4KICAgICAgICAgICAgPGJsb2NrIHR5cGU9InBlcnNvbmFsaXphdGlvbnMvc291bmRfYXBwbGljYXRpb24iIG5hbWU9InNvdW5kLmFwcGxpY2F0aW9uIiBhcz0ic291bmRhcHBsaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3NvdW5kL2FwcGxpY2F0aW9uLnBodG1sIi8+CiAgICAgICAgPC9yZWZlcmVuY2U+CiAgICA8L3BlcnNvbmFsaXphdGlvbnNfc291bmRfYXBwbGljYXRpb24+Cg==</text>
       </register>
       <register name="7" type="4">
         <text>+</text>
@@ -1007,7 +1008,7 @@
         <text>+</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
