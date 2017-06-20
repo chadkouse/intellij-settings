@@ -73,6 +73,13 @@
         <mark key="." line="1" column="33" />
         <mark key="[" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/bonefishcocktail/index.html" timestamp="1497973735421">
+        <mark key="'" line="48" column="103" />
+        <mark key="]" line="191" column="8" />
+        <mark key="^" line="191" column="8" />
+        <mark key="." line="191" column="8" />
+        <mark key="[" line="191" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/checkout/success.phtml" timestamp="1496935335484">
         <mark key="]" line="93" column="27" />
         <mark key="^" line="41" column="16" />
@@ -959,47 +966,47 @@
       <jump line="37" column="44" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxydW4+PG1vZGVsPnBlcnNvbmFsaXphdGlvbnMvc3ZzZXhwb3J0X2Nyb246OmRvQ3JvbjwvbW9kZWw+PC9ydW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>fixed</text>
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>fixed</text>
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDw/cGhwIGlmICgkZmF0aGVyRGF5LT5nZXRJZCgpKTogPz4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICRjYXRlZ29yeVVybEluZm8gPSAkaGVscGVyLT5nZXRDYXRlZ29yeVVybEluZm8oJGZhdGhlckRheS0+Z2V0SWQoKSwgJHVybF9wYXJhbXMsIGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICRjYXRlZ29yeVVybEluZm9bJ3VybCddIC4gJyZjYXJkdHlwZT0nIC4gJHVybF9wYXJhbXNbJ2NhcmR0eXBlJ10gLiAiJmZvcm1hdD0iIC4gJGZvcm1hdFR5cGU7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSI8P3BocCBlY2hvICRvY2NhdGlvbl9pZCA9PSAkZmF0aGVyRGF5LT5nZXRJZCgpID8gJ2FjdGl2ZScgOiAnJyA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iPD9waHAgZWNobyAkdXJsOz8+Ij48P3BocCBlY2hvICRmYXRoZXJEYXktPmdldE5hbWUoKTs/PjwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmICgkZmF0aGVyRGF5LT5nZXRJZCgpKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjYXRlZ29yeVVybEluZm8gPSAkaGVscGVyLT5nZXRDYXRlZ29yeVVybEluZm8oJGZhdGhlckRheS0+Z2V0SWQoKSwgJHVybF9wYXJhbXMsIGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICRjYXRlZ29yeVVybEluZm9bJ3VybCddIC4gJyZjYXJkdHlwZT0nIC4gJHVybF9wYXJhbXNbJ2NhcmR0eXBlJ10gLiAiJmZvcm1hdD0iIC4gJGZvcm1hdFR5cGU7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSI8P3BocCBlY2hvICRvY2NhdGlvbl9pZCA9PSAkZmF0aGVyRGF5LT5nZXRJZCgpID8gJ2FjdGl2ZScgOiAnJyA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iPD9waHAgZWNobyAkdXJsOz8+Ij48P3BocCBlY2hvICRmYXRoZXJEYXktPmdldE5hbWUoKTs/PjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+      <register name="1" type="4">
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCTxydW4+PG1vZGVsPnBlcnNvbmFsaXphdGlvbnMvc3ZzZXhwb3J0X2Nyb246OmRvQ3JvbjwvbW9kZWw+PC9ydW4+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwZXJzb25hbGl6YXRpb25IZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9ucycpCiAgICAgICAgICAgICAgICAkbGluayA9ICRwcmV2aWV3RGF0YVtdCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="6" type="4">
-        <text>true</text>
+        <text>+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="4" type="4">
-        <text>fixed</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY2hlZHVsZSA9IE1hZ2U6OmdldE1vZGVsKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfc2NoZWR1bGUnKS0+bG9hZCgkcGVySXRlbS0+Z2V0SWQoKSwgIml0ZW1faWQiKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcmV2aWV3RGF0YSA9IE1hZ2U6OmhlbHBlcigncGVyc29uYWxpemF0aW9ucy9wZXJzb25hbGl6YXRpb24nKS0+Z2V0RGlnaXRhbFRva2VuUHJldmlld0RhdGEoJHBlckl0ZW0sICRzY2hlZHVsZSk7Cg==</text>
+      <register name="8" type="4">
+        <text>+</text>
       </register>
     </registers>
     <search>
