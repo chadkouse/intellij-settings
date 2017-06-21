@@ -135,20 +135,17 @@
         <mark key="." line="79" column="57" />
         <mark key="[" line="79" column="51" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1497027264629">
-        <mark key="]" line="564" column="0" />
-        <mark key="^" line="563" column="20" />
-        <mark key="." line="564" column="0" />
-        <mark key="[" line="564" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1498065856463">
+        <mark key="]" line="529" column="0" />
+        <mark key="^" line="522" column="45" />
+        <mark key="." line="529" column="0" />
+        <mark key="[" line="529" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/product/list/token.phtml" timestamp="1494271795858">
         <mark key="]" line="11" column="27" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="[" line="9" column="34" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/catalog/category/leftmenu.phtml" timestamp="1497896757265">
-        <mark key="]" line="629" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/lottery/scratch.html" timestamp="1493225137807">
         <mark key="]" line="135" column="321" />
@@ -180,6 +177,13 @@
         <mark key="^" line="107" column="15" />
         <mark key="." line="107" column="15" />
         <mark key="[" line="107" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1498065734139">
+        <mark key="'" line="10" column="77" />
+        <mark key="]" line="40" column="81" />
+        <mark key="^" line="40" column="81" />
+        <mark key="." line="40" column="81" />
+        <mark key="[" line="40" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/gifttokens/design.phtml" timestamp="1497823893699">
         <mark key="]" line="212" column="179" />
@@ -947,46 +951,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIG5ldyBnaWZ0aW5nIGFwcCB0aGF0IGFsbG93cyB5b3UgdG8gc2VuZCBhIHRva2VuIG9mIGFwcHJlY2lhdGlvbiwgZnJpZW5kc2hpcCwgY2VsZWJyYXRpb24gYW5kIG11Y2ggbW9yZSEgU3BlbmRzIGxpa2UgYSBnaWZ0IGNhcmQsIGJ1dCBmZWVscyBsaWtlIGEgZ2lmdC4nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRva2VuIG5hbWU+</text>
+        <text>email</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHRva2VuIG5hbWU+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIG5ldyBnaWZ0aW5nIGFwcCB0aGF0IGFsbG93cyB5b3UgdG8gc2VuZCBhIHRva2VuIG9mIGFwcHJlY2lhdGlvbiwgZnJpZW5kc2hpcCwgY2VsZWJyYXRpb24gYW5kIG11Y2ggbW9yZSEgU3BlbmRzIGxpa2UgYSBnaWZ0IGNhcmQsIGJ1dCBmZWVscyBsaWtlIGEgZ2lmdC4nLAo=</text>
+        <text encoding="base64">ICAgIGpRdWVyeSgnLmNsb3NlX292ZXJsYXknKS5jbGljayhmdW5jdGlvbigpIHsKICAgICAgICBqUXVlcnkoJy5zYW1wbGVfb3ZlcmxheScpLmZhZGVPdXQoMjAwKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIG5ldyBnaWZ0aW5nIGFwcCB0aGF0IGFsbG93cyB5b3UgdG8gc2VuZCBhIHRva2VuIG9mIGFwcHJlY2lhdGlvbiwgZnJpZW5kc2hpcCwgY2VsZWJyYXRpb24gYW5kIG11Y2ggbW9yZSEgU3BlbmRzIGxpa2UgYSBnaWZ0IGNhcmQsIGJ1dCBmZWVscyBsaWtlIGEgZ2lmdC4nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdNeSBmcmllbmQganVzdCBzZW50IG1lIGEgPD9waHAgZWNobyAkcHJldmlld0RhdGFbInByb2R1Y3RfbmFtZSJdOyA/PiBmcm9tIEJvbmVmaXNoIEdyaWxsLiBTYXkgQ2hlZXJzLCBDb25ncmF0cyBvciBUaGFuayBZb3UuIFNlbmQgYSBGcmllbmQgYSA8P3BocCBlY2hvICRwcmV2aWV3RGF0YVsicHJvZHVjdF9uYW1lIl07ID8+IHRvZGF5LicsCg==</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy50ZXh0X3NhbXBsZV9vdmVybGF5JykuZmFkZUluKDIwMCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIG5ldyBnaWZ0aW5nIGFwcCB0aGF0IGFsbG93cyB5b3UgdG8gc2VuZCBhIHRva2VuIG9mIGFwcHJlY2lhdGlvbiwgZnJpZW5kc2hpcCwgY2VsZWJyYXRpb24gYW5kIG11Y2ggbW9yZSEgU3BlbmRzIGxpa2UgYSBnaWZ0IGNhcmQsIGJ1dCBmZWVscyBsaWtlIGEgZ2lmdC4nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7dG9wOjI0NHB4O3RleHQtYWxpZ246Y2VudGVyO21hcmdpbi1ib3R0b206NDBweDsiPgogICAgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Zm9udC1zaXplOjEzcHg7Zm9udC1mYW1pbHk6ICdEaW4gY29uZGVuc2VkIG1lZGl1bScsJ0dvdGhhbScsIHNhbnMtc2VyaWY7Y29sb3I6IzAwMDsiIGhyZWY9Imh0dHBzOi8vd3d3LmJvbmVmaXNoZ3JpbGwuY29tL2dpZnQtY2FyZHMiPlNlbmQgYSBCb25lZmlzaCBHaWZ0IENhcmQ8L2E+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIG5ldyBnaWZ0aW5nIGFwcCB0aGF0IGFsbG93cyB5b3UgdG8gc2VuZCBhIHRva2VuIG9mIGFwcHJlY2lhdGlvbiwgZnJpZW5kc2hpcCwgY2VsZWJyYXRpb24gYW5kIG11Y2ggbW9yZSEgU3BlbmRzIGxpa2UgYSBnaWZ0IGNhcmQsIGJ1dCBmZWVscyBsaWtlIGEgZ2lmdC4nLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0iY2xlYXI6Ym90aDt0ZXh0LWFsaWduOmNlbnRlcjttYXJnaW4tdG9wOjIwcHg7bWFyZ2luLWJvdHRvbTo0MHB4OyI+CiAgICA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTtmb250LXNpemU6MTNweDtmb250LWZhbWlseTogJ0RpbiBjb25kZW5zZWQgbWVkaXVtJywnR290aGFtJywgc2Fucy1zZXJpZjtjb2xvcjojMDAwOyIgaHJlZj0iaHR0cHM6Ly93d3cuYm9uZWZpc2hncmlsbC5jb20vZ2lmdC1jYXJkcyI+U2VuZCBhIEJvbmVmaXNoIEdpZnQgQ2FyZDwvYT4KPC9kaXY+Cg==</text>
+      <register name="5" type="4">
+        <text>email</text>
       </register>
       <register name="4" type="4">
-        <text>http://gift-tokens.com</text>
+        <text>email</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>http://gift-tokens.com</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text encoding="base64">PHRva2VuIG5hbWU+</text>
       </register>
     </registers>
     <search>
