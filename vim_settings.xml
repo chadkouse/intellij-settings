@@ -416,10 +416,10 @@
         <mark key="." line="2" column="96" />
         <mark key="[" line="2" column="94" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/digital_token.phtml" timestamp="1498055612326">
-        <mark key="]" line="228" column="6" />
-        <mark key="." line="226" column="0" />
-        <mark key="[" line="226" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/digital_token.phtml" timestamp="1498057456031">
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="[" line="82" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/checkout/success.phtml" timestamp="1498054118785">
         <mark key="]" line="72" column="4" />
@@ -945,47 +945,47 @@
       <jump line="3438" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0iY2xlYXI6Ym90aDt0ZXh0LWFsaWduOmNlbnRlcjttYXJnaW4tdG9wOjIwcHg7bWFyZ2luLWJvdHRvbTo0MHB4OyI+CiAgICA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTtmb250LXNpemU6MTNweDtmb250LWZhbWlseTogJ0RpbiBjb25kZW5zZWQgbWVkaXVtJywnR290aGFtJywgc2Fucy1zZXJpZjtjb2xvcjojMDAwOyIgaHJlZj0iaHR0cHM6Ly93d3cuYm9uZWZpc2hncmlsbC5jb20vZ2lmdC1jYXJkcyI+U2VuZCBhIEJvbmVmaXNoIEdpZnQgQ2FyZDwvYT4KPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://gift-tokens.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>http://gift-tokens.com</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PGRpdiBzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7dG9wOjI0NHB4O3RleHQtYWxpZ246Y2VudGVyO21hcmdpbi1ib3R0b206NDBweDsiPgogICAgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Zm9udC1zaXplOjEzcHg7Zm9udC1mYW1pbHk6ICdEaW4gY29uZGVuc2VkIG1lZGl1bScsJ0dvdGhhbScsIHNhbnMtc2VyaWY7Y29sb3I6IzAwMDsiIGhyZWY9Imh0dHBzOi8vd3d3LmJvbmVmaXNoZ3JpbGwuY29tL2dpZnQtY2FyZHMiPlNlbmQgYSBCb25lZmlzaCBHaWZ0IENhcmQ8L2E+CjwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">PGRpdiBzdHlsZT0iY2xlYXI6Ym90aDt0ZXh0LWFsaWduOmNlbnRlcjttYXJnaW4tdG9wOjIwcHg7bWFyZ2luLWJvdHRvbTo0MHB4OyI+CiAgICA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTtmb250LXNpemU6MTNweDtmb250LWZhbWlseTogJ0RpbiBjb25kZW5zZWQgbWVkaXVtJywnR290aGFtJywgc2Fucy1zZXJpZjtjb2xvcjojMDAwOyIgaHJlZj0iaHR0cHM6Ly93d3cuYm9uZWZpc2hncmlsbC5jb20vZ2lmdC1jYXJkcyI+U2VuZCBhIEJvbmVmaXNoIEdpZnQgQ2FyZDwvYT4KPC9kaXY+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>http://gift-tokens.com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBzdHlsZT0iY2xlYXI6Ym90aDt0ZXh0LWFsaWduOmNlbnRlcjttYXJnaW4tdG9wOjIwcHg7bWFyZ2luLWJvdHRvbTo0MHB4OyI+CiAgICA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTtmb250LXNpemU6MjBweDtmb250LWZhbWlseTogJ0RpbiBjb25kZW5zZWQgbWVkaXVtJywnR290aGFtJywgc2Fucy1zZXJpZjtjb2xvcjojMDAwOyIgaHJlZj0iaHR0cHM6Ly93d3cuYm9uZWZpc2hncmlsbC5jb20vZ2lmdC1jYXJkcyI+U2VuZCBhIEJvbmVmaXNoIEdpZnQgQ2FyZDwvYT4KPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
-      </register>
-      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>p</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>x</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
