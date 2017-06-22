@@ -553,11 +553,11 @@
         <mark key="." line="12" column="59" />
         <mark key="[" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Sms.php" timestamp="1497039554874">
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="15" column="43" />
-        <mark key="." line="64" column="0" />
-        <mark key="[" line="64" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Sms.php" timestamp="1498140477361">
+        <mark key="]" line="60" column="60" />
+        <mark key="^" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+        <mark key="[" line="59" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/SvsResult.php" timestamp="1476809687012">
         <mark key="]" line="3" column="43" />
@@ -945,46 +945,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>endpoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>endpoint</text>
       </register>
       <register name="3" type="4">
-        <text>png</text>
+        <text>endpoint</text>
       </register>
       <register name="2" type="4">
-        <text>http://gift-tokens.com</text>
+        <text>endpoint</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>endpoint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2hvdyA9IGpRdWVyeSh0aGlzKS5kYXRhKCdzaG93Jyk7CgogICAgICAgIGpRdWVyeSgnIycgKyBzaG93ICsgJ19zYW1wbGUnKS5mYWRlSW4oMjAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coImVuZHBvaW50OiAiIC4gJGVuZHBvaW50LCBudWxsLCAic21zLmxvZyIpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5zYW1wbGVfb3ZlcmxheScpLmZhZGVJbigyMDApOwo=</text>
+      <register name="7" type="4">
+        <text>endpoint</text>
       </register>
       <register name="6" type="4">
-        <text>png</text>
+        <text>endpoint</text>
       </register>
       <register name="5" type="4">
-        <text>png</text>
+        <text>endpoint</text>
       </register>
-      <register name="4" type="4">
-        <text>png</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coImVuZHBvaW50OiAiIC4gJGVuZHBvaW50LCBudWxsLCAic21zLmxvZyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>email</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text>email</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
