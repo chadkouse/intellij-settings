@@ -357,13 +357,13 @@
         <mark key="." line="101" column="32" />
         <mark key="[" line="101" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/gifttokens/design.phtml" timestamp="1498067074613">
-        <mark key="]" line="30" column="85" />
-        <mark key="^" line="30" column="85" />
-        <mark key="." line="30" column="85" />
-        <mark key="[" line="30" column="83" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/gifttokens/design.phtml" timestamp="1498098221080">
+        <mark key="]" line="202" column="132" />
+        <mark key="^" line="202" column="132" />
+        <mark key="." line="202" column="132" />
+        <mark key="[" line="202" column="116" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1498052834496">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1498098531113">
         <mark key="'" line="289" column="61" />
         <mark key="]" line="294" column="338" />
         <mark key="^" line="294" column="338" />
@@ -945,31 +945,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://gift-tokens.com</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
       </register>
       <register name="-" type="4">
-        <text>http://gift-tokens.com</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
         <text>png</text>
       </register>
       <register name="2" type="4">
-        <text>png</text>
+        <text>http://gift-tokens.com</text>
       </register>
       <register name="1" type="4">
-        <text>http://gift-tokens.com</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc2hvdyA9IGpRdWVyeSh0aGlzKS5kYXRhKCdzaG93Jyk7CgogICAgICAgIGpRdWVyeSgnIycgKyBzaG93ICsgJ19zYW1wbGUnKS5mYWRlSW4oMjAwKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>email</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5zYW1wbGVfb3ZlcmxheScpLmZhZGVJbigyMDApOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>png</text>
       </register>
       <register name="5" type="4">
         <text>png</text>
@@ -980,8 +980,8 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPScjJz5WaWV3IFNhbXBsZSBUZXh0PC9hPgo=</text>
+      <register name="9" type="4">
+        <text>email</text>
       </register>
       <register name="8" type="4">
         <text>email</text>
