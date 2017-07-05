@@ -42,7 +42,7 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1499198211368">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1499279358873">
         <mark key="]" line="950" column="59" />
         <mark key="^" line="950" column="59" />
         <mark key="." line="950" column="59" />
@@ -76,11 +76,10 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1497630733208">
-        <mark key="]" line="410" column="39" />
-        <mark key="^" line="410" column="39" />
-        <mark key="." line="410" column="39" />
-        <mark key="[" line="410" column="39" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1499279659825">
+        <mark key="]" line="1224" column="0" />
+        <mark key="." line="1224" column="0" />
+        <mark key="[" line="1221" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/connect360/css/marketing.less" timestamp="1498162707645">
         <mark key="]" line="4" column="0" />
@@ -139,6 +138,9 @@
         <mark key="^" line="519" column="19" />
         <mark key="." line="524" column="0" />
         <mark key="[" line="517" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1499279661027">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -286,15 +288,9 @@
         <mark key="." line="62" column="0" />
         <mark key="[" line="69" column="44" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1498484527838">
-        <mark key="'" line="3438" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Omnicard.php" timestamp="1499198448965">
-        <mark key="'" line="104" column="97" />
-        <mark key="]" line="335" column="61" />
-        <mark key="^" line="335" column="61" />
-        <mark key="." line="335" column="61" />
-        <mark key="[" line="335" column="54" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Omnicard.php" timestamp="1499279774608">
+        <mark key="'" line="110" column="97" />
+        <mark key="[" line="43" column="56" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Svsexport/Cron.php" timestamp="1498836302500">
         <mark key="]" line="82" column="57" />
@@ -313,12 +309,12 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1498098531113">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1499279133311">
         <mark key="'" line="289" column="61" />
-        <mark key="]" line="294" column="338" />
-        <mark key="^" line="294" column="338" />
-        <mark key="." line="294" column="338" />
-        <mark key="[" line="294" column="338" />
+        <mark key="]" line="218" column="17" />
+        <mark key="^" line="218" column="17" />
+        <mark key="." line="218" column="17" />
+        <mark key="[" line="218" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1497823217973">
         <mark key="]" line="392" column="58" />
@@ -442,44 +438,44 @@
       <jump line="626" column="48" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SVS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>SVS</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>SVS</text>
+        <text>false</text>
       </register>
-      <register name="2" type="4">
-        <text>SVS</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRoZWxwZXItPnN1Ym1pdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SVS</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGluc3RhbGxlci0+cnVuKCIKCURST1AgVEFCTEUgSUYgRVhJU1RTIGBnY2lfZmxhdF9zdnNfcmVzdWx0YDsKCUNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGBnY2lfZmxhdF9zdnNfcmVzdWx0YCAoCgkgIGBpZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKCSAgYHBlcnNvbmFsaXphdGlvbnNfaXRlbV9pZGAgaW50KDExKSB1bnNpZ25lZCBOT1QgTlVMTCwKCSAgYHByb2R1Y3RfaWRgIGludCgxMSkgdW5zaWduZWQgTk9UIE5VTEwsCgkgIGBvcmRlcl9pZGAgdmFyY2hhcigzMDApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAoJICBgYXV0aG9yaXphdGlvbl9jb2RlYCB2YXJjaGFyKDMwMCkgQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgTk9UIE5VTEwsCgkgIGBjYXJkX251bWJlcmAgdmFyY2hhcigzMDApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAoJICBgcGluX251bWJlcmAgdmFyY2hhcigzMDApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAoJICBgdHJhbnNhY3Rpb25fY29kZWAgdmFyY2hhcigzMDApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAoJICBgY3JlYXRlZF9kYXRlYCB0aW1lc3RhbXAgTk9UIE5VTEwgREVGQVVMVCAnMDAwMC0wMC0wMCAwMDowMDowMCcsCiAgCSAgYHVwZGF0ZWRfZGF0ZWAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgJzAwMDAtMDAtMDAgMDA6MDA6MDAnIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwKICAJICBgcmVjb25jaWxlX3RpbWVgIGludCgxMSkgdW5zaWduZWQgTk9UIE5VTEwgREVGQVVMVCAwLAoJICBQUklNQVJZIEtFWSAoYGlkYCksCgkgIEtFWSBgcGVyc29uYWxpemF0aW9uc19pdGVtX2lkYCAoYHBlcnNvbmFsaXphdGlvbnNfaXRlbV9pZGApLAoJICBLRVkgYHByb2R1Y3RfaWRgIChgcHJvZHVjdF9pZGApLAoJICBVTklRVUUgS0VZKGBwZXJzb25hbGl6YXRpb25zX2l0ZW1faWRgLCBgcHJvZHVjdF9pZGApCgkpIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPWxhdGluMSBBVVRPX0lOQ1JFTUVOVD0xIDsKCglBTFRFUiBUQUJMRSBgZ2NpX2ZsYXRfc3ZzX3Jlc3VsdGAgQUREIEZPUkVJR04gS0VZICggYHBlcnNvbmFsaXphdGlvbnNfaXRlbV9pZGAgKSBSRUZFUkVOQ0VTIGBnY2lfZmxhdF9wZXJzb25hbGl6YXRpb25zX2l0ZW1gIChgaXRlbV9pZGApCglPTiBERUxFVEUgUkVTVFJJQ1QgT04gVVBEQVRFIFJFU1RSSUNUIDsKICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3ZzT3JkZXIgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgICRnaWZ0YW5nb09yZGVyID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgJG9tbmljYXJkT3JkZXIgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="4">
         <text>svs</text>
       </register>
       <register name="6" type="4">
-        <text>SVS</text>
-      </register>
-      <register name="5" type="4">
         <text>svs</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="4" type="4">
-        <text>SVS</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N2c18vb21uaWNhcmRfL2c=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CURST1AgVEFCTEUgSUYgRVhJU1RTIGBnY2lfZmxhdF9zdnNfcmVzdWx0YDsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="8" type="4">
         <text>svs</text>
