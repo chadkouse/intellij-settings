@@ -24,10 +24,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/gifttokens/design/style.less" timestamp="1499699675705">
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/gifttokens/design/style.less" timestamp="1499717477933">
+        <mark key="]" line="222" column="29" />
+        <mark key="^" line="222" column="29" />
+        <mark key="." line="222" column="29" />
+        <mark key="[" line="222" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/connect360/css/styles.less" timestamp="1498158259909">
         <mark key="]" line="2" column="66" />
@@ -138,7 +139,7 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/style-token.css" timestamp="1499715376981" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/style-token.css" timestamp="1499717251398" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1498066946845">
         <mark key="]" line="519" column="50" />
         <mark key="^" line="519" column="19" />
@@ -173,11 +174,11 @@
         <mark key="." line="3645" column="15" />
         <mark key="[" line="3645" column="8" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499712343579">
-        <mark key="]" line="84" column="30" />
-        <mark key="^" line="83" column="29" />
-        <mark key="." line="84" column="30" />
-        <mark key="[" line="84" column="30" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499717313475">
+        <mark key="]" line="41" column="94" />
+        <mark key="^" line="41" column="94" />
+        <mark key="." line="41" column="94" />
+        <mark key="[" line="41" column="92" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1498160191098">
         <mark key="]" line="90" column="21" />
@@ -214,11 +215,11 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1499280772852">
         <mark key="^" line="141" column="48" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1499697219239">
-        <mark key="]" line="197" column="99" />
-        <mark key="^" line="217" column="175" />
-        <mark key="." line="197" column="0" />
-        <mark key="[" line="197" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1499717318731">
+        <mark key="]" line="34" column="76" />
+        <mark key="^" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+        <mark key="[" line="34" column="76" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/footer.phtml" timestamp="1498157603570">
         <mark key="]" line="36" column="0" />
@@ -452,46 +453,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Din condesed medium</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Din condesed medium</text>
       </register>
-      <register name="3" type="4">
-        <text>png</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>jpg</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Din condesed medium</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ic2hvd19vdmVybGF5IiBkYXRhLXNob3c9InNtcyIgaHJlZj0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy90b2tlbnNtcy5wbmciPlZpZXcgU2FtcGxlIFRleHQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy9iZnRva2Vuc21zLmpwZyIgLz4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>bonefish</text>
+        <text>jpg</text>
       </register>
-      <register name="4" type="4">
-        <text>height: 100%;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>png</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>#</text>
       </register>
     </registers>
     <search>
