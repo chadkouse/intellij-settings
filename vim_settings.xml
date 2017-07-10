@@ -52,10 +52,11 @@
         <mark key="." line="82" column="0" />
         <mark key="[" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/preview/digital_token.phtml" timestamp="1499706033572">
-        <mark key="]" line="42" column="64" />
-        <mark key="." line="42" column="64" />
-        <mark key="[" line="42" column="64" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/preview/digital_token.phtml" timestamp="1499707930490">
+        <mark key="]" line="42" column="106" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="42" column="106" />
+        <mark key="[" line="42" column="106" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -444,22 +445,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bonefish</text>
+        <text>height: 100%;</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>bonefish</text>
+        <text>height: 100%;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>bonefish</text>
+      </register>
+      <register name="1" type="4">
+        <text>height: 100%;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ic2hvd19vdmVybGF5IiBkYXRhLXNob3c9InNtcyIgaHJlZj0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy90b2tlbnNtcy5wbmciPlZpZXcgU2FtcGxlIFRleHQ8L2E+Cg==</text>
@@ -468,10 +469,10 @@
         <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gaWQ9ImZybVNjaGVkdWxlIiBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3BlcnNvbmFsaXphdGlvbnMvdG9rZW5zL2RpZ2l0YWxzY2hlZHVsZSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gaWQ9ImZybVNjaGVkdWxlIiBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3BlcnNvbmFsaXphdGlvbnMvdG9rZW5zL2RpZ2l0YWxzY2hlZHVsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
@@ -482,8 +483,8 @@
       <register name="9" type="4">
         <text>+</text>
       </register>
-      <register name="8" type="4">
-        <text>+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gaWQ9ImZybVNjaGVkdWxlIiBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3BlcnNvbmFsaXphdGlvbnMvdG9rZW5zL2RpZ2l0YWxzY2hlZHVsZSI+Cg==</text>
       </register>
     </registers>
     <search>
