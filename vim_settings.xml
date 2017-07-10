@@ -171,11 +171,11 @@
         <mark key="." line="3645" column="15" />
         <mark key="[" line="3645" column="8" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499695633321">
-        <mark key="]" line="190" column="139" />
-        <mark key="^" line="190" column="139" />
-        <mark key="." line="190" column="139" />
-        <mark key="[" line="190" column="137" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499712343579">
+        <mark key="]" line="84" column="30" />
+        <mark key="^" line="83" column="29" />
+        <mark key="." line="84" column="30" />
+        <mark key="[" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1498160191098">
         <mark key="]" line="90" column="21" />
@@ -450,22 +450,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>height: 100%;</text>
-      </register>
-      <register name="2" type="4">
         <text>png</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>#</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ic2hvd19vdmVybGF5IiBkYXRhLXNob3c9InNtcyIgaHJlZj0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy90b2tlbnNtcy5wbmciPlZpZXcgU2FtcGxlIFRleHQ8L2E+Cg==</text>
@@ -474,22 +474,22 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>bonefish</text>
       </register>
+      <register name="4" type="4">
+        <text>height: 100%;</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N2c18vb21uaWNhcmRfL2c=</text>
+        <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gaWQ9ImZybVNjaGVkdWxlIiBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3BlcnNvbmFsaXphdGlvbnMvdG9rZW5zL2RpZ2l0YWxzY2hlZHVsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
@@ -517,10 +517,10 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3N2cy9vbW5pY2FyZC9n</entry>
         <entry>%s/svs.log/omnicard.log/g</entry>
         <entry encoding="base64">JzwsJz5zL3N2c18vb21uaWNhcmRfL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
