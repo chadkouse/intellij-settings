@@ -33,8 +33,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1499803320773">
-        <mark key="^" line="772" column="85" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1499806943610">
+        <mark key="]" line="567" column="13" />
+        <mark key="^" line="567" column="13" />
+        <mark key="." line="567" column="13" />
+        <mark key="[" line="567" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/preview/digital_token.phtml" timestamp="1499708696820">
         <mark key="]" line="42" column="90" />
@@ -372,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBUT0RPOgogICAgICAgICRtZW1iZXJJbmZvcm1hdGlvbiA9ICRwdXJjaGFzZXJJbmZvLT5hZGRDaGlsZCgiTWVtYmVySW5mb3JtYXRpb24iKTsKICAgICAgICAkbWlOYW1lID0gJG1lbWJlckluZm9ybWF0aW9uLT5hZGRDaGlsZCgiTmFtZSIpOwogICAgICAgICRtaU5hbWUtPmFkZENoaWxkKCJGaXJzdE5hbWUiLCAiUGV0ZXIiKTsKICAgICAgICAkbWlOYW1lLT5hZGRDaGlsZCgiTGFzdE5hbWUiLCAiU21pdGgiKTsKICAgICAgICAkbWlBZGRyZXNzID0gJG1lbWJlckluZm9ybWF0aW9uLT5hZGRDaGlsZCgiQWRkcmVzcyIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJBZGRyZXNzTGluZTEiLCAiNDU2IE1haW4gU3QuIik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkFkZHJlc3NMaW5lMiIsICJBcHQuIDQ4Iik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkNpdHkiLCAiQ2hpY2FnbyIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJTdGF0ZSIsICJJTCIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJQb3N0YWxDb2RlIiwgIjYwNjEwIik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkNvdW50cnkiLCAiVVMiKTsKICAgICAgICAkbWVtYmVySW5mb3JtYXRpb24tPmFkZENoaWxkKCJFbWFpbCIsICJjaGFkLmtvdXNlQGdtYWlsLmNvbSIpOwogICAgICAgICRtZW1iZXJJbmZvcm1hdGlvbi0+YWRkQ2hpbGQoIlBob25lTnVtYmVyIiwgIjQwMjU1NTY3ODkiKTsKICAgICAgICAkbWVtYmVySW5mb3JtYXRpb24tPmFkZENoaWxkKCJCaXJ0aGRheSIsICIwMS8wMS8xOTc2Iik7CiAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY2lwaWVudFN0cmVldDEgPSAkc2hpcHBpbmdBZGRyZXNzLT5nZXRTdHJlZXQoMSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
@@ -381,37 +384,37 @@
         <text>RegionCode</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWRkcmVzcy0+YWRkQXR0cmlidXRlKCJDb3VudHJ5Q29kZSIsICRiaWxsaW5nQ29udGFjdEFkZHJlc3MtPmdldENvdW50cnlJZCgpKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBTaGlwcGluZyBpbmZvCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvKiBUT0RPOgogICAgICAgICRtZW1iZXJJbmZvcm1hdGlvbiA9ICRwdXJjaGFzZXJJbmZvLT5hZGRDaGlsZCgiTWVtYmVySW5mb3JtYXRpb24iKTsKICAgICAgICAkbWlOYW1lID0gJG1lbWJlckluZm9ybWF0aW9uLT5hZGRDaGlsZCgiTmFtZSIpOwogICAgICAgICRtaU5hbWUtPmFkZENoaWxkKCJGaXJzdE5hbWUiLCAiUGV0ZXIiKTsKICAgICAgICAkbWlOYW1lLT5hZGRDaGlsZCgiTGFzdE5hbWUiLCAiU21pdGgiKTsKICAgICAgICAkbWlBZGRyZXNzID0gJG1lbWJlckluZm9ybWF0aW9uLT5hZGRDaGlsZCgiQWRkcmVzcyIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJBZGRyZXNzTGluZTEiLCAiNDU2IE1haW4gU3QuIik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkFkZHJlc3NMaW5lMiIsICJBcHQuIDQ4Iik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkNpdHkiLCAiQ2hpY2FnbyIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJTdGF0ZSIsICJJTCIpOwogICAgICAgICRtaUFkZHJlc3MtPmFkZENoaWxkKCJQb3N0YWxDb2RlIiwgIjYwNjEwIik7CiAgICAgICAgJG1pQWRkcmVzcy0+YWRkQ2hpbGQoIkNvdW50cnkiLCAiVVMiKTsKICAgICAgICAkbWVtYmVySW5mb3JtYXRpb24tPmFkZENoaWxkKCJFbWFpbCIsICJjaGFkLmtvdXNlQGdtYWlsLmNvbSIpOwogICAgICAgICRtZW1iZXJJbmZvcm1hdGlvbi0+YWRkQ2hpbGQoIlBob25lTnVtYmVyIiwgIjQwMjU1NTY3ODkiKTsKICAgICAgICAkbWVtYmVySW5mb3JtYXRpb24tPmFkZENoaWxkKCJCaXJ0aGRheSIsICIwMS8wMS8xOTc2Iik7CiAgICAgICAgKi8K</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY2lwaWVudAo=</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdTaGlwcGluZ0FkZHJlc3MtPmFkZENoaWxkKCJTdGF0ZSIsICRzaGlwcGluZ0FkZHJlc3MtPmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY2lwaWVudFN0cmVldDEgPSAkc2hpcHBpbmdBZGRyZXNzLT5nZXRTdHJlZXQoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdTaGlwcGluZ0FkZHJlc3MtPmFkZENoaWxkKCJTdGF0ZSIsICRzaGlwcGluZ0FkZHJlc3MtPmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWRkcmVzcy0+YWRkQXR0cmlidXRlKCJDaXR5IiwgJGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0Q2l0eSgpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWRkcmVzcy0+YWRkQXR0cmlidXRlKCJTdGF0ZSIsICRiaWxsaW5nQ29udGFjdEFkZHJlc3MtPmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWRkcmVzcy0+YWRkQXR0cmlidXRlKCJQb3N0YWxjb2RlIiwgJGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0UG9zdGNvZGUoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWRkcmVzcy0+YWRkQXR0cmlidXRlKCJDb3VudHJ5Q29kZSIsICRiaWxsaW5nQ29udGFjdEFkZHJlc3MtPmdldENvdW50cnlJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>State</text>
-      </register>
-      <register name="8" type="4">
         <text>RegionCode</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdTaGlwcGluZ0FkZHJlc3MtPmFkZENoaWxkKCJTdGF0ZSIsICRzaGlwcGluZ0FkZHJlc3MtPmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
       </register>
     </registers>
     <search>
