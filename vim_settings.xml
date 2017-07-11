@@ -180,7 +180,12 @@
         <mark key="." line="202" column="150" />
         <mark key="[" line="202" column="148" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/carrabbas_token_email.html" timestamp="1499783208325" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/carrabbas_token_email.html" timestamp="1499785353215">
+        <mark key="]" line="89" column="6865" />
+        <mark key="^" line="89" column="6865" />
+        <mark key="." line="89" column="6865" />
+        <mark key="[" line="89" column="7782" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1498160191098">
         <mark key="]" line="90" column="21" />
         <mark key="^" line="81" column="0" />
@@ -454,46 +459,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jpg</text>
+        <text>Sarah</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>jpg</text>
+        <text>Sarah</text>
       </register>
-      <register name="3" type="4">
-        <text>b</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/image-48322e81dfe1b7a1e2a8a824caa73ead0cd44931.jpg</text>
       </register>
       <register name="1" type="4">
-        <text>jpg</text>
+        <text>Sarah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzdWJsaW5lIj5XYW50IHRvIHNlZSB3aGF0IHRoZSByZWNpcGllbnQgdmlldyB3aWxsIGxvb2sgbGlrZT8gPGEgY2xhc3M9InNob3dfb3ZlcmxheSIgZGF0YS1zaG93PSJlbWFpbCIgaHJlZj0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy9iZnRva2VuZW1haWwuanBnIj5WaWV3IFNhbXBsZSBFbWFpbDwvYT4mbmJzcDsmbmJzcDsmbmJzcDsKICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoJHBhZ2VfZGF0YVsnc21zX2VuYWJsZWQnXSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJzaG93X292ZXJsYXkiIGRhdGEtc2hvdz0ic21zIiBocmVmPSIvL2djaS1zdGF0aWNjZG4uczMuYW1hem9uYXdzLmNvbS9tZWRpYS9naWZ0dG9rZW5zL2RlbW9zL2JmdG9rZW5zbXMuanBnIj5WaWV3IFNhbXBsZSBUZXh0PC9hPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>:</text>
+      <register name="7" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="6" type="4">
-        <text>b</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>jpg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTwhLS1baWYgZ3RlIG1zbyA5XT4KCQkJCTwvdjp0ZXh0Ym94PgoJCQkJPC92OnJlY3Q+CgkJCQk8IVtlbmRpZl0tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CcKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgCgnCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoAoJwqAgwqAgwqAgwqAgwqAgwqAgwqAgwqAK</text>
       </register>
     </registers>
     <search>
