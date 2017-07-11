@@ -174,11 +174,11 @@
         <mark key="." line="3645" column="15" />
         <mark key="[" line="3645" column="8" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499717313475">
-        <mark key="]" line="41" column="94" />
-        <mark key="^" line="41" column="94" />
-        <mark key="." line="41" column="94" />
-        <mark key="[" line="41" column="92" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1499781958744">
+        <mark key="]" line="202" column="150" />
+        <mark key="^" line="202" column="150" />
+        <mark key="." line="202" column="150" />
+        <mark key="[" line="202" column="148" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1498160191098">
         <mark key="]" line="90" column="21" />
@@ -215,11 +215,11 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1499280772852">
         <mark key="^" line="141" column="48" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1499717318731">
-        <mark key="]" line="34" column="76" />
-        <mark key="^" line="34" column="76" />
-        <mark key="." line="34" column="76" />
-        <mark key="[" line="34" column="76" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1499781994170">
+        <mark key="]" line="30" column="78" />
+        <mark key="^" line="30" column="78" />
+        <mark key="." line="30" column="78" />
+        <mark key="[" line="202" column="197" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/footer.phtml" timestamp="1498157603570">
         <mark key="]" line="36" column="0" />
@@ -453,46 +453,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Din condesed medium</text>
+        <text>jpg</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>Din condesed medium</text>
+        <text>jpg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>b</text>
       </register>
       <register name="2" type="4">
-        <text>jpg</text>
+        <text>f</text>
       </register>
       <register name="1" type="4">
-        <text>Din condesed medium</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy9iZnRva2Vuc21zLmpwZyIgLz4K</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="4">
         <text>jpg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzdWJsaW5lIj5XYW50IHRvIHNlZSB3aGF0IHRoZSByZWNpcGllbnQgdmlldyB3aWxsIGxvb2sgbGlrZT8gPGEgY2xhc3M9InNob3dfb3ZlcmxheSIgZGF0YS1zaG93PSJlbWFpbCIgaHJlZj0iLy9nY2ktc3RhdGljY2RuLnMzLmFtYXpvbmF3cy5jb20vbWVkaWEvZ2lmdHRva2Vucy9kZW1vcy9iZnRva2VuZW1haWwuanBnIj5WaWV3IFNhbXBsZSBFbWFpbDwvYT4mbmJzcDsmbmJzcDsmbmJzcDsKICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoJHBhZ2VfZGF0YVsnc21zX2VuYWJsZWQnXSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJzaG93X292ZXJsYXkiIGRhdGEtc2hvdz0ic21zIiBocmVmPSIvL2djaS1zdGF0aWNjZG4uczMuYW1hem9uYXdzLmNvbS9tZWRpYS9naWZ0dG9rZW5zL2RlbW9zL2JmdG9rZW5zbXMuanBnIj5WaWV3IFNhbXBsZSBUZXh0PC9hPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>:</text>
+      </register>
+      <register name="6" type="4">
+        <text>b</text>
+      </register>
+      <register name="5" type="4">
+        <text>f</text>
+      </register>
+      <register name="4" type="4">
+        <text>jpg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>png</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCTwhLS1baWYgZ3RlIG1zbyA5XT4KCQkJCTwvdjp0ZXh0Ym94PgoJCQkJPC92OnJlY3Q+CgkJCQk8IVtlbmRpZl0tLT4K</text>
       </register>
-      <register name="8" type="4">
-        <text>#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
