@@ -187,12 +187,12 @@
         <mark key="." line="62" column="0" />
         <mark key="[" line="69" column="44" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Omnicard.php" timestamp="1500319473779">
-        <mark key="'" line="190" column="97" />
-        <mark key="]" line="64" column="41" />
-        <mark key="^" line="64" column="41" />
-        <mark key="." line="64" column="41" />
-        <mark key="[" line="63" column="109" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Omnicard.php" timestamp="1500320671911">
+        <mark key="'" line="189" column="97" />
+        <mark key="]" line="224" column="41" />
+        <mark key="^" line="224" column="41" />
+        <mark key="." line="224" column="41" />
+        <mark key="[" line="224" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/digital/landing/logged_out.phtml" timestamp="1498158194166">
         <mark key="]" line="3" column="0" />
@@ -321,47 +321,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/catalog/product/list.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>password</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>username</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzX2FycmF5KCRwYXltZW50RGF0YXMpICYmIHNpemVvZigkcGF5bWVudERhdGFzKSA+IDApCg==</text>
+      <register name="1" type="4">
+        <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJkYXRhW2NvbnRhY3RdW25hbWVdIiA9PiAkcGFzc3dvcmQsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICgoc3RycG9zKCRfU0VSVkVSWyJIVFRQX1VTRVJfQUdFTlQiXSwgIlNhZmFyaSIpIHx8IHN0cnBvcygkX1NFUlZFUlsiSFRUUF9VU0VSX0FHRU5UIl0sICJGQkFWIikpCiAgICAmJiAhc3RycG9zKCRfU0VSVkVSWyJIVFRQX1VTRVJfQUdFTlQiXSwgIkNocm9tZSIpKSB7CiAgICBpZiAoY291bnQoJF9DT09LSUUpID09PSAwKSB7CiAgICA/PgogICAgY29uc29sZS5sb2coIldvdWxkIGhhdmUgcmVkaXJlY3RlZCBmb3IgY29va2llIHNldCIpOwogICAgPD9waHAKICAgIH0KICAgIH0KICAgID8+Cg==</text>
+      <register name="7" type="4">
+        <text>$password</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJXb3VsZCBoYXZlIHJlZGlyZWN0ZWQgZm9yIGNvb2tpZSBzZXQiKTsK</text>
+      <register name="6" type="4">
+        <text>$password</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc29hcFVzZXJuYW1lID0gc2VsZjo6Z2V0V2Vic2VydmljZVVzZXJuYW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">ICAgICAgICAkc29hcFBhc3N3b3JkID0gc2VsZjo6Z2V0V2Vic2VydmljZVBhc3N3b3JkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDw/cGhwCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ImRhdGElNUJ0b2tlbiU1RD01Nzg2YjkyNzlmMmVkYTkxMjEwYjgxYTgwMTc1NGJmMiZkYXRhJTVCbWVyY2hhbnRfY29kZSU1RD1tZXJjaGFudF9jb2RlJmRhdGElNUJtZXJjaGFudF90ZW1wbGF0ZV9pZCU1RD1tZXJjaGFudF90ZW1wbGF0ZV9pZCZkYXRhJTVCZGVsaXZlcnklNUQ9ZG93bmxvYWQmZGF0YSU1QmZvcm0lNUQ9ZnJvbV9uYW1lJmRhdGElNUJjb250YWN0JTVEJTVCbmFtZSU1RD1jb250YWN0X25hbWUmZGF0YSU1QmNvbnRhY3QlNUQlNUJlbWFpbCU1RD1jb250YWN0X2VtYWlsJmRhdGElNUJjb250YWN0JTVEJTVCb3JnYW5pemF0aW9uJTVEPWNvbnRhY3Rfb3JnYW5pemF0aW9uJmRhdGElNUJjb250YWN0JTVEJTVCcGhvbmUlNUQ9Y29udGFjdF9waG9uZSIs</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgID8+Cg==</text>
+      <register name="8" type="4">
+        <text>$password</text>
       </register>
     </registers>
     <search>
