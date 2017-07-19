@@ -16,6 +16,12 @@
         <mark key="." line="4" column="46" />
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500475652042">
+        <mark key="]" line="1207" column="28" />
+        <mark key="^" line="1156" column="110" />
+        <mark key="." line="1207" column="28" />
+        <mark key="[" line="1207" column="22" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" timestamp="1500390311277">
         <mark key="'" line="34" column="54" />
         <mark key="]" line="29" column="71" />
@@ -106,8 +112,8 @@
         <mark key="[" line="63" column="38" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/style-token.css" timestamp="1499717251398" />
-      <file name="/a.dummy" timestamp="1500473074355">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1500475833414">
+        <mark key="[" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -352,47 +358,47 @@
       <jump line="34" column="54" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRkZWxpdmVyeV90ZXh0W10gPSAnUkVERUVNJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRlcm1zQW5kQ29uZGl0aW9ucyIgPT4gIiIsCg==</text>
+      <register name="7" type="4">
+        <text>LAUREN</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlVzYWdlSW5zdHJ1Y3Rpb25zIiA9PiAiIgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkluaXRpYWxCYWxhbmNlIiA9PiAkcGVySXRlbS0+Z2V0UHJpY2UoKSwK</text>
+      <register name="5" type="4">
+        <text>+</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkNhcmRQaW4iID0+IHN1YnN0cigkc3ZzUmVzdWx0LT5nZXREYXRhKCJwaW5fbnVtYmVyIiksIC00KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
