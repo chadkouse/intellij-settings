@@ -96,6 +96,11 @@
         <mark key="[" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1500394907475" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1500571829508">
+        <mark key="]" line="131" column="43" />
+        <mark key="." line="131" column="43" />
+        <mark key="[" line="131" column="43" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" timestamp="1498055607937">
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
@@ -282,46 +287,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Gift</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>Gift</text>
-      </register>
-      <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text>I</text>
+      </register>
+      <register name="2" type="4">
+        <text>N</text>
+      </register>
       <register name="1" type="4">
-        <text>Gift</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRkZWxpdmVyeV90ZXh0W10gPSAnUkVERUVNJzsK</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>||</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>Gift</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>||</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
