@@ -21,6 +21,7 @@
         <mark key="." line="150" column="137" />
         <mark key="[" line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/checkout/onepage.phtml" timestamp="1500668469370" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/OmnicardResult.php" timestamp="1499198040299">
         <mark key="]" line="4" column="46" />
         <mark key="^" line="4" column="46" />
@@ -161,11 +162,11 @@
         <mark key="." line="12" column="59" />
         <mark key="[" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbas/template/catalog/product/list.phtml" timestamp="1500325145212">
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="125" column="1" />
-        <mark key="." line="122" column="0" />
-        <mark key="[" line="122" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbas/template/catalog/product/list.phtml" timestamp="1500668635314">
+        <mark key="]" line="69" column="74" />
+        <mark key="^" line="69" column="74" />
+        <mark key="." line="69" column="74" />
+        <mark key="[" line="69" column="75" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
@@ -267,6 +268,9 @@
         <mark key="." line="1" column="113" />
         <mark key="[" line="1" column="105" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/styles-mobile.min.css" timestamp="1500668508265">
+        <mark key="[" line="2241" column="1" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/homepage.phtml" timestamp="1498160614526">
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -313,10 +317,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1500408208871">
-        <mark key="]" line="298" column="4" />
-        <mark key="[" line="281" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1500393116597" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/connect360/css/font-face.css" timestamp="1498162026265">
