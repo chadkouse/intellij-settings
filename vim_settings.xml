@@ -34,11 +34,11 @@
         <mark key="[" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/style-token.css" timestamp="1499717251398" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1500994938671">
-        <mark key="]" line="630" column="0" />
-        <mark key="^" line="630" column="22" />
-        <mark key="." line="630" column="0" />
-        <mark key="[" line="525" column="53" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1500999035194">
+        <mark key="]" line="527" column="74" />
+        <mark key="^" line="527" column="74" />
+        <mark key="." line="527" column="74" />
+        <mark key="[" line="527" column="75" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
@@ -46,7 +46,7 @@
         <mark key="." line="13" column="54" />
         <mark key="[" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/CustomScene7Service.php" timestamp="1500929477769">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/CustomScene7Service.php" timestamp="1500998520736">
         <mark key="'" line="876" column="8" />
         <mark key="]" line="1292" column="0" />
         <mark key="." line="1292" column="0" />
@@ -177,6 +177,12 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1500998523876">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1500475833414">
+        <mark key="[" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
         <mark key="^" line="33" column="10" />
@@ -249,11 +255,11 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Scene7Service.php" timestamp="1500997594554">
-        <mark key="]" line="1277" column="27" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Scene7Service.php" timestamp="1500998977068">
+        <mark key="]" line="1104" column="57" />
         <mark key="^" line="1391" column="35" />
         <mark key="." line="1391" column="35" />
-        <mark key="[" line="1275" column="0" />
+        <mark key="[" line="1104" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/digital/landing/logged_out.phtml" timestamp="1498158194166">
         <mark key="]" line="3" column="0" />
@@ -379,7 +385,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwaG90byA9IHNlbGY6OmNhbGN1bGF0ZVBob3RvU2l6ZSgkcGhvdG8pOwo=</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
@@ -397,7 +403,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzb3VyY2UpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nb1Bob3RvLnJlc3RvcmVQaG90byhzb3VyY2UsIG9yaVcsIG9yaUgsIHdpZHRoLCBoZWlnaHQsIHgsIHksIHpvb21SYXRlLCByb3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwaG90byA9IHNlbGY6OmNhbGN1bGF0ZVBob3RvU2l6ZSgkcGhvdG8pOwo=</text>
       </register>
       <register name="7" type="4">
         <text>logoPhotoReference</text>
