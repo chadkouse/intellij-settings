@@ -39,19 +39,20 @@
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/style-token.css" timestamp="1499717251398" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1501082495436">
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
-        <mark key="[" line="324" column="115" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1501083915128">
+        <mark key="]" line="438" column="84" />
+        <mark key="^" line="438" column="84" />
+        <mark key="." line="438" column="84" />
+        <mark key="[" line="438" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1501079796725">
         <mark key="]" line="33" column="19" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design/inside.phtml" timestamp="1501013802832">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design/inside.phtml" timestamp="1501083998162">
         <mark key="]" line="99" column="7" />
         <mark key="." line="97" column="0" />
-        <mark key="[" line="97" column="0" />
+        <mark key="[" line="118" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
@@ -252,7 +253,7 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1501082829175">
+      <file name="/a.dummy" timestamp="1501083976700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1500475833414">
@@ -284,11 +285,10 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Personalization/Design.php" timestamp="1500952853610" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Customer.php" timestamp="1499970741103" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design.phtml" timestamp="1501082232768">
-        <mark key="]" line="733" column="41" />
-        <mark key="^" line="733" column="41" />
-        <mark key="." line="733" column="41" />
-        <mark key="[" line="733" column="38" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design.phtml" timestamp="1501084783985">
+        <mark key="]" line="885" column="43" />
+        <mark key="." line="885" column="43" />
+        <mark key="[" line="885" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/page.xml" timestamp="1498148584630">
         <mark key="]" line="164" column="0" />
@@ -479,47 +479,47 @@
       <jump line="877" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/CustomScene7Service.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJZXJyb3I6IGZ1bmN0aW9uKGUpIHsKCQkJCQkJCXJldHVybiBjYWxsYmFjayhlKTsKCQkJCQkJfSwK</text>
+        <text encoding="base64">CQkJaW5zaWRlUmlnaHRJbWFnZTogIjw/cGhwIGVjaG8gJHByZXZpZXdEYXRhWydpbnNpZGVSaWdodCddWydzb3VyY2UnXTs/PiIsCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>target</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>restoreImage = f</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>restore</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQl2YXIgbG9nb193cmFwID0galF1ZXJ5KCcubG9nb190aXRsZV93cmFwcGVyJyk7CgkJbG9nb193cmFwLmZpbmQoJ2g0LHNwYW4nKS5zaG93KCk7CgkJbG9nb193cmFwLmZpbmQoJ2Rpdi5jbG9zZXgnKS5oaWRlKCk7CgkJbG9nb193cmFwLmZpbmQoJ2ltZycpLnJlbW92ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>+</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
     </registers>
     <search>
