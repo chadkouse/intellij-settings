@@ -261,11 +261,11 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Personalization/Design.php" timestamp="1500952853610" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Customer.php" timestamp="1499970741103" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design.phtml" timestamp="1501035280593">
-        <mark key="]" line="596" column="33" />
-        <mark key="^" line="596" column="33" />
-        <mark key="." line="596" column="33" />
-        <mark key="[" line="593" column="88" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design.phtml" timestamp="1501036361065">
+        <mark key="]" line="595" column="42" />
+        <mark key="^" line="595" column="42" />
+        <mark key="." line="595" column="42" />
+        <mark key="[" line="595" column="38" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/page.xml" timestamp="1498148584630">
         <mark key="]" line="164" column="0" />
@@ -456,47 +456,47 @@
       <jump line="877" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/CustomScene7Service.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXNob3dBamF4TG9hZGluZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CXRoaXMudXBkYXRlTG9nbwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXNob3dBamF4TG9hZGluZygpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>m</text>
-      </register>
-      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>x</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>-</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
