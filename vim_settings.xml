@@ -25,6 +25,12 @@
         <mark key="." line="4" column="46" />
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1501812736522">
+        <mark key="]" line="10115" column="20" />
+        <mark key="^" line="10115" column="20" />
+        <mark key="." line="10115" column="20" />
+        <mark key="[" line="10114" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/digital/landing/index.phtml" timestamp="1498148938623">
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -53,11 +59,10 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1501787190820">
-        <mark key="]" line="3332" column="9" />
-        <mark key="^" line="3332" column="9" />
-        <mark key="." line="3332" column="9" />
-        <mark key="[" line="3332" column="8" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1501812160120">
+        <mark key="]" line="3489" column="0" />
+        <mark key="." line="3489" column="0" />
+        <mark key="[" line="3489" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/customer.xml" timestamp="1498157380396">
         <mark key="]" line="82" column="0" />
@@ -142,16 +147,16 @@
         <mark key="]" line="33" column="19" />
         <mark key="[" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/page/html/header.phtml" timestamp="1501812989306">
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design/inside.phtml" timestamp="1501083998162">
         <mark key="]" line="99" column="7" />
         <mark key="." line="97" column="0" />
         <mark key="[" line="118" column="43" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1501786448591">
-        <mark key="]" line="95" column="53" />
-        <mark key="^" line="95" column="53" />
-        <mark key="." line="95" column="53" />
-        <mark key="[" line="95" column="52" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -343,6 +348,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/digital_v2/htmlcard.styles.css" timestamp="1501813173812">
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="[" line="19" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/connect360/css/font-face.css" timestamp="1498162026265">
         <mark key="]" line="55" column="75" />
         <mark key="^" line="56" column="48" />
@@ -470,47 +480,47 @@
       <jump line="986" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0FhYVNob3AoJHN0b3JlSWQgPSBudWxsKQogICAgewogICAgICAgIGlmICghJHN0b3JlSWQpIHsKICAgICAgICAgICAgaWYgKHN0cnRvbG93ZXIoTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSk9PSJhYWEiICkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkc3RvcmUgPSBNYWdlOjphcHAoKS0+Z2V0U3RvcmUoJHN0b3JlSWQpOwogICAgICAgICAgICBpZiAoc3RydG9sb3dlcigkc3RvcmUtPmdldENvZGUoKSkgPT0iYWFhIikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!important</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!important</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">I21lc3NhZ2UgCQkJe3RvcDowICFpbXBvcnRhbnQ7IHBvc2l0aW9uOiBhYnNvbHV0ZTsgd2lkdGg6IDIwMHB4OyBoZWlnaHQ6IDE2NXB4OyBib3R0b206IDE1cHg7IGxlZnQ6IDM3cHg7IHdoaXRlLXNwYWNlOiBwcmUtd3JhcDsgZm9udC1zaXplOiAxNnB4OyBsaW5lLWhlaWdodDogMThweDsgdGV4dC1hbGlnbjogY2VudGVyOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsgYm9yZGVyOiBub25lOyByZXNpemU6IG5vbmU7IH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ0dpZnRhbmdvIFJlc3VsdDogJyAuICRnaWZ0YW5nb1Jlc3VsdCwgbnVsbCwgJ2dpZlRhbmdvLmxvZycpOwo=</text>
+      <register name="1" type="4">
+        <text>!important</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0FhYVNob3AoJHN0b3JlSWQgPSBudWxsKQogICAgewogICAgICAgIGlmICghJHN0b3JlSWQpIHsKICAgICAgICAgICAgaWYgKHN0cnRvbG93ZXIoTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSk9PSJhYWEiICkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkc3RvcmUgPSBNYWdlOjphcHAoKS0+Z2V0U3RvcmUoJHN0b3JlSWQpOwogICAgICAgICAgICBpZiAoc3RydG9sb3dlcigkc3RvcmUtPmdldENvZGUoKSkgPT0iYWFhIikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>y</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ0dpZnRhbmdvIFJlc3VsdDogJyAuICRnaWZ0YW5nb1Jlc3VsdCwgbnVsbCwgJ2dpZlRhbmdvLmxvZycpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyRzdnNIZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMvc3ZzJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL2lmICgkc3ZzSGVscGVyLT5pc0Z1bGZpbGxtZW50TWV0aG9kTWF0Y2goJGZ1bGZpbGxtZW50TWV0aG9kKSkgewogICAgICAgIC8vICAgICRzdnNPcmRlciA9IHRydWU7CiAgICAgICAgLy8gICAgJGdpZnRhbmdvT3JkZXIgPSBmYWxzZTsKICAgICAgICAvL30K</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9yLWJ1c2luZXNzIj48YSBjbGFzcz0iYjJiIiBocmVmPSI8P3BocCBlY2hvICRidXNpbmVzc0xpbms7ID8+Ij5CdXNpbmVzczwvYT48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
