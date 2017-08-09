@@ -47,8 +47,8 @@
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1502226137285">
-        <mark key="]" line="3502" column="0" />
-        <mark key="." line="3502" column="0" />
+        <mark key="]" line="3646" column="0" />
+        <mark key="." line="3646" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -220,6 +220,12 @@
         <mark key="." line="15" column="22" />
         <mark key="[" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Catalog/Model/Layer.php" timestamp="1502242954515">
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/SvsResult/Collection.php" timestamp="1497453997793">
         <mark key="]" line="1" column="113" />
         <mark key="^" line="1" column="113" />
@@ -255,6 +261,12 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/persistent/checkout/onepage/loginV2.phtml" timestamp="1502242722078">
+        <mark key="]" line="94" column="130" />
+        <mark key="^" line="94" column="140" />
+        <mark key="." line="94" column="130" />
+        <mark key="[" line="94" column="130" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/digital/landing/logged_out.phtml" timestamp="1498158194166">
         <mark key="]" line="3" column="0" />
@@ -393,47 +405,47 @@
       <jump line="986" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>gifTango.log</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RlbGV0ZSBxdW90ZSBub3cgLS0gbGVhdmluZyBpdCBhcm91bmQgc2VlbXMgdG8gY2F1c2UgcHJvYmxlbXMKICAgICAgICAkcXVvdGVJRCA9IE1hZ2U6OmdldFNpbmdsZXRvbigiY2hlY2tvdXQvc2Vzc2lvbiIpLT5nZXRRdW90ZSgpLT5nZXRJZCgpOwoKICAgICAgICBpZigkcXVvdGVJRCkKICAgICAgICB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkcXVvdGUgPSBNYWdlOjpnZXRNb2RlbCgic2FsZXMvcXVvdGUiKS0+bG9hZCgkcXVvdGVJRCk7CiAgICAgICAgICAgICAgICAkcXVvdGUtPnNldElzQWN0aXZlKGZhbHNlKTsKICAgICAgICAgICAgICAgICRxdW90ZS0+ZGVsZXRlKCk7CiAgICAgICAgICAgICAgICAvL01hZ2U6OmxvZygiRGVsZXRlZCBxdW90ZSIsIG51bGwsICJzeXN0ZW0ubG9nIik7CiAgICAgICAgICAgIH0gY2F0Y2goRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICBNYWdlOjpsb2coIkVycm9yIGRlbGV0aW5nIHF1b3RlICIgLiAkZS0+Z2V0TWVzc2FnZSgpLCBudWxsLCAic3lzdGVtLmxvZyIpOwogICAgICAgICAgICB9CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIE1hZ2U6OmxvZygibm8gcXVvdGUgZm91bmQgd2hlbiB0cnlpbmcgdG8gZGVsZXRlIiwgbnVsbCwgInN5c3RlbS5sb2ciKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0FhYVNob3AoJHN0b3JlSWQgPSBudWxsKQogICAgewogICAgICAgIGlmICghJHN0b3JlSWQpIHsKICAgICAgICAgICAgaWYgKHN0cnRvbG93ZXIoTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSk9PSJhYWEiICkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkc3RvcmUgPSBNYWdlOjphcHAoKS0+Z2V0U3RvcmUoJHN0b3JlSWQpOwogICAgICAgICAgICBpZiAoc3RydG9sb3dlcigkc3RvcmUtPmdldENvZGUoKSkgPT0iYWFhIikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>gifTango.log</text>
+        <text>v</text>
       </register>
       <register name="6" type="4">
-        <text>gifTango.log</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="5" type="4">
-        <text>gifTango.log</text>
+        <text encoding="base64">L2Rpdj4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpnZXRTaW5nbGV0b24oJ2NoZWNrb3V0L3Nlc3Npb24nKS0+Y2xlYXIoKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBDbGVhciBzZXNzaW9uIGRhdFZhCiAgICAgICAgICAgICAgICAgICAgTWFnZTo6Z2V0U2luZ2xldG9uKCdjaGVja291dC9zZXNzaW9uJyktPmNsZWFyKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
     </registers>
     <search>
