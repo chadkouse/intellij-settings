@@ -201,11 +201,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1501867749050">
-        <mark key="]" line="1795" column="19" />
-        <mark key="^" line="1795" column="19" />
-        <mark key="." line="1795" column="19" />
-        <mark key="[" line="1795" column="4" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502821589401">
+        <mark key="]" line="1140" column="22" />
+        <mark key="^" line="1140" column="22" />
+        <mark key="." line="1140" column="22" />
+        <mark key="[" line="1139" column="22" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500479722309">
         <mark key="]" line="274" column="30" />
@@ -531,47 +531,47 @@
       <jump line="986" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoJG9yZGVyLT5nZXRBbGxJdGVtcygpIGFzICRvcmRlckl0ZW0pIHsKICAgIC8vIExPQUQgb25seSByZWxldmFudCBhdHRyaWJ1dGVzOgoKICAgICRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJG9yZGVySXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwogICAgJHBlclNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAiaXRlbV9pZCIpOwogICAgLy8gJHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsVG9rZW5QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlclNjaGVkdWxlKTsKICAgIGlmICgkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCkgIT0gInNtcyIpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0KICAgICRfcHJvZHVjdD0gIE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkb3JkZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7CiAgICAkZGVsaXZlcnlfdXJsID0gJGRhdGFIZWxwZXItPmdldFBlcnNvbmFsaXphdGlvbkRlbGl2ZXJ5VXJsKCRfcHJvZHVjdCwgJHBlckl0ZW0pOwogICAgaWYgKHN0cnBvcygkZGVsaXZlcnlfdXJsLCAnPycpID4gMCkKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICImIjsKICAgIGVsc2UKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICI/IjsKICAgICRkZWxpdmVyeV91cmwgLj0gInA9MSI7CiAgICAvLyBUT0RPIHJlZmFjdG9yIHNob3J0IHVybCBzbyBpdCdzIG5vdCBqdXN0IG1ha2luZyBuZXcgb25lcyBvdmVyIGFuZCBvdmVyCiAgICAkc2hvcnR1cmwgPSBNYWdlOjpnZXRNb2RlbCgnc2hvcnR1cmwvc2hvcnR1cmwnKTsKICAgICRzaG9ydHVybC0+c2V0RnVsbFVybCgkZGVsaXZlcnlfdXJsKTsKICAgICRzaG9ydHVybC0+c2F2ZSgpOwogICAgJHByZWZpeCA9ICJ1IjsKICAgIGlmICgkZGF0YUhlbHBlci0+aXNHaWZ0VG9rZW4oJF9wcm9kdWN0KSkgewogICAgICAgIGlmICgkcGVySXRlbS0+Z2V0SG9sZGVySWQoKSA+IDApIHsKICAgICAgICAgICAgJHByZWZpeCA9ICJ1YSI7IC8vIHNob3J0IHVybCBoYW5kbGVkIGJ5IHRoZSBhcHAgcG90ZW50aWFsbHkKICAgICAgICB9CiAgICB9CiAgICAkc2VuZGVyX25hbWUgPSAkcGVyU2NoZWR1bGUtPmdldFNlbmRlckZpcnN0TmFtZSgpOwogICAgJHNob3J0dXJsX2Z1bGwgPSBNYWdlOjpoZWxwZXIoJ3Nob3J0dXJsJyktPmdldFVybCgkc2hvcnR1cmwsICRwcmVmaXgpOwogICAgJHNob3JVcmxzW10gPSAkc2VuZGVyX25hbWUgLiAiIHNlbnQgeW91IGEgZ2lmdCB0b2tlbiEgT3BlbiBpdCBiZWxvdy4gIiAuICRzaG9ydHVybF9mdWxsOwp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>You will enter the phone number after checkout!</text>
+        <text>#</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICRfcHJvZHVjdD0gIE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkb3JkZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICRzaG9yVXJsc1tdID0gJHNlbmRlcl9uYW1lIC4gIiBzZW50IHlvdSAiIC4gJHByb2R1Y3RfbmFtZSAuICIhIE9wZW4gaXQgYmVsb3cuICIgLiAkc2hvcnR1cmxfZnVsbDsK</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoJG9yZGVyLT5nZXRBbGxJdGVtcygpIGFzICRvcmRlckl0ZW0pIHsKICAgIC8vIExPQUQgb25seSByZWxldmFudCBhdHRyaWJ1dGVzOgoKICAgICRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJG9yZGVySXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwogICAgJHBlclNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAiaXRlbV9pZCIpOwogICAgLy8gJHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsVG9rZW5QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlclNjaGVkdWxlKTsKICAgIGlmICgkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCkgIT0gInNtcyIpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0KICAgICRfcHJvZHVjdD0gIE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkb3JkZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7CiAgICAkZGVsaXZlcnlfdXJsID0gJGRhdGFIZWxwZXItPmdldFBlcnNvbmFsaXphdGlvbkRlbGl2ZXJ5VXJsKCRfcHJvZHVjdCwgJHBlckl0ZW0pOwogICAgaWYgKHN0cnBvcygkZGVsaXZlcnlfdXJsLCAnPycpID4gMCkKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICImIjsKICAgIGVsc2UKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICI/IjsKICAgICRkZWxpdmVyeV91cmwgLj0gInA9MSI7CiAgICAvLyBUT0RPIHJlZmFjdG9yIHNob3J0IHVybCBzbyBpdCdzIG5vdCBqdXN0IG1ha2luZyBuZXcgb25lcyBvdmVyIGFuZCBvdmVyCiAgICAkc2hvcnR1cmwgPSBNYWdlOjpnZXRNb2RlbCgnc2hvcnR1cmwvc2hvcnR1cmwnKTsKICAgICRzaG9ydHVybC0+c2V0RnVsbFVybCgkZGVsaXZlcnlfdXJsKTsKICAgICRzaG9ydHVybC0+c2F2ZSgpOwogICAgJHByZWZpeCA9ICJ1IjsKICAgIGlmICgkZGF0YUhlbHBlci0+aXNHaWZ0VG9rZW4oJF9wcm9kdWN0KSkgewogICAgICAgIGlmICgkcGVySXRlbS0+Z2V0SG9sZGVySWQoKSA+IDApIHsKICAgICAgICAgICAgJHByZWZpeCA9ICJ1YSI7IC8vIHNob3J0IHVybCBoYW5kbGVkIGJ5IHRoZSBhcHAgcG90ZW50aWFsbHkKICAgICAgICB9CiAgICB9CiAgICAkc2VuZGVyX25hbWUgPSAkcGVyU2NoZWR1bGUtPmdldFNlbmRlckZpcnN0TmFtZSgpOwogICAgJHNob3J0dXJsX2Z1bGwgPSBNYWdlOjpoZWxwZXIoJ3Nob3J0dXJsJyktPmdldFVybCgkc2hvcnR1cmwsICRwcmVmaXgpOwogICAgJHNob3JVcmxzW10gPSAkc2VuZGVyX25hbWUgLiAiIHNlbnQgeW91IGEgZ2lmdCB0b2tlbiEgT3BlbiBpdCBiZWxvdy4gIiAuICRzaG9ydHVybF9mdWxsOwp9Cg==</text>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JHNtc0hlbHBlciA9IE1hZ2U6OmhlbHBlcigncGVyc29uYWxpemF0aW9ucy9zbXMnKTsKZm9yZWFjaCAoJG9yZGVyLT5nZXRBbGxJdGVtcygpIGFzICRvcmRlckl0ZW0pIHsKICAgIC8vIExPQUQgb25seSByZWxldmFudCBhdHRyaWJ1dGVzOgoKICAgICRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJG9yZGVySXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwogICAgJHBlclNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAiaXRlbV9pZCIpOwogICAgLy8gJHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsVG9rZW5QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlclNjaGVkdWxlKTsKICAgICRyZWNpcGllbnRfZW1haWwgPSAkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCk7CiAgICBpZiAoc3Vic3RyKCRyZWNpcGllbnRfZW1haWwsIDAsIDQpICE9ICJzbXM6IikgewogICAgICAgIGNvbnRpbnVlOwogICAgfQogICAgJHJlY2lwaWVudF9udW1iZXIgPSBleHBsb2RlKCI6IiwgJHJlY2lwaWVudF9lbWFpbClbMV07CiAgICAkX3Byb2R1Y3Q9ICBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0JyktPmxvYWQoJG9yZGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwogICAgJGRlbGl2ZXJ5X3VybCA9ICRkYXRhSGVscGVyLT5nZXRQZXJzb25hbGl6YXRpb25EZWxpdmVyeVVybCgkX3Byb2R1Y3QsICRwZXJJdGVtKTsKICAgIGlmIChzdHJwb3MoJGRlbGl2ZXJ5X3VybCwgJz8nKSA+IDApCiAgICAgICAgJGRlbGl2ZXJ5X3VybCAuPSAiJiI7CiAgICBlbHNlCiAgICAgICAgJGRlbGl2ZXJ5X3VybCAuPSAiPyI7CiAgICAkZGVsaXZlcnlfdXJsIC49ICJwPTEiOwogICAgLy8gVE9ETyByZWZhY3RvciBzaG9ydCB1cmwgc28gaXQncyBub3QganVzdCBtYWtpbmcgbmV3IG9uZXMgb3ZlciBhbmQgb3ZlcgogICAgJHNob3J0dXJsID0gTWFnZTo6Z2V0TW9kZWwoJ3Nob3J0dXJsL3Nob3J0dXJsJyk7CiAgICAkc2hvcnR1cmwtPnNldEZ1bGxVcmwoJGRlbGl2ZXJ5X3VybCk7CiAgICAkc2hvcnR1cmwtPnNhdmUoKTsKICAgICRwcmVmaXggPSAidSI7CiAgICBpZiAoJGRhdGFIZWxwZXItPmlzR2lmdFRva2VuKCRfcHJvZHVjdCkpIHsKICAgICAgICBpZiAoJHBlckl0ZW0tPmdldEhvbGRlcklkKCkgPiAwKSB7CiAgICAgICAgICAgICRwcmVmaXggPSAidWEiOyAvLyBzaG9ydCB1cmwgaGFuZGxlZCBieSB0aGUgYXBwIHBvdGVudGlhbGx5CiAgICAgICAgfQogICAgfQogICAgJHNlbmRlcl9uYW1lID0gJHBlclNjaGVkdWxlLT5nZXRTZW5kZXJGaXJzdE5hbWUoKTsKICAgICRzaG9ydHVybF9mdWxsID0gTWFnZTo6aGVscGVyKCdzaG9ydHVybCcpLT5nZXRVcmwoJHNob3J0dXJsLCAkcHJlZml4KTsKICAgICRzaG9yVXJsc1tdID0gJHNlbmRlcl9uYW1lIC4gIiBzZW50IHlvdSBhIGdpZnQgdG9rZW4hIE9wZW4gaXQgYmVsb3cuICIgLiAkc2hvcnR1cmxfZnVsbDsKICAgICRwcm9kdWN0X25hbWUgPSAkX3Byb2R1Y3QtPmdldE5hbWUoKTsKICAgICR2b3dlbHMgPSBhcnJheSgiYSIsImUiLCJpIiwibyIsInUiKTsKICAgIGlmIChpbl9hcnJheShzdHJ0b2xvd2VyKHN1YnN0cigkcHJvZHVjdF9uYW1lLCAwLCAxKSksICR2b3dlbHMpKSB7CiAgICAgICAgJHByb2R1Y3RfbmFtZSA9ICJhbiAiIC4gJHByb2R1Y3RfbmFtZTsKICAgIH0gZWxzZSB7CiAgICAgICAgJHByb2R1Y3RfbmFtZSA9ICJhICIgLiAkcHJvZHVjdF9uYW1lOwogICAgfQogICAgJGJvZHkgPSAkc2VuZGVyX25hbWUgLiAiIHNlbnQgeW91ICIgLiAkcHJvZHVjdF9uYW1lIC4gIiEgT3BlbiBpdCBiZWxvdy4gIiAuICRzaG9ydHVybF9mdWxsOwogICAgJHNtc0hlbHBlci0+c2VuZFNtc01lc3NhZ2UoJHJlY2lwaWVudF9udW1iZXIsICRib2R5KTsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ic2VuZEJ5IiB2YWx1ZT0ic21zIj48c3BhbiBjbGFzcz0ic2VuZHR5cGUiPlRleHQ8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCkgIT0gInNtcyIpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ic2VuZEJ5IiB2YWx1ZT0ic21zIj48c3BhbiBjbGFzcz0ic2VuZHR5cGUiPlRleHQ8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICRfcHJvZHVjdD0gIE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkb3JkZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>You will enter the phone number after checkout!</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRzaG9yVXJsc1tdID0gJHNlbmRlcl9uYW1lIC4gIiBzZW50IHlvdSAiIC4gJHByb2R1Y3RfbmFtZSAuICIhIE9wZW4gaXQgYmVsb3cuICIgLiAkc2hvcnR1cmxfZnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCkgIT0gInNtcyIpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0K</text>
+        <text encoding="base64">Zm9yZWFjaCAoJG9yZGVyLT5nZXRBbGxJdGVtcygpIGFzICRvcmRlckl0ZW0pIHsKICAgIC8vIExPQUQgb25seSByZWxldmFudCBhdHRyaWJ1dGVzOgoKICAgICRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJG9yZGVySXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwogICAgJHBlclNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAiaXRlbV9pZCIpOwogICAgLy8gJHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsVG9rZW5QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlclNjaGVkdWxlKTsKICAgIGlmICgkcGVyU2NoZWR1bGUtPmdldFJlY2lwaWVudEVtYWlsKCkgIT0gInNtcyIpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0KICAgICRfcHJvZHVjdD0gIE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkb3JkZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7CiAgICAkZGVsaXZlcnlfdXJsID0gJGRhdGFIZWxwZXItPmdldFBlcnNvbmFsaXphdGlvbkRlbGl2ZXJ5VXJsKCRfcHJvZHVjdCwgJHBlckl0ZW0pOwogICAgaWYgKHN0cnBvcygkZGVsaXZlcnlfdXJsLCAnPycpID4gMCkKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICImIjsKICAgIGVsc2UKICAgICAgICAkZGVsaXZlcnlfdXJsIC49ICI/IjsKICAgICRkZWxpdmVyeV91cmwgLj0gInA9MSI7CiAgICAvLyBUT0RPIHJlZmFjdG9yIHNob3J0IHVybCBzbyBpdCdzIG5vdCBqdXN0IG1ha2luZyBuZXcgb25lcyBvdmVyIGFuZCBvdmVyCiAgICAkc2hvcnR1cmwgPSBNYWdlOjpnZXRNb2RlbCgnc2hvcnR1cmwvc2hvcnR1cmwnKTsKICAgICRzaG9ydHVybC0+c2V0RnVsbFVybCgkZGVsaXZlcnlfdXJsKTsKICAgICRzaG9ydHVybC0+c2F2ZSgpOwogICAgJHByZWZpeCA9ICJ1IjsKICAgIGlmICgkZGF0YUhlbHBlci0+aXNHaWZ0VG9rZW4oJF9wcm9kdWN0KSkgewogICAgICAgIGlmICgkcGVySXRlbS0+Z2V0SG9sZGVySWQoKSA+IDApIHsKICAgICAgICAgICAgJHByZWZpeCA9ICJ1YSI7IC8vIHNob3J0IHVybCBoYW5kbGVkIGJ5IHRoZSBhcHAgcG90ZW50aWFsbHkKICAgICAgICB9CiAgICB9CiAgICAkc2VuZGVyX25hbWUgPSAkcGVyU2NoZWR1bGUtPmdldFNlbmRlckZpcnN0TmFtZSgpOwogICAgJHNob3J0dXJsX2Z1bGwgPSBNYWdlOjpoZWxwZXIoJ3Nob3J0dXJsJyktPmdldFVybCgkc2hvcnR1cmwsICRwcmVmaXgpOwogICAgJHNob3JVcmxzW10gPSAkc2VuZGVyX25hbWUgLiAiIHNlbnQgeW91IGEgZ2lmdCB0b2tlbiEgT3BlbiBpdCBiZWxvdy4gIiAuICRzaG9ydHVybF9mdWxsOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ic2VuZEJ5IiB2YWx1ZT0ic21zIj48c3BhbiBjbGFzcz0ic2VuZHR5cGUiPlRleHQ8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text>You will enter the phone number after checkout!</text>
       </register>
     </registers>
     <search>
