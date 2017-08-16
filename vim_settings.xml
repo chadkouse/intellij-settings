@@ -207,11 +207,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502914051040">
-        <mark key="]" line="10066" column="17" />
-        <mark key="^" line="10065" column="23" />
-        <mark key="." line="10066" column="17" />
-        <mark key="[" line="10066" column="16" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502917419888">
+        <mark key="]" line="546" column="21" />
+        <mark key="^" line="546" column="21" />
+        <mark key="." line="546" column="21" />
+        <mark key="[" line="546" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500479722309">
         <mark key="]" line="274" column="30" />
@@ -573,37 +573,37 @@
         <text>Open Sans</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>,button</text>
       </register>
       <register name="1" type="4">
         <text>Open Sans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiR290aGFtTWVkaXVtIixzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">aW5wdXQsc2VsZWN0LHRleHRhcmVhLGJ1dHRvbiB7CiAgICBmb250OiAxMnB4ICdPcGVuIFNhbnMnLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIGNvbG9yOiAjN2M3YzdjCn0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWRlZGVkOwo=</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>Gift Cards</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>Digital</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMnB4IHNvbGlkICNlZGVkZWQ7Cg==</text>
+      <register name="9" type="4">
+        <text>x</text>
       </register>
       <register name="8" type="4">
-        <text>2px solid #ededed</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
