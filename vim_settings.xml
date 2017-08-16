@@ -127,9 +127,6 @@
         <mark key="." line="34" column="0" />
         <mark key="[" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/styles-mobile.min.css" timestamp="1500668508265">
-        <mark key="[" line="2241" column="1" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/SvsExportController.php" timestamp="1497550447666">
         <mark key="]" line="24" column="8" />
         <mark key="^" line="22" column="59" />
@@ -176,9 +173,6 @@
         <mark key="." line="241" column="21" />
         <mark key="[" line="241" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/js/opcheckout.js" timestamp="1501876833767">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/checkout/onepage/review/info.phtml" timestamp="1496405848477">
         <mark key="]" line="43" column="105" />
         <mark key="." line="43" column="105" />
@@ -207,11 +201,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502907447535">
-        <mark key="]" line="2602" column="43" />
-        <mark key="^" line="381" column="15" />
-        <mark key="." line="2602" column="0" />
-        <mark key="[" line="2602" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502908940924">
+        <mark key="]" line="10221" column="11" />
+        <mark key="^" line="10221" column="11" />
+        <mark key="." line="10221" column="11" />
+        <mark key="[" line="10221" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500479722309">
         <mark key="]" line="274" column="30" />
@@ -310,14 +304,11 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1502829073770">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.txt" timestamp="1502119968797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_spinner.phtml" timestamp="1500475833414">
-        <mark key="[" line="9" column="4" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu_landing.phtml" timestamp="1502908593760">
+        <mark key="]" line="146" column="165" />
+        <mark key="^" line="146" column="165" />
+        <mark key="." line="146" column="165" />
+        <mark key="[" line="146" column="162" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -354,12 +345,6 @@
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
       </file>
-      <file name="/a.regexp" timestamp="1502119964793">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1502135395829">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/page.xml" timestamp="1498148584630">
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
@@ -369,6 +354,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/navigation/top.phtml" timestamp="1502908662368">
+        <mark key="]" line="97" column="146" />
+        <mark key="^" line="97" column="146" />
+        <mark key="." line="97" column="146" />
+        <mark key="[" line="97" column="146" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/OmnicardResult/Collection.php" timestamp="1499198003257">
         <mark key="]" line="1" column="110" />
@@ -411,9 +402,6 @@
         <mark key="^" line="228" column="22" />
         <mark key="." line="228" column="22" />
         <mark key="[" line="226" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/digital_v2/htmlcard.extend.js" timestamp="1500926565813">
-        <mark key="[" line="224" column="59" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/etc/config.xml" timestamp="1500390523473">
         <mark key="]" line="4" column="26" />
@@ -569,47 +557,47 @@
       <jump line="986" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiR290aGFtTWVkaXVtIixzYW5zLXNlcmlmOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Digital</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>2px solid #ededed</text>
+        <text>Digital</text>
       </register>
-      <register name="3" type="4">
-        <text>2px solid #ededed</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWRlZGVkOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>Gift Cards</text>
+      </register>
+      <register name="1" type="4">
+        <text>Digital</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiR290aGFtTWVkaXVtIixzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>Send Now</text>
-      </register>
-      <register name="6" type="4">
-        <text>send</text>
-      </register>
-      <register name="5" type="4">
         <text>s</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMnB4IHNvbGlkICNlZGVkZWQ7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>2px solid #ededed</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IE5vdw==</text>
+        <text>Send Now</text>
       </register>
       <register name="8" type="4">
-        <text>Send Now</text>
+        <text>send</text>
       </register>
     </registers>
     <search>
