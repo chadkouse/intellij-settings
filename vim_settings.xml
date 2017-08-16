@@ -9,6 +9,12 @@
         <mark key="." line="69" column="75" />
         <mark key="[" line="69" column="73" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/checkout/cartv2.phtml" timestamp="1502914447564">
+        <mark key="]" line="77" column="35" />
+        <mark key="^" line="77" column="35" />
+        <mark key="." line="77" column="35" />
+        <mark key="[" line="77" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1501868374558">
         <mark key="]" line="12" column="60" />
         <mark key="^" line="12" column="60" />
@@ -201,11 +207,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502908940924">
-        <mark key="]" line="10221" column="11" />
-        <mark key="^" line="10221" column="11" />
-        <mark key="." line="10221" column="11" />
-        <mark key="[" line="10221" column="11" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502914051040">
+        <mark key="]" line="10066" column="17" />
+        <mark key="^" line="10065" column="23" />
+        <mark key="." line="10066" column="17" />
+        <mark key="[" line="10066" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500479722309">
         <mark key="]" line="274" column="30" />
@@ -558,46 +564,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Digital</text>
+        <text>Open Sans</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>Digital</text>
+        <text>Open Sans</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWRlZGVkOwo=</text>
+      <register name="3" type="4">
+        <text>#</text>
       </register>
       <register name="2" type="4">
-        <text>Gift Cards</text>
+        <text>#</text>
       </register>
       <register name="1" type="4">
-        <text>Digital</text>
+        <text>Open Sans</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiR290aGFtTWVkaXVtIixzYW5zLXNlcmlmOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMnB4IHNvbGlkICNlZGVkZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWRlZGVkOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>2px solid #ededed</text>
+        <text>Gift Cards</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
+      <register name="4" type="4">
+        <text>Digital</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>Send Now</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMnB4IHNvbGlkICNlZGVkZWQ7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>send</text>
+        <text>2px solid #ededed</text>
       </register>
     </registers>
     <search>
