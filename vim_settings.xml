@@ -355,11 +355,11 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/navigation/top.phtml" timestamp="1502908662368">
-        <mark key="]" line="97" column="146" />
-        <mark key="^" line="97" column="146" />
-        <mark key="." line="97" column="146" />
-        <mark key="[" line="97" column="146" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/navigation/top.phtml" timestamp="1502909626740">
+        <mark key="]" line="97" column="77" />
+        <mark key="^" line="97" column="77" />
+        <mark key="." line="97" column="77" />
+        <mark key="[" line="96" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/OmnicardResult/Collection.php" timestamp="1499198003257">
         <mark key="]" line="1" column="110" />
@@ -429,11 +429,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/schedule.phtml" timestamp="1502823976842">
-        <mark key="]" line="137" column="74" />
-        <mark key="^" line="137" column="74" />
-        <mark key="." line="137" column="74" />
-        <mark key="[" line="137" column="74" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/schedule.phtml" timestamp="1502909825126">
+        <mark key="]" line="137" column="132" />
+        <mark key="^" line="137" column="132" />
+        <mark key="." line="137" column="132" />
+        <mark key="[" line="137" column="130" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbas/template/personalizations/preview/digital_token.phtml" timestamp="1501868361428">
         <mark key="]" line="201" column="123" />
@@ -591,7 +591,7 @@
         <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="9" type="4">
         <text>Send Now</text>
@@ -627,8 +627,8 @@
         <entry encoding="base64">JzwsJz5zL3N2cy9vbW5pY2FyZC9n</entry>
         <entry>%s/svs.log/omnicard.log/g</entry>
         <entry encoding="base64">JzwsJz5zL3N2c18vb21uaWNhcmRfL2c=</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
