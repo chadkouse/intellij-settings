@@ -207,11 +207,11 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502982088933">
-        <mark key="]" line="11209" column="13" />
-        <mark key="^" line="11209" column="13" />
-        <mark key="." line="11209" column="13" />
-        <mark key="[" line="11209" column="12" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1502983859955">
+        <mark key="]" line="541" column="25" />
+        <mark key="^" line="541" column="25" />
+        <mark key="." line="541" column="25" />
+        <mark key="[" line="541" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1500479722309">
         <mark key="]" line="274" column="30" />
@@ -310,11 +310,11 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502981649280">
-        <mark key="]" line="4289" column="17" />
-        <mark key="^" line="4289" column="17" />
-        <mark key="." line="4289" column="17" />
-        <mark key="[" line="4289" column="15" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
+        <mark key="]" line="4040" column="27" />
+        <mark key="^" line="4040" column="27" />
+        <mark key="." line="4040" column="27" />
+        <mark key="[" line="4040" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu_landing.phtml" timestamp="1502908593760">
         <mark key="]" line="146" column="165" />
@@ -356,6 +356,12 @@
         <mark key="^" line="88" column="99" />
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage_out.css" timestamp="1502983679545">
+        <mark key="]" line="214" column="29" />
+        <mark key="^" line="214" column="29" />
+        <mark key="." line="214" column="29" />
+        <mark key="[" line="214" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/page.xml" timestamp="1498148584630">
         <mark key="]" line="164" column="0" />
@@ -570,46 +576,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>45</text>
+        <text>Open Sans</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
-        <text>45</text>
+        <text>Open Sans</text>
       </register>
       <register name="3" type="4">
-        <text>6pt</text>
+        <text>999</text>
       </register>
       <register name="2" type="4">
-        <text>3pt</text>
+        <text>Medium</text>
       </register>
       <register name="1" type="4">
-        <text>45</text>
+        <text>Open Sans</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5wdXQsc2VsZWN0LHRleHRhcmVhLGJ1dHRvbiB7CiAgICBmb250OiAxMnB4ICdPcGVuIFNhbnMnLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIGNvbG9yOiAjN2M3YzdjCn0K</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>Book</text>
       </register>
       <register name="6" type="4">
-        <text>,button</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>Open Sans</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>GothamBook</text>
+        <text>1pt</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>3pt</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
