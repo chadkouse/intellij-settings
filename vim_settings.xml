@@ -77,11 +77,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1503064680776">
-        <mark key="]" line="1212" column="43" />
-        <mark key="^" line="1212" column="43" />
-        <mark key="." line="1212" column="43" />
-        <mark key="[" line="1212" column="36" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1503079486545">
+        <mark key="]" line="1172" column="43" />
+        <mark key="^" line="1172" column="43" />
+        <mark key="." line="1172" column="43" />
+        <mark key="[" line="1172" column="38" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/customer.xml" timestamp="1498157380396">
         <mark key="]" line="82" column="0" />
@@ -190,11 +190,11 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1503064882223">
-        <mark key="]" line="241" column="32" />
-        <mark key="^" line="241" column="32" />
-        <mark key="." line="241" column="32" />
-        <mark key="[" line="241" column="24" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1503078960478">
+        <mark key="]" line="122" column="80" />
+        <mark key="^" line="122" column="80" />
+        <mark key="." line="122" column="80" />
+        <mark key="[" line="122" column="71" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/design/inside.phtml" timestamp="1501083998162">
         <mark key="]" line="99" column="7" />
@@ -596,46 +596,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newName</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>svs_</text>
       </register>
       <register name="-" type="4">
+        <text>email</text>
+      </register>
+      <register name="3" type="4">
         <text>newName</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBuZXdFbWFpbCwK</text>
-      </register>
-      <register name="2" type="4">
-        <text>name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRlbWFpbEluZm9bJ3JlY2lwaWVudEVtYWlsJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICI8bGkgc3R5bGU9J21hcmdpbi10b3A6IDBweDsgY29sb3I6ICM5ZTllOWUnPiggIiAuICRlbWFpbEluZm9bJ3JlY2lwaWVudEVtYWlsJ10gLiAiICk8L2xpPiI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>newName</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvbmZpcm1SZXNlbmRpbmdFbWFpbChmb3JjZVNlbmQpewogICAgICAgIHZhciBjYW5TZW5kID0gdHJ1ZTsKICAgICAgICBpZighZm9yY2VTZW5kKXsKICAgICAgICAgICAgY2FuU2VuZCA9IGNvbmZpcm0oIlRoZSBzZW5kIGRhdGUgZG9lc24ndCByZWFjaC4gRG8geW91IHdhbnQgdG8gc2VuZCBkZWxpdmVyeSBlbWFpbD8iKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNhblNlbmQ7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Email</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmV3RW1haWwgPSBqUXVlcnkoJyNyZXNlbmRFbWFpbEFkZHJlc3MnKS52YWwoKTsK</text>
-      </register>
-      <register name="5" type="4">
         <text>ame</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>EmailName</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBuZXdFbWFpbCwK</text>
+      </register>
+      <register name="4" type="4">
+        <text>name</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>email</text>
+        <text>Email</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbmV3RW1haWwgPSBqUXVlcnkoJyNyZXNlbmRFbWFpbEFkZHJlc3MnKS52YWwoKTsK</text>
       </register>
     </registers>
     <search>
