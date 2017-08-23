@@ -151,8 +151,11 @@
         <mark key="." line="15" column="25" />
         <mark key="[" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.less" timestamp="1503515039541">
-        <mark key="[" line="42" column="1" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.less" timestamp="1503516100406">
+        <mark key="]" line="51" column="14" />
+        <mark key="^" line="36" column="12" />
+        <mark key="." line="51" column="0" />
+        <mark key="[" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/node_modules/sayic-sdk/lib/helpers/sayichelper.js" timestamp="1503328761210">
         <mark key="]" line="678" column="15" />
@@ -651,46 +654,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjZGVzaWduCg==</text>
+        <text encoding="base64">ICBmbG9hdDogcmlnaHQ7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>right</text>
       </register>
-      <register name="3" type="4">
-        <text>Value</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRhYmxlIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+Jm5ic3A7PC90ZD4K</text>
+      <register name="2" type="4">
+        <text>right</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjZGVzaWduCg==</text>
+        <text encoding="base64">ICBmbG9hdDogcmlnaHQ7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2Rlc2lnbl9wYW5lbCB7CiAgbWFyZ2luLXRvcDoyMHB4OwogIHdpZHRoOiAxMDAlOwogIG1pbi1oZWlnaHQ6IDU1NXB4OwogIGJvcmRlcjogc29saWQgOHB4IEBwYXNzaXZlX2NvbG9yXzQ7Cg==</text>
+        <text encoding="base64">ICBmbG9hdDogbGVmdDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>c</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAuc2l6ZSg0ODIsIDQxMik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>o</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB3aWR0aDogNDgycHg7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>l</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6IDQxMnB4Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhZ2VfZGF0YS9wcm9kdWN0X2RhdGEvZw==</text>
       </register>
-      <register name="9" type="4">
-        <text>Value</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Value</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3aWR0aDogNDg4cHg7CiAgaGVpZ2h0OiAKCg==</text>
       </register>
     </registers>
     <search>
