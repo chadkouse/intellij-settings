@@ -269,11 +269,15 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.9-0.2.0.php" timestamp="1503666782872">
+        <mark key="]" line="35" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1503602841917">
-        <mark key="'" line="965" column="0" />
-        <mark key="]" line="3278" column="22" />
-        <mark key="." line="3278" column="21" />
-        <mark key="[" line="3278" column="21" />
+        <mark key="'" line="971" column="0" />
+        <mark key="]" line="3284" column="22" />
+        <mark key="." line="3284" column="21" />
+        <mark key="[" line="3284" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/gifttokens/design/style.less" timestamp="1501090040323">
         <mark key="]" line="427" column="25" />
@@ -553,11 +557,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.1-0.8.2.php" timestamp="1503506197927">
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="17" column="44" />
-        <mark key="." line="2" column="33" />
-        <mark key="[" line="2" column="32" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.1-0.8.2.php" timestamp="1503667280498">
+        <mark key="]" line="49" column="69" />
+        <mark key="^" line="49" column="69" />
+        <mark key="." line="49" column="69" />
+        <mark key="[" line="10" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -663,47 +667,47 @@
       <jump line="147" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhciB1cGRhdGVTaW5nbGVPckdpZnRPcHRpb24gPSBmdW5jdGlvbihpc1NpbmdsZSkgewoJCWlmKGlzU2luZ2xlID09IDApewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5oaWRlKCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5oaWRlKCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIlNlbmQgdG86Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwibWFyZ2luLWxlZnQ6IDBweDttYXJnaW4tdG9wOiAyN3B4OyIpOwoJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQlqUXVlcnkoJy5zZW5kZXJfZmlyc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2ZpcnN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9sYXN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlqUXVlcnkoJy5zZW5kZXJfbGFzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlTZW5kZXJNYWlsQnVmZmVyPWpRdWVyeSgnLnNlbmRlcl9lbWFpbCcpLnZhbCgpOwoJCQlpZihqUXVlcnkoIiN0YlF1YW50aXR5IikudmFsKCkgPiAwICl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0gZWxzZSB7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0KCQl9IGVsc2UgewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5zaG93KCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5zaG93KCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIkZyb206Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwiIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCXZhciBkaXNhYmxlZFJlY2lwaWVudENvbHVtbj1qUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uIGlucHV0W3R5cGU9dGV4dF06ZGlzYWJsZWQnKS5sZW5ndGg7CgkJCWlmKGRpc2FibGVkUmVjaXBpZW50Q29sdW1uID4gMCl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQl9ZWxzZXsKCQkJCWpRdWVyeSgnLnJlY2lwaWVudC1jb2x1bW4nKS5zaG93KCk7CgkJCX0KCQkJalF1ZXJ5KCcuc2VuZGVyX2ZpcnN0X25hbWUnKS5zaG93KCk7CgkJCWpRdWVyeSgnLnNlbmRlcl9sYXN0X25hbWUnKS5zaG93KCk7CgkJfQoJfTsK</text>
+      <register name="&quot;" type="4">
+        <text>SVS Virtual Inventory ID</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>myForm</text>
+        <text>SVS Virtual Inventory ID</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQl1cGRhdGVTaW4K</text>
+      <register name="3" type="4">
+        <text>'gci_svs_virtual_inventory_id'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXZhciB1cGRhdGVTaW5nbGVPckdpZnRPcHRpb24gPSBmdW5jdGlvbihpc1NpbmdsZSkgewoJCWlmKGlzU2luZ2xlID09IDApewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5oaWRlKCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5oaWRlKCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIlNlbmQgdG86Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwibWFyZ2luLWxlZnQ6IDBweDttYXJnaW4tdG9wOiAyN3B4OyIpOwoJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQlqUXVlcnkoJy5zZW5kZXJfZmlyc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2ZpcnN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9sYXN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlqUXVlcnkoJy5zZW5kZXJfbGFzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlTZW5kZXJNYWlsQnVmZmVyPWpRdWVyeSgnLnNlbmRlcl9lbWFpbCcpLnZhbCgpOwoJCQlpZihqUXVlcnkoIiN0YlF1YW50aXR5IikudmFsKCkgPiAwICl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0gZWxzZSB7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0KCQl9IGVsc2UgewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5zaG93KCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5zaG93KCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIkZyb206Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwiIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCXZhciBkaXNhYmxlZFJlY2lwaWVudENvbHVtbj1qUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uIGlucHV0W3R5cGU9dGV4dF06ZGlzYWJsZWQnKS5sZW5ndGg7CgkJCWlmKGRpc2FibGVkUmVjaXBpZW50Q29sdW1uID4gMCl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQl9ZWxzZXsKCQkJCWpRdWVyeSgnLnJlY2lwaWVudC1jb2x1bW4nKS5zaG93KCk7CgkJCX0KCQkJalF1ZXJ5KCcuc2VuZGVyX2ZpcnN0X25hbWUnKS5zaG93KCk7CgkJCWpRdWVyeSgnLnNlbmRlcl9sYXN0X25hbWUnKS5zaG93KCk7CgkJfQoJfTsK</text>
+      <register name="2" type="4">
+        <text>SVS Virtual Inventory ID</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXZhciB1cGRhdGVTaW5nbGVPckdpZnRPcHRpb24gPSBmdW5jdGlvbihpc1NpbmdsZSkgewoJCWlmKGlzU2luZ2xlID09IDApewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5oaWRlKCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5oaWRlKCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIlNlbmQgdG86Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwibWFyZ2luLWxlZnQ6IDBweDttYXJnaW4tdG9wOiAyN3B4OyIpOwoJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQlqUXVlcnkoJy5zZW5kZXJfZmlyc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLmhpZGUoKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2ZpcnN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9sYXN0X25hbWUnKS52YWwoIk1lIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlqUXVlcnkoJy5zZW5kZXJfbGFzdF9uYW1lJykudmFsKCJNZSIpOwoJCQlTZW5kZXJNYWlsQnVmZmVyPWpRdWVyeSgnLnNlbmRlcl9lbWFpbCcpLnZhbCgpOwoJCQlpZihqUXVlcnkoIiN0YlF1YW50aXR5IikudmFsKCkgPiAwICl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0gZWxzZSB7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnRfZW1haWwnKS52YWwoU2VuZGVyTWFpbEJ1ZmZlcik7CgkJCX0KCQl9IGVsc2UgewoJCQlqUXVlcnkoIi5jaG9vc2VBbmltYXRpb24iKS5zaG93KCk7CgkJCWpRdWVyeSgiI3BlcnNvbmFsaXphdGlvbkFuaW1hdGlvblNhdmUiKS5zaG93KCk7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLnRleHQoIkZyb206Iik7CgkJCWpRdWVyeSgiI2Zyb21MYWJlbCIpLmF0dHIoInN0eWxlIiwiIik7CgkJCWpRdWVyeSgnLnJlY2lwaWVudF9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcucmVjaXBpZW50X2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCWpRdWVyeSgnLnNlbmRlcl9maXJzdF9uYW1lJykudmFsKCIiKTsKCQkJalF1ZXJ5KCcuc2VuZGVyX2xhc3RfbmFtZScpLnZhbCgiIik7CgkJCXZhciBkaXNhYmxlZFJlY2lwaWVudENvbHVtbj1qUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uIGlucHV0W3R5cGU9dGV4dF06ZGlzYWJsZWQnKS5sZW5ndGg7CgkJCWlmKGRpc2FibGVkUmVjaXBpZW50Q29sdW1uID4gMCl7CgkJCQlqUXVlcnkoJy5yZWNpcGllbnQtY29sdW1uJykuaGlkZSgpOwoJCQl9ZWxzZXsKCQkJCWpRdWVyeSgnLnJlY2lwaWVudC1jb2x1bW4nKS5zaG93KCk7CgkJCX0KCQkJalF1ZXJ5KCcuc2VuZGVyX2ZpcnN0X25hbWUnKS5zaG93KCk7CgkJCWpRdWVyeSgnLnNlbmRlcl9sYXN0X25hbWUnKS5zaG93KCk7CgkJfQoJfTsK</text>
+      <register name="1" type="4">
+        <text>SVS Virtual Inventory ID</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl2YXIgaXNTaW5nbGU9alF1ZXJ5KHRoaXMpLnZhbCgpOwoJCXVwZGF0ZVNpbmdsZU9yR2lmdE9wdGlvbihpc1NpbmdsZSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGluc3RhbGxlci0+YWRkQXR0cmlidXRlKCdjYXRhbG9nX3Byb2R1Y3QnLCAnZ2NpX3N2c192aXJ0dWFsX2ludmVudG9yeV9pZCcsIGFycmF5KAoJLy8gJ2dyb3VwJyAgICAgICAgICAgICAgICAgICAgID0+ICdHZW5lcmFsJywKCSdpbnB1dCcgICAgICAgICAgICAgICAgICAgICA9PiAndGV4dCcsCgkndHlwZScgICAgICAgICAgICAgICAgICAgICAgPT4gJ3RleHQnLAoJJ2xhYmVsJyAgICAgICAgICAgICAgICAgICAgID0+ICdTVlMgVmlydHVhbCBJbnZlbnRvcnkgSUQnLAoJJ2dsb2JhbCcgICAgICAgICAgICAgICAgICAgID0+IE1hZ2VfQ2F0YWxvZ19Nb2RlbF9SZXNvdXJjZV9FYXZfQXR0cmlidXRlOjpTQ09QRV9HTE9CQUwsCgkndmlzaWJsZScgICAgICAgICAgICAgICAgICAgPT4gMSwKCSdyZXF1aXJlZCcgICAgICAgICAgICAgICAgICA9PiAwLAoJJ3Zpc2libGVfb25fZnJvbnQnICAgICAgICAgID0+IDAsCgknaXNfaHRtbF9hbGxvd2VkX29uX2Zyb250JyAgPT4gMCwKCSdpc19jb25maWd1cmFibGUnICAgICAgICAgICA9PiAwLAoJJ3NlYXJjaGFibGUnICAgICAgICAgICAgICAgID0+IDAsCgknZmlsdGVyYWJsZScgICAgICAgICAgICAgICAgPT4gMCwKCSdjb21wYXJhYmxlJyAgICAgICAgICAgICAgICA9PiAwLAoJJ3VuaXF1ZScgICAgICAgICAgICAgICAgICAgID0+IGZhbHNlLAoJJ3VzZXJfZGVmaW5lZCcgICAgICAgICAgICAgID0+IHRydWUsCgknaXNfdXNlcl9kZWZpbmVkJyAgICAgICAgICAgPT4gdHJ1ZSwKCSd1c2VkX2luX3Byb2R1Y3RfbGlzdGluZycgICA9PiBmYWxzZQopKTsKCiRhdHRyaWJ1dGVTZXRJZD0kaW5zdGFsbGVyLT5nZXRBdHRyaWJ1dGVTZXRJZCgnY2F0YWxvZ19wcm9kdWN0JywgIkdpZnRDYXJkIik7IAkvL2dldCBBdHRyaWJ1dGUgc2V0IElECiRhdHRyaWJ1dGVHcm91cElkPSAkaW5zdGFsbGVyLT5nZXRBdHRyaWJ1dGVHcm91cElkKCdjYXRhbG9nX3Byb2R1Y3QnLCAkYXR0cmlidXRlU2V0SWQsICJHZW5lcmFsIik7CgokYXR0cmlidXRlSWQ9JGluc3RhbGxlci0+Z2V0QXR0cmlidXRlSWQoJ2NhdGFsb2dfcHJvZHVjdCcsICdnY2lfc3ZzX3ZpcnR1YWxfaW52ZW50b3J5X2lkJyk7CnRyeSB7CgkkaW5zdGFsbGVyLT5hZGRBdHRyaWJ1dGVUb1NldCgkZW50aXR5VHlwZUlkPSdjYXRhbG9nX3Byb2R1Y3QnLCRhdHRyaWJ1dGVTZXRJZCwgJGF0dHJpYnV0ZUdyb3VwSWQsICRhdHRyaWJ1dGVJZCk7Cn0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSl7CglNYWdlOjpsb2dFeGNlcHRpb24oIkZhaWxlZCB0byBhZGQgYXR0cmlidXRlIFNWUyBWaXJ0dWFsIEludmVudG9yeSBJRCIpOwoJTWFnZTo6dGhyb3dFeGNlcHRpb24oIkZhaWxlZCB0byBhZGQgYXR0cmlidXRlIFNWUyBWaXJ0dWFsIEludmVudG9yeSBJRCIpOwp9</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRuZXdTZXROYW1lICAgID0gJ0dpZnRjYXJkQW5pbWF0ZWRSZWNvcmRWb2ljZSc7CiAgICAvKiogQHZhciBNYWdlX0NhdGFsb2dfTW9kZWxfUHJvZHVjdF9BdHRyaWJ1dGVfU2V0X0FwaSAqLwogICAgTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdF9hdHRyaWJ1dGVfc2V0X2FwaScpCiAgICAgICAgLT5jcmVhdGUoJG5ld1NldE5hbWUsICRvcmlnaW5hbFNldElkKTsKCiAgICAkbmV3U2V0TmFtZSAgICA9ICdHaWZ0Y2FyZEFuaW1hdGVkUGhvdG9ib29rJzsKICAgIC8qKiBAdmFyIE1hZ2VfQ2F0YWxvZ19Nb2RlbF9Qcm9kdWN0X0F0dHJpYnV0ZV9TZXRfQXBpICovCiAgICBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0X2F0dHJpYnV0ZV9zZXRfYXBpJykKICAgICAgICAtPmNyZWF0ZSgkbmV3U2V0TmFtZSwgJG9yaWdpbmFsU2V0SWQpOwoKCgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>radioName</text>
+        <text>&quot;GiftcardAnimatedStandard&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>myForm</text>
+        <text>'gci_iframe_url'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhZ2VfZGF0YS9wcm9kdWN0X2RhdGEvZw==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>ewSetName</text>
       </register>
-      <register name="8" type="4">
-        <text>h</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRuZXdTZXROYW1lICAgID0gJ0dpZnRjYXJkQW5pbWF0ZWRTdGFuZGFyZCc7Cg==</text>
       </register>
     </registers>
     <search>
