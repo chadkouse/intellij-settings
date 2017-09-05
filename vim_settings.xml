@@ -339,10 +339,11 @@
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504188988667">
-        <mark key="]" line="201" column="16" />
-        <mark key="." line="201" column="16" />
-        <mark key="[" line="201" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504640300602">
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="[" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/catalog/product/list.phtml" timestamp="1499876168218">
         <mark key="]" line="111" column="8" />
@@ -690,46 +691,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20px auto auto</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>20px auto auto</text>
+        <text>src</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>src</text>
       </register>
       <register name="1" type="4">
-        <text>20px auto auto</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcmV2aWV3QWN0aW9uKCkKICAgIHsKICAgICAgICAkdm1zaWQgPSBNYWdlOjphcHAoKS0+Z2V0UmVxdWVzdCgpLT5nZXRQYXJhbSgndmlkJywgbnVsbCk7CiAgICAgICAgJHRlYXNlcmlkID0gTWFnZTo6YXBwKCktPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oJ3RpZCcsIG51bGwpOwogICAgICAgIC8vR0VUIFZNUyBJVEVNCiAgICAgICAgJHBlcnNvbmFsaXphdGlvblZtcyA9IE1hZ2U6OmdldE1vZGVsKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfdm1zJyk7CiAgICAgICAgJHZtcyA9ICRwZXJzb25hbGl6YXRpb25WbXMtPmxvYWQoJHZtc2lkKTsKICAgICAgICAvL0dFVCBQUk9EVUNUCiAgICAgICAgJHByb2R1Y3QgPSBNYWdlOjpnZXRNb2RlbCgnY2F0YWxvZy9wcm9kdWN0JykKICAgICAgICAgICAgLT5zZXRTdG9yZUlkKE1hZ2U6OmFwcCgpLT5nZXRTdG9yZSgpLT5nZXRJZCgpKQogICAgICAgICAgICAtPmxvYWQoJHZtcy0+Z2V0VGVhc2VySWQoKSk7CiAgICAgICAgJGFsbF9zZXNzaW9uX2NvbmZpZyA9IE1hZ2U6OmhlbHBlcignY29yZScpLT5qc29uRGVjb2RlKCRwZXJzb25hbGl6YXRpb25WbXMtPmdldERhdGEoJ3Bob3RvYm9va19zZXNzaW9uX2pzb24nKSk7Ci8vICAgICAgICBwcmludF9yKCRhbGxfc2Vzc2lvbl9jb25maWcpOwogICAgICAgICRqc29uID0gTWFnZTo6aGVscGVyKCdjb3JlJyktPmpzb25FbmNvZGUoJGFsbF9zZXNzaW9uX2NvbmZpZyk7CiAgICAgICAgJGJhY2tncm91bmRJbWFnZVVybD0iIjsKICAgICAgICBpZiAoIWVtcHR5KCRhbGxfc2Vzc2lvbl9jb25maWcpIGFuZCAhZW1wdHkoJGFsbF9zZXNzaW9uX2NvbmZpZ1snYmFja2dyb3VuZEltYWdlJ10pIGFuZCAhZW1wdHkoJGFsbF9zZXNzaW9uX2NvbmZpZ1snYmFja2dyb3VuZEltYWdlJ11bJ21haW5fcGljdHVyZSddKSkgewogICAgICAgICAgICAkYmFja2dyb3VuZEltYWdlVXJsID0gJGFsbF9zZXNzaW9uX2NvbmZpZ1snYmFja2dyb3VuZEltYWdlJ11bJ21haW5fcGljdHVyZSddOwoKICAgICAgICB9CgoKICAgICAgICBNYWdlOjpyZWdpc3RlcignanNvbkFsbCcsICRqc29uKTsKICAgICAgICBNYWdlOjpyZWdpc3RlcignYWxsUGhvdG9ib29rUHJvcGVydGllcycsICRhbGxfc2Vzc2lvbl9jb25maWdbJ2NvbmZpZ19sYXlvdXRzJ10pOwogICAgICAgIE1hZ2U6OnJlZ2lzdGVyKCdhbGxNZXNzYWdlcycsICRhbGxfc2Vzc2lvbl9jb25maWdbJ21lc3NhZ2VzJ10pOwogICAgICAgIE1hZ2U6OnJlZ2lzdGVyKCdhbGxQaG90b3MnLCAkYWxsX3Nlc3Npb25fY29uZmlnWydwaG90b3MnXSk7CiAgICAgICAgTWFnZTo6cmVnaXN0ZXIoJ2FsbFNhdmVkUGhvdG9zJywgJGFsbF9zZXNzaW9uX2NvbmZpZ1sncGhvdG9zX3NhdmVkJ10pOwogICAgICAgIE1hZ2U6OnJlZ2lzdGVyKCdiYWNrZ3JvdW5kSW1hZ2VVcmwnLCAkYmFja2dyb3VuZEltYWdlVXJsKTsKICAgICAgICBNYWdlOjpyZWdpc3RlcigncGhvdG9ib29rUHJvZHVjdCcsICRwcm9kdWN0KTsKCgovLyAgICAgICAgdmFyX2R1bXAoJHByb2R1Y3QtPmdldFBob3RvYm9vaygpKTsKCiAgICAgICAgJHRoaXMtPmxvYWRMYXlvdXQoKTsKICAgICAgICAkdGhpcy0+cmVuZGVyTGF5b3V0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsKICAgICAgICAgICAgICAgIHBhZ2VzLnB1c2goIjxkaXYgY2xhc3M9J3dvd3BhZ2UnPjxpbWcgc3JjPSciICsgc3JjICsgIic8L2Rpdj4iKTsKICAgICAgICAgICAgICAgIGpRdWVyeSgnLnVwbG9hZF9ncm91cCcpLmZpbmQoIltkYXRhLWlkPSciICsga2V5ICsgIiddIikuY3NzKCdiYWNrZ3JvdW5kJywgJ3VybCgiJyArIHNyYyArICciJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>google</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>https://www.red.com</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="4">
-        <text>945</text>
+        <text>src</text>
       </register>
       <register name="4" type="4">
-        <text>533</text>
+        <text>src</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNteWJvb2snKS53b3dCb29rKHsKICAgICAgICAgICAgaGVpZ2h0IDogMzA2LAogICAgICAgICAgICB3aWR0aCAgOiA0ODIKICAgICAgICB9KTsK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
     </registers>
     <search>
