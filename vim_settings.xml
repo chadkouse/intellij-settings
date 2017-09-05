@@ -96,6 +96,9 @@
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.css" timestamp="1503947603789">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
         <mark key="^" line="13" column="54" />
@@ -157,13 +160,6 @@
         <mark key="^" line="677" column="34" />
         <mark key="." line="678" column="0" />
         <mark key="[" line="675" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.less" timestamp="1504189047915">
-        <mark key="]" line="79" column="29" />
-        <mark key="o" line="199" column="12" />
-        <mark key="^" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="[" line="79" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/SvsResult/Collection.php" timestamp="1497453997793">
         <mark key="]" line="1" column="113" />
@@ -428,6 +424,9 @@
         <mark key="." line="78" column="0" />
         <mark key="[" line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" timestamp="1504628639129">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -588,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="149" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/proflowers/template/personalizations/choose.phtml" />
       <jump line="63" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/gci_credit/api.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/personalizations/preview/digital_token.phtml" />
       <jump line="3570" column="13" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
@@ -688,6 +686,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.css" />
       <jump line="1330" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
       <jump line="312" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
