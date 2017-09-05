@@ -339,11 +339,10 @@
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504647294595">
-        <mark key="]" line="122" column="65" />
-        <mark key="^" line="122" column="65" />
-        <mark key="." line="122" column="65" />
-        <mark key="[" line="122" column="63" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504651459304">
+        <mark key="]" line="177" column="26" />
+        <mark key="." line="177" column="26" />
+        <mark key="[" line="177" column="26" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/catalog/product/list.phtml" timestamp="1499876168218">
         <mark key="]" line="111" column="8" />
@@ -691,46 +690,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>height</text>
+        <text>JSON.stringify</text>
       </register>
       <register name="2" type="4">
-        <text>height</text>
+        <text>(</text>
       </register>
       <register name="1" type="4">
-        <text>height</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybURhdGEuYXBwZW5kKCJwaG90b3NbaW1hZ2UiICsgaSArICJdW2hlaWdodF0iLCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybURhdGFbInBob3Rvc1tpbWFnZSIgKyBpICsgIl1bYWN0aXZhdGVkXSJdID0gMTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>activated</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gT3B0aW9ucyB0byB0ZWxsIGpRdWVyeSBub3QgdG8gcHJvY2VzcyBkYXRhIG9yIHdvcnJ5IGFib3V0IHRoZSBjb250ZW50LXR5cGUK</text>
       </register>
-      <register name="6" type="4">
-        <text>activated</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
       </register>
       <register name="5" type="4">
-        <text>activated</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>height</text>
+        <text>: J</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>activated</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc0RhdGE6IGZhbHNlCg==</text>
       </register>
       <register name="8" type="4">
-        <text>activated</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
