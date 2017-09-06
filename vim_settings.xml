@@ -36,6 +36,7 @@
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1504145814275" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/customization/step2.phtml" timestamp="1504713392739" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.css" timestamp="1503947603789">
         <mark key="'" line="1" column="0" />
       </file>
@@ -135,7 +136,7 @@
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504710606425">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504713355399">
         <mark key="]" line="192" column="45" />
         <mark key="^" line="192" column="45" />
         <mark key="." line="192" column="45" />
@@ -145,6 +146,9 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="[" line="75" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1504713394004">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/Helper/Data.php" timestamp="1504708293642" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Checkout/Block/Onepage/Abstract.php" timestamp="1502735818302">
@@ -188,11 +192,11 @@
         <mark key="." line="121" column="0" />
         <mark key="[" line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/controllers/PhotobookController.php" timestamp="1504709643698">
-        <mark key="]" line="283" column="133" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/controllers/PhotobookController.php" timestamp="1504713428201">
+        <mark key="]" line="114" column="75" />
         <mark key="^" line="283" column="133" />
         <mark key="." line="283" column="133" />
-        <mark key="[" line="283" column="94" />
+        <mark key="[" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/layout/page.xml" timestamp="1498148584630">
         <mark key="]" line="164" column="0" />
@@ -235,6 +239,9 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="[" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Pfms/controllers/PersonalizationController.php" timestamp="1503509997348">
+        <mark key="[" line="1260" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/personalization/schedule.phtml" timestamp="1503603404935">
         <mark key="]" line="311" column="6" />
@@ -356,8 +363,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>one</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGdldEJhY2tncm91bmRQaWN0dXJlcyA9ICRwaG90b2Jvb2tQaWN0dXJlc0hlbHBlci0+Z2V0QmFja2dyb3VuZFBpY3R1cmVzKCRwcm9kdWN0KTsKICAgICAgICAgICAgTWFnZTo6cmVnaXN0ZXIoJ2dldEJhY2tncm91bmRQaWN0dXJlcycsICRnZXRCYWNrZ3JvdW5kUGljdHVyZXMpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
@@ -375,7 +382,7 @@
         <text>one</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtRGF0YVsibWVzc2FnZXNbdGV4dGFyZWExXSJdID0gIm9uZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdldEJhY2tncm91bmRQaWN0dXJlcyA9ICRwaG90b2Jvb2tQaWN0dXJlc0hlbHBlci0+Z2V0QmFja2dyb3VuZFBpY3R1cmVzKCRwcm9kdWN0KTsKICAgICAgICAgICAgTWFnZTo6cmVnaXN0ZXIoJ2dldEJhY2tncm91bmRQaWN0dXJlcycsICRnZXRCYWNrZ3JvdW5kUGljdHVyZXMpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
