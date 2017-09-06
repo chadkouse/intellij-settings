@@ -8,11 +8,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1504720276903">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1504722142056">
         <mark key="]" line="96" column="56" />
         <mark key="^" line="96" column="56" />
         <mark key="." line="96" column="56" />
-        <mark key="[" line="96" column="40" />
+        <mark key="[" line="96" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/carrabbas/css/gifttokens/design/style_mobile.less" timestamp="1500580254064">
         <mark key="]" line="547" column="28" />
@@ -136,11 +136,11 @@
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504713355399">
-        <mark key="]" line="192" column="45" />
-        <mark key="^" line="192" column="45" />
-        <mark key="." line="192" column="45" />
-        <mark key="[" line="192" column="43" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504722575831">
+        <mark key="]" line="388" column="0" />
+        <mark key="^" line="385" column="26" />
+        <mark key="." line="388" column="0" />
+        <mark key="[" line="388" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/header.phtml" timestamp="1498148738341">
         <mark key="]" line="75" column="0" />
@@ -363,47 +363,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot; TO CART</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5oaWRlTG9hZGluZ0ZvckltYWdlKGtleSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>&quot; TO CART</text>
+        <text>saveKey</text>
       </register>
-      <register name="3" type="4">
-        <text>submit</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5oaWRlTG9hZGluZ0ZvckltYWdlKGtleSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>ADD</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot; TO CART</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5oaWRlTG9hZGluZ0ZvckltYWdlKGtleSk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkFERCBUTyBDQVJUIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuaGlkZUxvYWRpbmdGb3JJbWFnZShrZXkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>one</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVBob3Rvc0FuZE1lc3NhZ2VzKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>one</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>one</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="4">
-        <text>one</text>
+        <text>saveKey</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybURhdGFbIm1lc3NhZ2VzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>one</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlUGhvdG9zQW5kTWVzc2FnZXMoKTsK</text>
       </register>
     </registers>
     <search>
