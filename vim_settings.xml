@@ -337,6 +337,11 @@
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshop/js/digital_v2/htmlcard.extend.js" timestamp="1504816518216">
+        <mark key="]" line="424" column="20" />
+        <mark key="." line="424" column="20" />
+        <mark key="[" line="424" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1504792596781">
         <mark key="]" line="457" column="51" />
         <mark key="^" line="457" column="51" />
@@ -690,46 +695,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>font-size</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNidG4tcHJldmlldy1waG90b2Jvb2sgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjdweDsKICAgICAgcmlnaHQ6IDE4N3B4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgICAgY29sb3I6IHdoaXRlOwogICAgICBib3JkZXI6IG5vbmU7CiAgICAgIHBhZGRpbmc6IDVweCAxMnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNidG4tcHJldmlldy1waG90b2Jvb2sgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjdweDsKICAgICAgcmlnaHQ6IDE4N3B4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgICAgY29sb3I6IHdoaXRlOwogICAgICBib3JkZXI6IG5vbmU7CiAgICAgIHBhZGRpbmc6IDVweCAxMnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIH0KCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpRdWVyeSgnI2J0bi1wcmV2aWV3LXBob3RvYm9vaycpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIAkJICAgIAlsUmVzdWx0PXNldE5ld0ZvbnRTaXplKGxEaXYsZm9udFNpemUsZGVmYXVsdExpbmVIZWlnaHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpRdWVyeSgnI3BobycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>show</text>
+        <text>font-size</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFyIGlzQ2hyb21lID0gL0Nocm9tZS8udGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSAmJiAvR29vZ2xlIEluYy8udGVzdChuYXZpZ2F0b3IudmVuZG9yKTsKCQkJdmFyIGlzU2FmYXJpID0gL1NhZmFyaS8udGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSAmJiAvQXBwbGUgQ29tcHV0ZXIvLnRlc3QobmF2aWdhdG9yLnZlbmRvcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>show</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICNidG4tcHJldmlldy1waG90b2Jvb2sgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjdweDsKICAgICAgcmlnaHQ6IDE4N3B4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgICAgY29sb3I6IHdoaXRlOwogICAgICBib3JkZXI6IG5vbmU7CiAgICAgIHBhZGRpbmc6IDVweCAxMnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIH0KCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>show</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICNidG4tcHJldmlldy1waG90b2Jvb2sgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGJvdHRvbTogMjdweDsKICAgICAgcmlnaHQ6IDE4N3B4OwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgICAgY29sb3I6IHdoaXRlOwogICAgICBib3JkZXI6IG5vbmU7CiAgICAgIHBhZGRpbmc6IDVweCAxMnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIH0KCg==</text>
       </register>
     </registers>
     <search>
