@@ -230,10 +230,10 @@
         <mark key="." line="241" column="21" />
         <mark key="[" line="241" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/photobook/html5_personalization_photobook.js" timestamp="1505235548708">
-        <mark key="]" line="1941" column="0" />
-        <mark key="." line="1941" column="0" />
-        <mark key="[" line="1941" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/photobook/html5_personalization_photobook.js" timestamp="1505237390767">
+        <mark key="]" line="1959" column="0" />
+        <mark key="." line="1959" column="0" />
+        <mark key="[" line="1959" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/ebaymobile/template/digital/photobook/customization.phtml.bak" timestamp="1505154670344">
         <mark key="]" line="18" column="45" />
@@ -409,10 +409,11 @@
         <mark key="." line="209" column="0" />
         <mark key="[" line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505235971859">
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
-        <mark key="[" line="334" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505237374883">
+        <mark key="]" line="299" column="44" />
+        <mark key="^" line="299" column="44" />
+        <mark key="." line="299" column="44" />
+        <mark key="[" line="299" column="34" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/svsexport/manual.phtml" timestamp="1497550707530">
         <mark key="]" line="12" column="59" />
@@ -707,46 +708,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIZXJlIiwgdXNlZF9waG90byk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwaG90b1VybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2FudmFzKTsK</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>inside1PhotoProperties.defaultPhoto</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5waG90b1csIHRoaXMucGhvdG9ILCB0aGlzLnBob3RvWCwgdGhpcy5waG90b1kpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBob3RvRmllbGROdW1iZXIgPSAiMXByZXZpZXciOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW1hZ2VPYmopOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIZXJlIiwgdXNlZF9waG90byk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwaG90b1VybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2FudmFzKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwaG90b0ZpZWxkTnVtYmVyID0gaW5zaWRlMVBob3RvUHJvcGVydGllcy5udW1iZXIgKyAicHJldmlldyI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDb3VudGVyIiwgaW5zaWRlMVBob3RvUHJvcGVydGllcy5udW1iZXIpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwaG90b1VybD1udWxsOwogICAgICAgICAgICAgICAgdmFyIHVzZWRfcGhvdG8gPSBudWxsOwogICAgICAgICAgICAgICAgaWYgKGluc2lkZTFQaG90b1Byb3BlcnRpZXMucmVmZXJlbmNlIGluIGpzb25fcGhvdG9zKSB7CiAgICAgICAgICAgICAgICAgICAgdXNlZF9waG90byA9IGpzb25fcGhvdG9zW2luc2lkZTFQaG90b1Byb3BlcnRpZXMucmVmZXJlbmNlXTsKICAgICAgICAgICAgICAgICAgICBwaG90b1VybD1qc29uX3Bob3Rvc19zYXZlZFtpbnNpZGUxUGhvdG9Qcm9wZXJ0aWVzLnJlZmVyZW5jZV07Ci8vICAgICAgICAgICAgICAgICAgICB1c2VkX3Bob3RvID0gImh0dHA6Ly9hYXJwLmFwcDo4MDAwL21lZGlhL3RtcC9pbWFnZXMvMjExODk2MF8xNDcxMzY3MTE3XzU3YjM0N2NkYjcwZTguanBnIjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluc2lkZTFQaG90b1Byb3BlcnRpZXMucmVmZXJlbmNlLCBqc29uX3Bob3RvcywgcGhvdG9VcmwpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>inside1PhotoProperties.defaultPhoto</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWZlcmVuY2UsIGksIHRoaXMucGhvdG9Sb3RhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>inner_counter</text>
       </register>
-      <register name="8" type="4">
-        <text>b</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbnNpZGUxUGhvdG9Qcm9wZXJ0aWVzLm51bWJlciAlIDIgIT0gMCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
