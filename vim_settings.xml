@@ -402,11 +402,11 @@
         <mark key="." line="209" column="0" />
         <mark key="[" line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505226511860">
-        <mark key="]" line="366" column="24" />
-        <mark key="^" line="366" column="24" />
-        <mark key="." line="366" column="24" />
-        <mark key="[" line="366" column="23" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505227941784">
+        <mark key="]" line="366" column="21" />
+        <mark key="^" line="366" column="21" />
+        <mark key="." line="366" column="21" />
+        <mark key="[" line="383" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/svsexport/manual.phtml" timestamp="1497550707530">
         <mark key="]" line="12" column="59" />
@@ -491,12 +491,7 @@
         <mark key="." line="12" column="26" />
         <mark key="[" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/tcp_photobook1/config.php" timestamp="1505226494795">
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="193" column="3" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/tcp_photobook1/config.php" timestamp="1505227432705" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/celeb_scrapbook_crafty/config.php" timestamp="1504287236649">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -706,46 +701,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>page_data</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAib3JpUGFnZVciID0+IDk0NSwKICAgICAgICAgICAgICAgICAgICAib3JpUGFnZUgiID0+IDUzNSwK</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
         <text>.</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>7</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3JpUGFnZVcnID0+IDExOTAsCiAgICAgICAgICAgICAgICAgICAgJ29yaVBhZ2VIJyA9PiA3NjgsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9ybURhdGFbInBob3Rvc1siICsga2V5ICsgIl0iCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAib3JpUGFnZVciID0+IDk0NSwKICAgICAgICAgICAgICAgICAgICAib3JpUGFnZUgiID0+IDUzNSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmlQYWdlVyIgPT4gOTQ1LAogICAgICAgICAgICAgICAgIm9yaVBhZ2VIIiA9PiA1MzUsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAib3JpUGFnZVciID0+IDk0NSwKICAgICAgICAgICAgICAgICAgICAib3JpUGFnZUgiID0+IDUzNSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxheW91dEtleSA9IChpKzEpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltZyA9IHNlbGYucGhvdG9ib29rX2NvbmZpZy5jb25maWdfbGF5b3V0c1tsYXlvdXRLZXldLmxheW91dHMucGljdHVyZXNbMF07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltZyA9IHNlbGYucGhvdG9ib29rX2NvbmZpZy5jb25maWdfbGF5b3V0c1tsYXlvdXRLZXldLmxheW91dHMucGljdHVyZXNbMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
