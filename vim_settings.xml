@@ -414,11 +414,11 @@
         <mark key="." line="209" column="0" />
         <mark key="[" line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505309231625">
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="20" />
-        <mark key="[" line="27" column="46" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505311364667">
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="73" />
+        <mark key="." line="27" column="75" />
+        <mark key="[" line="27" column="74" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/svsexport/manual.phtml" timestamp="1497550707530">
         <mark key="]" line="12" column="59" />
@@ -579,6 +579,13 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/wow_book/wow_book.css" timestamp="1505310335603">
+        <mark key="'" line="165" column="4" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="[" line="173" column="1" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/digital/landing/logged_out.phtml" timestamp="1498158194166">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="21" />
@@ -615,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3442" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="3444" column="44" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="3" column="1182" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/prototype/prototype-1.7.2.min.js" />
       <jump line="41" column="36" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/beer_demo.phtml" />
@@ -715,57 +721,58 @@
       <jump line="358" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/celeb_scrapbook_crafty_v2/config.php" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/celeb_scrapbook_crafty_v2/config.php" />
       <jump line="359" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/celeb_scrapbook_crafty_v2/config.php" />
+      <jump line="165" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/wow_book/wow_book.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY29sb3IiID0+ICIjZWIyZDQ4IiwKICAgICAgICAgICAgICAgICAgICAiZm9udEZhbWlseSIgPT4gIlByYXRhIiwK</text>
+      <register name="&quot;" type="4">
+        <text>display:flex;</text>
       </register>
       <register name="/" type="4">
-        <text>page_data</text>
+        <text>14</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>display:flex;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY29sb3IiID0+ICIjZWIyZDQ4IiwKICAgICAgICAgICAgICAgICAgICAiZm9udEZhbWlseSIgPT4gIlByYXRhIiwK</text>
+      <register name="2" type="4">
+        <text>100%</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY29sb3IiID0+ICIjZWIyZDQ4IiwKICAgICAgICAgICAgICAgICAgICAiZm9udEZhbWlseSIgPT4gIlByYXRhIiwK</text>
+      <register name="1" type="4">
+        <text>display:flex;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY29sb3IiID0+ICIjZWQyNDNjIiwKICAgICAgICAgICAgICAgICAgICAiZm9udEZhbWlseSIgPT4gIklUQ0ZyYW5rbGluR290aGljU3RkLURtWENwIiwK</text>
       </register>
       <register name="7" type="4">
-        <text>img</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>img</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLzE0LzQvZw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybURhdGFbIm1lc3NhZ2VzW3RleHRhcmVhMl0iXSA9ICJ0d28iOwogICAgICAgICAgICBmb3JtRGF0YVsibWVzc2FnZXNbdGV4dGFyZWEzXSJdID0gInRocmVlIjsKICAgICAgICAgICAgZm9ybURhdGFbIm1lc3NhZ2VzW3RleHRhcmVhNF0iXSA9ICJmb3VyIjsKICAgICAgICAgICAgZm9ybURhdGFbIm1lc3NhZ2VzW3RleHRhcmVhNV0iXSA9ICJmaXZlIjsKICAgICAgICAgICAgZm9ybURhdGFbIm1lc3NhZ2VzW3RleHRhcmVhNl0iXSA9ICJzaXgiOwo=</text>
+      <register name="9" type="4">
+        <text>1190</text>
       </register>
       <register name="8" type="4">
-        <text>pictures</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
       <last-search>getOrders</last-search>
       <last-offset />
-      <last-pattern>page_data</last-pattern>
-      <last-replace>product_data</last-replace>
-      <last-substitute>page_data</last-substitute>
+      <last-pattern>14</last-pattern>
+      <last-replace>4</last-replace>
+      <last-substitute>14</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -782,6 +789,8 @@
         <entry>svs.log</entry>
         <entry>svs_</entry>
         <entry>page_data</entry>
+        <entry>10</entry>
+        <entry>14</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
@@ -791,6 +800,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3BhZ2VfZGF0YS9wcm9kdWN0X2RhdGEvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLzEwLzUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzE0LzQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
