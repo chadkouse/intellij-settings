@@ -94,17 +94,17 @@
         <mark key="[" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/Fonts/ITCFranklinGothicStd-DmXCp/styles.css" timestamp="1505243015031" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/audiorecord/index.html" timestamp="1505421800734">
-        <mark key="]" line="148" column="45" />
-        <mark key="^" line="148" column="45" />
-        <mark key="." line="148" column="45" />
-        <mark key="[" line="148" column="45" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/audiorecord/index.html" timestamp="1505481869389">
+        <mark key="]" line="175" column="31" />
+        <mark key="^" line="175" column="31" />
+        <mark key="." line="175" column="31" />
+        <mark key="[" line="174" column="96" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/audiorecord/main.js" timestamp="1505416606578">
-        <mark key="]" line="97" column="72" />
-        <mark key="^" line="97" column="72" />
-        <mark key="." line="97" column="72" />
-        <mark key="[" line="94" column="61" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/audiorecord/main.js" timestamp="1505481827200">
+        <mark key="]" line="103" column="24" />
+        <mark key="^" line="103" column="24" />
+        <mark key="." line="103" column="24" />
+        <mark key="[" line="102" column="89" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/sql/bonefish_setup/mysql-install-0.1.0.php" timestamp="1497625142852">
         <mark key="]" line="8" column="40" />
@@ -336,11 +336,12 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1505424469820">
-        <mark key="'" line="5" column="0" />
-        <mark key="]" line="6255" column="0" />
-        <mark key="." line="6255" column="0" />
-        <mark key="[" line="6255" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1505480861005">
+        <mark key="'" line="25" column="32" />
+        <mark key="]" line="6262" column="30" />
+        <mark key="^" line="6262" column="29" />
+        <mark key="." line="6262" column="30" />
+        <mark key="[" line="6262" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/page.xml" timestamp="1505416767589">
         <mark key="]" line="38" column="108" />
@@ -430,6 +431,12 @@
         <mark key="." line="15" column="22" />
         <mark key="[" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/vendor/boyhagemann/waveform/BoyHagemann/Waveform/Waveform.php" timestamp="1505480375061">
+        <mark key="]" line="216" column="32" />
+        <mark key="^" line="216" column="32" />
+        <mark key="." line="216" column="32" />
+        <mark key="[" line="216" column="20" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/controllers/PhotobookController.php" timestamp="1504725807785">
         <mark key="]" line="389" column="4" />
         <mark key="^" line="501" column="94" />
@@ -473,12 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="115" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GiftCertificatesCom.php" />
-      <jump line="26" column="83" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/personalizations/preview/digital_sanbox_panel_v2.phtml" />
-      <jump line="236" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/personalizations/preview/digital_sanbox_panel_v2.phtml" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/personalizations/preview/digital_sanbox_panel_v2.phtml" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/personalizations/preview/digital_sanbox_panel_v2.phtml" />
       <jump line="3097" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="5422" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
@@ -573,49 +574,55 @@
       <jump line="5974" column="60" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="6226" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="6196" column="40" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="6248" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="7" column="53" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="6263" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="6267" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="25" column="32" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_pb.src != &quot;/skin/frontend/gci/giftcardshopv2/images/audiorecord/closed.png&quot;</text>
       </register>
       <register name="/" type="4">
         <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_pb.src != &quot;/skin/frontend/gci/giftcardshopv2/images/audiorecord/closed.png&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFuaW1fcGIuc3JjICE9ICIvc2tpbi9mcm9udGVuZC9nY2kvZ2lmdGNhcmRzaG9wdjIvaW1hZ2VzL2F1ZGlvcmVjb3JkL3RhbGtpbmcuZ2lmIikgewo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkb3Blbik7Cg==</text>
+      <register name="2" type="4">
+        <text>anim</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      <register name="1" type="4">
+        <text>_pb.src != &quot;/skin/frontend/gci/giftcardshopv2/images/audiorecord/closed.png&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGFtcGxpdHVkZSA+PSAkcmFuZ2UpIHsKICAgICAgICAgICAgICAgICRhbXBsaXR1ZGUgLT0gMiAqICRyYW5nZTsKICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>&quot;/skin/frontend/gci/giftcardshopv2/images/audiorecord/closed.png&quot;;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkd2F2ZWZvcm0gPSAgV2F2ZWZvcm06OmZyb21GaWxlbmFtZSgkZmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5pbS5zcmMgIT0gIi9za2luL2Zyb250ZW5kL2djaS9naWZ0Y2FyZHNob3B2Mi9pbWFnZXMvYXVkaW9yZWNvcmQvY2xvc2VkLnBuZyIpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text encoding="base64">YW5pbS5zcmMgIT0gIi9za2luL2Zyb250ZW5kL2djaS9naWZ0Y2FyZHNob3B2Mi9pbWFnZXMvYXVkaW9yZWNvcmQvdGFsa2luZy5naWYiKSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmFuZ2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
