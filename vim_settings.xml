@@ -81,6 +81,9 @@
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.css" timestamp="1503947603789">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
         <mark key="^" line="13" column="54" />
@@ -282,6 +285,9 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1505743220977">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
         <mark key="^" line="4040" column="27" />
@@ -332,15 +338,15 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1505741718117">
         <mark key="'" line="5" column="0" />
-        <mark key="]" line="3157" column="0" />
-        <mark key="." line="3157" column="0" />
-        <mark key="[" line="3157" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/page.xml" timestamp="1505416767589">
         <mark key="]" line="38" column="108" />
         <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1505484875322" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" timestamp="1504628639129">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -376,6 +382,12 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="[" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Webservice/Helper/Data.php" timestamp="1505743777771">
+        <mark key="]" line="16" column="83" />
+        <mark key="^" line="16" column="83" />
+        <mark key="." line="16" column="83" />
+        <mark key="[" line="16" column="78" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/OmnicardResult.php" timestamp="1499197993937">
         <mark key="]" line="2" column="99" />
@@ -582,47 +594,47 @@
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRSZXNwb25zZSgpLT5zZXRIZWFkZXIoJ1gtQ2FjaGVLZXknLCAkY2FjaGVLZXksIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>gci003</text>
       </register>
       <register name="/" type="4">
         <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>HIT</text>
+        <text>gci003</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2FjaGUpOwo=</text>
+      <register name="3" type="4">
+        <text>$accountID</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      <register name="2" type="4">
+        <text>917</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRSZXNwb25zZSgpLT5zZXRIZWFkZXIoJ1gtQ2FjaGVLZXknLCAkY2FjaGVLZXksIHRydWUpOwo=</text>
+      <register name="1" type="4">
+        <text>gci003</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGUtPnNhdmUoJGVuY29kZWREYXRhLCAkY2FjaGVLZXksIGFycmF5KCksIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdmVzdGFfaW5mbyA9IGFycmF5KCJBY2NvdW50SUQiPT4kYWNjb3VudElELAogICAgICAgICAgICAiQWNjb3VudEVtYWlsIiA9PiAkZW1haWwsCiAgICAgICAgICAgICJDcmVhdGVkRGF0ZVRpbWUiID0+ICRhY2NvdW50Q3JlYXRlZERhdGUsCiAgICAgICAgICAgICJBY2NvdW50VHlwZSIgPT4gJGFjY291bnRfdHlwZSwKICAgICAgICAgICAgIkZpcnN0TmFtZSIgPT4gJGZpcnN0TmFtZSwKICAgICAgICAgICAgIkxhc3ROYW1lIiA9PiAkbGFzdE5hbWUsCiAgICAgICAgICAgICJCaXJ0aGRheSIgPT4gJGJpcnRoZGF5LAogICAgICAgICAgICAiRW1haWwiID0+ICRlbWFpbCwKICAgICAgICAgICAgIkFkZHJlc3NMaW5lMSIgPT4gJGFkZHJlc3MxLAogICAgICAgICAgICAiQWRkcmVzc0xpbmUyIiA9PiAkYWRkcmVzczIsCiAgICAgICAgICAgICJDaXR5IiA9PiAkY2l0eSwKICAgICAgICAgICAgIlN0YXRlIiA9PiAkc3RhdGUsCiAgICAgICAgICAgICJaaXBDb2RlIiA9PiAkemlwQ29kZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>HIT</text>
+        <text>$firstName</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGUtPnJlbW92ZSgkY2FjaGVLZXkpOwo=</text>
+      <register name="6" type="4">
+        <text>$account_type</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2FjaGVLZXkgLiAiOmxvYWRpbmciKTsK</text>
+      <register name="5" type="4">
+        <text>$accountCreatedDate</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>$email</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25fZW4K</text>
+      <register name="9" type="4">
+        <text>$birthday</text>
       </register>
       <register name="8" type="4">
-        <text>$encodedData</text>
+        <text>$lastName</text>
       </register>
     </registers>
     <search>
