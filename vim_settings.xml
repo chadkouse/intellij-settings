@@ -124,11 +124,11 @@
         <mark key="." line="97" column="71" />
         <mark key="[" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1505936832336">
-        <mark key="]" line="459" column="26" />
-        <mark key="^" line="463" column="26" />
-        <mark key="." line="459" column="27" />
-        <mark key="[" line="459" column="26" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1505938444217">
+        <mark key="]" line="635" column="15" />
+        <mark key="^" line="635" column="15" />
+        <mark key="." line="635" column="15" />
+        <mark key="[" line="635" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/Helper/Pictures.php" timestamp="1504708220634">
         <mark key="]" line="200" column="48" />
@@ -343,11 +343,11 @@
         <mark key="." line="678" column="0" />
         <mark key="[" line="675" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1505936916094">
-        <mark key="]" line="648" column="62" />
-        <mark key="^" line="648" column="62" />
-        <mark key="." line="648" column="62" />
-        <mark key="[" line="647" column="86" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1505938171130">
+        <mark key="]" line="652" column="40" />
+        <mark key="^" line="652" column="40" />
+        <mark key="." line="652" column="40" />
+        <mark key="[" line="652" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1501868366532">
         <mark key="]" line="204" column="123" />
@@ -592,46 +592,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>wrap</text>
+        <text>this</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zdWJtaXQoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>wrap</text>
+        <text>;</text>
       </register>
       <register name="1" type="4">
-        <text>wrap</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkc2NoZWR1bGVJbmZvWyd3cmFwX2lkJ10pICYmICRzY2hlZHVsZUluZm9bJ3dyYXBfaWQnXSAhPSAnJykgewogICAgICAgICAgICAgICAgICAgICRwZXJJdGVtLT5zZXRIb2xkZXJJZCgkc2NoZWR1bGVJbmZvWyd3cmFwX2lkJ10pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdHlwZSA9IHNlbGYuc2VsZWN0ZWRfd3JhcC50eXBlOwogICAgICAgIGlmICh0eXBlID09ICJwaG90b2Jvb2siKSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoJycpOwogICAgICAgICAgICB2YWxWbXNJZC52YWwoc2VsZi52bXNfaWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoc2VsZi5zZWxlY3RlZF93cmFwLmVudGl0eV9pZCk7CiAgICAgICAgICAgIHZhbFZtc0lkLnZhbCgnJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>self.vms_id</text>
+        <text>wrap</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdHlwZSA9IHNlbGYuc2VsZWN0ZWRfd3JhcC50eXBlOwogICAgICAgIGlmICh0eXBlID09ICJwaG90b2Jvb2siKSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoJycpOwogICAgICAgICAgICB2YWxWbXNJZC52YWwoc2VsZi52bXNfaWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoc2VsZi5zZWxlY3RlZF93cmFwLmVudGl0eV9pZCk7CiAgICAgICAgICAgIHZhbFZtc0lkLnZhbCgnJyk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdmFsV3JhcElkID0galF1ZXJ5KCcjd3JhcF9pZCcpOwogICAgICAgIHZhciB2YWxWbXNJZCA9IGpRdWVyeSgnI3Ztc19pZCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>self.selected_wrap.entity_id</text>
+        <text>wrap</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>wrap</text>
       </register>
     </registers>
     <search>
