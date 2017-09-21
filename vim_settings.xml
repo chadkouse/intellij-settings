@@ -39,12 +39,12 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1505936837465">
-        <mark key="'" line="214" column="21" />
-        <mark key="]" line="54" column="70" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="54" column="70" />
-        <mark key="[" line="54" column="70" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1505959503966">
+        <mark key="'" line="215" column="21" />
+        <mark key="]" line="54" column="58" />
+        <mark key="^" line="54" column="48" />
+        <mark key="." line="54" column="63" />
+        <mark key="[" line="54" column="58" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animated/design.phtml" timestamp="1503513121636">
         <mark key="]" line="2" column="0" />
@@ -128,11 +128,11 @@
         <mark key="." line="97" column="71" />
         <mark key="[" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1505938444217">
-        <mark key="]" line="635" column="15" />
-        <mark key="^" line="635" column="15" />
-        <mark key="." line="635" column="15" />
-        <mark key="[" line="635" column="12" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1505959492365">
+        <mark key="]" line="437" column="29" />
+        <mark key="^" line="437" column="29" />
+        <mark key="." line="437" column="29" />
+        <mark key="[" line="437" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/Helper/Pictures.php" timestamp="1504708220634">
         <mark key="]" line="200" column="48" />
@@ -288,6 +288,10 @@
         <mark key="." line="8" column="40" />
         <mark key="[" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1505959237470">
+        <mark key="]" line="2682" column="16" />
+        <mark key="[" line="2676" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/navigation/top.phtml" timestamp="1502909626740">
         <mark key="]" line="97" column="77" />
         <mark key="^" line="97" column="77" />
@@ -347,8 +351,10 @@
         <mark key="." line="678" column="0" />
         <mark key="[" line="675" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1505958219204">
-        <mark key="[" line="2378" column="18" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1505959872316">
+        <mark key="]" line="648" column="0" />
+        <mark key="." line="648" column="0" />
+        <mark key="[" line="648" column="86" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1501868366532">
         <mark key="]" line="204" column="123" />
@@ -593,46 +599,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhvbGRlciBwYXJhbXMKICAgICAgICAgICAgICAgICRfc2Vjb25kYXJ5UHJvZHVjdFBhcmFtcyA9IG51bGw7CgogICAgICAgICAgICAgICAgaWYgKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmlzQ2FyZEhvbGRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgJF9zZWNvbmRhcnlQcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0U3RvcmVJZChNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5sb2FkKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldEhvbGRlcklkKCkpOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJHBlcnNvbmFsaXphdGlvblF1b3RlSXRlbS0+Z2V0SXNEaWdpdGFsKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJF9lQ2FyZFByb2R1Y3QgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKS0+Z2V0RWNhcmRQcm9kdWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICRfc2Vjb25kYXJ5UHJvZHVjdFBhcmFtcyA9IG5ldyBWYXJpZW5fT2JqZWN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Byb2R1Y3QnID0+ICRfZUNhcmRQcm9kdWN0LT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdHknID0+ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgJF9zZWNvbmRhcnlQcm9kdWN0UGFyYW1zID0gbmV3IFZhcmllbl9PYmplY3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJvZHVjdCcgPT4gJF9zZWNvbmRhcnlQcm9kdWN0LT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdHknID0+ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gVGVhc2VyIHBhcmFtcwogICAgICAgICAgICAgICAgaWYgKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFRlYXNlcklkKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgJF90ZWFzZXJQcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0U3RvcmVJZChNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5sb2FkKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFRlYXNlcklkKCkpOwoKCiAgICAgICAgICAgICAgICAgICAgLy9pZiB0aGVyZSBpcyBhIGNzdiBmaWxlLCBzYXZlIG11bHRpcGxlIHRlYXNlciBhcyBwZXIgY3N2LCBvdGhlcndpc2UgcXR5IDEKICAgICAgICAgICAgICAgICAgICBpZiAoJHBlcnNvbmFsaXphdGlvblF1b3RlSXRlbS0+Z2V0Q3N2KCkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAkdGVhc2VyUXVhbnRpdHkgPSAxOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0ZWFzZXJRdWFudGl0eSA9ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpOwogICAgICAgICAgICAgICAgICAgIH0KCgogICAgICAgICAgICAgICAgICAgICRfdGVhc2VyUHJvZHVjdFBhcmFtcyA9IG5ldyBWYXJpZW5fT2JqZWN0KAogICAgICAgICAgICAgICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcm9kdWN0JyA9PiAkX3RlYXNlclByb2R1Y3QtPmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncXR5JyA9PiAkdGVhc2VyUXVhbnRpdHkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>vms</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text>vms</text>
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text>vms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGRvIHdlIGhhdmUgdG8gZG8gdGhpcz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhvbGRlciBwYXJhbXMKICAgICAgICAgICAgICAgICRfc2Vjb25kYXJ5UHJvZHVjdFBhcmFtcyA9IG51bGw7CgogICAgICAgICAgICAgICAgaWYgKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmlzQ2FyZEhvbGRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgJF9zZWNvbmRhcnlQcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0U3RvcmVJZChNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5sb2FkKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldEhvbGRlcklkKCkpOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJHBlcnNvbmFsaXphdGlvblF1b3RlSXRlbS0+Z2V0SXNEaWdpdGFsKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJF9lQ2FyZFByb2R1Y3QgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKS0+Z2V0RWNhcmRQcm9kdWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICRfc2Vjb25kYXJ5UHJvZHVjdFBhcmFtcyA9IG5ldyBWYXJpZW5fT2JqZWN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Byb2R1Y3QnID0+ICRfZUNhcmRQcm9kdWN0LT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdHknID0+ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgJF9zZWNvbmRhcnlQcm9kdWN0UGFyYW1zID0gbmV3IFZhcmllbl9PYmplY3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJvZHVjdCcgPT4gJF9zZWNvbmRhcnlQcm9kdWN0LT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdHknID0+ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gVGVhc2VyIHBhcmFtcwogICAgICAgICAgICAgICAgaWYgKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFRlYXNlcklkKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgJF90ZWFzZXJQcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0U3RvcmVJZChNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5sb2FkKCRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFRlYXNlcklkKCkpOwoKCiAgICAgICAgICAgICAgICAgICAgLy9pZiB0aGVyZSBpcyBhIGNzdiBmaWxlLCBzYXZlIG11bHRpcGxlIHRlYXNlciBhcyBwZXIgY3N2LCBvdGhlcndpc2UgcXR5IDEKICAgICAgICAgICAgICAgICAgICBpZiAoJHBlcnNvbmFsaXphdGlvblF1b3RlSXRlbS0+Z2V0Q3N2KCkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAkdGVhc2VyUXVhbnRpdHkgPSAxOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0ZWFzZXJRdWFudGl0eSA9ICRwZXJzb25hbGl6YXRpb25RdW90ZUl0ZW0tPmdldFF0eSgpOwogICAgICAgICAgICAgICAgICAgIH0KCgogICAgICAgICAgICAgICAgICAgICRfdGVhc2VyUHJvZHVjdFBhcmFtcyA9IG5ldyBWYXJpZW5fT2JqZWN0KAogICAgICAgICAgICAgICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcm9kdWN0JyA9PiAkX3RlYXNlclByb2R1Y3QtPmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncXR5JyA9PiAkdGVhc2VyUXVhbnRpdHkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InZtc19pZCIgaWQ9InZtc19pZCIgdmFsdWU9IiIgLz4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdHlwZSA9IHNlbGYuc2VsZWN0ZWRfd3JhcC50eXBlOwogICAgICAgIGlmICh0eXBlID09ICJwaG90b2Jvb2siKSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoJycpOwogICAgICAgICAgICB2YWxWbXNJZC52YWwoc2VsZi52bXNfaWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbFdyYXBJZC52YWwoc2VsZi5zZWxlY3RlZF93cmFwLmVudGl0eV9pZCk7CiAgICAgICAgICAgIHZhbFZtc0lkLnZhbCgnJyk7CiAgICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>Wrap</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>Wrap</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmFsV3JhcElkID0galF1ZXJ5KCcjd3JhcF9pZCcpOwogICAgICAgIHZhciB2YWxWbXNJZCA9IGpRdWVyeSgnI3Ztc19pZCcpOwo=</text>
+      <register name="5" type="4">
+        <text>wrap</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zdWJtaXQoKTsK</text>
+      <register name="4" type="4">
+        <text>self.selected_wrap.entity_id</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>wrap</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hZ2U6OmxvZygndm1zX2lkPycsIG51bGwsICdzeXN0ZW0ubG9nJyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>wrap</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ3Ztc19pZCEgJyAuICRzY2hlZHVsZUluZm9bJ3Ztc19pZCddLCBudWxsLCAnc3lzdGVtLmxvZycpOwo=</text>
       </register>
     </registers>
     <search>
