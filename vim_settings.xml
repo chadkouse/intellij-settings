@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1506023489880">
+        <mark key="]" line="120" column="73" />
+        <mark key="^" line="120" column="73" />
+        <mark key="." line="120" column="73" />
+        <mark key="[" line="120" column="65" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.3-0.7.4.php" timestamp="1504275013367">
         <mark key="]" line="66" column="0" />
         <mark key="^" line="70" column="0" />
@@ -52,6 +58,12 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1506022696680">
+        <mark key="]" line="2104" column="51" />
+        <mark key="^" line="2104" column="51" />
+        <mark key="." line="2104" column="51" />
+        <mark key="[" line="2104" column="41" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/audiorecord/volume-meter.js" timestamp="1505422779193">
         <mark key="]" line="85" column="20" />
         <mark key="^" line="85" column="20" />
@@ -86,10 +98,10 @@
         <mark key="]" line="2426" column="16" />
         <mark key="[" line="2380" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1506021270714">
-        <mark key="]" line="1579" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1506022417818">
+        <mark key="]" line="114" column="98" />
         <mark key="." line="1579" column="0" />
-        <mark key="[" line="1579" column="0" />
+        <mark key="[" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -208,9 +220,6 @@
         <mark key="." line="390" column="28" />
         <mark key="[" line="389" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.css" timestamp="1503947603789">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
@@ -241,11 +250,10 @@
         <mark key="." line="13" column="54" />
         <mark key="[" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1505741718117">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1506022900707">
         <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/functions.php" timestamp="1504628639129">
-        <mark key="'" line="0" column="0" />
+        <mark key="]" line="5325" column="175" />
+        <mark key="[" line="5325" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -352,11 +360,11 @@
         <mark key="." line="233" column="0" />
         <mark key="[" line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506018198013">
-        <mark key="]" line="651" column="76" />
-        <mark key="^" line="651" column="76" />
-        <mark key="." line="651" column="76" />
-        <mark key="[" line="649" column="111" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506022806401">
+        <mark key="]" line="630" column="60" />
+        <mark key="^" line="662" column="74" />
+        <mark key="." line="630" column="60" />
+        <mark key="[" line="630" column="60" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style_mobile.less" timestamp="1500578971354">
         <mark key="]" line="547" column="28" />
@@ -600,47 +608,47 @@
       <jump line="256" column="57" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tokenof</text>
       </register>
       <register name="/" type="4">
         <text>recorder.digital_metadata</text>
       </register>
       <register name="-" type="4">
-        <text>vms_id</text>
+        <text>tokenof</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsRGlnaXRhbE1ldGFkYXRhLnZhbCgnJyk7Cg==</text>
+      <register name="3" type="4">
+        <text>'/personalizations/preview/animation/id' . $id . '/token/' . $token</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsRGlnaXRhbE1ldGFkYXRhLnZhbCgnJyk7Cg==</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>tokenof</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsV3JhcElkLnZhbChzZWxmLnNlbGVjdGVkX3dyYXAuZW50aXR5X2lkKTsK</text>
+        <text encoding="base64">CQkgICAgICAgICR0aGlzLT5nZXRSZXNwb25zZSgpLT5zZXRSZWRpcmVjdCgnL3BlcnNvbmFsaXphdGlvbnMvcHJldmlldy9lcnJvci8nKS0+c2VuZFJlc3BvbnNlKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsVGVhc2VySWQudmFsKCcnKTsKICAgICAgICAgICAgdmFsVm1zSWQudmFsKCcnKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsV3JhcElkLnZhbCgnJyk7Cg==</text>
+      <register name="5" type="4">
+        <text>scheduleId</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBvcGVuVGltZXNMZW5ndGg7Cg==</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmFyIGRpZ2l0YWxNZXRhZGF0Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
