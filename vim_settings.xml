@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1506025637230">
-        <mark key="]" line="263" column="17" />
-        <mark key="^" line="263" column="17" />
-        <mark key="." line="263" column="17" />
-        <mark key="[" line="263" column="150" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1506103099960">
+        <mark key="]" line="118" column="89" />
+        <mark key="^" line="118" column="89" />
+        <mark key="." line="118" column="89" />
+        <mark key="[" line="118" column="90" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.3-0.7.4.php" timestamp="1504275013367">
         <mark key="]" line="66" column="0" />
@@ -94,6 +94,7 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="57" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaa/template/digital/landing/index.phtml_" timestamp="1506103745124" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PhotobookController.php" timestamp="1505957267873">
         <mark key="]" line="2426" column="16" />
         <mark key="[" line="2380" column="0" />
@@ -145,7 +146,7 @@
         <mark key="." line="97" column="71" />
         <mark key="[" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1506102236734">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1506103190954">
         <mark key="'" line="684" column="0" />
         <mark key="]" line="534" column="15" />
         <mark key="^" line="534" column="15" />
@@ -219,11 +220,12 @@
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1505357355821">
-        <mark key="]" line="390" column="28" />
-        <mark key="^" line="390" column="28" />
-        <mark key="." line="390" column="28" />
-        <mark key="[" line="389" column="36" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1506104467345">
+        <mark key="'" line="27" column="0" />
+        <mark key="]" line="41" column="98" />
+        <mark key="^" line="41" column="98" />
+        <mark key="." line="41" column="98" />
+        <mark key="[" line="41" column="119" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -373,11 +375,11 @@
         <mark key="." line="678" column="0" />
         <mark key="[" line="675" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506102323978">
-        <mark key="]" line="467" column="42" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506103220137">
+        <mark key="]" line="467" column="104" />
         <mark key="^" line="471" column="34" />
         <mark key="." line="467" column="42" />
-        <mark key="[" line="467" column="42" />
+        <mark key="[" line="467" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1501868366532">
         <mark key="]" line="204" column="123" />
@@ -420,12 +422,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" timestamp="1506088894063">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" timestamp="1506104917341">
         <mark key="'" line="53" column="10" />
-        <mark key="]" line="113" column="95" />
-        <mark key="^" line="46" column="41" />
-        <mark key="." line="113" column="95" />
-        <mark key="[" line="113" column="95" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="104" column="28" />
+        <mark key="." line="146" column="0" />
+        <mark key="[" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/vendor/boyhagemann/waveform/BoyHagemann/Waveform/Waveform.php" timestamp="1505482695514">
         <mark key="]" line="216" column="21" />
@@ -531,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aaa/css/styles-mobile.min.css" />
       <jump line="8215" column="55" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aaa/css/styles.min.css" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aaa/css/giftcardshop/giftcard.css" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" />
@@ -631,57 +632,58 @@
       <jump line="275" column="39" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/font-face.css" />
       <jump line="283" column="1" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/font-face.css" />
       <jump line="292" column="1" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/font-face.css" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdiBpZD0icm9vdEVsZW1lbnQiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTtoZWlnaHQ6NDkwcHg7bWFyZ2luLXRvcDotMTBweCI+PC9kaXY+Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>\'Ave</text>
+        <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>642</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LGFycmF5KCdfc2VjdXJlJz0+dHJ1ZSkpLA==</text>
+        <text>642</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>642</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">PGRpdiBpZD0icm9vdEVsZW1lbnQiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTtoZWlnaHQ6NDkwcHg7bWFyZ2luLXRvcDotMTBweCI+PC9kaXY+Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInByb2R1Y3RfdHlwZSIgPT4gIlBob3RvYm9vayIsCg==</text>
+        <text encoding="base64">aWYgKCRwYXNzZWRIZWlnaHQgPiAwKSB7CiAgICAkaGVpZ2h0ID0gJHBhc3NlZEhlaWdodDsKfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>Photobook</text>
+        <text>height</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>4</text>
       </register>
       <register name="5" type="4">
-        <text>Mage::getUrl(''</text>
+        <text>8</text>
       </register>
       <register name="4" type="4">
-        <text>Mage::getUrl(''</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL0hlaWdodC9XaWR0aC8=</text>
       </register>
-      <register name="9" type="4">
-        <text>;</text>
+      <register name="9" type="2">
+        <text encoding="base64">JHdpZHRoID0gCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Photobook</text>
+      <register name="8" type="2">
+        <text encoding="base64">JHdpZHRoID0gCg==</text>
       </register>
     </registers>
     <search>
       <last-search>getOrders</last-search>
       <last-offset />
-      <last-pattern>\'Ave</last-pattern>
-      <last-replace>\'Fonts\/AvenirNextLTPro-Medium\/Ave</last-replace>
-      <last-substitute>\'Ave</last-substitute>
+      <last-pattern>Height</last-pattern>
+      <last-replace>Width</last-replace>
+      <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -703,6 +705,7 @@
         <entry>recorder.digital_metadata</entry>
         <entry>Fonts</entry>
         <entry>\'Ave</entry>
+        <entry>Height</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW0oL3Bvc3REYXRhWy9n</entry>
@@ -723,6 +726,7 @@
         <entry encoding="base64">JzwsJz5zL1wnQXZlL1wnRm9udHNcL0F2ZW5pck5leHRMVFByby1EZW1pXC9BdmUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wnQXZlL1wnRm9udHNcL0F2ZW5pck5leHRMVFByby1NZWRpdW1cL0F2ZS9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL0hlaWdodC9XaWR0aC8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
