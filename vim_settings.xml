@@ -220,12 +220,12 @@
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1506104467345">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1506111070870">
         <mark key="'" line="27" column="0" />
-        <mark key="]" line="41" column="98" />
-        <mark key="^" line="41" column="98" />
-        <mark key="." line="41" column="98" />
-        <mark key="[" line="41" column="119" />
+        <mark key="]" line="419" column="0" />
+        <mark key="^" line="401" column="29" />
+        <mark key="." line="419" column="0" />
+        <mark key="[" line="419" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -636,46 +636,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBpZD0icm9vdEVsZW1lbnQiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTtoZWlnaHQ6NDkwcHg7bWFyZ2luLXRvcDotMTBweCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdQYWdlKTsK</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>642</text>
+        <text>true</text>
       </register>
-      <register name="3" type="4">
-        <text>642</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLCBzbGlkZVNob3dEZWxheTogMTAwMDAK</text>
       </register>
-      <register name="2" type="4">
-        <text>642</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYWdlQ291bnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBpZD0icm9vdEVsZW1lbnQiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTtoZWlnaHQ6NDkwcHg7bWFyZ2luLXRvcDotMTBweCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdQYWdlKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgKCRwYXNzZWRIZWlnaHQgPiAwKSB7CiAgICAkaGVpZ2h0ID0gJHBhc3NlZEhlaWdodDsKfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>height</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9kbyB0aGUgbGFzdCBwYWdlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>4</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>8</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0hlaWdodC9XaWR0aC8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JHdpZHRoID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuc2V0VAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">JHdpZHRoID0gCg==</text>
+      <register name="8" type="4">
+        <text>some_element</text>
       </register>
     </registers>
     <search>
