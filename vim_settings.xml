@@ -308,6 +308,7 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1506712757575" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
@@ -550,11 +551,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1506708951275">
-        <mark key="]" line="719" column="41" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1506713603584">
+        <mark key="]" line="261" column="111" />
         <mark key="^" line="719" column="41" />
-        <mark key="." line="719" column="41" />
-        <mark key="[" line="719" column="38" />
+        <mark key="." line="261" column="0" />
+        <mark key="[" line="261" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbas/template/personalizations/preview/digital_token.phtml" timestamp="1501868361428">
         <mark key="]" line="201" column="123" />
@@ -679,7 +680,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb3JkZXJJdGVtLT5zZXREYXRhKCJwZXJzb25hbGl6YXRpb25fZ2lmdGFuZ29fZ2lmdGNhcmRfaWQiLCAkZ2lmVGFuZ29SZXN1bHRbJ2dpZnRjYXJkSWQnXSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
@@ -697,7 +698,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNpcGllbnRzW10gPSBhcnJheSgKICAgICAgICAgICAgICAgICAgICAiRW1haWxBZGRyZXNzIiA9PiAkcmVjaXBpZW50RW1haWwsCiAgICAgICAgICAgICAgICAgICAgIkZpcnN0TmFtZSIgPT4gJHJlY2lwaWVudEZpcnN0TmFtZSwKICAgICAgICAgICAgICAgICAgICAiTGFzdE5hbWUiID0+ICRyZWNpcGllbnRMYXN0TmFtZSwKICAgICAgICAgICAgICAgICAgICAvLyJVc2VySWQiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICJEaXNhYmxlRW1haWxEZWxpdmVyeSIgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAiU2hpcHBpbmdNZXRob2QiID0+ICJFbWFpbCIsCiAgICAgICAgICAgICAgICAgICAgIkl0ZW1zIiA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgIkFtb3VudCIgPT4gNTAsCiAgICAgICAgICAgICAgICAgICAgICAgICJIaWRlQW1vdW50IiA9PiBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgIkJyYW5kSWQiID0+ICRicmFuZElkLAogICAgICAgICAgICAgICAgICAgICAgICAiUXVhbnRpdHkiID0+IDEKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb3JkZXJJdGVtLT5zZXREYXRhKCJwZXJzb25hbGl6YXRpb25fZ2lmdGFuZ29fZ2lmdGNhcmRfaWQiLCAkZ2lmVGFuZ29SZXN1bHRbJ2dpZnRjYXJkSWQnXSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
