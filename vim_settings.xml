@@ -7,11 +7,12 @@
         <mark key="]" line="401" column="42" />
         <mark key="[" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1506958303686">
-        <mark key="'" line="271" column="57" />
-        <mark key="]" line="155" column="55" />
-        <mark key="." line="155" column="55" />
-        <mark key="[" line="155" column="55" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1506961027218">
+        <mark key="'" line="273" column="57" />
+        <mark key="]" line="144" column="11" />
+        <mark key="^" line="144" column="11" />
+        <mark key="." line="144" column="11" />
+        <mark key="[" line="144" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/TASK_RELATED_CMS_PAGES/aarp_homepage" timestamp="1506649785009" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" timestamp="1506542136869">
@@ -71,12 +72,12 @@
         <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Sales/Model/Order.php" timestamp="1506651473532" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1506959173776">
-        <mark key="'" line="703" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="64" column="39" />
-        <mark key="." line="67" column="0" />
-        <mark key="[" line="67" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1506960893224">
+        <mark key="'" line="705" column="0" />
+        <mark key="]" line="118" column="71" />
+        <mark key="^" line="118" column="71" />
+        <mark key="." line="118" column="71" />
+        <mark key="[" line="118" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -262,46 +263,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDE2MHB4Owo=</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>6</text>
+        <text>'</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0TGlzdFJlY29yZGluZy5hcHBlbmQoZGl2KTsK</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5wcm9kdWN0X2l0ZW0nKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>Photobook</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>Recording</text>
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3QuYXBwZW5kKGRpdik7Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
