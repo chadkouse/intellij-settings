@@ -111,11 +111,11 @@
         <mark key="." line="296" column="0" />
         <mark key="[" line="286" column="1" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506103220137">
-        <mark key="]" line="467" column="104" />
-        <mark key="^" line="471" column="34" />
-        <mark key="." line="467" column="42" />
-        <mark key="[" line="467" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1506962527388">
+        <mark key="]" line="453" column="36" />
+        <mark key="^" line="453" column="36" />
+        <mark key="." line="453" column="36" />
+        <mark key="[" line="453" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" timestamp="1506442626690">
         <mark key="'" line="81" column="18" />
@@ -263,43 +263,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>photobook</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>photobook</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>product</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>photobook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5wcm9kdWN0X2l0ZW0nKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2F0ZWdvcnlDb2xsZWN0aW9uID0gJHBob3RvYm9va1Byb2R1Y3QtPmdldENhdGVnb3J5Q29sbGVjdGlvbigpLT5hZGRBdHRyaWJ1dGVUb1NlbGVjdCgnbmFtZScpOwogICAgICAgICRjYXRlZ29yaWVzID0gYXJyYXkoKTsKICAgICAgICBmb3JlYWNoICgkY2F0ZWdvcnlDb2xsZWN0aW9uIGFzICRjYXRlZ29yeSkgewogICAgICAgICAgICBhcnJheV9wdXNoKCRjYXRlZ29yaWVzLCBhcnJheSgiaWQiPT4kY2F0ZWdvcnktPmdldElkKCksICJuYW1lIj0+JGNhdGVnb3J5LT5nZXROYW1lKCkpKTsKICAgICAgICB9CiAgICAgICAgJHdyYXBfZGF0YVsnY2F0ZWdvcmllcyddID0gJGNhdGVnb3JpZXM7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>D</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
         <text>t</text>
