@@ -25,11 +25,12 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1507308270721">
-        <mark key="'" line="287" column="57" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1507323689175">
+        <mark key="'" line="311" column="57" />
+        <mark key="]" line="172" column="33" />
+        <mark key="^" line="172" column="90" />
+        <mark key="." line="172" column="33" />
+        <mark key="[" line="172" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" timestamp="1506542136869">
         <mark key="'" line="2137" column="12" />
@@ -126,6 +127,10 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1507323511035">
+        <mark key="]" line="58" column="5" />
+        <mark key="[" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/audiorecord/index.html" timestamp="1505848485310">
         <mark key="]" line="28" column="76" />
         <mark key="^" line="156" column="25" />
@@ -137,6 +142,10 @@
         <mark key="^" line="126" column="4" />
         <mark key="." line="126" column="4" />
         <mark key="[" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1507323557426">
+        <mark key="]" line="114" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/sql/bonefish_setup/mysql-install-0.1.0.php" timestamp="1497625142852">
         <mark key="]" line="8" column="40" />
@@ -156,11 +165,11 @@
         <mark key="." line="15" column="25" />
         <mark key="[" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.less" timestamp="1507044237815">
-        <mark key="]" line="331" column="24" />
-        <mark key="^" line="331" column="24" />
-        <mark key="." line="331" column="24" />
-        <mark key="[" line="330" column="24" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.less" timestamp="1507323562475">
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="[" line="123" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/node_modules/sayic-sdk/lib/helpers/sayichelper.js" timestamp="1503328761210">
         <mark key="]" line="678" column="15" />
@@ -321,12 +330,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1507311611612">
-        <mark key="'" line="897" column="0" />
-        <mark key="]" line="525" column="63" />
-        <mark key="^" line="525" column="63" />
-        <mark key="." line="525" column="63" />
-        <mark key="[" line="525" column="55" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1507323922355">
+        <mark key="'" line="990" column="0" />
+        <mark key="]" line="912" column="20" />
+        <mark key="^" line="910" column="46" />
+        <mark key="." line="912" column="20" />
+        <mark key="[" line="912" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -407,11 +416,10 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1507308263301">
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="7" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1507323603974">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -713,46 +721,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>canvas.height</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>canvas.height</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>Height</text>
+        <text>a</text>
       </register>
       <register name="2" type="4">
-        <text>canvas.width</text>
+        <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>canvas.height</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuaGVpZ2h0ID0gbmV3SGVpZ2h0OwogICAgICAgIGNhbnZhcy53aWR0aCA9IG5ld1dpZHRoOwo=</text>
+        <text encoding="base64">LnNhbXBsZV9vdmVybGF5IHsKICBwb3NpdGlvbjogZml4ZWQ7CiAgbGVmdDogMDsKICByaWdodDogMDsKICB0b3A6IDA7CiAgYm90dG9tOiAwOwogIGRpc3BsYXk6IGZsZXg7CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsMCwwLDAuNzUpOwogIHotaW5kZXg6IDk5OTk5OTk7CiAgaW1nIHsKICAgIG1heC13aWR0aDogOTAlOwogICAgbWF4LWhlaWdodDogOTAlOwogIH0KICAuY2xvc2Vfb3ZlcmxheSB7CiAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsKICAgIHdpZHRoOiA1MHB4OwogICAgaGVpZ2h0OiA1MHB4OwogICAgYm9yZGVyLXJhZGl1czogMjVweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIGZvbnQtc2l6ZTogM2VtOwogICAgcGFkZGluZy10b3A6IDE3cHg7CiAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAxMHB4OwogICAgcmlnaHQ6IDEwcHg7CiAgICB6LWluZGV4OiA5OTk5OwogICAgYm9yZGVyOiBzb2xpZCAxcHggZGFya2dyYXk7CiAgfQp9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>path.height</text>
+        <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3R4ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>canvas.width</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>canvas.height</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>path.height</text>
+        <text>name</text>
       </register>
       <register name="8" type="4">
-        <text>path.width</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
