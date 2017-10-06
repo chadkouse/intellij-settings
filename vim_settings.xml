@@ -316,12 +316,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1507233966059">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1507250962213">
         <mark key="'" line="810" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="79" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="32" column="0" />
+        <mark key="]" line="524" column="16" />
+        <mark key="^" line="474" column="27" />
+        <mark key="." line="524" column="27" />
+        <mark key="[" line="524" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -401,11 +401,10 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1507234124632">
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
-        <mark key="[" line="61" column="34" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1507250911658">
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -706,47 +705,47 @@
       <jump line="2137" column="12" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3RQaG90b2Jvb2sgPSBqUXVlcnkoJyNwcm9kdWN0X2xpc3QnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>#photobook_frame</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="-" type="4">
-        <text>_photobook</text>
+        <text>#photobook_frame</text>
       </register>
       <register name="3" type="4">
-        <text>_photobook</text>
+        <text>#photobook_frame</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3RSZWNvcmRpbmcgPSBqUXVlcnkoJyNwcm9kdWN0X2xpc3QnKTsK</text>
+      <register name="2" type="4">
+        <text>#photobook_frame</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3RQaG90b2Jvb2sgPSBqUXVlcnkoJyNwcm9kdWN0X2xpc3QnKTsK</text>
+      <register name="1" type="4">
+        <text>#photobook_frame</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9kdWN0TGlzdEFuaW1hdGlvbiA9IGpRdWVyeSgnI3Byb2R1Y3RfbGlzdF9hbmltYXRpb24nKTsKICAgICAgICBwcm9kdWN0TGlzdFJlY29yZGluZyA9IGpRdWVyeSgnI3Byb2R1Y3RfbGlzdF9yZWNvcmRpbmcnKTsKICAgICAgICBwcm9kdWN0TGlzdFBob3RvYm9vayA9IGpRdWVyeSgnI3Byb2R1Y3RfbGlzdF9waG90b2Jvb2snKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3RSZWNvcmRpbmcgPSBqUXVlcnkoJyNwcm9kdWN0X2xpc3QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdExpc3RQaG90b2Jvb2sgPSBqUXVlcnkoJyNwcm9kdWN0X2xpc3QnKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>_animation</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>_recording</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_recording</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>_photobook</text>
       </register>
     </registers>
     <search>
