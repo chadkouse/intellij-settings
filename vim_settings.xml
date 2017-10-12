@@ -393,12 +393,12 @@
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507840416825">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507841722405">
         <mark key="'" line="27" column="0" />
-        <mark key="]" line="341" column="95" />
-        <mark key="^" line="341" column="95" />
-        <mark key="." line="341" column="95" />
-        <mark key="[" line="341" column="95" />
+        <mark key="]" line="332" column="19" />
+        <mark key="^" line="332" column="19" />
+        <mark key="." line="332" column="19" />
+        <mark key="[" line="327" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -722,47 +722,47 @@
       <jump line="119" column="125" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text>EamesCenturyModern-Medium</text>
+        <text>html</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">QGZvbnQtZmFjZSB7CiAgICBmb250LWZhbWlseTogJ0VhbWVzQ2VudHVyeU1vZGVybi1NZWRpdW0nOwogICAgc3JjOiB1cmwoJy4uL0ZvbnRzL0VhbWVzQ2VudHVyeU1vZGVybi1NZWRpdW0uZW90PyNpZWZpeCcpIGZvcm1hdCgnZW1iZWRkZWQtb3BlbnR5cGUnKSwgIHVybCgnLi4vRm9udHMvRWFtZXNDZW50dXJ5TW9kZXJuLU1lZGl1bS5vdGYnKSAgZm9ybWF0KCdvcGVudHlwZScpLAogICAgdXJsKCcuLi9Gb250cy9FYW1lc0NlbnR1cnlNb2Rlcm4tTWVkaXVtLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwgdXJsKCcuLi9Gb250cy9FYW1lc0NlbnR1cnlNb2Rlcm4tTWVkaXVtLnR0ZicpICBmb3JtYXQoJ3RydWV0eXBlJyksIHVybCgnLi4vRm9udHMvRWFtZXNDZW50dXJ5TW9kZXJuLU1lZGl1bS5zdmcjRWFtZXNDZW50dXJ5TW9kZXJuLU1lZGl1bScpIGZvcm1hdCgnc3ZnJyk7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwogICAgZm9udC1zdHlsZTogbm9ybWFsOwp9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>EamesCenturyModern-Medium</text>
+      </register>
+      <register name="1" type="4">
+        <text>html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>560</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>px</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/950/638/g</text>
       </register>
       <register name="9" type="4">
-        <text>510</text>
+        <text>996</text>
       </register>
       <register name="8" type="4">
-        <text>996</text>
+        <text>560</text>
       </register>
     </registers>
     <search>
