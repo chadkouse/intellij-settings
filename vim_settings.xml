@@ -32,9 +32,9 @@
         <mark key="." line="172" column="33" />
         <mark key="[" line="172" column="33" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" timestamp="1507836258910">
-        <mark key="'" line="2153" column="12" />
-        <mark key="]" line="300" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" timestamp="1507839827736">
+        <mark key="'" line="2157" column="12" />
+        <mark key="]" line="303" column="21" />
         <mark key="." line="300" column="0" />
         <mark key="[" line="300" column="0" />
       </file>
@@ -236,11 +236,11 @@
         <mark key="." line="221" column="0" />
         <mark key="[" line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/photobook/styles.min.css" timestamp="1507838895234">
-        <mark key="]" line="28" column="1" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/photobook/styles.min.css" timestamp="1507839797917">
+        <mark key="]" line="28" column="42" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="18" />
+        <mark key="[" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/connect360/css/font-face.css" timestamp="1498162026265">
         <mark key="]" line="55" column="75" />
@@ -393,12 +393,12 @@
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507838237597">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507840416825">
         <mark key="'" line="27" column="0" />
-        <mark key="]" line="70" column="80" />
-        <mark key="^" line="70" column="80" />
-        <mark key="." line="70" column="80" />
-        <mark key="[" line="70" column="80" />
+        <mark key="]" line="341" column="95" />
+        <mark key="^" line="341" column="95" />
+        <mark key="." line="341" column="95" />
+        <mark key="[" line="341" column="95" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -465,7 +465,7 @@
         <mark key="." line="12" column="26" />
         <mark key="[" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/tcp_photobook1/config.php" timestamp="1507839199094">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/tcp_photobook1/config.php" timestamp="1507839757978">
         <mark key="]" line="22" column="59" />
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
@@ -576,8 +576,8 @@
         <mark key="." line="1756" column="0" />
         <mark key="[" line="1756" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1507836252947">
-        <mark key="]" line="528" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1507839847654">
+        <mark key="]" line="531" column="21" />
         <mark key="^" line="516" column="38" />
         <mark key="." line="528" column="0" />
         <mark key="[" line="528" column="0" />
@@ -722,8 +722,8 @@
       <jump line="119" column="125" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EamesCenturyModern-Medium</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
@@ -741,7 +741,7 @@
         <text>EamesCenturyModern-Medium</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdFYW1lc0NlbnR1cnlNb2Rlcm4tQm9sZCc7CiAgc3JjOiB1cmwoJ0VhbWVzQ2VudHVyeU1vZGVybi1Cb2xkLmVvdD8jaWVmaXgnKSBmb3JtYXQoJ2VtYmVkZGVkLW9wZW50eXBlJyksICB1cmwoJ0VhbWVzQ2VudHVyeU1vZGVybi1Cb2xkLm90ZicpICBmb3JtYXQoJ29wZW50eXBlJyksCgkgICAgIHVybCgnRWFtZXNDZW50dXJ5TW9kZXJuLUJvbGQud29mZicpIGZvcm1hdCgnd29mZicpLCB1cmwoJ0VhbWVzQ2VudHVyeU1vZGVybi1Cb2xkLnR0ZicpICBmb3JtYXQoJ3RydWV0eXBlJyksIHVybCgnRWFtZXNDZW50dXJ5TW9kZXJuLUJvbGQuc3ZnI0VhbWVzQ2VudHVyeU1vZGVybi1Cb2xkJykgZm9ybWF0KCdzdmcnKTsKICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="7" type="4">
         <text>560</text>
