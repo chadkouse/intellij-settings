@@ -289,11 +289,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508181025245">
-        <mark key="]" line="1609" column="76" />
-        <mark key="^" line="1609" column="76" />
-        <mark key="." line="1609" column="76" />
-        <mark key="[" line="1609" column="73" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508258969567">
+        <mark key="]" line="1976" column="16" />
+        <mark key="^" line="2443" column="74" />
+        <mark key="." line="1976" column="16" />
+        <mark key="[" line="1976" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -517,11 +517,11 @@
         <mark key="." line="228" column="22" />
         <mark key="[" line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_email.html" timestamp="1508181599311">
-        <mark key="]" line="303" column="222" />
-        <mark key="^" line="303" column="222" />
-        <mark key="." line="303" column="222" />
-        <mark key="[" line="303" column="112" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_email.html" timestamp="1508258736719">
+        <mark key="]" line="450" column="79" />
+        <mark key="^" line="452" column="133" />
+        <mark key="." line="450" column="79" />
+        <mark key="[" line="450" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/vendor/boyhagemann/waveform/BoyHagemann/Waveform/Waveform.php" timestamp="1505482695514">
         <mark key="]" line="216" column="21" />
@@ -698,47 +698,47 @@
       <jump line="119" column="125" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jQuery(&quot;#design_panel&quot;).offset().top</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text>jQuery(&quot;#design_panel&quot;).offset().top</text>
+        <text>;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJ2h0bWwsIGJvZHknKS5hbmltYXRlKHsKICAgICAgICAgICAgc2Nyb2xsVG9wOiBqUXVlcnkoIiNkZXNpZ25fcGFuZWwiKS5vZmZzZXQoKS50b3AKICAgICAgICB9LCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbFVwSWZOZWVkZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdHJ0b2xvd2VyKE1hZ2U6OmFwcCgpLT5nZXRTdG9yZSgpLT5nZXROYW1lKCkpICA9PSAndGNwJykgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text>jQuery(&quot;#design_panel&quot;).offset().top</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbFVwSWZOZWVkZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXNbJ1RjcENvbG9yJ10gPSAkdGhpcy0+Z2V0VGNwQ29sb3IoJGhvbGRlcik7CiAgICAgICAgICAgICAgICAkcGFyYW1zWydUY3BGb250U3R5bGUnXSA9ICR0aGlzLT5UY3BGb250U3R5bGUoJGhvbGRlcik7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>unbind</text>
+        <text>}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2Nyb2xsVG9wID0galF1ZXJ5KCdodG1sLCBib2R5Jykuc2Nyb2xsVG9wKCk7CiAgICAgICAgdmFyIHNjcm9sbFRvcFRhcmcgPSBqUXVlcnkoJyNkZXNpZ25fcGFuZWwnKS5vZmZzZXQoKS50b3A7CiAgICAgICAgaWYgKHNjcm9sbFRvcCA+IHNjcm9sbFRvcFRhcmcpIHsKICAgICAgICAgICAgalF1ZXJ5KCdodG1sLCBib2R5JykuYW5pbWF0ZSh7CiAgICAgICAgICAgICAgICBzY3JvbGxUb3A6IGpRdWVyeSgiI2Rlc2lnbl9wYW5lbCIpLm9mZnNldCgpLnRvcAogICAgICAgICAgICB9LCAxMDAwKTsKICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdHJ0b2xvd2VyKE1hZ2U6OmFwcCgpLT5nZXRTdG9yZSgpLT5nZXROYW1lKCkpICA9PSAndGNwJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5pZnJhbWVfd3JhcCcpLmhpZGUoKTsK</text>
+      <register name="9" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5pZnJhbWVfd3JhcCcpLmhpZGUoKTsK</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
     </registers>
     <search>
