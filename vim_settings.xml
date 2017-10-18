@@ -21,12 +21,11 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508345477695">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508355436824">
         <mark key="'" line="464" column="57" />
-        <mark key="]" line="184" column="236" />
-        <mark key="^" line="91" column="59" />
-        <mark key="." line="92" column="0" />
-        <mark key="[" line="184" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="[" line="182" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1501868374558">
         <mark key="]" line="12" column="60" />
@@ -304,12 +303,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508353778525">
-        <mark key="'" line="1176" column="0" />
-        <mark key="]" line="771" column="52" />
-        <mark key="^" line="771" column="52" />
-        <mark key="." line="771" column="52" />
-        <mark key="[" line="770" column="87" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508355361225">
+        <mark key="'" line="1188" column="0" />
+        <mark key="]" line="789" column="5" />
+        <mark key="^" line="789" column="5" />
+        <mark key="." line="789" column="5" />
+        <mark key="[" line="788" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -358,13 +357,6 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507862417939">
-        <mark key="'" line="27" column="0" />
-        <mark key="]" line="330" column="37" />
-        <mark key="^" line="330" column="37" />
-        <mark key="." line="330" column="37" />
-        <mark key="[" line="327" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -699,8 +691,8 @@
       <jump line="2852" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXV0b3BsYXkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uY2xpY2s9ImRlc2lnbmVyLnBsYXlWaWRlbygpOyI+UGxheTwvYnV0dG9uPgo=</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
@@ -708,38 +700,38 @@
       <register name="-" type="4">
         <text encoding="base64">YXV0b3BsYXkg</text>
       </register>
-      <register name="3" type="4">
-        <text>frameVideo</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.pop()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXV0b3BsYXkg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uY2xpY2s9ImRlc2lnbmVyLnBsYXlWaWRlbygpOyI+UGxheTwvYnV0dG9uPgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZnJhbWUgPSBqUXVlcnkoJyNwaG90b2Jvb2tfZnJhbWUnKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>'https:' + self.base_url</text>
+        <text>.pop()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">YXV0b3BsYXkg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjcGhvdG9ib29rX2ZyYW1lJylbMF0uY29udGVudFdpbmRvdy5kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgndmlkZW8nKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>cupcakepink.mp4</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>'http://tcp-animations.s3.amazonaws.com'</text>
+        <text>cupcakepink.mp4</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZyYW1lVmlkZW8pIHsKICAgICAgICAgICAgICAgIGZyYW1lVmlkZW8ucGxheSgpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>frameVideo</text>
       </register>
     </registers>
     <search>
