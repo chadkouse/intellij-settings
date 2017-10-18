@@ -304,12 +304,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508351832295">
-        <mark key="'" line="1175" column="0" />
-        <mark key="]" line="770" column="11" />
-        <mark key="^" line="770" column="11" />
-        <mark key="." line="770" column="11" />
-        <mark key="[" line="770" column="12" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508353778525">
+        <mark key="'" line="1176" column="0" />
+        <mark key="]" line="771" column="52" />
+        <mark key="^" line="771" column="52" />
+        <mark key="." line="771" column="52" />
+        <mark key="[" line="770" column="87" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -358,6 +358,13 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1507862417939">
+        <mark key="'" line="27" column="0" />
+        <mark key="]" line="330" column="37" />
+        <mark key="^" line="330" column="37" />
+        <mark key="." line="330" column="37" />
+        <mark key="[" line="327" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.7.2-0.7.3.php" timestamp="1504274971484">
         <mark key="]" line="14" column="0" />
@@ -561,6 +568,12 @@
         <mark key="." line="201" column="123" />
         <mark key="[" line="201" column="120" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/animations/tcp/cupcakepink.html" timestamp="1508354093547">
+        <mark key="]" line="87" column="19" />
+        <mark key="^" line="88" column="33" />
+        <mark key="." line="87" column="19" />
+        <mark key="[" line="87" column="19" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.1.8-0.1.9.php" timestamp="1499198679811">
         <mark key="]" line="8" column="0" />
         <mark key="^" line="19" column="58" />
@@ -686,47 +699,47 @@
       <jump line="2852" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3JjPSI8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9hbmltYXRpb25fc2FtcGxlLmpwZycpOyA/PiIvPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXV0b3BsYXkg</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text>PHOTOBOOK_2</text>
+        <text encoding="base64">YXV0b3BsYXkg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
+      <register name="3" type="4">
+        <text>frameVideo</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3R5bGU9ImRpc3BsYXk6bm9uZTsiCg==</text>
+      <register name="2" type="4">
+        <text>.pop()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3JjPSI8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9hbmltYXRpb25fc2FtcGxlLmpwZycpOyA/PiIvPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">YXV0b3BsYXkg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFuaW1hdGlvbl9wb3N0ZXIiIHN0eWxlPSJkaXNwbGF5Om5vbmU7d2lkdGg6MTAwJTtoZWlnaHQ6MTAwJTtiYWNrZ3JvdW5kLWltYWdlOiB1cmwoPD9waHAgZWNobyBNYWdlOjpnZXREZXNpZ24oKS0+Z2V0U2tpblVybCgnaW1hZ2VzL2FuaW1hdGlvbi9kZXNpZ24vYW5pbWF0aW9uX3NhbXBsZS5qcGcnKTsgPz4pOyBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOyI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>oice</text>
+        <text>'https:' + self.base_url</text>
       </register>
-      <register name="6" type="4">
-        <text>AUDIORECORD</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>PHOTOBOOK_2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
+      <register name="4" type="4">
+        <text>cupcakepink.mp4</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>insideMessage</text>
+        <text>'http://tcp-animations.s3.amazonaws.com'</text>
       </register>
-      <register name="8" type="4">
-        <text>oice</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZyYW1lVmlkZW8pIHsKICAgICAgICAgICAgICAgIGZyYW1lVmlkZW8ucGxheSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
