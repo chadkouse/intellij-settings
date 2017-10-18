@@ -21,12 +21,12 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508343567277">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508345477695">
         <mark key="'" line="464" column="57" />
-        <mark key="]" line="92" column="63" />
+        <mark key="]" line="184" column="236" />
         <mark key="^" line="91" column="59" />
         <mark key="." line="92" column="0" />
-        <mark key="[" line="92" column="0" />
+        <mark key="[" line="184" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1501868374558">
         <mark key="]" line="12" column="60" />
@@ -94,10 +94,11 @@
         <mark key="." line="13" column="54" />
         <mark key="[" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style_mobile.less" timestamp="1508263018698">
-        <mark key="]" line="252" column="5" />
-        <mark key="." line="215" column="0" />
-        <mark key="[" line="214" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style_mobile.less" timestamp="1508345808208">
+        <mark key="]" line="86" column="44" />
+        <mark key="^" line="86" column="44" />
+        <mark key="." line="86" column="44" />
+        <mark key="[" line="85" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml" timestamp="1506622393403">
         <mark key="]" line="59" column="0" />
@@ -381,11 +382,11 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508271122101">
-        <mark key="]" line="175" column="51" />
-        <mark key="^" line="175" column="51" />
-        <mark key="." line="175" column="51" />
-        <mark key="[" line="175" column="47" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508345518081">
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="174" column="51" />
+        <mark key="." line="33" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -685,7 +686,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3JjPSI8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9hbmltYXRpb25fc2FtcGxlLmpwZycpOyA/PiIvPgo=</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
@@ -693,38 +694,38 @@
       <register name="-" type="4">
         <text>PHOTOBOOK_2</text>
       </register>
-      <register name="3" type="4">
-        <text>PHOTOBOOK_2</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3R5bGU9ImRpc3BsYXk6bm9uZTsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3JjPSI8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9hbmltYXRpb25fc2FtcGxlLmpwZycpOyA/PiIvPgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcGVySXRlbS0+c2V0V3JhcFR5cGUoJGRhdGFoZWxwZXI6OldSQVBUWVBFX1BIT1RPQk9PS18yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFuaW1hdGlvbl9wb3N0ZXIiIHN0eWxlPSJkaXNwbGF5Om5vbmU7d2lkdGg6MTAwJTtoZWlnaHQ6MTAwJTtiYWNrZ3JvdW5kLWltYWdlOiB1cmwoPD9waHAgZWNobyBNYWdlOjpnZXREZXNpZ24oKS0+Z2V0U2tpblVybCgnaW1hZ2VzL2FuaW1hdGlvbi9kZXNpZ24vYW5pbWF0aW9uX3NhbXBsZS5qcGcnKTsgPz4pOyBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOyI+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>insideMessage</text>
+        <text>oice</text>
       </register>
       <register name="6" type="4">
-        <text>oice</text>
+        <text>AUDIORECORD</text>
       </register>
       <register name="5" type="4">
-        <text>oice</text>
+        <text>PHOTOBOOK_2</text>
       </register>
-      <register name="4" type="4">
-        <text>AUDIORECORD</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhWydWaWRlb1VybCddID0gJHBlcnNvbmFsaXphdGlvbkl0ZW0tPmdldFZpZGVvRmlsZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMDsK</text>
+      <register name="9" type="4">
+        <text>insideMessage</text>
       </register>
       <register name="8" type="4">
-        <text>show</text>
+        <text>oice</text>
       </register>
     </registers>
     <search>
