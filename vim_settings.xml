@@ -21,12 +21,12 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508437966615">
-        <mark key="'" line="475" column="57" />
-        <mark key="]" line="276" column="78" />
-        <mark key="^" line="276" column="78" />
-        <mark key="." line="276" column="78" />
-        <mark key="[" line="276" column="64" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508443001501">
+        <mark key="'" line="474" column="57" />
+        <mark key="]" line="293" column="111" />
+        <mark key="^" line="293" column="144" />
+        <mark key="." line="293" column="111" />
+        <mark key="[" line="293" column="111" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1501868374558">
         <mark key="]" line="12" column="60" />
@@ -696,46 +696,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iaW1nIj48L2Rpdj4=</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iaW1nIj48L2Rpdj4=</text>
       </register>
       <register name="3" type="4">
-        <text>4</text>
+        <text>x</text>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InJlY29yZFZpZGVvQnV0dG9uIiBjbGFzcz0iYnV0dG9uIHVwbG9hZHZpZGVvIiBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxNXB4OyI+PGRpdiBjbGFzcz0iaW1nIj48L2Rpdj4gUmVjb3JkPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>x</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iaW1nIj48L2Rpdj4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAuaW1nIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcG9zaXRpb24teTogLTI0cHggIWltcG9ydGFudDsKICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>-</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>2</text>
+      </register>
+      <register name="5" type="4">
+        <text>4</text>
+      </register>
+      <register name="4" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>show</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>button</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
     <search>
