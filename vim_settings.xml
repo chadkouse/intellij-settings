@@ -21,12 +21,12 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508356568593">
-        <mark key="'" line="464" column="57" />
-        <mark key="]" line="194" column="49" />
-        <mark key="^" line="194" column="49" />
-        <mark key="." line="194" column="49" />
-        <mark key="[" line="194" column="44" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1508375041173">
+        <mark key="'" line="459" column="57" />
+        <mark key="]" line="436" column="0" />
+        <mark key="^" line="435" column="43" />
+        <mark key="." line="436" column="0" />
+        <mark key="[" line="436" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1501868374558">
         <mark key="]" line="12" column="60" />
@@ -304,12 +304,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508355361225">
-        <mark key="'" line="1188" column="0" />
-        <mark key="]" line="789" column="5" />
-        <mark key="^" line="789" column="5" />
-        <mark key="." line="789" column="5" />
-        <mark key="[" line="788" column="6" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508375095603">
+        <mark key="'" line="1190" column="0" />
+        <mark key="]" line="731" column="28" />
+        <mark key="^" line="731" column="28" />
+        <mark key="." line="731" column="28" />
+        <mark key="[" line="731" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -693,46 +693,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uY2xpY2s9ImRlc2lnbmVyLnBsYXlWaWRlbygpOyI+UGxheTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0b3BsYXkg</text>
+        <text>voicerecord_wrapper</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>voicerecord_wrapper</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjdXBjYWtlVmlkZW8ucGF1c2UoKTsKICAgICAgICBjdXBjYWtlVmlkZW8uY3VycmVudFRpbWUgPSAwOwogICAgICAgIGN1cGNha2VWaWRlby5wbGF5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uY2xpY2s9ImRlc2lnbmVyLnBsYXlWaWRlbygpOyI+UGxheTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZnJhbWUgPSBqUXVlcnkoJyNwaG90b2Jvb2tfZnJhbWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5pZnJhbWVfd3JhcCcpLmhpZGUoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>.pop()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJjdXBjYWtlIiBjbGFzcz0iZGFuY2UiIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt0b3A6IDdweDtsZWZ0OjI5N3B4O3otaW5kZXg6MTA7d2lkdGg6MTYwcHg7aGVpZ2h0OjI0NXB4O2JhY2tncm91bmQ6IHVybCg8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9jdXBjYWtlL2N1cGNha2VfYmx1ZV9zcHJpdGUucG5nJyk7ID8+KSBuby1yZXBlYXQgMCAwO2JhY2tncm91bmQtc2l6ZTogMTAwJTsiPjwvZGl2Pgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXV0b3BsYXkg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJjdXBjYWtlIiBjbGFzcz0iZGFuY2UiIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt0b3A6IDdweDtsZWZ0OjI5N3B4O3otaW5kZXg6MTA7d2lkdGg6MTYwcHg7aGVpZ2h0OjI0NXB4O2JhY2tncm91bmQ6IHVybCg8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9jdXBjYWtlL2N1cGNha2VfYmx1ZV9zcHJpdGUucG5nJyk7ID8+KSBuby1yZXBlYXQgMCAwO2JhY2tncm91bmQtc2l6ZTogMTAwJTsiPjwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjcGhvdG9ib29rX2ZyYW1lJylbMF0uY29udGVudFdpbmRvdy5kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgndmlkZW8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9InZvaWNlcmVjb3JkX3dyYXBwZXIiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTsiPgogICAgICAgICAgICAgICAgICAgIDx2aWRlbyBpZD0iY3VwY2FrZVZpZGVvIiBtdXRlZCBzcmM9Ijw/cGhwIGVjaG8gTWFnZTo6Z2V0RGVzaWduKCktPmdldFNraW5VcmwoJ2ltYWdlcy9hbmltYXRpb24vZGVzaWduL2N1cGNha2UvdmlkZW8ubXA0Jyk7ID8+IiBzdHlsZT0ibWF4LXdpZHRoOjEwMCU7bWF4LWhlaWdodDoxMDAlOyI+PC92aWRlbz4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>voicerecord_wrapper</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>cupcakepink.mp4</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJjdXBjYWtlIiBjbGFzcz0iZGFuY2UiIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt0b3A6IDdweDtsZWZ0OjI5N3B4O3otaW5kZXg6MTA7d2lkdGg6MTYwcHg7aGVpZ2h0OjI0NXB4O2JhY2tncm91bmQ6IHVybCg8P3BocCBlY2hvIE1hZ2U6OmdldERlc2lnbigpLT5nZXRTa2luVXJsKCdpbWFnZXMvYW5pbWF0aW9uL2Rlc2lnbi9jdXBjYWtlL2N1cGNha2VfYmx1ZV9zcHJpdGUucG5nJyk7ID8+KSBuby1yZXBlYXQgMCAwO2JhY2tncm91bmQtc2l6ZTogMTAwJTsiPjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="4">
-        <text>frameVideo</text>
+        <text>hide</text>
       </register>
     </registers>
     <search>
