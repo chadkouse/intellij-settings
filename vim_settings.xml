@@ -405,6 +405,7 @@
         <mark key="." line="33" column="0" />
         <mark key="[" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1508458719409" />
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -472,11 +473,11 @@
         <mark key="." line="46" column="0" />
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1508444798148">
-        <mark key="]" line="413" column="80" />
-        <mark key="^" line="451" column="95" />
-        <mark key="." line="413" column="0" />
-        <mark key="[" line="413" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1508458774299">
+        <mark key="]" line="417" column="74" />
+        <mark key="^" line="417" column="73" />
+        <mark key="." line="417" column="74" />
+        <mark key="[" line="417" column="73" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style_mobile.less" timestamp="1500578971354">
         <mark key="]" line="547" column="28" />
@@ -702,38 +703,38 @@
       <jump line="1290" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>giftcard</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIG1lc3NhZ2UgIT0gIiI=</text>
+        <text>giftcard</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICYmIG1lc3NhZ2UgIT0gIiI=</text>
+        <text>gci_prefilled_custom_message</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>giftcard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZhciBtZXNzYWdlID0galF1ZXJ5LnRyaW0oalF1ZXJ5KCcjbWVzc2FnZScpLnZhbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YWRkQXR0cmlidXRlVG9TZWxlY3QoJ2djaV9wcmVmaWxsZWRfY3VzdG9tX21lc3NhZ2UnKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">ICYmIG1lc3NhZ2UgIT0gIiI=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -742,7 +743,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
