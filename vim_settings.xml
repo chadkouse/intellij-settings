@@ -106,11 +106,11 @@
         <mark key="." line="13" column="54" />
         <mark key="[" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style_mobile.less" timestamp="1508345808208">
-        <mark key="]" line="86" column="44" />
-        <mark key="^" line="86" column="44" />
-        <mark key="." line="86" column="44" />
-        <mark key="[" line="85" column="46" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style_mobile.less" timestamp="1508769014726">
+        <mark key="]" line="74" column="9" />
+        <mark key="^" line="74" column="9" />
+        <mark key="." line="74" column="9" />
+        <mark key="[" line="74" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml" timestamp="1506622393403">
         <mark key="]" line="59" column="0" />
@@ -390,11 +390,11 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508767907975">
-        <mark key="]" line="13" column="58" />
-        <mark key="^" line="13" column="58" />
-        <mark key="." line="13" column="58" />
-        <mark key="[" line="13" column="58" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508769068239">
+        <mark key="]" line="285" column="56" />
+        <mark key="^" line="285" column="57" />
+        <mark key="." line="285" column="56" />
+        <mark key="[" line="285" column="56" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1508458719409" />
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
@@ -693,47 +693,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJ1cGxvYWRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVcGxvYWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJyZWNvcmRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZWNvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>n</text>
       </register>
-      <register name="3" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pgo=</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJ1cGxvYWRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVcGxvYWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJyZWNvcmRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZWNvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="2" type="4">
+        <text>d</text>
+      </register>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InVwbG9hZFZpZGVvQnV0dG9uIiBjbGFzcz0iYnV0dG9uIHVwbG9hZHZpZGVvIiBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxNXB4OyI+PGRpdiBjbGFzcz0iaW1nIiBzdHlsZT0iYmFja2dyb3VuZDp1cmwoPD9waHAgZWNobyBNYWdlOjpnZXREZXNpZ24oKS0+Z2V0U2tpblVybCgnaW1hZ2VzL2FuaW1hdGlvbi9kZXNpZ24vdmlkZW8taWNvbi5wbmcnKTsgPz4pOyI+PC9kaXY+QWRkIGEgdmlkZW88L2Rpdj4K</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
         <text>_url</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text />
       </register>
+      <register name="5" type="4">
+        <text />
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
@@ -785,8 +785,8 @@
         <entry>%s/950/638/g</entry>
         <entry encoding="base64">JzwsJz5zLydFYW1lc0NlbnR1cnkvJy4uL0ZvbnRzL0VhbWVzQ2VudHVyeS9n</entry>
         <entry encoding="base64">JzwsJz5zL1wnRWFtZXNDZW50dXJ5L1wnLi4vRm9udHMvRWFtZXNDZW50dXJ5L2c=</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
