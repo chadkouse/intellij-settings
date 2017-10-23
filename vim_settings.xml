@@ -318,6 +318,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1508770787265">
+        <mark key="]" line="721" column="37" />
+        <mark key="^" line="721" column="37" />
+        <mark key="." line="721" column="37" />
+        <mark key="[" line="721" column="31" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
@@ -694,46 +700,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>950</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJ1cGxvYWRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVcGxvYWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJyZWNvcmRWaWRlb0J1dHRvbiIgY2xhc3M9ImJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1yaWdodDogMTVweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbWciPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZWNvcmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="3" type="4">
+        <text>=</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InVwbG9hZFZpZGVvQnV0dG9uIiBjbGFzcz0iYnV0dG9uIHVwbG9hZHZpZGVvIiBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxNXB4OyI+PGRpdiBjbGFzcz0iaW1nIiBzdHlsZT0iYmFja2dyb3VuZDp1cmwoPD9waHAgZWNobyBNYWdlOjpnZXREZXNpZ24oKS0+Z2V0U2tpblVybCgnaW1hZ2VzL2FuaW1hdGlvbi9kZXNpZ24vdmlkZW8taWNvbi5wbmcnKTsgPz4pOyI+PC9kaXY+QWRkIGEgdmlkZW88L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZSA9IGpRdWVyeS50cmltKGpRdWVyeSgnI21lc3NhZ2UnKS52YWwoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>_url</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
