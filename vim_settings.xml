@@ -329,11 +329,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508786892182">
-        <mark key="]" line="2422" column="70" />
-        <mark key="^" line="2422" column="70" />
-        <mark key="." line="2422" column="70" />
-        <mark key="[" line="2422" column="70" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508873687676">
+        <mark key="]" line="3866" column="33" />
+        <mark key="^" line="3866" column="33" />
+        <mark key="." line="3866" column="33" />
+        <mark key="[" line="3866" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -563,12 +563,12 @@
         <mark key="[" line="226" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/sql/tcp_setup/mysql4-install-0.1.0.php" timestamp="1508265495562" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508870513137">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508874013150">
         <mark key="'" line="655" column="0" />
-        <mark key="]" line="669" column="110" />
-        <mark key="^" line="669" column="110" />
-        <mark key="." line="669" column="110" />
-        <mark key="[" line="731" column="57" />
+        <mark key="]" line="48" column="21" />
+        <mark key="^" line="48" column="21" />
+        <mark key="." line="48" column="21" />
+        <mark key="[" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" timestamp="1508344290602">
         <mark key="]" line="100" column="62" />
@@ -779,47 +779,47 @@
       <jump line="1457" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3ZpZGVvX3ByZXZpZXcgewogIC5kaXNwbGF5KGZsZXgpOwogIC5qdXN0aWZ5LWNvbnRlbnQoY2VudGVyKTsKICAuZmxleC1kaXJlY3Rpb24oY29sdW1uKTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDYxcHg7CiAgZm9udC1zaXplOiA4cHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogICY6aG92ZXIgLmRlbGV0ZV92aWRlbyB7CiAgICBvcGFjaXR5OiAxOwogICAgdHJhbnNpdGlvbjogb3BhY2l0eSAwLjFzIGxpbmVhciAwczsKICB9CiAgaW1nIHsKICAgIHdpZHRoOiA2MHB4OwogIH0KICAuZGVsZXRlX3ZpZGVvIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGxlZnQ6IDA7CiAgICB3aWR0aDogNjBweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIGJvdHRvbTogMDsKICAgIHRvcDogMTZweDsKICAgIGZvbnQtc2l6ZTogMzBweDsKICAgIGNvbG9yOiB3aGl0ZTsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC41KTsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIC5kaXNwbGF5KGZsZXgpOwogICAgLmFsaWduLWl0ZW1zKGNlbnRlcik7CiAgICAuanVzdGlmeS1jb250ZW50KGNlbnRlcik7CiAgICBvcGFjaXR5OiAwOwogIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>KGHAPPYSolid.svg</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>KGHAPPYSolid.svg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
+        <text>KGHAPPYSolid.ttf</text>
       </register>
       <register name="2" type="4">
-        <text>absolute</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDQ1N3B4Owo=</text>
+      <register name="1" type="4">
+        <text>KGHAPPYSolid.svg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3ZpZGVvX3ByZXZpZXcgewogIC5kaXNwbGF5KGZsZXgpOwogIC5qdXN0aWZ5LWNvbnRlbnQoY2VudGVyKTsKICAuZmxleC1kaXJlY3Rpb24oY29sdW1uKTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDYxcHg7CiAgZm9udC1zaXplOiA4cHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogICY6aG92ZXIgLmRlbGV0ZV92aWRlbyB7CiAgICBvcGFjaXR5OiAxOwogICAgdHJhbnNpdGlvbjogb3BhY2l0eSAwLjFzIGxpbmVhciAwczsKICB9CiAgaW1nIHsKICAgIHdpZHRoOiA2MHB4OwogIH0KICAuZGVsZXRlX3ZpZGVvIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGxlZnQ6IDA7CiAgICB3aWR0aDogNjBweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIGJvdHRvbTogMDsKICAgIHRvcDogMTZweDsKICAgIGZvbnQtc2l6ZTogMzBweDsKICAgIGNvbG9yOiB3aGl0ZTsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC41KTsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIC5kaXNwbGF5KGZsZXgpOwogICAgLmFsaWduLWl0ZW1zKGNlbnRlcik7CiAgICAuanVzdGlmeS1jb250ZW50KGNlbnRlcik7CiAgICBvcGFjaXR5OiAwOwogIH0KfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8gMTAwMCB8IDA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6IDQ1N3B4Owo=</text>
       </register>
       <register name="6" type="4">
-        <text>245</text>
+        <text>color: #FFFFFF</text>
       </register>
       <register name="5" type="4">
-        <text>84</text>
+        <text>'K</text>
       </register>
       <register name="4" type="4">
-        <text>297</text>
+        <text>KGHAPPYSolid.woff</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHwgMA==</text>
+        <text>absolute</text>
       </register>
     </registers>
     <search>
