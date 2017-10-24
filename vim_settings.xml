@@ -441,11 +441,11 @@
         <mark key="." line="69" column="74" />
         <mark key="[" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508851646598">
-        <mark key="]" line="285" column="56" />
-        <mark key="^" line="285" column="57" />
-        <mark key="." line="285" column="56" />
-        <mark key="[" line="172" column="24" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1508870528165">
+        <mark key="]" line="285" column="44" />
+        <mark key="^" line="285" column="51" />
+        <mark key="." line="285" column="44" />
+        <mark key="[" line="285" column="44" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1508458719409" />
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
@@ -557,7 +557,7 @@
         <mark key="[" line="226" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/sql/tcp_setup/mysql4-install-0.1.0.php" timestamp="1508265495562" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508861606992">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508870513137">
         <mark key="'" line="655" column="0" />
         <mark key="]" line="669" column="110" />
         <mark key="^" line="669" column="110" />
@@ -776,22 +776,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>297</text>
+        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>297</text>
+        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
       </register>
       <register name="3" type="4">
-        <text>245</text>
-      </register>
-      <register name="2" type="4">
         <text>84</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>297</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9uaXRvckludGVydmFsID0gc2V0SW50ZXJ2YWwoc3RhcnRUaW1lciwgMTApOwo=</text>
@@ -800,19 +800,19 @@
         <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IHwgMA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IC8gMTAwMCB8IDA=</text>
+      </register>
+      <register name="4" type="4">
+        <text>245</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxheWJhY2tTdGFydAo=</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name="8" type="4">
         <text>0</text>
