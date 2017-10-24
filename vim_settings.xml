@@ -329,11 +329,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508873687676">
-        <mark key="]" line="3866" column="33" />
-        <mark key="^" line="3866" column="33" />
-        <mark key="." line="3866" column="33" />
-        <mark key="[" line="3866" column="30" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1508876044862">
+        <mark key="]" line="1501" column="32" />
+        <mark key="^" line="1510" column="44" />
+        <mark key="." line="1501" column="32" />
+        <mark key="[" line="1501" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -780,46 +780,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KGHAPPYSolid.svg</text>
+        <text>First</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>KGHAPPYSolid.svg</text>
+        <text>First</text>
       </register>
       <register name="3" type="4">
-        <text>KGHAPPYSolid.ttf</text>
+        <text>First</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>First</text>
       </register>
       <register name="1" type="4">
-        <text>KGHAPPYSolid.svg</text>
+        <text>First</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3ZpZGVvX3ByZXZpZXcgewogIC5kaXNwbGF5KGZsZXgpOwogIC5qdXN0aWZ5LWNvbnRlbnQoY2VudGVyKTsKICAuZmxleC1kaXJlY3Rpb24oY29sdW1uKTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDYxcHg7CiAgZm9udC1zaXplOiA4cHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogICY6aG92ZXIgLmRlbGV0ZV92aWRlbyB7CiAgICBvcGFjaXR5OiAxOwogICAgdHJhbnNpdGlvbjogb3BhY2l0eSAwLjFzIGxpbmVhciAwczsKICB9CiAgaW1nIHsKICAgIHdpZHRoOiA2MHB4OwogIH0KICAuZGVsZXRlX3ZpZGVvIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGxlZnQ6IDA7CiAgICB3aWR0aDogNjBweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIGJvdHRvbTogMDsKICAgIHRvcDogMTZweDsKICAgIGZvbnQtc2l6ZTogMzBweDsKICAgIGNvbG9yOiB3aGl0ZTsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwwLDAsMC41KTsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIC5kaXNwbGF5KGZsZXgpOwogICAgLmFsaWduLWl0ZW1zKGNlbnRlcik7CiAgICAuanVzdGlmeS1jb250ZW50KGNlbnRlcik7CiAgICBvcGFjaXR5OiAwOwogIH0KfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDQ1N3B4Owo=</text>
+      <register name="7" type="4">
+        <text>First</text>
       </register>
       <register name="6" type="4">
-        <text>color: #FFFFFF</text>
+        <text>First</text>
       </register>
       <register name="5" type="4">
-        <text>'K</text>
+        <text>First</text>
       </register>
       <register name="4" type="4">
-        <text>KGHAPPYSolid.woff</text>
+        <text>First</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGNsYXNzPSJoaWRlIg==</text>
+        <text>KGHAPPYSolid.svg</text>
       </register>
       <register name="8" type="4">
-        <text>absolute</text>
+        <text>FirstName</text>
       </register>
     </registers>
     <search>
