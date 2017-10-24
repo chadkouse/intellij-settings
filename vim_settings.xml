@@ -151,11 +151,12 @@
         <mark key="[" line="711" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/sql/tcp_setup/mysql4-install-0.1.0.php" timestamp="1508265495562" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508788611619">
-        <mark key="]" line="460" column="115" />
-        <mark key="^" line="460" column="101" />
-        <mark key="." line="460" column="101" />
-        <mark key="[" line="460" column="102" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1508854660478">
+        <mark key="'" line="655" column="0" />
+        <mark key="]" line="669" column="110" />
+        <mark key="^" line="669" column="110" />
+        <mark key="." line="669" column="110" />
+        <mark key="[" line="731" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_email.html" timestamp="1508788562583">
         <mark key="]" line="415" column="134" />
@@ -212,12 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1922" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" />
-      <jump line="467" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" />
-      <jump line="5264" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
-      <jump line="262" column="55" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" />
-      <jump line="2601" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/marg_demo.phtml" />
       <jump line="29" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
       <jump line="154" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style_mobile.less" />
@@ -312,55 +307,61 @@
       <jump line="1290" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
       <jump line="385" column="89" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
+      <jump line="522" column="40" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
+      <jump line="396" column="65" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
+      <jump line="697" column="70" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
+      <jump line="743" column="69" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
+      <jump line="730" column="73" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
+      <jump line="655" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>color: #000000</text>
+        <text>#3F9DF2</text>
       </register>
       <register name="/" type="4">
-        <text>950</text>
+        <text>{{RecipientName}}</text>
       </register>
       <register name="-" type="4">
-        <text>color: #000000</text>
+        <text>#3F9DF2</text>
       </register>
       <register name="3" type="4">
-        <text>color: #000000</text>
+        <text>000001</text>
       </register>
       <register name="2" type="4">
-        <text>color: #000000</text>
+        <text>#3F9DF2</text>
       </register>
       <register name="1" type="4">
-        <text>color: #000000</text>
+        <text>#3F9DF2</text>
       </register>
       <register name="0" type="4">
         <text>{{TextStyleSuffix}}</text>
       </register>
       <register name="7" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp2-gift-card-image.jpg</text>
+        <text>#3F9DF2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>#3F9DF2</text>
       </register>
       <register name="5" type="4">
-        <text>908</text>
+        <text>#3F9DF2</text>
       </register>
       <register name="4" type="4">
-        <text>72</text>
+        <text>626370</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0id2lkdGg6MTAwJTt0ZXh0LWFsaWduOmNlbnRlcjsiPgo=</text>
+      <register name="9" type="4">
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp2-preview-image.jpg</text>
+        <text>F2</text>
       </register>
     </registers>
     <search>
-      <last-search>getOrders</last-search>
+      <last-search>{{RecipientName}}</last-search>
       <last-offset />
-      <last-pattern>950</last-pattern>
+      <last-pattern>{{RecipientName}}</last-pattern>
       <last-replace>638</last-replace>
       <last-substitute>950</last-substitute>
       <last-dir>1</last-dir>
@@ -386,6 +387,7 @@
         <entry>\'Ave</entry>
         <entry>Height</entry>
         <entry>950</entry>
+        <entry>{{RecipientName}}</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N2c18vb21uaWNhcmRfL2c=</entry>
