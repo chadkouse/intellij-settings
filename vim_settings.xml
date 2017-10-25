@@ -160,6 +160,10 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.css" timestamp="1508948237183">
+        <mark key="]" line="414" column="23" />
+        <mark key="[" line="402" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1502736883598">
         <mark key="]" line="237" column="127" />
         <mark key="^" line="207" column="67" />
@@ -770,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciB6b29tRmFjdG9yID0gMTsK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiAtd2Via2l0LWJveDsKICBkaXNwbGF5OiAtbW96LWJveDsKICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgZGlzcGxheTogLW1zLWZsZXhib3g7CiAgZGlzcGxheTogZmxleDsKICAtd2Via2l0LWJveC1wYWNrOiBzcGFjZS1ldmVubHk7CiAgLW1vei1ib3gtcGFjazogc3BhY2UtZXZlbmx5OwogIC1tcy1mbGV4LXBhY2s6IHNwYWNlLWV2ZW5seTsKICAtd2Via2l0LWp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5OwogIC13ZWJraXQtYWxpZ24tY29udGVudDogY2VudGVyOwogIC1tcy1mbGV4LWxpbmUtcGFjazogY2VudGVyOwogIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
@@ -788,7 +792,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciB6b29tRmFjdG9yID0gMTsK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiAtd2Via2l0LWJveDsKICBkaXNwbGF5OiAtbW96LWJveDsKICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgZGlzcGxheTogLW1zLWZsZXhib3g7CiAgZGlzcGxheTogZmxleDsKICAtd2Via2l0LWJveC1wYWNrOiBzcGFjZS1ldmVubHk7CiAgLW1vei1ib3gtcGFjazogc3BhY2UtZXZlbmx5OwogIC1tcy1mbGV4LXBhY2s6IHNwYWNlLWV2ZW5seTsKICAtd2Via2l0LWp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5OwogIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5OwogIC13ZWJraXQtYWxpZ24tY29udGVudDogY2VudGVyOwogIC1tcy1mbGV4LWxpbmUtcGFjazogY2VudGVyOwogIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="7" type="4">
         <text />
