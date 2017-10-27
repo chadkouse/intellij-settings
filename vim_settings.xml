@@ -21,7 +21,9 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1509126841236" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1509128049506">
+        <mark key="[" line="506" column="54" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" timestamp="1508945760106">
         <mark key="'" line="385" column="89" />
         <mark key="]" line="300" column="0" />
@@ -356,12 +358,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509126879268">
-        <mark key="'" line="1518" column="4" />
-        <mark key="]" line="983" column="63" />
-        <mark key="^" line="983" column="26" />
-        <mark key="." line="983" column="63" />
-        <mark key="[" line="983" column="63" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509128062654">
+        <mark key="'" line="1520" column="4" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="983" column="41" />
+        <mark key="." line="252" column="0" />
+        <mark key="[" line="252" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -768,8 +770,8 @@
       <jump line="472" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZUV2ZXJ5dGhpbmcoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
@@ -777,29 +779,29 @@
       <register name="-" type="4">
         <text>!</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>default</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>!</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZUV2ZXJ5dGhpbmcoKTsK</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjZGVmYXVsdEF1ZGlvQnV0dG9uJykudG9nZ2xlQ2xhc3MoJ2FjdGl2ZScsICFpc0F1ZGlvUmVjb3JkaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjcmVjb3JkQXVkaW9CdXR0b24nKS50b2dnbGVDbGFzcygnYWN0aXZlJywgaXNBdWRpb1JlY29yZGluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpRdWVyeSgnJykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
@@ -807,8 +809,8 @@
       <register name="9" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpRdWVyeSgnJykK</text>
       </register>
     </registers>
     <search>
