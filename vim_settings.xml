@@ -160,6 +160,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" timestamp="1509373282467">
+        <mark key="]" line="388" column="0" />
+        <mark key="^" line="387" column="64" />
+        <mark key="." line="388" column="0" />
+        <mark key="[" line="388" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.css" timestamp="1508950445181">
         <mark key="]" line="414" column="23" />
         <mark key="[" line="402" column="0" />
@@ -326,11 +332,11 @@
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PhotobookController.php" timestamp="1509132862246" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1509135739583">
-        <mark key="]" line="1992" column="85" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1509373748292">
+        <mark key="]" line="1996" column="85" />
         <mark key="^" line="1524" column="51" />
-        <mark key="." line="1992" column="0" />
-        <mark key="[" line="1992" column="0" />
+        <mark key="." line="1996" column="0" />
+        <mark key="[" line="1996" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -406,7 +412,7 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1509135697985">
+      <file name="/a.dummy" timestamp="1509373740557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
@@ -587,7 +593,7 @@
         <mark key="." line="123" column="63" />
         <mark key="[" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1509130733000">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1509372462739">
         <mark key="'" line="655" column="0" />
         <mark key="]" line="805" column="129" />
         <mark key="^" line="471" column="155" />
@@ -775,46 +781,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRmcm9tRW1haWwgPSBNYWdlOjpnZXRTdG9yZUNvbmZpZygndHJhbnNfZW1haWwvaWRlbnRfZ2VuZXJhbC9lbWFpbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHR5cGUgPT0gJ0dpZnRjYXJkQW5pbWF0ZWRSZWNvcmRWb2ljZSc=</text>
+        <text>ThirstySoftRegular.svg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGJhY2tncm91bmQ9Imh0dHBzOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvdGNwX2NvdXBvbl9iZy5wbmciIGJnY29sb3I9IiNmZmZmZmYiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjYiIHZhbGlnbj0idG9wIj4K</text>
       </register>
-      <register name="2" type="4">
-        <text>incoming</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHx8IHR5cGUgPT0gJ0dpZnRjYXJkQW5pbWF0ZWRSZWNvcmRWb2ljZSc=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRmcm9tRW1haWwgPSBNYWdlOjpnZXRTdG9yZUNvbmZpZygndHJhbnNfZW1haWwvaWRlbnRfZ2VuZXJhbC9lbWFpbCcpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3RlciA9IHNlbGYuc2VsZWN0ZWRfd3JhcC5ub2F1ZGlvCg==</text>
+      <register name="7" type="4">
+        <text>ThirstySoftRegular.otf</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>ThirstySoftRegular.woff</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>ThirstySoftRegular.ttf</text>
       </register>
       <register name="4" type="4">
-        <text>preview_url</text>
+        <text>ThirstySoftRegular.svg</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcG9zdGVyID0gc2VsZi5zZWxlY3RlZF93cmFwLmZyb250X2ltYWdlOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHx8IHR5cGUgPT0gJ0dpZnRjYXJkQW5pbWF0ZWRSZWNvcmRWb2ljZSc=</text>
       </register>
       <register name="8" type="4">
-        <text>previewUrl</text>
+        <text>ThirstySoftRegular.eot</text>
       </register>
     </registers>
     <search>
