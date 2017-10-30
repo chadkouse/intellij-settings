@@ -400,12 +400,12 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1508945190315">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1509386793478">
         <mark key="'" line="0" column="4" />
-        <mark key="]" line="73" column="4" />
-        <mark key="^" line="142" column="15" />
-        <mark key="." line="142" column="15" />
-        <mark key="[" line="66" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="163" column="14" />
+        <mark key="." line="163" column="0" />
+        <mark key="[" line="163" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.4-0.8.5.php" timestamp="1507215110222">
         <mark key="]" line="33" column="39" />
@@ -586,6 +586,13 @@
         <mark key="^" line="452" column="133" />
         <mark key="." line="450" column="79" />
         <mark key="[" line="415" column="108" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" timestamp="1509386160669">
+        <mark key="'" line="100" column="10" />
+        <mark key="]" line="126" column="122" />
+        <mark key="^" line="115" column="63" />
+        <mark key="." line="123" column="63" />
+        <mark key="[" line="126" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" timestamp="1509380172319">
         <mark key="'" line="655" column="0" />
@@ -774,47 +781,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>rl</text>
+        <text>996</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>I</text>
       </register>
       <register name="2" type="4">
-        <text>,&quot;{{URL}}&quot;,&quot;{{PID}}&quot;</text>
+        <text>996</text>
       </register>
-      <register name="1" type="4">
-        <text>rl</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRmcm9tRW1haWwgPSBNYWdlOjpnZXRTdG9yZUNvbmZpZygndHJhbnNfZW1haWwvaWRlbnRfZ2VuZXJhbC9lbWFpbCcpOwo=</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7d2lkdGg6OTk2cHg7bWFyZ2luOiAwIGF1dG87Ij4K</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>v</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>videoIframe</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>videoIframe</text>
       </register>
     </registers>
     <search>
