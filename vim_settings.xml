@@ -211,6 +211,12 @@
         <mark key="." line="1" column="113" />
         <mark key="[" line="1" column="105" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/autoplay_detect/autoplay_detect.js" timestamp="1509458806352">
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="[" line="39" column="28" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/page/html/header.phtml" timestamp="1508524634795">
         <mark key="]" line="128" column="0" />
         <mark key="^" line="121" column="1" />
@@ -271,6 +277,17 @@
         <mark key="^" line="1957" column="43" />
         <mark key="." line="1957" column="43" />
         <mark key="[" line="1957" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/digital.xml" timestamp="1509458914220">
+        <mark key="]" line="353" column="113" />
+        <mark key="." line="352" column="0" />
+        <mark key="[" line="352" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/digital.xml" timestamp="1509458898087">
+        <mark key="]" line="600" column="112" />
+        <mark key="^" line="600" column="97" />
+        <mark key="." line="600" column="49" />
+        <mark key="[" line="599" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/cms.xml" timestamp="1506649914693">
         <mark key="]" line="23" column="45" />
@@ -427,11 +444,11 @@
         <mark key="." line="33" column="10" />
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1509132179317">
-        <mark key="]" line="327" column="74" />
-        <mark key="^" line="327" column="74" />
-        <mark key="." line="327" column="74" />
-        <mark key="[" line="327" column="69" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/photobook/photobook/preview/wowbook_preview_embed.phtml" timestamp="1509458964112">
+        <mark key="]" line="590" column="34" />
+        <mark key="^" line="590" column="34" />
+        <mark key="." line="590" column="34" />
+        <mark key="[" line="590" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/page/cardvideo_v2.phtml" timestamp="1508945553996">
         <mark key="]" line="30" column="86" />
@@ -484,6 +501,10 @@
         <mark key="^" line="88" column="99" />
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/proflowersmobile/layout/personalizations.xml" timestamp="1509458423542">
+        <mark key="]" line="1711" column="99" />
+        <mark key="[" line="1711" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/controllers/PhotobookController.php" timestamp="1509133233531">
         <mark key="]" line="188" column="70" />
@@ -781,46 +802,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZVVybCA9IHByZWZpeCArICI/czE9IiArIGVuY29kZVVSSUNvbXBvbmVudChyZWNpcGllbnROYW1lKSArICImczI9IiArIGVuY29kZVVSSUNvbXBvbmVudChtZXNzYWdlKSArICImczM9IiArIGVuY29kZVVSSUNvbXBvbmVudChzZW5kZXJOYW1lKTsK</text>
+        <text encoding="base64">CQkJPGFjdGlvbiBtZXRob2Q9ImFkZEpzIj48c2NyaXB0PmF1dG9wbGF5X2RldGVjdC9hdXRvcGxheV9kZXRlY3QuanM8L3NjcmlwdD48L2FjdGlvbj4KCQkJPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPjx0eXBlPmpzX2NzczwvdHlwZT48bmFtZT5hdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmNzczwvbmFtZT48L2FjdGlvbj4K</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>iframe</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBwcmV2aWV3VXJsLnNwbGl0KCc/JylbMF07Cg==</text>
+        <text encoding="base64">ICAgIHZhciBwcm9taXNlID0gdmlkZW8ucGxheSgpOwogICAgaWYgKHByb21pc2UgIT0gdW5kZWZpbmVkKSB7CiAgICAgICAgcHJvbWlzZS50aGVuKCgpID0+IHsKICAgICAgICAgICAgcmV0dXJuIGNhbGxiYWNrKHRydWUpOwogICAgfSkuY2F0Y2goZXJyb3IgPT4gewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZVVybCA9IHNlbGYuc2VsZWN0ZWRfd3JhcC5pZnJhbWVfdXJsOwo=</text>
+        <text encoding="base64">ICAgIH0pCiAgICAgICAgOwogICAgfSBlbHNlIHsKICAgICAgICBjYWxsYmFjayh0cnVlKTsKICAgIH0KCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZVVybCA9IHByZWZpeCArICI/czE9IiArIGVuY29kZVVSSUNvbXBvbmVudChyZWNpcGllbnROYW1lKSArICImczI9IiArIGVuY29kZVVSSUNvbXBvbmVudChtZXNzYWdlKSArICImczM9IiArIGVuY29kZVVSSUNvbXBvbmVudChzZW5kZXJOYW1lKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZVVybCA9IHRoZVVybC5yZXBsYWNlKCJ7UmVjaXBpZW50TmFtZX0iLCBlbmNvZGVVUklDb21wb25lbnQocmVjaXBpZW50TmFtZSkpOwogICAgICAgICAgICAgICAgdGhlVXJsID0gdGhlVXJsLnJlcGxhY2UoIntTZW5kZXJOYW1lfSIsIGVuY29kZVVSSUNvbXBvbmVudChzZW5kZXJOYW1lKSk7CiAgICAgICAgICAgICAgICB0aGVVcmwgPSB0aGVVcmwucmVwbGFjZSgie01lc3NhZ2V9IiwgZW5jb2RlVVJJQ29tcG9uZW50KG1lc3NhZ2UpKTsK</text>
+        <text encoding="base64">CQkJPGFjdGlvbiBtZXRob2Q9ImFkZEpzIj48c2NyaXB0PmF1dG9wbGF5X2RldGVjdC9hdXRvcGxheV9kZXRlY3QuanM8L3NjcmlwdD48L2FjdGlvbj4KCQkJPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPjx0eXBlPmpzX2NzczwvdHlwZT48bmFtZT5hdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmNzczwvbmFtZT48L2FjdGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzZWxmLmF1ZGlvZmlsZSB8fCBzZWxmLmF1ZGlvZmlsZS5sZW5ndGggPD0gMCkgewogICAgICAgICAgICAgICAgcHJldmlld1VybCA9IHNlbGYuc2VsZWN0ZWRfd3JhcC5ub2F1ZGlvX3dyYXAuaWZyYW1lX3VybDsKICAgICAgICAgICAgICAgIHRoZVVybCA9IHByZXZpZXdVcmw7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoc2xpZGVzaG93VHVybiwgNDAwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>iframe</text>
+        <text>video</text>
       </register>
-      <register name="4" type="4">
-        <text>iframe</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaW8ucGxheSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVVcmwgPSBwcmV2aWV3VXJsOwo=</text>
+      <register name="9" type="4">
+        <text>autoplay_detect/autoplay_detect.js</text>
       </register>
-      <register name="8" type="4">
-        <text>theUrl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b3BsYXlfZGV0ZWN0LmNzcwogICAgICAgICAgICBhdXRvcGxheV9kZXRlY3QuanNhdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmpzCg==</text>
       </register>
     </registers>
     <search>
