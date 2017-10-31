@@ -211,6 +211,12 @@
         <mark key="." line="1" column="113" />
         <mark key="[" line="1" column="105" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/TCP/Coupon/controllers/IndexController.php" timestamp="1509461239990">
+        <mark key="]" line="36" column="86" />
+        <mark key="^" line="36" column="86" />
+        <mark key="." line="36" column="86" />
+        <mark key="[" line="36" column="81" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/autoplay_detect/autoplay_detect.js" timestamp="1509458806352">
         <mark key="]" line="39" column="32" />
         <mark key="^" line="39" column="32" />
@@ -797,47 +803,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPGFjdGlvbiBtZXRob2Q9ImFkZEpzIj48c2NyaXB0PmF1dG9wbGF5X2RldGVjdC9hdXRvcGxheV9kZXRlY3QuanM8L3NjcmlwdD48L2FjdGlvbj4KCQkJPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPjx0eXBlPmpzX2NzczwvdHlwZT48bmFtZT5hdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmNzczwvbmFtZT48L2FjdGlvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>Recipient</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Recipient</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBwcm9taXNlID0gdmlkZW8ucGxheSgpOwogICAgaWYgKHByb21pc2UgIT0gdW5kZWZpbmVkKSB7CiAgICAgICAgcHJvbWlzZS50aGVuKCgpID0+IHsKICAgICAgICAgICAgcmV0dXJuIGNhbGxiYWNrKHRydWUpOwogICAgfSkuY2F0Y2goZXJyb3IgPT4gewo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIH0pCiAgICAgICAgOwogICAgfSBlbHNlIHsKICAgICAgICBjYWxsYmFjayh0cnVlKTsKICAgIH0KCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">Pg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>Recipient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGFjdGlvbiBtZXRob2Q9ImFkZEpzIj48c2NyaXB0PmF1dG9wbGF5X2RldGVjdC9hdXRvcGxheV9kZXRlY3QuanM8L3NjcmlwdD48L2FjdGlvbj4KCQkJPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPjx0eXBlPmpzX2NzczwvdHlwZT48bmFtZT5hdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmNzczwvbmFtZT48L2FjdGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoc2xpZGVzaG93VHVybiwgNDAwMCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>video</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXVkaW8ucGxheSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBwcm9taXNlID0gdmlkZW8ucGxheSgpOwogICAgaWYgKHByb21pc2UgIT0gdW5kZWZpbmVkKSB7CiAgICAgICAgcHJvbWlzZS50aGVuKCgpID0+IHsKICAgICAgICAgICAgcmV0dXJuIGNhbGxiYWNrKHRydWUpOwogICAgfSkuY2F0Y2goZXJyb3IgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="4">
-        <text>autoplay_detect/autoplay_detect.js</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b3BsYXlfZGV0ZWN0LmNzcwogICAgICAgICAgICBhdXRvcGxheV9kZXRlY3QuanNhdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmpzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0b3BsYXlfZGV0ZWN0LmNzcwogICAgICAgICAgICBhdXRvcGxheV9kZXRlY3QuanNhdXRvcGxheV9kZXRlY3QvYXV0b3BsYXlfZGV0ZWN0LmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoc2xpZGVzaG93VHVybiwgNDAwMCk7Cg==</text>
       </register>
     </registers>
     <search>
