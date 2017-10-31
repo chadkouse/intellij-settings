@@ -377,8 +377,11 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509395877165">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509480950311">
         <mark key="'" line="1545" column="4" />
+        <mark key="]" line="611" column="47" />
+        <mark key="." line="611" column="0" />
+        <mark key="[" line="611" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -783,8 +786,8 @@
       <jump line="85" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGVMb2FkaW5nRm9ySW1hZ2UoImlmcmFtZSIpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
@@ -793,37 +796,37 @@
         <text>:</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
-        <text>r</text>
-      </register>
-      <register name="1" type="4">
         <text>:</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGVMb2FkaW5nRm9ySW1hZ2UoImlmcmFtZSIpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGVMb2FkaW5nRm9ySW1hZ2UoImlmcmFtZSIpOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ic29jaWFsLWJ1dHRvbnMiIHN0eWxlPSJ2aXNpYmlsaXR5OiBoaWRkZW47Ij4K</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="5" type="4">
         <text>w</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>s</text>
+      </register>
+      <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
