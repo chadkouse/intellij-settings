@@ -27,7 +27,7 @@
         <mark key="." line="75" column="44" />
         <mark key="[" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1509134722686">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1509509360161">
         <mark key="]" line="466" column="58" />
         <mark key="^" line="466" column="58" />
         <mark key="." line="466" column="58" />
@@ -176,6 +176,12 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/animation/design/style.css" timestamp="1508950445181">
         <mark key="]" line="414" column="23" />
         <mark key="[" line="402" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/js/opcheckout.js" timestamp="1509508925525">
+        <mark key="]" line="128" column="47" />
+        <mark key="^" line="128" column="47" />
+        <mark key="." line="128" column="47" />
+        <mark key="[" line="128" column="44" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbasmobile/template/personalizations/gifttokens/design.phtml" timestamp="1502736883598">
         <mark key="]" line="237" column="127" />
@@ -432,6 +438,12 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/checkout/onepage/review.phtml" timestamp="1509508715319">
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1509478092631">
         <mark key="'" line="0" column="4" />
         <mark key="]" line="6" column="36" />
@@ -639,6 +651,10 @@
         <mark key="." line="898" column="97" />
         <mark key="[" line="898" column="77" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/checkout/onepage/review.phtml" timestamp="1509508698855">
+        <mark key="]" line="37" column="5" />
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/controllers/PhotobookController.php" timestamp="1508179528106">
         <mark key="]" line="389" column="4" />
         <mark key="^" line="501" column="94" />
@@ -656,6 +672,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="[" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/checkout/onepage/payment.phtml" timestamp="1509508797059">
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/animation/design.phtml" timestamp="1508856277483">
         <mark key="]" line="34" column="49" />
@@ -686,6 +707,7 @@
         <mark key="." line="58" column="14" />
         <mark key="[" line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/checkoutonepage_mobile.css" timestamp="1509509219130" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1506713603584">
         <mark key="]" line="261" column="111" />
         <mark key="^" line="719" column="41" />
@@ -821,46 +843,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.camera_tag .cameratag_screen.cameratag_accept .cameratag_accept_btn span, .camera_tag .cameratag_screen.cameratag_accept .cameratag_rerecord_btn span,</text>
+        <text>hide</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>.camera_tag .cameratag_screen.cameratag_accept .cameratag_accept_btn span, .camera_tag .cameratag_screen.cameratag_accept .cameratag_rerecord_btn span,</text>
+        <text>hide</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5jYW1lcmF0YWdfc2NyZWVuLmNhbWVyYXRhZ19hY2NlcHQgLmNhbWVyYXRhZ19wbGF5X2J0biB7Cg==</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IC5jYW1lcmFfdGFnIC5jYW1lcmF0YWdfc2NyZWVuLmNhbWVyYXRhZ19hY2NlcHQgLmNhbWVyYXRhZ19wbGF5X2J0biB7</text>
+        <text>/</text>
       </register>
       <register name="1" type="4">
-        <text>.camera_tag .cameratag_screen.cameratag_accept .cameratag_accept_btn span, .camera_tag .cameratag_screen.cameratag_accept .cameratag_rerecord_btn span,</text>
+        <text>hide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ic29jaWFsLWJ1dHRvbnMiIHN0eWxlPSJ2aXNpYmlsaXR5OiBoaWRkZW47Ij4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibm90aWNlLXdhaXQiPgogICAgPGRpdiBpZD0iY2hlY2tvdXQtcmV2aWV3LXN1Ym1pdCI+CiAgICAgICAgPGRpdiBjbGFzcz0iYnV0dG9ucy1zZXQiIGlkPSJyZXZpZXctYnV0dG9ucy1jb250YWluZXIiPgogICAgICAgICAgICA8c3BhbiBjbGFzcz0icGxlYXNlLXdhaXQiIGlkPSJyZXZpZXctcGxlYXNlLXdhaXQiPgogICAgICAgICAgICAgICAgPGltZyBzcmM9Ijw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9hamF4LWxvYWRlci5naWYnKSA/PiIgYWx0PSI8P3BocCBlY2hvICR0aGlzLT5fXygnU3VibWl0dGluZyBvcmRlciBpbmZvcm1hdGlvbi4uLicpID8+IiB0aXRsZT0iPD9waHAgZWNobyAkdGhpcy0+X18oJ1N1Ym1pdHRpbmcgb3JkZXIgaW5mb3JtYXRpb24uLi4nKSA/PiIgY2xhc3M9InYtbWlkZGxlIiAvPiA8P3BocCBlY2hvICR0aGlzLT5fXygnU3VibWl0dGluZyBvcmRlciBpbmZvcm1hdGlvbi4uLicpID8+CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KPGRpdiBjbGFzcz0ib3JkZXItcmV2aWV3IiBpZD0iY2hlY2tvdXQtcmV2aWV3LWxvYWQiIHN0eWxlPSJ2aXNpYmlsaXR5OiBoaWRkZW4iPgogICAgPD9waHAgZWNobyAkdGhpcy0+Z2V0Q2hpbGRIdG1sKCdpbmZvJykgPz4KPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp2-preview-image.jpg</text>
+      <register name="7" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYnV0dG9ucy1zZXQiIGlkPSJuZXh0LWJ1dHRvbnMtY29udGFpbmVyIj4KPHNwYW4gY2xhc3M9InBsZWFzZS13YWl0IiBpZD0ibmV4dC1wbGVhc2Utd2FpdCIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPgogICAgICAgIDxpbWcgc3JjPSI8P3BocCBlY2hvICR0aGlzLT5nZXRTa2luVXJsKCdpbWFnZXMvYWpheC1sb2FkZXIuZ2lmJykgPz4iCiAgICAgICAgICAgICBhbHQ9Ijw/cGhwIGVjaG8gJHRoaXMtPl9fKCdMb2FkaW5nIG5leHQgc3RlcC4uLicpID8+IgogICAgICAgICAgICAgdGl0bGU9Ijw/cGhwIGVjaG8gJHRoaXMtPl9fKCdMb2FkaW5nIG5leHQgc3RlcC4uLicpID8+IgogICAgICAgICAgICAgY2xhc3M9InYtbWlkZGxlIi8+IDw/cGhwIGVjaG8gJHRoaXMtPl9fKCdMb2FkaW5nIG5leHQgc3RlcC4uLicpID8+CiAgICA8L3NwYW4+CjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp-animation-image-mobile.jpg</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGl2IGNsYXNzPSJidXR0b25zLXNldCIgaWQ9Im5leHQtYnV0dG9ucy1jb250YWluZXIiPgo8c3BhbiBjbGFzcz0icGxlYXNlLXdhaXQiIGlkPSJuZXh0LXBsZWFzZS13YWl0IiBzdHlsZT0iZGlzcGxheTpub25lOyI+CiAgICAgICAgPGltZyBzcmM9Ijw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9hamF4LWxvYWRlci5naWYnKSA/PiIKICAgICAgICAgICAgIGFsdD0iPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4iCiAgICAgICAgICAgICB0aXRsZT0iPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4iCiAgICAgICAgICAgICBjbGFzcz0idi1taWRkbGUiLz4gPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4KICAgIDwvc3Bhbj4KPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHBheW1lbnQub25Db21wbGV0ZSA9IGZ1bmN0aW9uKCl7CiAgICAgICAgY2hlY2tvdXQuc2V0TG9hZFdhaXRpbmcoJ25leHQnKTsKICAgIH07IC8vIGRpc2FibGUgcmVzZXR0aW5nIHRoZSBsb2FkIHdhaXRpbmcgb24gcGF5bWVudCBjb21wbGV0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>next</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>payment</text>
       </register>
     </registers>
     <search>
