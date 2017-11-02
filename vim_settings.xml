@@ -189,11 +189,10 @@
         <mark key="." line="237" column="127" />
         <mark key="[" line="237" column="127" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/animation/design/style_mobile.less" timestamp="1508872784764">
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="[" line="76" column="1" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/animation/design/style_mobile.less" timestamp="1509640022177">
+        <mark key="]" line="412" column="0" />
+        <mark key="." line="412" column="0" />
+        <mark key="[" line="412" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/sql/bonefish_setup/mysql4-install-0.1.0.php" timestamp="1497629917947">
         <mark key="]" line="15" column="25" />
@@ -516,10 +515,11 @@
         <mark key="." line="70" column="135" />
         <mark key="[" line="70" column="134" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1509505499035">
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="[" line="8" column="4" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1509639687978">
+        <mark key="]" line="524" column="38" />
+        <mark key="^" line="524" column="38" />
+        <mark key="." line="524" column="38" />
+        <mark key="[" line="524" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -843,47 +843,47 @@
       <jump line="964" column="28" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/image-0b1adbd87e2a691e1ebf2b9228e3f808f3f87cf5.jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/image-0b1adbd87e2a691e1ebf2b9228e3f808f3f87cf5.jpg</text>
+        <text>html</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkZXRlY3RJRSgpIDwgMTIpewo=</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp2-gift-card-image.jpg</text>
+        <text>html</text>
       </register>
-      <register name="1" type="4">
-        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/image-0b1adbd87e2a691e1ebf2b9228e3f808f3f87cf5.jpg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihkZXRlY3RJRSgpID4gMCAmJiBkZXRlY3RJRSgpIDwgMTIpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnQub25Db21wbGV0ZSA9IGZ1bmN0aW9uKCl7CiAgICAgICAgY2hlY2tvdXQuc2V0TG9hZFdhaXRpbmcoJ25leHQnKTsKICAgIH07IC8vIGRpc2FibGUgcmVzZXR0aW5nIHRoZSBsb2FkIHdhaXRpbmcgb24gcGF5bWVudCBjb21wbGV0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihkZXRlY3RJRSgpIDwgMTIpewo=</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/tcp2-gift-card-image.jpg</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>http://html-emails-36923.s3.amazonaws.com/html-emails/images/image-0b1adbd87e2a691e1ebf2b9228e3f808f3f87cf5.jpg</text>
       </register>
       <register name="4" type="4">
-        <text>hide</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGl2IGNsYXNzPSJidXR0b25zLXNldCIgaWQ9Im5leHQtYnV0dG9ucy1jb250YWluZXIiPgo8c3BhbiBjbGFzcz0icGxlYXNlLXdhaXQiIGlkPSJuZXh0LXBsZWFzZS13YWl0IiBzdHlsZT0iZGlzcGxheTpub25lOyI+CiAgICAgICAgPGltZyBzcmM9Ijw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9hamF4LWxvYWRlci5naWYnKSA/PiIKICAgICAgICAgICAgIGFsdD0iPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4iCiAgICAgICAgICAgICB0aXRsZT0iPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4iCiAgICAgICAgICAgICBjbGFzcz0idi1taWRkbGUiLz4gPD9waHAgZWNobyAkdGhpcy0+X18oJ0xvYWRpbmcgbmV4dCBzdGVwLi4uJykgPz4KICAgIDwvc3Bhbj4KPC9kaXY+Cg==</text>
+      <register name="8" type="4">
+        <text>hide</text>
       </register>
     </registers>
     <search>
