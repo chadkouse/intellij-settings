@@ -166,10 +166,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Block/Form/Radialpaymentmethod.php" timestamp="1509653893115">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Block/Form/Radialpaymentmethod.php" timestamp="1509655933530">
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="[" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" timestamp="1509505314872">
         <mark key="'" line="25" column="0" />
@@ -865,46 +866,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhIA==</text>
+        <text>wGET</text>
       </register>
       <register name="/" type="4">
         <text>recordStopTimer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhIA==</text>
+        <text>wGET</text>
       </register>
       <register name="3" type="4">
-        <text>vesta</text>
+        <text>webserviceUrl</text>
       </register>
       <register name="2" type="4">
-        <text>Ve</text>
+        <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">c3RhIA==</text>
+        <text>wGET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTx2ZXN0YSB0cmFuc2xhdGU9InRpdGxlIiBtb2R1bGU9InBlcnNvbmFsaXphdGlvbnMiPgoJCQkJCQkJCQkJCTx0aXRsZT5WZXN0YSBzZXR1cDwvdGl0bGU+CgkJCQkJCQkJCQkJPHNvcnRfb3JkZXI+MTYyPC9zb3J0X29yZGVyPgoJCQkJCQkJCQkJPC92ZXN0YT4K</text>
+        <text encoding="base64">ICAgICAgICAkZ2lmdGFuZ29fY2xpZW50X2lkID0gTWFnZTo6Z2V0U3RvcmVDb25maWcoJ3JhZGlhbC9nZW5lcmFsL2dpZnRhbmdvX2NsaWVudF9pZCcpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>here mark t</text>
+        <text>giftango_client_id</text>
       </register>
       <register name="6" type="4">
-        <text>hem safe (You don't need to manually intervene when user places an order)</text>
+        <text>giftango_secret_key</text>
       </register>
       <register name="5" type="4">
-        <text>. Use semicolon to separate values</text>
+        <text>giftango_client_id</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Wy5dXT48L2NvbW1lbnQ+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkd2Vic2VydmljZVVybCA9ICJodHRwczovL2FwaS5naWZ0YW5nby5jb20vZW50ZXJwcmlzZWFwaS92MS92ZXN0YXdlYnNlc3Npb25pZCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
-      <register name="9" type="4">
-        <text>Safe Domains/ Safe Emails</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkZ2lmdGFuZ29fc2VjcmV0X2tleSA9IE1hZ2U6OmdldFN0b3JlQ29uZmlnKCdyYWRpYWwvZ2VuZXJhbC9naWZ0YW5nb19zZWNyZXRfa2V5Jyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">SW5wdXQgU2FmZSBEb21haW5zLyBTYWZlIEVtYWlscyBLZXkg</text>
+        <text>iftango_secret_key</text>
       </register>
     </registers>
     <search>
