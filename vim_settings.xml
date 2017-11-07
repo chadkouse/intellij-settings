@@ -359,8 +359,9 @@
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PhotobookController.php" timestamp="1509132862246" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1510081640172">
-        <mark key="[" line="1716" column="56" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1510083025841">
+        <mark key="]" line="821" column="75" />
+        <mark key="[" line="821" column="42" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -392,11 +393,11 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1510081661441">
-        <mark key="]" line="906" column="30" />
-        <mark key="^" line="906" column="30" />
-        <mark key="." line="906" column="30" />
-        <mark key="[" line="905" column="30" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1510083074365">
+        <mark key="]" line="1159" column="67" />
+        <mark key="^" line="1159" column="67" />
+        <mark key="." line="1159" column="67" />
+        <mark key="[" line="1159" column="54" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509554468081">
         <mark key="'" line="1545" column="4" />
@@ -890,46 +891,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text>account_token</text>
       </register>
       <register name="/" type="4">
         <text>\'#billing</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>account_token</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRkFJTCIsIGZhaWx1cmUpOwogICAgICAgICAgICAgICAgICAgIGFsZXJ0KCJFcnJvciBhdXRob3JpemluZyB5b3VyIGNyZWRpdCBjYXJkOiAiICsgZmFpbHVyZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>vesta_charge_token</text>
       </register>
       <register name="2" type="4">
-        <text>ERROR</text>
+        <text>transactionId</text>
       </register>
       <register name="1" type="4">
-        <text>ERROR</text>
+        <text>account_token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRVJST1IiLCBkYXRhLmVycm9yX2NvZGUpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJFUlJPUiIsIGRhdGEuZXJyb3JfbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgYWxlcnQoIkVycm9yIGF1dGhvcml6aW5nIHlvdXIgY3JlZGl0IGNhcmQ6ICIgKyBkYXRhLmVycm9yX21lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFuc2FjdGlvbklkID0gJHBheW1lbnREYXRhWyJyYWRpYWxfYWNjb3VudF90b2tlbiJdOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>failure</text>
+        <text>processor_name</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRVJST1IiLCBkYXRhLmVycm9yX2NvZGUpOwo=</text>
+      <register name="6" type="4">
+        <text>VestaDirect</text>
       </register>
-      <register name="5" type="4">
-        <text>code</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>failure</text>
+        <text encoding="base64">ICRwYXltZW50RGF0YVsnJ10=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wnI2JpbGxpbmcvZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JpbGxpbmcvZw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqUXVlcnkoJyN2ZXN0YWRpcmVjdF9wYXlfdmVzdGFfY2hhcmdlX3Rva2VuJykudmFsKGRhdGEuQ2hhcmdlQWNjb3VudE51bWJlclRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSAK</text>
       </register>
-      <register name="8" type="4">
-        <text>FAIL</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdW90ZQo=</text>
       </register>
     </registers>
     <search>
