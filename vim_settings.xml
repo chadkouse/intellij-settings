@@ -339,6 +339,7 @@
         <mark key="." line="541" column="25" />
         <mark key="[" line="541" column="16" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Vestapaymentmethod/Helper/Data.php" timestamp="1510257327014" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animated/design.phtml" timestamp="1503513121636">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="16" />
@@ -401,8 +402,11 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1510242926679">
-        <mark key="[" line="1164" column="34" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1510257360002">
+        <mark key="]" line="1162" column="49" />
+        <mark key="^" line="1162" column="49" />
+        <mark key="." line="1162" column="49" />
+        <mark key="[" line="1162" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -465,11 +469,11 @@
         <mark key="." line="146" column="165" />
         <mark key="[" line="146" column="162" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510255995851">
-        <mark key="]" line="96" column="58" />
-        <mark key="^" line="96" column="58" />
-        <mark key="." line="96" column="58" />
-        <mark key="[" line="96" column="60" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510259219941">
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="147" column="41" />
+        <mark key="." line="160" column="0" />
+        <mark key="[" line="147" column="42" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -531,11 +535,11 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1510254953110">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1510258047061">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="6212" column="29" />
-        <mark key="." line="6212" column="29" />
-        <mark key="[" line="6212" column="29" />
+        <mark key="]" line="6213" column="0" />
+        <mark key="." line="6213" column="0" />
+        <mark key="[" line="6213" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -895,46 +899,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkeE1lbWJlcnNoaXBJZCA9ICR4bWwtPmNyZWF0ZUVsZW1lbnQoIk1lbWJlcnNoaXBJRCIsICQpCg==</text>
+        <text encoding="base64">ICAgICAgPFNob3BwaW5nU2Vzc2lvbj4KICAgICAgICAgPFRpbWVPblNpdGU+MzEuNDY8L1RpbWVPblNpdGU+CiAgICAgICAgIDxSZXR1cm5DdXN0b21lcj5mYWxzZTwvUmV0dXJuQ3VzdG9tZXI+CiAgICAgICAgIDxJdGVtc1JlbW92ZWQ+ZmFsc2U8L0l0ZW1zUmVtb3ZlZD4KICAgICAgPC9TaG9wcGluZ1Nlc3Npb24+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>\'#billing</text>
       </register>
       <register name="-" type="4">
-        <text>country</text>
+        <text>xLineTotalAmount</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPExpbmVJdGVtcz4KICAgICAgICAgPExpbmVJdGVtIExpbmVJdGVtSWQ9IjEiIFNoaXBtZW50SWQ9IjEiPgogICAgICAgICAgICA8TGluZVRvdGFsQW1vdW50IGN1cnJlbmN5Q29kZT0iVVNEIj45OS45OTwvTGluZVRvdGFWbEFtb3VudD4KICAgICAgICAgICAgPFVuaXRDb3N0QW1vdW50IGN1cnJlbmN5Q29kZT0iVVNEIj45OS45OTwvVW5pdENvc3RBbW91bnQ+CiAgICAgICAgICAgIDxRdWFudGl0eT4xPC9RdWFudGl0eT4KICAgICAgICAgICAgPFByb2R1Y3ROYW1lPkMzIFBybyBXZWlnaHRlZCBIZWF2eSBCYWcgR2xvdmVzPC9Qcm9kdWN0TmFtZT4KCQkJPFVuaXRXZWlnaHQgdW5pdD0icG91bmQiPjIxLjA8L1VuaXRXZWlnaHQ+CiAgICAgICAgICAgIDxQcm9kdWN0Q2F0ZWdvcnk+Um9vdCBDYXRhbG9nLSZhbXA7Z3Q7RGVmYXVsdCBDYXRlZ29yeS0mYW1wO2d0O0JveGluZy0mYW1wO2d0O0dsb3ZlcyxSb290CkNhdGFsb2ctJmFtcDtndDtEZWZhdWx0IENhdGVnb3J5LSZhbXA7Z3Q7Qm94aW5nLSZhbXA7Z3Q7R2xvdmVzLSZhbXA7Z3Q7VHJhaW5pbmcKJmFtcDthbXA7IFNwYXJyaW5nIEdsb3ZlcyxSb290IENhdGFsb2ctJmFtcDtndDtEZWZhdWx0IENhdGVnb3J5LSZhbXA7Z3Q7Q29udGVudApQYWdlcy0mYW1wO2d0O0MzIEZvYW0gVGVjaG5vbG9neSxSb290IENhdGFsb2ctJmFtcDtndDtEZWZhdWx0IENhdGVnb3J5LSZhbXA7Z3Q7Q29udGVudApQYWdlcy0mYW1wO2d0O1dlaWdodGVkIEdlYXI8L1Byb2R1Y3RDYXRlZ29yeT4KCQkJPFByb21vQ29kZT4xNU9GRjwvUHJvbW9Db2RlPgogICAgICAgICAgICA8SXRlbUlkPjEyMTEwMTwvSXRlbUlkPgogICAgICAgICA8L0xpbmVJdGVtPgogICAgICA8L0xpbmVJdGVtcz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>country</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPEV4dGVybmFsUmlza1Jlc3VsdHM+CiAgICAgICAgIDxFeHRlcm5hbFJpc2tSZXN1bHQ+CiAgICAgICAgICAgIDxDb2RlPkFQUFJPVkVEPC9Db2RlPgogICAgICAgICAgICA8U291cmNlPlJlc3BvbnNlVG9XZWI8L1NvdXJjZT4KICAgICAgICAgPC9FeHRlcm5hbFJpc2tSZXN1bHQ+CiAgICAgIDwvRXh0ZXJuYWxSaXNrUmVzdWx0cz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkeE1lbWJlcnNoaXBJZCA9ICR4bWwtPmNyZWF0ZUVsZW1lbnQoIk1lbWJlcnNoaXBJRCIsICQpCg==</text>
+        <text encoding="base64">ICAgICAgPFNob3BwaW5nU2Vzc2lvbj4KICAgICAgICAgPFRpbWVPblNpdGU+MzEuNDY8L1RpbWVPblNpdGU+CiAgICAgICAgIDxSZXR1cm5DdXN0b21lcj5mYWxzZTwvUmV0dXJuQ3VzdG9tZXI+CiAgICAgICAgIDxJdGVtc1JlbW92ZWQ+ZmFsc2U8L0l0ZW1zUmVtb3ZlZD4KICAgICAgPC9TaG9wcGluZ1Nlc3Npb24+Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNldHRsZVBheW1lbnQoJHBheW1lbnREYXRhKSB7CiAgICAgICAgJGVuZHBvaW50X3ByZWZpeCA9IE1hZ2U6OmdldFN0b3JlQ29uZmlnKCdyYWRpYWwvd2Vic2VydmljZS9lbmRwb2ludF9wcmVmaXgnKTsKICAgICAgICAkYXBpa2V5ID0gTWFnZTo6Z2V0U3RvcmVDb25maWcoJ3JhZGlhbC93ZWJzZXJ2aWNlL2FwaWtleScpOwoKICAgICAgICAkdGVuZGVyVHlwZSA9ICIiOwogICAgICAgIHN3aXRjaCgkcGF5bWVudERhdGFbJ3JhZGlhbF9wYXlfY2NfdHlwZSddKSB7CiAgICAgICAgICAgIGNhc2UgIkFFIjoKICAgICAgICAgICAgICAgICR0ZW5kZXJUeXBlID0gIkFNIjsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJWSSI6CiAgICAgICAgICAgICAgICAkdGVuZGVyVHlwZSA9ICJWQyI7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiTUMiOgogICAgICAgICAgICAgICAgJHRlbmRlclR5cGUgPSAiTUMiOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgIkRJIjoKICAgICAgICAgICAgICAgICR0ZW5kZXJUeXBlID0gIkRDIjsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgJHRlbmRlclR5cGUgPSAiRFciOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICAkb3JkZXJJZCA9ICRwYXltZW50RGF0YVsncmFkaWFsX3BheV9yYWRpYWxfcXVvdGVfaWQnXTsKICAgICAgICAkcGF5bWVudF90b2tlbiA9ICRwYXltZW50RGF0YVsncmFkaWFsX3BheV9hY2NvdW50X3Rva2VuJ107CiAgICAgICAgJHBheW1lbnRfdG90YWwgPSAkcGF5bWVudERhdGFbJ3JhZGlhbF9wYXlfcmFkaWFsX3RvdGFsJ107CiAgICAgICAgJHJlcXVlc3RJZCA9IHVuaXFpZCgnUmFkaWFsJywgdHJ1ZSk7CgogICAgICAgICR3ZWJzZXJ2aWNlVXJsID0gJGVuZHBvaW50X3ByZWZpeCAuICIvcGF5bWVudHMvc2V0dGxlbWVudC9jcmVhdGUvIiAuICR0ZW5kZXJUeXBlIC4gIi54bWwiOwogICAgICAgICRjbGllbnQgPSBuZXcgVmFyaWVuX0h0dHBfQ2xpZW50KCR3ZWJzZXJ2aWNlVXJsKTsKICAgICAgICAkY2xpZW50LT5zZXRNZXRob2QoVmFyaWVuX0h0dHBfQ2xpZW50OjpQT1NUKTsKICAgICAgICAkY2xpZW50LT5zZXRIZWFkZXJzKGFycmF5KAogICAgICAgICAgICAnY29udGVudC10eXBlOiBhcHBsaWNhdGlvbi94bWwnLAogICAgICAgICAgICAnQXBpS2V5OiAnIC4gJGFwaWtleQogICAgICAgICkpOwoKICAgICAgICAkZGF0YSA9ICc8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pgo8UGF5bWVudFNldHRsZW1lbnRSZXF1ZXN0IHJlcXVlc3RJZD0iJyAuICRyZXF1ZXN0SWQgLiAnIiB4bWxucz0iaHR0cDovL2FwaS5nc2ljb21tZXJjZS5jb20vc2NoZW1hL2NoZWNrb3V0LzEuMCI+CiAgIDxQYXltZW50Q29udGV4dD4KICAgICAgPE9yZGVySWQ+JyAuICRvcmRlcklkIC4gJzwvT3JkZXJJZD4KICAgICAgPFBheW1lbnRBY2NvdW50VW5pcXVlSWQgaXNUb2tlbj0idHJ1ZSI+JyAuICRwYXltZW50X3Rva2VuIC4gJzwvUGF5bWVudEFjY291bnRVbmlxdWVJZD4KICAgPC9QYXltZW50Q29udGV4dD4KICAgPEludm9pY2VJZD5pbnZvaWNlLWlkPC9JbnZvaWNlSWQ+CiAgIDxBbW91bnQgY3VycmVuY3lDb2RlPSJVU0QiPicgLiAkcGF5bWVudF90b3RhbCAuICc8L0Ftb3VudD4KICAgPFRheEFtb3VudCBjdXJyZW5jeUNvZGU9IlVTRCI+MDwvVGF4QW1vdW50PgogICA8U2V0dGxlbWVudFR5cGU+RGViaXQ8L1NldHRsZW1lbnRUeXBlPgogICA8Q2xpZW50Q29udGV4dD4nIC4gJG9yZGVySWQgLiAnPC9DbGllbnRDb250ZXh0PgogICA8RmluYWxEZWJpdD50cnVlPC9GaW5hbERlYml0Pgo8L1BheW1lbnRTZXR0bGVtZW50UmVxdWVzdD4nOwoKICAgICAgICAkY2xpZW50LT5zZXRSYXdEYXRhKCRkYXRhLCAndGV4dC94bWwnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KCk7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIE1hZ2U6OmxvZygnc3VibWl0dGluZyBzZXR0bGVtZW50IHJlcXVlc3QgdG8gcmFkaWFsOiAnIC4gJGRhdGEsIG51bGwsICdyYWRpYWwubG9nJyk7CgogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+aXNTdWNjZXNzZnVsKCkpIHsKICAgICAgICAgICAgICAgICAgICAkZG9jID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCRyZXNwb25zZS0+Z2V0Qm9keSgpKTsKICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ3NldHRsZW1lbnQgcmVxdWVzdCByZXNwb25zZTogJyAuICRyZXNwb25zZS0+Z2V0Qm9keSgpLCBudWxsLCAncmFkaWFsLmxvZycpOwogICAgICAgICAgICAgICAgICAgICRyb290TmFtZSA9ICRkb2MtPmdldE5hbWUoKTsKICAgICAgICAgICAgICAgICAgICAkc3VjY2VzcyA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGlmICgkcm9vdE5hbWUgPT0gIkFja1JlcGx5IikgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJGRvYy0+UmVjZWl2ZWQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc3VjY2VzcyA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ3NldHRsZW1lbnQgcmVxdWVzdCBXT1JLRUQnLCBudWxsLCAncmFkaWFsLmxvZycpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybiAkc3VjY2VzczsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaChFeGNlcHRpb24gJGllKSB7CiAgICAgICAgICAgICAgICBNYWdlOjpsb2coJ0Vycm9yIHNldHRsaW5nIHBheW1lbnQ6ICcgLiAkaWUtPmdldE1lc3NhZ2UoKSwgbnVsbCwgJ3JhZGlhbC5sb2cnKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBNYWdlOjpsb2coJ0Vycm9yIHNldHRsaW5nIHBheW1lbnQ6ICcgLiAkZS0+Z2V0TWVzc2FnZSgpLCBudWxsLCAncmFkaWFsLmxvZycpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHhMaW5lSXRlbS0+YXBwZW5kQ2hpbGQoJHhMaW5lVG90YWxBbW91bnQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>k</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>person</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wnI2JpbGxpbmcvZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JpbGxpbmcvZw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkeE9yZGVyLT5hcHBlbmRDaGlsZCgkeFByb21vQ29kZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>xLineTotalAmount</text>
       </register>
       <register name="8" type="4">
-        <text>R</text>
+        <text>xLineTotalAmount</text>
       </register>
     </registers>
     <search>
