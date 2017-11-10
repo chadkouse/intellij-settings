@@ -469,11 +469,11 @@
         <mark key="." line="146" column="165" />
         <mark key="[" line="146" column="162" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510328250033">
-        <mark key="]" line="292" column="8" />
-        <mark key="^" line="292" column="8" />
-        <mark key="." line="292" column="8" />
-        <mark key="[" line="292" column="9" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510331898165">
+        <mark key="]" line="272" column="44" />
+        <mark key="^" line="272" column="44" />
+        <mark key="." line="272" column="44" />
+        <mark key="[" line="271" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -905,13 +905,13 @@
         <text>\'#billing</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>start</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIdHRwSGVhZGVycyBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -919,26 +919,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBDdXN0b21Qcm9wZXJ0eUdyb3VwIHN0YXJ0Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>start</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>https://tst.payments.radial.com/hosted-payments/radial_payments.js</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>https://RADIAL_HOST/path/to/RDF/rdf.js</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>start</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIdHRwSGVhZGVycyBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wnI2JpbGxpbmcvZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JpbGxpbmcvZw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkeFJpc2tBc3Nlc3NtZW50UmVxdWVzdC0+YXBwZW5kQ2hpbGQoJHhPcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgPFNlc3Npb25JRD5qcW01aWxlbTZsMDI3MWxkbTdndWpkNDVrNjwvU2Vzc2lvbklEPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgPFNlcnZlckluZm8+CiAgICAgIDxUaW1lPjIwMTYtMTEtMDlUMTU6MTc6NDYuMTIxWjwvVGltZT4KICAgICAgPFRaT2Zmc2V0PjA8L1RaT2Zmc2V0PgogICAgICA8RFNUQWN0aXZlPmZhbHNlPC9EU1RBY3RpdmU+CiAgIDwvU2VydmVySW5mbz4K</text>
+        <text encoding="base64">ICAgICAgPERldmljZUhvc3RuYW1lPm9vbC0yZjE1ZDhiNi5zdGF0aWMub3B0b25saW5lLm5ldDwvRGV2aWNlSG9zdG5hbWU+Cg==</text>
       </register>
     </registers>
     <search>
