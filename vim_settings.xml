@@ -380,12 +380,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PhotobookController.php" timestamp="1509132862246" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1510166927090" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510602402549">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510603775736">
         <mark key="'" line="153" column="32" />
-        <mark key="]" line="264" column="23" />
-        <mark key="^" line="382" column="27" />
-        <mark key="." line="263" column="0" />
-        <mark key="[" line="263" column="0" />
+        <mark key="]" line="240" column="40" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="240" column="40" />
+        <mark key="[" line="240" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -938,46 +938,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>payment</text>
+        <text encoding="base64">IHRoaXMubmFtZQ==</text>
       </register>
       <register name="/" type="4">
         <text>webhook</text>
       </register>
       <register name="-" type="4">
-        <text>payment</text>
+        <text encoding="base64">IHRoaXMubmFtZQ==</text>
       </register>
       <register name="3" type="4">
-        <text>E</text>
+        <text>payment</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybT4K</text>
+      <register name="2" type="4">
+        <text>digital/giftcards/</text>
       </register>
       <register name="1" type="4">
-        <text>payment</text>
+        <text encoding="base64">IHRoaXMubmFtZQ==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybSBpZD0icGF5bWVudEZvcm0iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZUxvYWRpbmcoJ3N1Ym1pdHRpbmcgdGhlIGJpbGxpbmcgaW5mb3JtYXRpb24nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZUxvYWRpbmcoJ1N1Ym1pdHRpbmcgdGhlIGxvZ2luIGluZm9ybWF0aW9uJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubmV4dCgpOwogICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxmb3JtIGFjdGlvbj0iIiBpZD0icGF5bWVudEZvcm0iPgoKICAgIDwvZm9ybT4K</text>
+      </register>
+      <register name="5" type="4">
+        <text>E</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMjUiPiQyNTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI1MCI+JDUwPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjEwMCI+JDEwMDwvb3B0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZUxvYWRpbmcoJ3N1Ym1pdHRpbmcgdGhlIGJpbGxpbmcgaW5mb3JtYXRpb24nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZUxvYWRpbmcoJ1N1Ym1pdHRpbmcgdGhlIGxvZ2luIGluZm9ybWF0aW9uJyk7CiAgICAgICAgICAgICAgICB0aGlzLm5leHQoKTsKICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZUxvYWRpbmcoJ1N1Ym1pdHRpbmcgdGhlIGxvZ2luIGluZm9ybWF0aW9uJyk7Cg==</text>
       </register>
     </registers>
     <search>
