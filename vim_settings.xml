@@ -744,10 +744,10 @@
         <mark key="." line="15" column="22" />
         <mark key="[" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate/success.phtml" timestamp="1510674061136">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="20" column="23" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate/success.phtml" timestamp="1510674925647">
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_email.html" timestamp="1508788562583">
         <mark key="]" line="415" column="134" />
@@ -1004,7 +1004,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVm5uTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIERvbG9yZW1xdWUgZWFxdWUgaWxsbyBpdXJlIHF1YW0gcXVpIHRlbXBvcmUKICAgICAgICAgICAgICAgICAgICAgICAgdGVuZXR1ciwgdmVyaXRhdGlzIHZvbHVwdGF0ZW0uIERvbG9yZXMgZXQgaWxsbyBtYWlvcmVzIG1pbmltYSBub3N0cnVtIHByb3ZpZGVudCByYXRpb25lIHN1bnQgdmVsaXQgdm9sdXB0YXRlCiAgICAgICAgICAgICAgICAgICAgICAgIHZvbHVwdGF0dW0uCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1vZGFsIiBpZD0ibG93ZXNfcG9wdXAiPgogICAgICAgIDxkaXYgIGNsYXNzPSJtb2RhbF9jb250ZW50Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveCB0ZXh0X2JveCI+CiAgICAgICAgICAgICAgICAgICAgPGgyPlRlcm1zICYgQ29uZGl0aW9uczwvaDI+CiAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgIFRoaXMgaXMgbm90IGEgY3JlZGl0L2RlYml0IGNhcmQgYW5kIGhhcyBubyBpbXBsaWVkIHdhcnJhbnRpZXMuICBUaGlzIEdpZnQgQ2FyZCBpcyBub3QgcmVkZWVtYWJsZSBmb3IgY2FzaCB1bmxlc3MgcmVxdWlyZWQgYnkgbGF3IGFuZCBjYW5ub3QgYmUgdXNlZCB0byBtYWtlIHBheW1lbnRzIG9uIGFueSBjaGFyZ2UgYWNjb3VudC4gIExvd2UncyZyZWc7IHJlc2VydmVzIHRoZSByaWdodCB0byBkZWFjdGl2YXRlIG9yIHJlamVjdCBhbnkgR2lmdCBDYXJkIGlzc3VlZCBvciBwcm9jdXJlZCwgZGlyZWN0bHkgb3IgaW5kaXJlY3RseSwgaW4gY29ubmVjdGlvbiB3aXRoIGZyYXVkdWxlbnQgYWN0aW9ucywgdW5sZXNzIHByb2hpYml0ZWQgYnkgbGF3LgogICAgICAgICAgICAgICAgICAgICAgICBMb3N0IG9yIHN0b2xlbiBHaWZ0IENhcmRzIGNhbiBvbmx5IGJlIHJlcGxhY2VkIHVwb24gcHJlc2VudGF0aW9uIG9mIG9yaWdpbmFsIHNhbGVzIHJlY2VpcHQgZm9yIGFueSByZW1haW5pbmcgYmFsYW5jZS4gIEl0IHdpbGwgdm9pZCBpZiBhbHRlcmVkIG9yIGRlZmFjZWQuICBUbyBjaGVjayB5b3VyIExvd2UncyZyZWc7IEdpZnQgQ2FyZCBiYWxhbmNlLCB2aXNpdCBMb3dlcy5jb20vR2lmdENhcmRzLCBjYWxsIDEtODAwLTU2MC03MTcyIG9yIHNlZSB0aGUgQ3VzdG9tZXIgU2VydmljZSBEZXNrIGluIGFueSBMb3dlJ3MmcmVnOyBzdG9yZS4KICAgICAgICAgICAgICAgICAgICAgICAgJmNvcHk7IDIwMTcgTG93ZSdzLCBMT1dFJ1MgYW5kIHRoZSBHYWJsZSBNYW5zYXJkIERlc2lnbiBhcmUgcmVnaXN0ZXJlZCB0cmFkZW1hcmtzIG9mIExGLCBMTEMuIExPV0UnUyZyZWc7IGFuZCB0aGUgR0FCTEUgTUFOU0FSRCBERVNJR04gYXJlIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBhbmQgc2VydmljZQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjbG9zZSI+PC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
@@ -1013,37 +1013,37 @@
         <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
-      </register>
-      <register name="2" type="4">
         <text>&quot;</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVm5uTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIERvbG9yZW1xdWUgZWFxdWUgaWxsbyBpdXJlIHF1YW0gcXVpIHRlbXBvcmUKICAgICAgICAgICAgICAgICAgICAgICAgdGVuZXR1ciwgdmVyaXRhdGlzIHZvbHVwdGF0ZW0uIERvbG9yZXMgZXQgaWxsbyBtYWlvcmVzIG1pbmltYSBub3N0cnVtIHByb3ZpZGVudCByYXRpb25lIHN1bnQgdmVsaXQgdm9sdXB0YXRlCiAgICAgICAgICAgICAgICAgICAgICAgIHZvbHVwdGF0dW0uCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1vZGFsIiBpZD0ibG93ZXNfcG9wdXAiPgogICAgICAgIDxkaXYgIGNsYXNzPSJtb2RhbF9jb250ZW50Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveCB0ZXh0X2JveCI+CiAgICAgICAgICAgICAgICAgICAgPGgyPlRlcm1zICYgQ29uZGl0aW9uczwvaDI+CiAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgIFRoaXMgaXMgbm90IGEgY3JlZGl0L2RlYml0IGNhcmQgYW5kIGhhcyBubyBpbXBsaWVkIHdhcnJhbnRpZXMuICBUaGlzIEdpZnQgQ2FyZCBpcyBub3QgcmVkZWVtYWJsZSBmb3IgY2FzaCB1bmxlc3MgcmVxdWlyZWQgYnkgbGF3IGFuZCBjYW5ub3QgYmUgdXNlZCB0byBtYWtlIHBheW1lbnRzIG9uIGFueSBjaGFyZ2UgYWNjb3VudC4gIExvd2UncyZyZWc7IHJlc2VydmVzIHRoZSByaWdodCB0byBkZWFjdGl2YXRlIG9yIHJlamVjdCBhbnkgR2lmdCBDYXJkIGlzc3VlZCBvciBwcm9jdXJlZCwgZGlyZWN0bHkgb3IgaW5kaXJlY3RseSwgaW4gY29ubmVjdGlvbiB3aXRoIGZyYXVkdWxlbnQgYWN0aW9ucywgdW5sZXNzIHByb2hpYml0ZWQgYnkgbGF3LgogICAgICAgICAgICAgICAgICAgICAgICBMb3N0IG9yIHN0b2xlbiBHaWZ0IENhcmRzIGNhbiBvbmx5IGJlIHJlcGxhY2VkIHVwb24gcHJlc2VudGF0aW9uIG9mIG9yaWdpbmFsIHNhbGVzIHJlY2VpcHQgZm9yIGFueSByZW1haW5pbmcgYmFsYW5jZS4gIEl0IHdpbGwgdm9pZCBpZiBhbHRlcmVkIG9yIGRlZmFjZWQuICBUbyBjaGVjayB5b3VyIExvd2UncyZyZWc7IEdpZnQgQ2FyZCBiYWxhbmNlLCB2aXNpdCBMb3dlcy5jb20vR2lmdENhcmRzLCBjYWxsIDEtODAwLTU2MC03MTcyIG9yIHNlZSB0aGUgQ3VzdG9tZXIgU2VydmljZSBEZXNrIGluIGFueSBMb3dlJ3MmcmVnOyBzdG9yZS4KICAgICAgICAgICAgICAgICAgICAgICAgJmNvcHk7IDIwMTcgTG93ZSdzLCBMT1dFJ1MgYW5kIHRoZSBHYWJsZSBNYW5zYXJkIERlc2lnbiBhcmUgcmVnaXN0ZXJlZCB0cmFkZW1hcmtzIG9mIExGLCBMTEMuIExPV0UnUyZyZWc7IGFuZCB0aGUgR0FCTEUgTUFOU0FSRCBERVNJR04gYXJlIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBhbmQgc2VydmljZQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjbG9zZSI+PC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHByb21vX2NvZGUgPT0gJ2xvd2VzJykgewo=</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
         <text>o</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>a</text>
+      </register>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
