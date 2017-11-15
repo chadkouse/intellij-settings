@@ -51,6 +51,12 @@
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/giftcard_carousel_view.phtml" timestamp="1510779423430">
+        <mark key="]" line="113" column="80" />
+        <mark key="^" line="113" column="80" />
+        <mark key="." line="113" column="80" />
+        <mark key="[" line="113" column="80" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.css" timestamp="1510007781573">
         <mark key="]" line="27" column="0" />
         <mark key="^" line="2" column="19" />
@@ -75,6 +81,12 @@
         <mark key="^" line="38" column="78" />
         <mark key="." line="38" column="78" />
         <mark key="[" line="38" column="66" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/lowes_activation_email.html" timestamp="1510776569538">
+        <mark key="]" line="250" column="19961" />
+        <mark key="^" line="250" column="19961" />
+        <mark key="." line="250" column="19961" />
+        <mark key="[" line="250" column="19959" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/universemobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700477415">
         <mark key="]" line="44" column="74" />
@@ -392,11 +404,11 @@
         <mark key="." line="66" column="0" />
         <mark key="[" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1510172061472">
-        <mark key="]" line="868" column="22" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1510778679567">
+        <mark key="]" line="347" column="81" />
         <mark key="^" line="868" column="22" />
         <mark key="." line="868" column="22" />
-        <mark key="[" line="868" column="16" />
+        <mark key="[" line="347" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/list.phtml" timestamp="1500560790401">
         <mark key="]" line="69" column="75" />
@@ -964,46 +976,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IHRydWU=</text>
+        <text>json[&quot;InitialBalance&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHRydWU=</text>
+        <text>json[&quot;InitialBalance&quot;]</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YnV0dG9uI3BlcnNvbmFsaXplX2dpZnRjYXJkLCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="4">
-        <text>, button.personalize_giftcard</text>
+        <text>initialValue</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHx8IHRydWU=</text>
+        <text>json[&quot;InitialBalance&quot;]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQk8P3BocCBpZiAoc3RycG9zKCRfcHJvZHVjdC0+Z2V0U2t1KCksICdQLUdXUCcpID09IDAgfHwgdHJ1ZSk6ID8+Cg==</text>
+        <text encoding="base64">CQkJCSRpbml0aWFsVmFsdWUgPSBtb25leV9mb3JtYXQoJyUuMm4nLCAkanNvblsiSW5pdGlhbEJhbGFuY2UiXSk7ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGJ1dHRvbiBpZD0icGVyc29uYWxpemVfZ2lmdGNhcmQiIHR5cGU9ImJ1dHRvbiIgdGl0bGU9IkJ1eSBOb3ciIGNsYXNzPSJidXR0b24iID48c3Bhbj48c3Bhbj5CdXkgTm93PC9zcGFuPjwvc3Bhbj48L2J1dHRvbj4K</text>
+      <register name="7" type="4">
+        <text>Body</text>
       </register>
       <register name="6" type="4">
-        <text>Add gift card</text>
+        <text>json_encode($emailBody)</text>
       </register>
       <register name="5" type="4">
-        <text>for Yourself</text>
+        <text>lowes</text>
       </register>
       <register name="4" type="4">
-        <text>gwp_buy_now</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>Data</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Data</text>
       </register>
     </registers>
     <search>
