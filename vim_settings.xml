@@ -287,12 +287,12 @@
         <mark key="." line="160" column="4" />
         <mark key="[" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510866860293">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510868231474">
         <mark key="'" line="161" column="32" />
-        <mark key="]" line="352" column="0" />
-        <mark key="^" line="351" column="43" />
-        <mark key="." line="352" column="0" />
-        <mark key="[" line="352" column="0" />
+        <mark key="]" line="403" column="25" />
+        <mark key="^" line="91" column="93" />
+        <mark key="." line="403" column="25" />
+        <mark key="[" line="403" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1509554468081">
         <mark key="'" line="1545" column="4" />
@@ -527,47 +527,47 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>billing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0ID8gZS5wcmV2ZW50RGVmYXVsdCgpIDogZS5yZXR1cm5WYWx1ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>billing</text>
+        <text>vent</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>login</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>billing</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganEoJyNhY3RpdmF0aW9uXycgKyBiYWNrRnJvbSkuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0ID8gZS5wcmV2ZW50RGVmYXVsdCgpIDogZS5yZXR1cm5WYWx1ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>billing</text>
       </register>
       <register name="6" type="4">
-        <text>From</text>
+        <text>vent</text>
       </register>
       <register name="5" type="4">
-        <text>hide</text>
+        <text>vent</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>vent</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>To</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>to</text>
+        <text>login</text>
       </register>
     </registers>
     <search>
