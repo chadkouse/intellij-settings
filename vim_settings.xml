@@ -503,6 +503,12 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1510935864500">
+        <mark key="]" line="597" column="0" />
+        <mark key="^" line="596" column="76" />
+        <mark key="." line="597" column="0" />
+        <mark key="[" line="597" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510931775377">
         <mark key="'" line="161" column="32" />
         <mark key="]" line="307" column="0" />
@@ -600,6 +606,9 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="39" />
       </file>
+      <file name="/a.dummy" timestamp="1510935850667">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
         <mark key="^" line="4040" column="27" />
@@ -612,11 +621,11 @@
         <mark key="." line="146" column="165" />
         <mark key="[" line="146" column="162" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510867207376">
-        <mark key="]" line="234" column="25" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1510935534890">
+        <mark key="]" line="286" column="77" />
         <mark key="^" line="241" column="60" />
         <mark key="." line="234" column="25" />
-        <mark key="[" line="128" column="50" />
+        <mark key="[" line="286" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -1103,46 +1112,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWNjb3VudC0+YWRkQ2hpbGQoIkNyZWF0ZWREYXRlVGltZSIsIGRhdGUoInl5eXktTU0tZGRUSEg6bW06c3MiKSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>is_sticker_badge</text>
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="2" type="4">
-        <text>is_sticker_badge</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlVGltZSA9IGRhdGUoJ1ktbS1kXFRIOmk6cycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWNjb3VudC0+YWRkQ2hpbGQoIkNyZWF0ZWREYXRlVGltZSIsIGRhdGUoInl5eXktTU0tZGRUSEg6bW06c3MiKSk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRBdHRyaWJ1dGVUb1NlbGVjdCgnZ2NpX2lzX3N0aWNrZXJfYmFkZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmVyVGltZSA9IGdtZGF0ZSgnWS1tLWRcVEg6aTpzLicsICRzZWMpIC4gcm91bmQoJG1zICogMTAwMCkgLiAnWic7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>vent</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>vent</text>
+        <text encoding="base64">IC4gcm91bmQoJG1zICogMTAwMCkgLiAnWic=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+      <register name="5" type="4">
+        <text>yyyy</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+      <register name="4" type="4">
+        <text>M</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>billing</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>vent</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
