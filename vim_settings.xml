@@ -120,11 +120,11 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1510863409538">
-        <mark key="]" line="4589" column="24" />
-        <mark key="^" line="4589" column="24" />
-        <mark key="." line="4589" column="24" />
-        <mark key="[" line="4589" column="24" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1510886868897">
+        <mark key="]" line="5650" column="43" />
+        <mark key="^" line="5650" column="43" />
+        <mark key="." line="5650" column="43" />
+        <mark key="[" line="5711" column="48" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/proflowersmobile/layout/personalizations.xml" timestamp="1509458423542">
         <mark key="]" line="1711" column="99" />
@@ -523,14 +523,14 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0ID8gZS5wcmV2ZW50RGVmYXVsdCgpIDogZS5yZXR1cm5WYWx1ZSA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>is_sticker_badge</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>vent</text>
+        <text>is_sticker_badge</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
@@ -538,14 +538,14 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+      <register name="1" type="4">
+        <text>is_sticker_badge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0ID8gZS5wcmV2ZW50RGVmYXVsdCgpIDogZS5yZXR1cm5WYWx1ZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRBdHRyaWJ1dGVUb1NlbGVjdCgnZ2NpX2lzX3N0aWNrZXJfYmFkZ2UnKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>billing</text>
+        <text>vent</text>
       </register>
       <register name="6" type="4">
         <text>vent</text>
@@ -553,17 +553,17 @@
       <register name="5" type="4">
         <text>vent</text>
       </register>
-      <register name="4" type="4">
-        <text>vent</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>login</text>
       </register>
       <register name="8" type="4">
-        <text>login</text>
+        <text>billing</text>
       </register>
     </registers>
     <search>
