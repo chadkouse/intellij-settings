@@ -629,8 +629,8 @@
         <mark key="." line="146" column="165" />
         <mark key="[" line="146" column="162" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1511200411002">
-        <mark key="[" line="116" column="8" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1511212248525">
+        <mark key="[" line="118" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/connect360/template/page/html/personalizations.phtml" timestamp="1498149495495">
         <mark key="]" line="33" column="10" />
@@ -917,7 +917,7 @@
         <mark key="." line="2" column="35" />
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/radialcapture.js" timestamp="1511206378274" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/radialcapture.js" timestamp="1511212235758" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/checkout/onepage/payment.phtml" timestamp="1509508797059">
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
@@ -1119,7 +1119,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkeEN1c3RvbWVyLT5hcHBlbmRDaGlsZCgkeEFkZHJlc3MpOwogICAgICAgICR4Q3VzdG9tZXItPmFwcGVuZENoaWxkKCR4TWVtYmVyTG9nZ2VkSW4pOwogICAgICAgICR4Q3VzdG9tZXItPmFwcGVuZENoaWxkKCR4Q3VycmVuY3lDb2RlKTsK</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
@@ -1127,26 +1127,26 @@
       <register name="-" type="4">
         <text>FormOfPayment</text>
       </register>
-      <register name="3" type="4">
-        <text>FormOfPayment</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkeEN1c3RvbWVyLT5hcHBlbmRDaGlsZCgkeEFkZHJlc3MpOwogICAgICAgICR4Q3VzdG9tZXItPmFwcGVuZENoaWxkKCR4TWVtYmVyTG9nZ2VkSW4pOwogICAgICAgICR4Q3VzdG9tZXItPmFwcGVuZENoaWxkKCR4Q3VycmVuY3lDb2RlKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkeFRlbGVwaG9uZSA9ICR4bWwtPmNyZWF0ZUVsZW1lbnQoJ1RlbGVwaG9uZScpOwogICAgICAgICR4TnVtYmVyID0gJHhtbC0+Y3JlYXRlRWxlbWVudCgnTnVtYmVyJywgJGJpbGxpbmdQaG9uZSk7CiAgICAgICAgJHhUZWxlcGhvbmUtPmFwcGVuZENoaWxkKCR4TnVtYmVyKTsKCiAgICAgICAgJHhGb3JtT2ZQYXltZW50LT5hcHBlbmRDaGlsZCgkeFRlbGVwaG9uZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkb3JkZXJJZCAuICIgIiAuICRhY2NlcHRlZCAuICIgIiAuICRyZWFzb25Db2RlIC4gIiAiIC4gJHJlYXNvbkNvZGVEZXNjcmlwdGlvbiAuIFBIUF9FT0w7Cg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">YWNjZXB0aW5nIGFuZCBwcm9jZXNzaW5nIG9yZGVyIGZyb20g</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWNobyAkb3JkZXJJZCAuICIgIiAuICRyZWFzb25Db2RlIC4gIiAiIC4gJHJlYXNvbkNvZGVEZXNjcmlwdGlvbiAuIFBIUF9FT0w7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>FormOfPayment</text>
       </register>
       <register name="4" type="4">
         <text>FormOfPayment</text>
@@ -1155,10 +1155,10 @@
         <text>wq</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkb3JkZXJJZCAuICIgIiAuICRhY2NlcHRlZCAuICIgIiAuICRyZWFzb25Db2RlIC4gIiAiIC4gJHJlYXNvbkNvZGVEZXNjcmlwdGlvbiAuIFBIUF9FT0w7Cg==</text>
       </register>
     </registers>
     <search>
