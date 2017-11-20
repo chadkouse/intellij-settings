@@ -695,7 +695,12 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1511189807752" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1511190820621">
+        <mark key="]" line="6347" column="77" />
+        <mark key="^" line="6347" column="77" />
+        <mark key="." line="6347" column="77" />
+        <mark key="[" line="6347" column="71" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate/payment.phtml" timestamp="1510866923283">
         <mark key="]" line="120" column="92" />
         <mark key="^" line="120" column="92" />
@@ -1097,47 +1102,47 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWNjb3VudC0+YWRkQ2hpbGQoIkNyZWF0ZWREYXRlVGltZSIsIGRhdGUoInl5eXktTU0tZGRUSEg6bW06c3MiKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>result</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWNjb3VudC0+YWRkQ2hpbGQoIkNyZWF0ZWREYXRlVGltZSIsIGRhdGUoInl5eXktTU0tZGRUSEg6bW06c3MiKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlVGltZSA9IGRhdGUoJ1ktbS1kXFRIOmk6cycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyID0gCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VyQWNjb3VudC0+YWRkQ2hpbGQoIkNyZWF0ZWREYXRlVGltZSIsIGRhdGUoInl5eXktTU0tZGRUSEg6bW06c3MiKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2VydmVyVGltZSA9IGdtZGF0ZSgnWS1tLWRcVEg6aTpzLicsICRzZWMpIC4gcm91bmQoJG1zICogMTAwMCkgLiAnWic7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC4gcm91bmQoJG1zICogMTAwMCkgLiAnWic=</text>
-      </register>
-      <register name="5" type="4">
         <text>yyyy</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>M</text>
+      </register>
+      <register name="5" type="4">
+        <text>d</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlVGltZSA9IGRhdGUoJ1ktbS1kXFRIOmk6cycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">IC4gcm91bmQoJG1zICogMTAwMCkgLiAnWic=</text>
       </register>
     </registers>
     <search>
