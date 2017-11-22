@@ -60,10 +60,10 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate/lowes/login.phtml" timestamp="1510866065673">
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate/lowes/login.phtml" timestamp="1511366982148">
+        <mark key="]" line="42" column="157" />
+        <mark key="." line="42" column="157" />
+        <mark key="[" line="42" column="156" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/universemobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700477415">
         <mark key="]" line="44" column="74" />
@@ -146,12 +146,12 @@
         <mark key="." line="3934" column="0" />
         <mark key="[" line="3934" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1510931775377">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1511367178535">
         <mark key="'" line="161" column="32" />
-        <mark key="]" line="307" column="0" />
-        <mark key="^" line="306" column="25" />
-        <mark key="." line="307" column="0" />
-        <mark key="[" line="306" column="41" />
+        <mark key="]" line="411" column="0" />
+        <mark key="^" line="410" column="23" />
+        <mark key="." line="411" column="0" />
+        <mark key="[" line="259" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1511284904902">
         <mark key="]" line="1243" column="111" />
@@ -371,46 +371,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7Cglmb250LWZhbWlseTogJ0NvbnZfR290aGFtIEJvbGQgUmVndWxhcic7CglzcmM6IHVybCgnLi4vRm9udHMvR290aGFtQm9sZC9Hb3RoYW0gQm9sZCBSZWd1bGFyLmVvdCcpOwoJc3JjOiBsb2NhbCgn4pi6JyksIHVybCgnLi4vRm9udHMvR290aGFtQm9sZC9Hb3RoYW0gQm9sZCBSZWd1bGFyLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwKCQkgdXJsKCcuLi9Gb250cy9Hb3RoYW1Cb2xkL0dvdGhhbSBCb2xkIFJlZ3VsYXIudHRmJykgZm9ybWF0KCd0cnVldHlwZScpLAoJCSB1cmwoJy4uL0ZvbnRzL0dvdGhhbUJvbGQvR290aGFtIEJvbGQgUmVndWxhci5zdmcnKSBmb3JtYXQoJ3N2ZycpOwoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKCWZvbnQtc3R5bGU6IG5vcm1hbDsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5lbXB0eSgpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>Token</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>$authData['PaymentAccountIsToken']</text>
+        <text>2</text>
       </register>
-      <register name="2" type="4">
-        <text>account_token</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>Token</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5lbXB0eSgpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7Cglmb250LWZhbWlseTogJ0NvbnZfR290aGFtIEJvbGQgUmVndWxhcic7CglzcmM6IHVybCgnLi4vRm9udHMvR290aGFtQm9sZC9Hb3RoYW0gQm9sZCBSZWd1bGFyLmVvdCcpOwoJc3JjOiBsb2NhbCgn4pi6JyksIHVybCgnLi4vRm9udHMvR290aGFtQm9sZC9Hb3RoYW0gQm9sZCBSZWd1bGFyLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwKCQkgdXJsKCcuLi9Gb250cy9Hb3RoYW1Cb2xkL0dvdGhhbSBCb2xkIFJlZ3VsYXIudHRmJykgZm9ybWF0KCd0cnVldHlwZScpLAoJCSB1cmwoJy4uL0ZvbnRzL0dvdGhhbUJvbGQvR290aGFtIEJvbGQgUmVndWxhci5zdmcnKSBmb3JtYXQoJ3N2ZycpOwoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKCWZvbnQtc3R5bGU6IG5vcm1hbDsKfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZXMgPSBqUXVlcnkoJyNtZXNzYWdlTGlzdCcpOwogICAgICAgIG1lc3NhZ2VzLmVtcHR5KCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>ntData</text>
+        <text>$authData['PaymentAccountIsToken']</text>
       </register>
       <register name="6" type="4">
-        <text>paymeauthData</text>
+        <text>account_token</text>
       </register>
       <register name="5" type="4">
-        <text>authData</text>
+        <text>Token</text>
       </register>
       <register name="4" type="4">
-        <text>$authData['PaymentAccountUniqueId']</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>authData</text>
       </register>
       <register name="8" type="4">
-        <text>paymentData</text>
+        <text>$authData['PaymentAccountUniqueId']</text>
       </register>
     </registers>
     <search>
