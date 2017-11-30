@@ -186,7 +186,12 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1512056616144" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1512058647293">
+        <mark key="]" line="1258" column="133" />
+        <mark key="^" line="1258" column="50" />
+        <mark key="." line="1258" column="51" />
+        <mark key="[" line="1258" column="51" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/catalog/product/list.phtml" timestamp="1499876168218">
         <mark key="]" line="111" column="8" />
         <mark key="^" line="106" column="51" />
@@ -948,38 +953,38 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/checkoutonepage.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5naWZ0Y2FyZC5tb2JpbGUiIGFzPSJnaWZ0Y2FyZG1vYmlsZSIgdGVtcGxhdGU9ImNhdGFsb2cvcHJvZHVjdC9naWZ0Y2FyZF9jYXJvdXNlbF92aWV3LnBodG1sIi8+CiAgICAgICAgPC9yZWZlcmVuY2U+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Risk Assessment Request failed</text>
       </register>
       <register name="/" type="4">
         <text>activateGift</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>Risk Assessment Request failed</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>Payment Authorization failed</text>
       </register>
       <register name="2" type="4">
-        <text>itemredirect</text>
+        <text>Risk Assessment Request failed</text>
       </register>
       <register name="1" type="4">
-        <text>page</text>
+        <text>Risk Assessment Request failed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVmZXJlbmNlIG5hbWU9ImNvbnRlbnQiPgogICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icGVyc29uYWxpemF0aW9ucy5naWZ0Y2FyZC5tb2JpbGUiIGFzPSJnaWZ0Y2FyZG1vYmlsZSIgdGVtcGxhdGU9ImNhdGFsb2cvcHJvZHVjdC9naWZ0Y2FyZF9jYXJvdXNlbF92aWV3LnBodG1sIi8+CiAgICAgICAgPC9yZWZlcmVuY2U+Cg==</text>
+      <register name="0" type="4">
+        <text>We could not process your payment, please contact customer service: (855) 944-3866</text>
       </register>
       <register name="7" type="4">
         <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>true</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>itemredirect</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>page</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
