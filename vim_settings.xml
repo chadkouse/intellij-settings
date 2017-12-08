@@ -297,9 +297,6 @@
         <mark key="." line="4040" column="27" />
         <mark key="[" line="4040" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1512682746471">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/proflowersmobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700492133">
         <mark key="]" line="44" column="74" />
         <mark key="." line="44" column="0" />
@@ -346,9 +343,6 @@
         <mark key="^" line="88" column="99" />
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
-      </file>
-      <file name="/a.regexp" timestamp="1512151420984">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Moderationrequestlist.php" timestamp="1511897144186">
         <mark key="]" line="7" column="55" />
@@ -422,11 +416,11 @@
         <mark key="." line="216" column="21" />
         <mark key="[" line="216" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/radialcapture.js" timestamp="1512500159023">
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="8" />
-        <mark key="[" line="3" column="8" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/radialcapture.js" timestamp="1512710676842">
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="36" column="41" />
+        <mark key="." line="44" column="25" />
+        <mark key="[" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/animation/design.phtml" timestamp="1508856277483">
         <mark key="]" line="34" column="49" />
@@ -793,9 +787,6 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="39" />
       </file>
-      <file name="/a.txt" timestamp="1512151422964">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu_landing.phtml" timestamp="1502908593760">
         <mark key="]" line="146" column="165" />
         <mark key="^" line="146" column="165" />
@@ -978,9 +969,6 @@
         <mark key="." line="315" column="195" />
         <mark key="[" line="315" column="189" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511905851482">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/Model/Mysql4/Optin.php" timestamp="1497625867693">
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="35" />
@@ -1149,47 +1137,47 @@
       <jump line="151" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxTokenManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Billing</text>
       </register>
       <register name="/" type="4">
         <text>catFilter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Billing</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>region_id</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbmQgYWxsIEFBQSB0byB2ZXN0YSBkaXJlY3QKICAgICAgICBpZiAoTWFnZTo6aGVscGVyKCJwZXJzb25hbGl6YXRpb25zL2dpZnRjYXJkc2hvcCIpLT5pc0FhYVNob3AoKSB8fCBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMvZ2lmdGNhcmRzaG9wIiktPmlzQWFhbWFTaG9wKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgJGl0ZW1zID0gJHF1b3RlLT5nZXRBbGxJdGVtcygpOwoKICAgICAgICBmb3JlYWNoICgkaXRlbXMgYXMgJF9pdGVtKSB7CiAgICAgICAgICAgICRwZXJJdGVtSWQgPSAkX2l0ZW0tPmdldFBlcnNvbmFsaXphdGlvbkl0ZW1JZCgpOwogICAgICAgICAgICAkcGVySXRlbSA9IE1hZ2U6OmdldE1vZGVsKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfaXRlbScpLT5sb2FkKCRwZXJJdGVtSWQpOwogICAgICAgICAgICBpZiAoISRwZXJJdGVtLT5nZXRJc0RpZ2l0YWwoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChNYWdlOjpoZWxwZXIoJ2RpZ2l0YWwnKS0+aXNJbnRlcm5hbEdpZnRDYXJkUGVySXRlbSgkcGVySXRlbSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text>find(&quot;option:selected&quot;).attr(&quot;title&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Billing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2dpZnR0b2tlbnMvYWpheFRva2VuTWFuYWdlci5qczwvbmFtZT4KICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJhZGRJdGVtIj4KICAgICAgICAgICAgICAgIDx0eXBlPnNraW5fY3NzPC90eXBlPgogICAgICAgICAgICAgICAgPG5hbWU+Y3NzL2dpZnR0b2tlbnMvbGFuZGluZy5jc3M8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkJpbGxpbmdQb3N0YWxDb2RlIjogalF1ZXJ5KGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdiaWxsaW5nOnBvc3Rjb2RlJykpLnZhbCgpLAo=</text>
       </register>
       <register name="7" type="4">
-        <text>li</text>
+        <text>State</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdyb3VwQ291bnQgPCBzdGFydEluZGV4IHx8IGdyb3VwQ291bnQgPiBzdG9wSW5kZXgpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>jQuery(document.getElementById('billing:region_id')).find(&quot;option:selected&quot;).attr(&quot;title&quot;)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdyb3VwQ291bnQgPCBzdGFydEluZGV4IHx8IGdyb3VwQ291bnQgPiBzdG9wSW5kZXgpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>Billing</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>State</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NhdEZpbHRlci9icmFuZEZpbHRlci9n</text>
       </register>
       <register name="9" type="4">
-        <text>currentIndex</text>
+        <text>CountryCode</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3VycmVudEluZGV4ID0gMDsK</text>
+      <register name="8" type="4">
+        <text>CountryCode</text>
       </register>
     </registers>
     <search>
