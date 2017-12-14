@@ -45,11 +45,20 @@
         <mark key="." line="59" column="63" />
         <mark key="[" line="107" column="52" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1513260909703">
+        <mark key="]" line="664" column="41" />
+        <mark key="." line="646" column="0" />
+        <mark key="[" line="646" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1513200584465">
         <mark key="]" line="92" column="4" />
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
         <mark key="[" line="48" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/layout/personalizations.xml" timestamp="1513260859697">
+        <mark key="]" line="517" column="40" />
+        <mark key="[" line="499" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/JsBarcode.all.min.js" timestamp="1513201763938">
         <mark key="[" line="0" column="0" />
@@ -184,8 +193,8 @@
       <jump line="111" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_tcp_noanim.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>00px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS0gRGlnaXRhbCByZXZpZXcgd2l0aCBnaWZ0IGFuaW1hdGlvbiAtLT4KICAgIDxwZXJzb25hbGl6YXRpb25zX3ByZXZpZXdfdGNwcmVkZWVtIHRyYW5zbGF0ZT0ibGFiZWwiPgogICAgICAgIDxsYWJlbD5EaWdpdGFsIFRDUCBSZWRlZW08L2xhYmVsPgogICAgICAgIDwhLS0gTWFnZV9DYXRhbG9nIC0tPgogICAgICAgIDxyZWZlcmVuY2UgbmFtZT0icm9vdCI+CiAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJzZXRUZW1wbGF0ZSI+PHRlbXBsYXRlPmFuaW1hdGlvbi9sYW5kaW5nLnBodG1sPC90ZW1wbGF0ZT48L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KCiAgICAgICAgPHJlZmVyZW5jZSBuYW1lPSJjb250ZW50Ij4KICAgICAgICAgICAgPGJsb2NrIHR5cGU9ImNvcmUvdGVtcGxhdGUiIG5hbWU9InBlcnNvbmFsaXphdGlvbnMucHJldmlldy5kaWdpdGFsLmFuaW1hdGlvbiIgYXM9InByZXZpZXdkaWdpdGFsYW5pbWF0aW9uIiB0ZW1wbGF0ZT0icGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L2RpZ2l0YWxfdGNwX25vYW5pbS5waHRtbCIvPiAtLT4KICAgICAgICA8L3JlZmVyZW5jZT4KCiAgICAgICAgPHJlZmVyZW5jZSBuYW1lPSJoZWFkIj4KICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgIDwvcmVmZXJlbmNlPgogICAgPC9wZXJzb25hbGl6YXRpb25zX3ByZXZpZXdfdGNwcmVkZWVtPgo=</text>
       </register>
       <register name="/" type="4">
         <text>billing</text>
@@ -203,7 +212,7 @@
         <text>00px</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHZhciBlYW4gPSAnPD9waHAgZWNobyAkanNvblsiQ2FyZE51bWJlciJdID8+JzsKICAgIGlmIChlYW4pIHsKICAgICAgICB2YXIgZm9ybWF0ID0gZWFuLmxlbmd0aCA9PSA3IHx8IGVhbi5sZW5ndGggPT0gOCA/ICJFQU44IiA6CiAgICAgICAgICAgIGVhbi5sZW5ndGggPT0gMTIgfHwgZWFuLmxlbmd0aCA9PSAxMyA/ICJFQU4xMyIgOiAiQ09ERTEyOCI7CiAgICAgICAgSnNCYXJjb2RlKCIjYmFyQ29kZSIsIGVhbiwge2Zvcm1hdDogZm9ybWF0fSk7CiAgICAgICAgalF1ZXJ5KCcjYmFyY29kZScpLnNob3coKTsKICAgIH0KPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gRGlnaXRhbCByZXZpZXcgd2l0aCBnaWZ0IGFuaW1hdGlvbiAtLT4KICAgIDxwZXJzb25hbGl6YXRpb25zX3ByZXZpZXdfdGNwcmVkZWVtIHRyYW5zbGF0ZT0ibGFiZWwiPgogICAgICAgIDxsYWJlbD5EaWdpdGFsIFRDUCBSZWRlZW08L2xhYmVsPgogICAgICAgIDwhLS0gTWFnZV9DYXRhbG9nIC0tPgogICAgICAgIDxyZWZlcmVuY2UgbmFtZT0icm9vdCI+CiAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJzZXRUZW1wbGF0ZSI+PHRlbXBsYXRlPmFuaW1hdGlvbi9sYW5kaW5nLnBodG1sPC90ZW1wbGF0ZT48L2FjdGlvbj4KICAgICAgICA8L3JlZmVyZW5jZT4KCiAgICAgICAgPHJlZmVyZW5jZSBuYW1lPSJjb250ZW50Ij4KICAgICAgICAgICAgPGJsb2NrIHR5cGU9ImNvcmUvdGVtcGxhdGUiIG5hbWU9InBlcnNvbmFsaXphdGlvbnMucHJldmlldy5kaWdpdGFsLmFuaW1hdGlvbiIgYXM9InByZXZpZXdkaWdpdGFsYW5pbWF0aW9uIiB0ZW1wbGF0ZT0icGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L2RpZ2l0YWxfdGNwX25vYW5pbS5waHRtbCIvPiAtLT4KICAgICAgICA8L3JlZmVyZW5jZT4KCiAgICAgICAgPHJlZmVyZW5jZSBuYW1lPSJoZWFkIj4KICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9qczwvdHlwZT4KICAgICAgICAgICAgICAgIDxuYW1lPmpzL2pxdWVyeS52YWxpZGF0ZS5taW4uanM8L25hbWU+CiAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgIDwvcmVmZXJlbmNlPgogICAgPC9wZXJzb25hbGl6YXRpb25zX3ByZXZpZXdfdGNwcmVkZWVtPgo=</text>
       </register>
       <register name="7" type="4">
         <text>animation</text>
