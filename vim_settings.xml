@@ -403,6 +403,12 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1513959430144">
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="[" line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/photobook/styles.min.css" timestamp="1507839797917">
         <mark key="]" line="28" column="42" />
         <mark key="^" line="28" column="3" />
@@ -1132,46 +1138,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Token</text>
       </register>
       <register name="/" type="4">
         <text>audio</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Token</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
         <text>:</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>Token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc2hvcnRfZGVzY3JpcHRpb24nID0+ICRzb3VuZFsnc2hvcnRfZGVzY3JpcHRpb24nXSwK</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>d</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>'</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2F1ZGlvL3NvdW5kL2c=</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
