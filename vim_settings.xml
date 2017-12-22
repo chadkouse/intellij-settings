@@ -112,11 +112,10 @@
         <mark key="." line="32" column="133" />
         <mark key="[" line="32" column="104" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/controllers/GreetingcardController.php" timestamp="1513871841837">
-        <mark key="]" line="248" column="116" />
-        <mark key="^" line="248" column="65" />
-        <mark key="." line="248" column="116" />
-        <mark key="[" line="248" column="116" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/controllers/GreetingcardController.php" timestamp="1513962211743">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/page/html/header.phtml" timestamp="1501812989306">
         <mark key="]" line="49" column="0" />
@@ -129,6 +128,11 @@
         <mark key="^" line="39" column="37" />
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/sounds/js.phtml" timestamp="1513963626910">
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/landing.less" timestamp="1512664535236">
         <mark key="]" line="19" column="0" />
@@ -146,6 +150,10 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="27" column="0" />
         <mark key="[" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarpv2/css/gifttokens/design/style.less" timestamp="1513963474825">
+        <mark key="]" line="9" column="72" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Connect360/etc/config.xml" timestamp="1498159122588">
         <mark key="]" line="13" column="54" />
@@ -403,11 +411,12 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1513959430144">
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="[" line="21" column="11" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1513963053903">
+        <mark key="'" line="36" column="22" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="[" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/photobook/styles.min.css" timestamp="1507839797917">
         <mark key="]" line="28" column="42" />
@@ -432,6 +441,12 @@
         <mark key="^" line="1957" column="43" />
         <mark key="." line="1957" column="43" />
         <mark key="[" line="1957" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/layout/product.xml" timestamp="1513963669756">
+        <mark key="]" line="402" column="37" />
+        <mark key="^" line="402" column="37" />
+        <mark key="." line="402" column="37" />
+        <mark key="[" line="402" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamamobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700458782">
         <mark key="]" line="44" column="74" />
@@ -715,12 +730,6 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1513961035278">
-        <mark key="]" line="6576" column="36" />
-        <mark key="^" line="6576" column="36" />
-        <mark key="." line="6576" column="36" />
-        <mark key="[" line="6576" column="35" />
-      </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -756,6 +765,12 @@
         <mark key="^" line="283" column="133" />
         <mark key="." line="188" column="70" />
         <mark key="[" line="443" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/sounds/style.less" timestamp="1513963681124">
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage_out.css" timestamp="1502983679545">
         <mark key="]" line="214" column="29" />
@@ -1033,8 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="57" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" />
-      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" />
       <jump line="51" column="10" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_animation.phtml" />
       <jump line="138" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/tokenofpage/index.phtml" />
       <jump line="266" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/font-face.css" />
@@ -1133,57 +1146,59 @@
       <jump line="111" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/digital_tcp_noanim.phtml" />
       <jump line="285" column="196" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="5846" column="21" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="42" column="12" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" />
+      <jump line="31" column="22" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>preview</text>
       </register>
       <register name="/" type="4">
-        <text>audio</text>
+        <text>currentTokenList</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>preview</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>product</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>preview</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hZ2U6OmxvZygiU3RpbGwgd2FpdGluZyB0byBjb21wbGV0ZSBvcmRlcjogIiAuICRvcmRlcklkLCBudWxsLCAncmFkaWFsLmxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGlvbiBtZXRob2Q9ImFkZEl0ZW0iPgogICAgICAgICAgICAgICAgPHR5cGU+c2tpbl9jc3M8L3R5cGU+CiAgICAgICAgICAgICAgICA8bmFtZT5jc3MvcHJvZHVjdC9wcmV2aWV3LmNzczwvbmFtZT4KICAgICAgICAgICAgPC9hY3Rpb24+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>m</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2F1ZGlvL3NvdW5kL2c=</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
       <last-search>activateGift</last-search>
       <last-offset />
-      <last-pattern>audio</last-pattern>
-      <last-replace>sound</last-replace>
-      <last-substitute>audio</last-substitute>
+      <last-pattern>currentTokenList</last-pattern>
+      <last-replace>currentSoundsList</last-replace>
+      <last-substitute>currentTokenList</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1210,6 +1225,8 @@
         <entry>catFilter</entry>
         <entry>billing</entry>
         <entry>audio</entry>
+        <entry>showTokens()</entry>
+        <entry>currentTokenList</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wnQXZlL0ZvbnRzXC9BdmVuaXJOZXh0TFRQcm8tQm9sZFwvQXZlL2c=</entry>
@@ -1231,8 +1248,10 @@
         <entry encoding="base64">JzwsJz5zL2NhdEZpbHRlci9icmFuZEZpbHRlci9n</entry>
         <entry encoding="base64">JzwsJz5zL2JpbGxpbmcvc2hpcHBpbmcvZw==</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2F1ZGlvL3NvdW5kL2c=</entry>
+        <entry>%s/showTokens()/showSounds()/g</entry>
+        <entry>%s/currentTokenList/currentSoundsList/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
