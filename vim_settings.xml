@@ -145,11 +145,11 @@
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/sounds/js.phtml" timestamp="1514476374292">
-        <mark key="]" line="41" column="91" />
-        <mark key="^" line="41" column="91" />
-        <mark key="." line="41" column="91" />
-        <mark key="[" line="41" column="86" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/sounds/js.phtml" timestamp="1514477005592">
+        <mark key="]" line="43" column="48" />
+        <mark key="^" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="[" line="43" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/landing.less" timestamp="1512664535236">
         <mark key="]" line="19" column="0" />
@@ -430,12 +430,12 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514475987604">
-        <mark key="'" line="98" column="22" />
-        <mark key="]" line="45" column="12" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-        <mark key="[" line="45" column="10" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514477903936">
+        <mark key="'" line="110" column="22" />
+        <mark key="]" line="56" column="52" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/photobook/styles.min.css" timestamp="1507839797917">
         <mark key="]" line="28" column="42" />
@@ -1160,47 +1160,47 @@
       <jump line="16" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxTokenManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>small</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5wbGF5YnV0dG9uJykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>currentTokenList</text>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>soundcol</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>toggle</text>
+        <text>e</text>
       </register>
-      <register name="1" type="4">
-        <text>small</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodC5oYXNDbGFzcygiYWN0aXZlIikpIHsKICAgICAgICAgICAgc2VsZi5hdWRpb3BsYXllci5wYXVzZSgpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3VycmVudFNvdW5kc0xpc3QgPSBzZWxmLmFsbFNvdW5kczsK</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJy5wbGF5YnV0dG9uJykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHR5cGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgKHR5cGUpIHsKICAgICAgICAgICAgY2FzZQogICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>jQuery(this)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PSAiYWxsIikgewogICAgICAgICAgICBzZWxmLmN1cnJlbnRTb3VuZHNMaXN0ID0gc2VsZi5hbGxTb3VuZHM7CiAgICAgICAgICAgIHNlbGYuc2hvd1NvdW5kcygpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHZhciBmaWx0ZXJlZFNvdW5kcyA9IHNlbGYuYWxsU291bmRzLmZpbHRlcihmdW5jdGlvbih0KSB7CiAgICAgICAgICAgIHJldHVybiB0LnR5cGUgPT0gdHlwZTsKICAgICAgICB9KTsKICAgICAgICBzZWxmLmN1cnJlbnRTb3VuZHNMaXN0ID0gZmlsdGVyZWRTb3VuZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>Category</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
+      <register name="8" type="4">
+        <text>hover</text>
       </register>
     </registers>
     <search>
