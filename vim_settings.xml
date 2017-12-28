@@ -70,11 +70,12 @@
         <mark key="." line="29" column="32" />
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514482734545">
-        <mark key="'" line="117" column="22" />
-        <mark key="]" line="184" column="8" />
-        <mark key="." line="184" column="8" />
-        <mark key="[" line="184" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514484409155">
+        <mark key="'" line="124" column="22" />
+        <mark key="]" line="235" column="44" />
+        <mark key="^" line="235" column="44" />
+        <mark key="." line="235" column="44" />
+        <mark key="[" line="235" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamamobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700458782">
         <mark key="]" line="44" column="74" />
@@ -398,8 +399,8 @@
       <jump line="5648" column="28" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJhZGRKcyI+PHNjcmlwdD5nY2kvanF1ZXJ5LTMuMi4xLmpzPC9zY3JpcHQ+PGdyb3VwPmpxdWVyeTwvZ3JvdXA+PC9hY3Rpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Voice</text>
       </register>
       <register name="/" type="4">
         <text>currentTokenList</text>
@@ -408,37 +409,37 @@
         <text>Voice</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgY2hhZGtvdXNlIG9uIDEyLzI4LzE3LgogKi8K</text>
+        <text encoding="base64">ICAgIG1vbml0b3JJbnRlcnZhbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgY2hhZGtvdXNlIG9uIDEyLzI4LzE3LgogKi8K</text>
+        <text encoding="base64">ICAgIHZhciBwbGF5YmFja1N0YXJ0ID0gMDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgY2hhZGtvdXNlIG9uIDEyLzI4LzE3LgogKi8K</text>
+      <register name="1" type="4">
+        <text>Voice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gbWV0aG9kPSJhZGRKcyI+PHNjcmlwdD5nY2kvanF1ZXJ5LTMuMi4xLmpzPC9zY3JpcHQ+PGdyb3VwPmpxdWVyeTwvZ3JvdXA+PC9hY3Rpb24+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmQuYXBwZW5kKCdvcGVuVGltZXMnLCBKU09OLnN0cmluZ2lmeShtZXRlck9wZW5UaW1lcykpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiB1cGxvYWRBdWRpbygpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXN0YWxraW5nID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgY2hhZGtvdXNlIG9uIDEyLzI4LzE3LgogKi8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="8" type="4">
-        <text>Voice</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
     </registers>
     <search>
