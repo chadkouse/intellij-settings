@@ -63,12 +63,12 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514496880338">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1514498354911">
         <mark key="'" line="268" column="28" />
-        <mark key="]" line="298" column="50" />
-        <mark key="^" line="253" column="38" />
-        <mark key="." line="298" column="50" />
-        <mark key="[" line="298" column="50" />
+        <mark key="]" line="354" column="0" />
+        <mark key="^" line="353" column="38" />
+        <mark key="." line="354" column="0" />
+        <mark key="[" line="354" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamamobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700458782">
         <mark key="]" line="44" column="74" />
@@ -381,47 +381,47 @@
       <jump line="268" column="28" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzaWduZXIudXBkYXRlRXZlcnl0aGluZygpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>/</text>
       </register>
-      <register name="3" type="4">
-        <text>listen</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzaWduZXIuYXVkaW9maWxlID0gZGF0YS5odHRwOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>is started</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzaWduZXIuc2hvd0hpZGVQcmV2aWV3QW5pbWF0aW9uQnV0dG9uKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzaWduZXIudXBkYXRlRXZlcnl0aGluZygpOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdSZWNvcmRlciBpcyBzdGFydGVkJyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>none</text>
+        <text>p</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiAK</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>2</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zY3JlZW5Mb2dnZXIvY29uc29sZS5sb2cvZw==</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>none</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
