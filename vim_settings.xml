@@ -114,11 +114,10 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515095502687">
-        <mark key="]" line="338" column="52" />
-        <mark key="^" line="338" column="52" />
-        <mark key="." line="338" column="52" />
-        <mark key="[" line="338" column="53" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515100188708">
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
+        <mark key="[" line="378" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aaamobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700463999">
         <mark key="]" line="44" column="74" />
@@ -336,9 +335,6 @@
         <mark key="." line="63" column="45" />
         <mark key="[" line="63" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1515095249158">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
         <mark key="^" line="4040" column="27" />
@@ -402,6 +398,12 @@
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
         <mark key="[" line="201" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1515100671093">
+        <mark key="]" line="420" column="99" />
+        <mark key="^" line="420" column="98" />
+        <mark key="." line="420" column="99" />
+        <mark key="[" line="420" column="99" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Moderationrequestlist.php" timestamp="1511897144186">
         <mark key="]" line="7" column="55" />
@@ -1246,46 +1248,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHA6Ly90Lmlua2JydXNoLmNvbS9wL2NwLzkyMGM0MTQ3ZGYzMTMyNTEvby5naWYiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iMSIgaGVpZ2h0PSIxIi8+</text>
+        <text>childrensplace</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gUEhQX0VPTA==</text>
+        <text>childrensplace</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQllY2hvICIkbmFtZSB8ICRhdHRyaWJ1dGVOYW1lIHwgJGF0dHJpYnV0ZVNldElkIHwgJGF0dHJpYnV0ZUdyb3VwSWQ8YnI+IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iYm9yZGVyOiAwOyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzOXB4OyBsaW5lLWhlaWdodDogMDsgbWF4LWhlaWdodDogMzlweDsgbWF4LXdpZHRoOiAxMDZweDsgbWluLWhlaWdodDogMzlweDsgbWluLXdpZHRoOiAxMDZweDsgd2lkdGg6IDEwNnB4Ii8+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQllY2hvICIkbmFtZSB8ICRhdHRyaWJ1dGVOYW1lIHwgJGF0dHJpYnV0ZVNldElkIHwgJGF0dHJpYnV0ZUdyb3VwSWQ8YnI+IjsK</text>
+      <register name="2" type="4">
+        <text>childrensplace</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHA6Ly90Lmlua2JydXNoLmNvbS9wL2NwLzkyMGM0MTQ3ZGYzMTMyNTEvby5naWYiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iMSIgaGVpZ2h0PSIxIi8+</text>
+        <text>childrensplace</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JGF0dHJpYnV0ZUdyb3VwSWQgPSAkaW5zdGFsbGVyLT5nZXREZWZhdWx0QXR0cmlidXRlR3JvdXBJZCgkZW50aXR5VHlwZUlkLCAkYXR0cmlidXRlU2V0SWQpOwo=</text>
+      <register name="0" type="4">
+        <text>gs_email/grey_facebook_icon.png</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IC4gUEhQX0VPTA==</text>
+        <text>image-96749d12964fa27fbb96952e71e11129ed340131.jpg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IC4gUEhQX0VPTA==</text>
+        <text>image-07bbfc07a66f59c7d9e05805ac203e12077e8c2b.jpg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllY2hvICIkbmFtZSB8ICRhdHRyaWJ1dGVOYW1lIHwgJGF0dHJpYnV0ZUdyb3VwSWQ8YnI+IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYm9yZGVyPSIwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJGVudGl0eVR5cGVJZCA9ICRpbnN0YWxsZXItPmdldEVudGl0eVR5cGVJZCgnY2F0YWxvZ19wcm9kdWN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9odG1sLWVtYWlscy0zNjkyMy5zMy5hbWF6b25hd3MuY29tL2h0bWwtZW1haWxzL2ltYWdlcy9pbWFnZS1mZWI0NDk1OGI0MDczOGE4ZjM4NWRkZDk2M2VhMDU2M2E0MGIwYjMwLmpwZyIK</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkYXR0cmlidXRlR3JvdXBJZD0gJGluc3RhbGxlci0+Z2V0QXR0cmlidXRlR3JvdXBJZCgnY2F0YWxvZ19wcm9kdWN0JywgJGF0dHJpYnV0ZVNldElkLCAiRmlsZXMiKTsK</text>
+      <register name="9" type="4">
+        <text>image-919a26cdefac287cf8f792480464522ec84e08f0.jpg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkYXR0cmlidXRlR3JvdXBJZCk7Cg==</text>
+      <register name="8" type="4">
+        <text>image-fe5f9d9b526203bfb3ce1ed0d4b6e3739035b349.jpg</text>
       </register>
     </registers>
     <search>
