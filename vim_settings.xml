@@ -19,11 +19,11 @@
         <mark key="." line="2177" column="0" />
         <mark key="[" line="2177" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.2-0.8.3.php" timestamp="1515168211480">
-        <mark key="]" line="192" column="50" />
-        <mark key="^" line="192" column="54" />
-        <mark key="." line="192" column="50" />
-        <mark key="[" line="192" column="50" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.2-0.8.3.php" timestamp="1515170771014">
+        <mark key="]" line="206" column="25" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="206" column="0" />
+        <mark key="[" line="206" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Model/Paymentmethod.php" timestamp="1512709507753">
         <mark key="]" line="24" column="0" />
@@ -95,6 +95,12 @@
         <mark key="]" line="44" column="74" />
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1515171683279">
+        <mark key="]" line="2051" column="0" />
+        <mark key="^" line="2050" column="54" />
+        <mark key="." line="2051" column="0" />
+        <mark key="[" line="2051" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/category/view.phtml" timestamp="1514330983625">
         <mark key="]" line="1" column="0" />
@@ -233,6 +239,12 @@
         <mark key="]" line="326" column="101" />
         <mark key="." line="326" column="0" />
         <mark key="[" line="326" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1515171381350">
+        <mark key="]" line="711" column="9" />
+        <mark key="^" line="700" column="37" />
+        <mark key="." line="700" column="37" />
+        <mark key="[" line="704" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/gci/vestadirectpaymentmethod/form/pay.phtml" timestamp="1510700505999">
         <mark key="]" line="44" column="74" />
@@ -388,47 +400,47 @@
       <jump line="53" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.2-0.8.3.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRib2R5ID0gJHRoaXMtPmdldEFuaW1hdGlvbkVtYWlsQm9keSgkcGFyYW1zKTsK</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>color</text>
       </register>
-      <register name="3" type="4">
-        <text>h</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRib2R5ID0gJHRoaXMtPmdldEFuaW1hdGlvbkVtYWlsQm9keSgkcGFyYW1zKTsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGF0dHJpYnV0ZU5hbWU2ID0gImdjaV9lbWFpbF9iZ19pbWcyIjsKJGF0dHIgPSBNYWdlOjpnZXRSZXNvdXJjZU1vZGVsKCdjYXRhbG9nL2Vhdl9hdHRyaWJ1dGUnKQoJLT5sb2FkQnlDb2RlKCRlbnRpdHksJGF0dHJpYnV0ZU5hbWU2KTsKCmlmICgkYXR0ci0+Z2V0SWQoKSA+IDApIHsKCSRpbnN0YWxsZXItPmFkZEF0dHJpYnV0ZSgnY2F0YWxvZ19wcm9kdWN0JywgJGF0dHJpYnV0ZU5hbWU2LCBhcnJheSgKCQkvLyAnZ3JvdXAnICAgICAgICAgICAgICAgICAgICAgPT4gJ0dlbmVyYWwnLAoJCSdpbnB1dCcgPT4gJ3RleHQnLAoJCSd0eXBlJyA9PiAndGV4dCcsCgkJJ2xhYmVsJyA9PiAnRW1haWwgQmFja2dyb3VuZCBJbWFnZSBVUkwgMicsCgkJJ2dsb2JhbCcgPT4gTWFnZV9DYXRhbG9nX01vZGVsX1Jlc291cmNlX0Vhdl9BdHRyaWJ1dGU6OlNDT1BFX0dMT0JBTCwKCQkndmlzaWJsZScgPT4gMSwKCQkncmVxdWlyZWQnID0+IDAsCgkJJ3Zpc2libGVfb25fZnJvbnQnID0+IDAsCgkJJ2lzX2h0bWxfYWxsb3dlZF9vbl9mcm9udCcgPT4gMCwKCQknaXNfY29uZmlndXJhYmxlJyA9PiAwLAoJCSdzZWFyY2hhYmxlJyA9PiAwLAoJCSdmaWx0ZXJhYmxlJyA9PiAwLAoJCSdjb21wYXJhYmxlJyA9PiAwLAoJCSd1bmlxdWUnID0+IGZhbHNlLAoJCSd1c2VyX2RlZmluZWQnID0+IHRydWUsCgkJJ2lzX3VzZXJfZGVmaW5lZCcgPT4gdHJ1ZSwKCQkndXNlZF9pbl9wcm9kdWN0X2xpc3RpbmcnID0+IGZhbHNlCgkpKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidGV4dENvbG9yIiA9PiAkZW1haWxEYXRhWyd0ZXh0X2NvbG9yJ10sCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>C</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByb2R1Y3RfaW1hZ2UgPSAoc3RyaW5nKU1hZ2U6OmhlbHBlcignY2F0YWxvZy9pbWFnZScpLT5pbml0KCRwcm9kdWN0LCAnaW1hZ2UnKTsK</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>Color</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>color</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmcm9tRW1haWwgPSBNYWdlOjpnZXRTdG9yZUNvbmZpZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
       <register name="9" type="4">
-        <text>bg_img2</text>
+        <text>background_image1</text>
       </register>
       <register name="8" type="4">
-        <text>T</text>
+        <text>background_image2</text>
       </register>
     </registers>
     <search>
