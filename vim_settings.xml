@@ -539,11 +539,11 @@
         <mark key="]" line="11" column="95" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1515692628061">
-        <mark key="]" line="637" column="8" />
-        <mark key="^" line="631" column="60" />
-        <mark key="." line="631" column="60" />
-        <mark key="[" line="627" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1515696277527">
+        <mark key="]" line="629" column="25" />
+        <mark key="^" line="629" column="25" />
+        <mark key="." line="629" column="25" />
+        <mark key="[" line="629" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" timestamp="1513701477607">
         <mark key="]" line="663" column="13" />
@@ -891,7 +891,7 @@
         <mark key="." line="6" column="32" />
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.2-0.2.3.php" timestamp="1515614061049">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.2-0.2.3.php" timestamp="1515696178788">
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="33" />
@@ -1061,11 +1061,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/embedded.phtml" timestamp="1515691457366">
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="[" line="5" column="25" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/embedded.phtml" timestamp="1515696265156">
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="5" column="35" />
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Mysql4/Moderationrequest.php" timestamp="1511897199100">
         <mark key="]" line="6" column="22" />
@@ -1279,47 +1279,47 @@
       <jump line="51" column="23" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.0-0.2.1.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdmFsaWREYXRhID0gJHRoaXMtPnZhbGlkYXRlSGFwdGljVG9rZW4oJGlkLCAkdG9rZW4pOwoJCWlmICghJHZhbGlkRGF0YSkgewoJCQlyZXR1cm47CgkJfQoJCSRwZXJzb25hbGl6YXRpb25TY2hlZHVsZSA9ICR2YWxpZERhdGFbInBlclNjaGVkdWxlIl07CgkJJHBlckl0ZW0gPSAkdmFsaWREYXRhWyJwZXJJdGVtIl07CgkJJG1haW5Qcm9kdWN0ID0gJHZhbGlkRGF0YVsibWFpblByb2R1Y3QiXTsKCgkJaWYgKCR0aGlzLT5yZWRpcmVjdERlc2t0b3BIYXB0aWNJZk5lZWRlZCgkaWQsICR0b2tlbiwgJG1haW5Qcm9kdWN0LCAkdmF1bHRJZCwgJGxpbmtfcHJldmlldykpIHsKCQkJcmV0dXJuOwoJCX0K</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>id</text>
+        <text>ageData</text>
       </register>
       <register name="2" type="4">
-        <text>token</text>
+        <text>fallback</text>
       </register>
       <register name="1" type="4">
-        <text>id</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdmFsaWREYXRhID0gJHRoaXMtPnZhbGlkYXRlSGFwdGljVG9rZW4oJGlkLCAkdG9rZW4pOwoJCWlmICghJHZhbGlkRGF0YSkgewoJCQlyZXR1cm47CgkJfQoJCSRwZXJzb25hbGl6YXRpb25TY2hlZHVsZSA9ICR2YWxpZERhdGFbInBlclNjaGVkdWxlIl07CgkJJHBlckl0ZW0gPSAkdmFsaWREYXRhWyJwZXJJdGVtIl07CgkJJG1haW5Qcm9kdWN0ID0gJHZhbGlkRGF0YVsibWFpblByb2R1Y3QiXTsKCgkJaWYgKCR0aGlzLT5yZWRpcmVjdERlc2t0b3BIYXB0aWNJZk5lZWRlZCgkaWQsICR0b2tlbiwgJG1haW5Qcm9kdWN0LCAkdmF1bHRJZCwgJGxpbmtfcHJldmlldykpIHsKCQkJcmV0dXJuOwoJCX0K</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpnZXRTaW5nbGV0b24oJ2NvcmUvc2Vzc2lvbicsIGFycmF5KCduYW1lJyA9PiAnZnJvbnRlbmQnKSktPmFkZEVycm9yKCdJbnZhbGlkIGxpbmsuJyk7CiAgICAgICAgLy9yZWRpcmVjdCB0byBlcnJvciBwYWdlCiAgICAgICAgJHRoaXMtPmdldFJlc3BvbnNlKCktPnNldFJlZGlyZWN0KCcvcGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L2Vycm9yLycpLT5zZW5kUmVzcG9uc2UoKTsKICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGZhbHNl</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="5" type="4">
+        <text>age_data</text>
       </register>
       <register name="4" type="4">
-        <text>token</text>
+        <text>ageData</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkkZmFsbGJhY2tfdXJsID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQlpZiAoIWVtcHR5KCRmYWxsYmFja191cmwpKSB7CgkJCSR0aGlzLT5nZXRSZXNwb25zZSgpLT5zZXRSZWRpcmVjdCgnL3BlcnNvbmFsaXphdGlvbnMvcHJldmlldy9lbWJlZGRlZCcgLiAkc3VmZml4KS0+c2VuZFJlc3BvbnNlKCk7CgkJfSBlbHNlIHsKCQkJJHRoaXMtPmdldFJlc3BvbnNlKCktPnNldFJlZGlyZWN0KCcvcGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L3Rva2Vub2YnIC4gJHN1ZmZpeCktPnNlbmRSZXNwb25zZSgpOwoJCX0K</text>
       </register>
     </registers>
     <search>
