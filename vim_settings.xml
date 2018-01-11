@@ -20,6 +20,7 @@
         <mark key="." line="16" column="62" />
         <mark key="[" line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/sql/mobilecustomerattribute_setup/mysql4-upgrade-0.1.0-0.1.1.php" timestamp="1515081273035" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxStickerManager.js" timestamp="1514307476642">
         <mark key="]" line="6" column="35" />
         <mark key="^" line="0" column="19" />
@@ -513,16 +514,11 @@
         <mark key="." line="6" column="38" />
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Svsexport/Cron.php" timestamp="1515080575880">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Svsexport/Cron.php" timestamp="1515698131277">
         <mark key="]" line="49" column="75" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1515691574766">
-        <mark key="]" line="543" column="144" />
-        <mark key="^" line="543" column="144" />
-        <mark key="." line="543" column="144" />
-        <mark key="[" line="543" column="137" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" timestamp="1515691574766" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/GiftController.php" timestamp="1512071300946">
         <mark key="]" line="203" column="61" />
         <mark key="^" line="203" column="61" />
@@ -1107,6 +1103,7 @@
         <mark key="." line="315" column="195" />
         <mark key="[" line="315" column="189" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Eav/Model/Entity/Setup.php" timestamp="1515095248280" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Catalog/data/catalog_setup/data-install-1.6.0.0.php" timestamp="1515095254929">
         <mark key="]" line="60" column="90" />
         <mark key="[" line="60" column="0" />
