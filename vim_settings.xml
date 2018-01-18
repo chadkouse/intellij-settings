@@ -340,12 +340,6 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1516291986970">
-        <mark key="]" line="382" column="99" />
-        <mark key="^" line="382" column="99" />
-        <mark key="." line="382" column="99" />
-        <mark key="[" line="382" column="87" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
         <mark key="^" line="11" column="51" />
@@ -614,6 +608,12 @@
         <mark key="]" line="105" column="108" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index2.html" timestamp="1516307645420">
+        <mark key="]" line="922" column="16" />
+        <mark key="^" line="922" column="16" />
+        <mark key="." line="922" column="16" />
+        <mark key="[" line="922" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1514916369786">
         <mark key="]" line="288" column="0" />
@@ -1377,47 +1377,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTYwcHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>screen_3</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>screen_3</text>
       </register>
-      <register name="3" type="4">
-        <text>url</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA5OTZweDsK</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGhlaWdodDogNTYwcHg7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>screen_3</text>
+      </register>
+      <register name="1" type="4">
+        <text>screen_3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Zyb250aW1hZ2UgewogICAgd2lkdGg6IDk5NnB4OwogICAgaGVpZ2h0OiA1NjBweDsgCiAgICBkaXNwbGF5Om5vbmU7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogOTk2cHg7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDU2MHB4Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>none</text>
+      </register>
+      <register name="5" type="4">
+        <text>url</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiA5OTZweDsK</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8K</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogOTk2cHg7Cg==</text>
       </register>
     </registers>
     <search>
