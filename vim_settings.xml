@@ -609,12 +609,6 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index2.html" timestamp="1516307645420">
-        <mark key="]" line="922" column="16" />
-        <mark key="^" line="922" column="16" />
-        <mark key="." line="922" column="16" />
-        <mark key="[" line="922" column="12" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1514916369786">
         <mark key="]" line="288" column="0" />
         <mark key="." line="288" column="0" />
@@ -882,6 +876,11 @@
         <mark key="." line="4" column="46" />
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1516308869053">
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="[" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animated/design.phtml" timestamp="1503513121636">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="16" />
@@ -1088,6 +1087,12 @@
         <mark key="^" line="102" column="18" />
         <mark key="." line="129" column="0" />
         <mark key="[" line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index3.html" timestamp="1516308776826">
+        <mark key="]" line="277" column="116" />
+        <mark key="^" line="277" column="116" />
+        <mark key="." line="277" column="116" />
+        <mark key="[" line="277" column="117" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/media/photobook/products-config/tcp_photobook1/config.php" timestamp="1509119640622">
         <mark key="]" line="63" column="53" />
@@ -1378,46 +1383,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>screen_3</text>
+        <text>Spinner Demo V7 - Audio Control</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>screen_3</text>
+        <text>Spinner Demo V7 - Audio Control</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTYwcHg7Cg==</text>
+      <register name="3" type="4">
+        <text>screen_3</text>
       </register>
       <register name="2" type="4">
         <text>screen_3</text>
       </register>
       <register name="1" type="4">
-        <text>screen_3</text>
+        <text>Spinner Demo V7 - Audio Control</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Zyb250aW1hZ2UgewogICAgd2lkdGg6IDk5NnB4OwogICAgaGVpZ2h0OiA1NjBweDsgCiAgICBkaXNwbGF5Om5vbmU7Cn0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDU2MHB4Owo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>none</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>url</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiA5OTZweDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogNTYwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogOTk2cHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogOTk2cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDU2MHB4Owo=</text>
       </register>
     </registers>
     <search>
