@@ -119,6 +119,13 @@
         <mark key="." line="44" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" timestamp="1516290952144">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="261" column="21" />
+        <mark key="^" line="261" column="21" />
+        <mark key="." line="261" column="21" />
+        <mark key="[" line="262" column="5" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515100188708">
         <mark key="]" line="378" column="0" />
         <mark key="." line="378" column="0" />
@@ -230,9 +237,6 @@
         <mark key="^" line="423" column="24" />
         <mark key="." line="423" column="24" />
         <mark key="[" line="423" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1516122872845">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Order.php" timestamp="1506652947648">
         <mark key="]" line="876" column="22" />
@@ -362,6 +366,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.0-0.2.1.php" timestamp="1515613700531">
+        <mark key="'" line="51" column="23" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="27" />
+        <mark key="[" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
@@ -957,6 +968,12 @@
         <mark key="." line="38" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1516290890845">
+        <mark key="]" line="201" column="26" />
+        <mark key="^" line="201" column="26" />
+        <mark key="." line="201" column="26" />
+        <mark key="[" line="201" column="8" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.4-0.8.5.php" timestamp="1507215110222">
         <mark key="]" line="33" column="39" />
         <mark key="^" line="15" column="60" />
@@ -1254,8 +1271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="65" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
-      <jump line="697" column="70" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
       <jump line="743" column="69" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
       <jump line="730" column="73" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
       <jump line="655" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp2_email.html" />
@@ -1354,49 +1369,51 @@
       <jump line="51" column="23" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.0-0.2.1.php" />
       <jump line="4683" column="25" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="4627" column="39" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmJpbGxpbmctZW1haWwgewogICAgdGV4dC10cmFuc2Zvcm06IG5vbmUgIWltcG9ydGFudDsKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>relative</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>5DAAA6</text>
+        <text>relative</text>
       </register>
-      <register name="3" type="4">
-        <text>5DAAA6</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2JpbGxpbmc6ZW1haWwgewogICAgCn0K</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>relative</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmJpbGxpbmctZW1haWwgewogICAgdGV4dC10cmFuc2Zvcm06IG5vbmUgIWltcG9ydGFudDsKfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text encoding="base64">IC0tPg==</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>5DAAA6</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2JpbGxpbmc6ZW1haWwgewogICAgCn0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC0tPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
