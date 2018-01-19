@@ -262,6 +262,12 @@
         <mark key="." line="94" column="130" />
         <mark key="[" line="94" column="130" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1516391252610">
+        <mark key="]" line="160" column="7" />
+        <mark key="^" line="160" column="7" />
+        <mark key="." line="160" column="7" />
+        <mark key="[" line="160" column="4" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1516213529629">
         <mark key="]" line="339" column="66" />
         <mark key="[" line="336" column="0" />
@@ -630,7 +636,12 @@
         <mark key="." line="49" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/sounds/js.phtml" timestamp="1516378351960" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/sounds/js.phtml" timestamp="1516391382542">
+        <mark key="]" line="90" column="49" />
+        <mark key="^" line="90" column="49" />
+        <mark key="." line="90" column="49" />
+        <mark key="[" line="90" column="48" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Api800f/Helper/Data.php" timestamp="1515079693511">
         <mark key="]" line="1408" column="108" />
         <mark key="[" line="1408" column="0" />
@@ -829,7 +840,7 @@
         <mark key="." line="28" column="18" />
         <mark key="[" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/layout/product.xml" timestamp="1516378097120">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/layout/product.xml" timestamp="1516390981956">
         <mark key="]" line="215" column="45" />
         <mark key="^" line="215" column="45" />
         <mark key="." line="215" column="45" />
@@ -1114,6 +1125,7 @@
         <mark key="." line="44" column="47" />
         <mark key="[" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/greetingcard/options/physical.phtml" timestamp="1516391017783" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/landing_alt.xml" timestamp="1506649840970">
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -1374,46 +1386,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>giftcardjs</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>giftcardjs</text>
+        <text>null</text>
       </register>
       <register name="3" type="4">
-        <text>giftcard</text>
+        <text>File</text>
       </register>
       <register name="2" type="4">
-        <text>giftcard</text>
+        <text>File</text>
       </register>
       <register name="1" type="4">
-        <text>giftcardjs</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxibG9jayB0eXBlPSJwcm9kdWN0L2luZGV4IiBuYW1lPSJwcm9kdWN0X2dpZnRjYXJkX2dpZnRjYXJkX2pzIiBhcz0iZ2lmdGNhcmQuZ2lmdGNhcmQuanMiCiAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGU9InByb2R1Y3QvZ2lmdGNhcmQvZ2lmdGNhcmRqcy5waHRtbCI+CiAgICAgICAgICAgICAgICA8L2Jsb2NrPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdpZnRjYXJkZ3JlZXRpbmdjYXJkLnNvdW5kRmlsZSA9IGZpbGUuZmlsZTsK</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>self</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>file.file</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>File</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2hvdyA9IGZ1bmN0aW9uKCkgewogICAgICAgIC8vc2hvdyBhZGQgd2luZG93CiAgICAgICAgc2VsZi5kaXZXcmFwcGVyLnNob3coKTsKICAgIH07Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>c</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2hvdyA9IGZ1bmN0aW9uKCkgewogICAgICAgIC8vc2hvdyBhZGQgd2luZG93CiAgICAgICAgc2VsZi5kaXZXcmFwcGVyLnNob3coKTsKICAgIH07Cgo=</text>
       </register>
     </registers>
     <search>
