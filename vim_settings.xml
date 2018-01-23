@@ -145,13 +145,6 @@
         <mark key="." line="39" column="37" />
         <mark key="[" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Customer/controllers/AccountController.php" timestamp="1516725180120">
-        <mark key="'" line="518" column="31" />
-        <mark key="]" line="557" column="28" />
-        <mark key="^" line="557" column="27" />
-        <mark key="." line="557" column="28" />
-        <mark key="[" line="557" column="28" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/landing.less" timestamp="1512664535236">
         <mark key="]" line="19" column="0" />
         <mark key="^" line="18" column="38" />
@@ -600,11 +593,11 @@
         <mark key="." line="150" column="80" />
         <mark key="[" line="150" column="80" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1516392510014">
-        <mark key="]" line="1130" column="79" />
-        <mark key="^" line="1128" column="11" />
-        <mark key="." line="1128" column="0" />
-        <mark key="[" line="1128" column="12" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1516727633709">
+        <mark key="]" line="195" column="22" />
+        <mark key="^" line="195" column="22" />
+        <mark key="." line="195" column="22" />
+        <mark key="[" line="195" column="22" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -1154,8 +1147,8 @@
       <jump line="517" column="31" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Customer/controllers/AccountController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
@@ -1166,35 +1159,35 @@
       <register name="3" type="4">
         <text>*</text>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY2F0KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>*</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="4">
         <text>*/*/</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
         <text>w</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>C</text>
+      </register>
+      <register name="5" type="4">
+        <text>*</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8K</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
     </registers>
     <search>
