@@ -95,9 +95,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Company/Model/Company.php" timestamp="1516724362368" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1516744041727">
-        <mark key="]" line="85" column="70" />
-        <mark key="." line="85" column="70" />
-        <mark key="[" line="85" column="70" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+        <mark key="[" line="10" column="70" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515100188708">
         <mark key="]" line="378" column="0" />
@@ -175,6 +175,9 @@
         <mark key="^" line="423" column="24" />
         <mark key="." line="423" column="24" />
         <mark key="[" line="423" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1516122872845">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Order.php" timestamp="1506652947648">
         <mark key="]" line="876" column="22" />
@@ -735,6 +738,9 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
         <mark key="[" line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/RequireLogin/Model/Observer.php" timestamp="1516808924927">
+        <mark key="[" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/animation/footer.phtml" timestamp="1508784024284">
         <mark key="]" line="0" column="57" />
