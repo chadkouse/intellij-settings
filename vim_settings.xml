@@ -94,10 +94,11 @@
         <mark key="[" line="316" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Company/Model/Company.php" timestamp="1516724362368" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1516744041727">
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="10" column="70" />
-        <mark key="[" line="10" column="70" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1516896506298">
+        <mark key="]" line="117" column="112" />
+        <mark key="^" line="117" column="112" />
+        <mark key="." line="117" column="112" />
+        <mark key="[" line="117" column="110" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515100188708">
         <mark key="]" line="378" column="0" />
@@ -1163,22 +1164,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JnRyYWRlOw==</text>
+        <text>trade</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnRyYWRlOw==</text>
+        <text>trade</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCgkY2FyZFR5cGUpIHsKICAgICAgICBjYXNlICRoZWxwZXI6OkNBUkRUWVBFX0dJRlRDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dpZnRjYXJkX2Jsb2NrJyA6ICdHaWZ0IGNhcmQnOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfR1JFRVRJTkdDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dyZWV0aW5nY2FyZF9ibG9jaycgOiAnR3JlZXRpbmcgY2FyZCc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9QSE9UT0JPT0s6CiAgICAgICAgICAgIHJldHVybiAkYmxvY2sgPyAncGhvdG9ib29rX2Jsb2NrJyA6ICdQaG90b2Jvb2snOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfVklERU9HUkVFVElORzoKICAgICAgICAgICAgcmV0dXJuICRibG9jayA/ICd2aWRlb2dyZWV0aW5nX2Jsb2NrJyA6ICdWaWRlbyBncmVldGluZyc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9HSUZUVE9LRU46CiAgICB9CiAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">JnRyYWRlOw==</text>
+      </register>
+      <register name="1" type="4">
+        <text>trade</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMnKTsK</text>
@@ -1187,13 +1188,13 @@
         <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
-      </register>
-      <register name="5" type="4">
         <text>OrBlock</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN3aXRjaCgkY2FyZFR5cGUpIHsKICAgICAgICBjYXNlICRoZWxwZXI6OkNBUkRUWVBFX0dJRlRDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dpZnRjYXJkX2Jsb2NrJyA6ICdHaWZ0IGNhcmQnOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfR1JFRVRJTkdDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dyZWV0aW5nY2FyZF9ibG9jaycgOiAnR3JlZXRpbmcgY2FyZCc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9QSE9UT0JPT0s6CiAgICAgICAgICAgIHJldHVybiAkYmxvY2sgPyAncGhvdG9ib29rX2Jsb2NrJyA6ICdQaG90b2Jvb2snOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfVklERU9HUkVFVElORzoKICAgICAgICAgICAgcmV0dXJuICRibG9jayA/ICd2aWRlb2dyZWV0aW5nX2Jsb2NrJyA6ICdWaWRlbyBncmVldGluZyc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9HSUZUVE9LRU46CiAgICB9CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
