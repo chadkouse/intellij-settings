@@ -482,11 +482,11 @@
         <mark key="." line="4" column="46" />
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/cooper_email.html" timestamp="1517245750746">
-        <mark key="]" line="93" column="6266" />
-        <mark key="^" line="93" column="6266" />
-        <mark key="." line="93" column="6266" />
-        <mark key="[" line="93" column="6268" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/cooper_email.html" timestamp="1517247302981">
+        <mark key="]" line="93" column="2510" />
+        <mark key="^" line="93" column="2508" />
+        <mark key="." line="93" column="2510" />
+        <mark key="[" line="93" column="2510" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animated/design.phtml" timestamp="1503513121636">
         <mark key="]" line="2" column="0" />
@@ -500,10 +500,11 @@
         <mark key="." line="160" column="4" />
         <mark key="[" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1516742788872">
-        <mark key="]" line="3255" column="0" />
-        <mark key="." line="3255" column="0" />
-        <mark key="[" line="3255" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1517247019858">
+        <mark key="]" line="680" column="0" />
+        <mark key="^" line="679" column="62" />
+        <mark key="." line="680" column="0" />
+        <mark key="[" line="680" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/audiorecord/volume-meter.js" timestamp="1508438327632">
         <mark key="]" line="85" column="20" />
@@ -529,11 +530,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1517246239765">
-        <mark key="]" line="2218" column="113" />
-        <mark key="^" line="2218" column="113" />
-        <mark key="." line="2218" column="113" />
-        <mark key="[" line="2218" column="100" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1517247294952">
+        <mark key="]" line="1796" column="44" />
+        <mark key="^" line="1796" column="44" />
+        <mark key="." line="1796" column="44" />
+        <mark key="[" line="1793" column="66" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/ajax_list.phtml" timestamp="1512071449410">
         <mark key="]" line="2" column="51" />
@@ -1169,37 +1170,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>token</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
       <register name="1" type="4">
-        <text>token</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAJJHBhdGggPSBkaXJuYW1lKGRpcm5hbWUoX19GSUxFX18pKSAuIERTIC4gJ2Rlc2lnbicgLiBEUyAuICd0b2tlbl9lbWFpbC5odG1sJzsK</text>
+        <text encoding="base64">CQlyZXR1cm4gKHNlbGY6OmlzR2lmdENhcmQoJHByb2R1Y3QpICYmIChzdHJwb3MoJHByb2R1Y3QtPmdldERhdGEoJ3NrdScpLCAiVC0iKSA9PT0gMCB8fAoJCQlzdHJwb3MoJHByb2R1Y3QtPmdldERhdGEoJ3NrdScpLCAiQ1QtIikgPT09IDApIHx8CgkJCXN0cnBvcygkcHJvZHVjdC0+Z2V0RGF0YSgnc2t1JyksICJTVC0iKSA9PT0gMAoJCSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>strtolower(Mage::app(</text>
+        <text>token</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KS0+Z2V0U3RvcmUo</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KS0+Z2V0Q29kZSg=</text>
+        <text encoding="base64">c2VsZjo6aXNHaWZ0Q2FyZCgkcHJvZHVjdCkgJiYgKHN0cnBvcygkcHJvZHVjdC0+Z2V0RGF0YSgnc2t1JyksICJULSIpID09PSAwIHx8</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
@@ -1207,8 +1208,8 @@
       <register name="9" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3RydG9sb3dlcihNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0Q29kZSgpKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
