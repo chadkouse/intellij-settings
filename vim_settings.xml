@@ -482,6 +482,12 @@
         <mark key="." line="4" column="46" />
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/cooper_email.html" timestamp="1517245750746">
+        <mark key="]" line="93" column="6266" />
+        <mark key="^" line="93" column="6266" />
+        <mark key="." line="93" column="6266" />
+        <mark key="[" line="93" column="6268" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animated/design.phtml" timestamp="1503513121636">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="16" />
@@ -523,10 +529,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1516741923061">
-        <mark key="]" line="127" column="20" />
-        <mark key="." line="127" column="20" />
-        <mark key="[" line="127" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1517246239765">
+        <mark key="]" line="2218" column="113" />
+        <mark key="^" line="2218" column="113" />
+        <mark key="." line="2218" column="113" />
+        <mark key="[" line="2218" column="100" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/product/ajax_list.phtml" timestamp="1512071449410">
         <mark key="]" line="2" column="51" />
@@ -1162,46 +1169,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trade</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>trade</text>
+        <text>token</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JnRyYWRlOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="1" type="4">
-        <text>trade</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAJJHBhdGggPSBkaXJuYW1lKGRpcm5hbWUoX19GSUxFX18pKSAuIERTIC4gJ2Rlc2lnbicgLiBEUyAuICd0b2tlbl9lbWFpbC5odG1sJzsK</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>strtolower(Mage::app(</text>
       </register>
       <register name="6" type="4">
-        <text>OrBlock</text>
+        <text encoding="base64">KS0+Z2V0U3RvcmUo</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">KS0+Z2V0Q29kZSg=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCgkY2FyZFR5cGUpIHsKICAgICAgICBjYXNlICRoZWxwZXI6OkNBUkRUWVBFX0dJRlRDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dpZnRjYXJkX2Jsb2NrJyA6ICdHaWZ0IGNhcmQnOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfR1JFRVRJTkdDQVJEOgogICAgICAgICAgICByZXR1cm4gJGJsb2NrID8gJ2dyZWV0aW5nY2FyZF9ibG9jaycgOiAnR3JlZXRpbmcgY2FyZCc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9QSE9UT0JPT0s6CiAgICAgICAgICAgIHJldHVybiAkYmxvY2sgPyAncGhvdG9ib29rX2Jsb2NrJyA6ICdQaG90b2Jvb2snOwogICAgICAgIGNhc2UgJGhlbHBlcjo6Q0FSRFRZUEVfVklERU9HUkVFVElORzoKICAgICAgICAgICAgcmV0dXJuICRibG9jayA/ICd2aWRlb2dyZWV0aW5nX2Jsb2NrJyA6ICdWaWRlbyBncmVldGluZyc7CiAgICAgICAgY2FzZSAkaGVscGVyOjpDQVJEVFlQRV9HSUZUVE9LRU46CiAgICB9CiAgICAK</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text encoding="base64">c3RydG9sb3dlcihNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0Q29kZSgpKQ==</text>
       </register>
     </registers>
     <search>
