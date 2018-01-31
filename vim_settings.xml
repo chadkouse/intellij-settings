@@ -396,6 +396,7 @@
         <mark key="." line="12" column="26" />
         <mark key="[" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" timestamp="1517412880838" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/preview/digital_token.phtml" timestamp="1501868366532">
         <mark key="]" line="204" column="123" />
         <mark key="^" line="204" column="123" />
@@ -534,12 +535,6 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="49" />
         <mark key="[" line="90" column="48" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Customer/controllers/AccountController.php" timestamp="1517343791003">
-        <mark key="]" line="537" column="0" />
-        <mark key="^" line="536" column="11" />
-        <mark key="." line="537" column="0" />
-        <mark key="[" line="537" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aaa/AaaSSO/controllers/IndexController.php" timestamp="1516721309808">
         <mark key="]" line="89" column="40" />
@@ -797,11 +792,10 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/personalization/design/inside.phtml" timestamp="1517340489916">
         <mark key="[" line="94" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1516727633709">
-        <mark key="]" line="195" column="22" />
-        <mark key="^" line="195" column="22" />
-        <mark key="." line="195" column="22" />
-        <mark key="[" line="195" column="22" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1517413703358">
+        <mark key="]" line="1131" column="0" />
+        <mark key="." line="1131" column="0" />
+        <mark key="[" line="1131" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
@@ -1212,47 +1206,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>left</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkXwo=</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>pinkcupcake</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>left</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>left</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkXwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDAgIWltcG9ydGFudDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocyA9PSAiYW4tcGlua2N1cGNha2UiKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>pinkcupcake</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>pinkcupcake</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>pinkcupcake</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>pinkcupcake</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>a.sku.toLowerCase()</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>pink</text>
       </register>
     </registers>
     <search>
