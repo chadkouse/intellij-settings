@@ -792,11 +792,6 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/personalization/design/inside.phtml" timestamp="1517340489916">
         <mark key="[" line="94" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1517413703358">
-        <mark key="]" line="1131" column="0" />
-        <mark key="." line="1131" column="0" />
-        <mark key="[" line="1131" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
@@ -1207,46 +1202,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>pinkcupcake</text>
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocyA9PSAiYW4tcGlua2N1cGNha2UiKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbVswXS5zdHlsZS5vcmRlciA9IDEwMDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>pinkcupcake</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5jc3MoIm9yZGVyIiwgMTAwKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>pinkcupcake</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="5" type="4">
-        <text>pinkcupcake</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>pinkcupcake</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text>a.sku.toLowerCase()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0udG9nZ2xlKHNob3cpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>pink</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5jc3MoIm9yZGVyIiwgc2NvcmUpOwo=</text>
       </register>
     </registers>
     <search>
