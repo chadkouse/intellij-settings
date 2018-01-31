@@ -133,11 +133,11 @@
         <mark key="." line="15" column="25" />
         <mark key="[" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/gifttokens/design.phtml" timestamp="1517340568223">
-        <mark key="]" line="264" column="31" />
-        <mark key="^" line="244" column="57" />
-        <mark key="." line="264" column="0" />
-        <mark key="[" line="264" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/gifttokens/design.phtml" timestamp="1517365628567">
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="237" column="57" />
+        <mark key="." line="114" column="0" />
+        <mark key="[" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/node_modules/sayic-sdk/lib/helpers/sayichelper.js" timestamp="1503328761210">
         <mark key="]" line="678" column="15" />
@@ -658,6 +658,12 @@
         <mark key="^" line="83" column="71" />
         <mark key="." line="83" column="71" />
         <mark key="[" line="83" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/tokenofpage/index.phtml" timestamp="1517365858310">
+        <mark key="]" line="139" column="18" />
+        <mark key="^" line="139" column="18" />
+        <mark key="." line="139" column="18" />
+        <mark key="[" line="139" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/checkout/success.phtml" timestamp="1502737044824">
         <mark key="]" line="75" column="0" />
@@ -1206,47 +1212,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxsaSBjbGFzcz0iYnJlYWstdGFiIj48L2xpPgo=</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>Sign out</text>
+        <text>left</text>
       </register>
       <register name="3" type="4">
-        <text>https://dev9.b2b.thegiftcardshop.com/customer/account/logout/</text>
+        <text>;</text>
       </register>
       <register name="2" type="4">
-        <text>Log Out</text>
+        <text>left</text>
       </register>
       <register name="1" type="4">
-        <text>Sign out</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxsaSBjbGFzcz0iYnJlYWstdGFiIj48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDAgIWltcG9ydGFudDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkKQo=</text>
+      <register name="5" type="4">
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>point</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
     </registers>
     <search>
