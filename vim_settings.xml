@@ -181,10 +181,11 @@
         <mark key="." line="423" column="24" />
         <mark key="[" line="423" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/css/styles.min.css" timestamp="1517331925655">
-        <mark key="]" line="11872" column="0" />
-        <mark key="." line="11872" column="0" />
-        <mark key="[" line="11872" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/css/styles.min.css" timestamp="1517582765299">
+        <mark key="]" line="11897" column="20" />
+        <mark key="^" line="11876" column="48" />
+        <mark key="." line="11897" column="20" />
+        <mark key="[" line="11897" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1516122872845">
         <mark key="[" line="0" column="0" />
@@ -1213,47 +1214,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0dvdGhhbUJvbGQnLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
+      <register name="&quot;" type="4">
+        <text>Helvetica Neue</text>
       </register>
       <register name="/" type="4">
         <text>screenLogger</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Helvetica Neue</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0dvdGhhbUJvbGQnLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0dvdGhhbUJvbGQnLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0dvdGhhbUJvbGQnLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
+      <register name="1" type="4">
+        <text>Helvetica Neue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0dvdGhhbUJvb2snLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0tHIEFsd2F5cyBBIEdvb2QgVGltZScsIHNhbnMtc2VyaWY7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0tHIEFsd2F5cyBBIEdvb2QgVGltZScsIHNhbnMtc2VyaWY7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogJ0tHIEFsd2F5cyBBIEdvb2QgVGltZScsIHNhbnMtc2VyaWY7Cg==</text>
+      <register name="5" type="4">
+        <text>ld</text>
       </register>
       <register name="4" type="4">
-        <text>ld</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
