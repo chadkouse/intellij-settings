@@ -186,9 +186,6 @@
         <mark key="." line="423" column="24" />
         <mark key="[" line="423" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1516122872845">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/persistent/checkout/onepage/loginV2.phtml" timestamp="1502242722078">
         <mark key="]" line="94" column="130" />
         <mark key="^" line="94" column="140" />
@@ -273,8 +270,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1518542831122">
-        <mark key="[" line="364" column="61" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1518544072786">
+        <mark key="]" line="365" column="65" />
+        <mark key="^" line="365" column="65" />
+        <mark key="." line="365" column="65" />
+        <mark key="[" line="365" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -482,7 +482,8 @@
         <mark key="." line="201" column="123" />
         <mark key="[" line="201" column="120" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1518543409565">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1518544066928">
+        <mark key="'" line="518" column="45" />
         <mark key="]" line="503" column="92" />
         <mark key="^" line="928" column="90" />
         <mark key="." line="518" column="0" />
@@ -830,9 +831,6 @@
         <mark key="." line="150" column="80" />
         <mark key="[" line="150" column="80" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/personalization/design/inside.phtml" timestamp="1517340489916">
-        <mark key="[" line="94" column="57" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpv2/template/digital/landing/index_alternative.phtml.php" timestamp="1506621630632">
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
@@ -857,11 +855,11 @@
         <mark key="." line="38" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.2-0.2.3.php" timestamp="1518542418563">
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="27" column="72" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.2-0.2.3.php" timestamp="1518544218463">
+        <mark key="]" line="28" column="88" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="28" column="88" />
+        <mark key="[" line="28" column="88" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.4-0.8.5.php" timestamp="1507215110222">
         <mark key="]" line="33" column="39" />
@@ -1154,7 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="7" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" />
       <jump line="30" column="23" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="210" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="1478" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
@@ -1254,57 +1251,58 @@
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" />
       <jump line="5330" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="5293" column="53" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="518" column="45" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRpZCk7CgkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5nZXRJdGVtSWQoKSk7CgkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsKCQkJJG1haW5Qcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>General</text>
       </register>
       <register name="/" type="4">
-        <text>testAction</text>
+        <text>getGciFallbackUrl</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>General</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJCSRtYWluUHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmdldFJlc3BvbnNlKCktPnNldFJlZGlyZWN0KCcvcGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L3Rva2Vub2YnIC4gJHN1ZmZpeCktPnNlbmRSZXNwb25zZSgpOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>General</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRpZCk7CgkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5nZXRJdGVtSWQoKSk7CgkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsKCQkJJG1haW5Qcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoJ2NhdGFsb2cvcHJvZHVjdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRtYWluUHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmdldFJlc3BvbnNlKCktPnNldFJlZGlyZWN0KCcvcGVyc29uYWxpemF0aW9ucy9wcmV2aWV3L3Rva2Vub2YnIC4gJHN1ZmZpeCktPnNlbmRSZXNwb25zZSgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19zY2hlZHVsZScpLT5sb2FkKCRpZCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5nZXRJdGVtSWQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoInBlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtIiktPmxvYWQoJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5nZXRJdGVtSWQoKSk7Cg==</text>
+        <text encoding="base64">CQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMiKTsK</text>
+        <text encoding="base64">CQkJCSRtYWluUHJvZHVjdCA9IE1hZ2U6OmdldE1vZGVsKCdjYXRhbG9nL3Byb2R1Y3QnKS0+bG9hZCgkcGVySXRlbS0+Z2V0UHJvZHVjdElkKCkpOwo=</text>
       </register>
     </registers>
     <search>
       <last-search>testAction</last-search>
       <last-offset />
-      <last-pattern>testAction</last-pattern>
-      <last-replace>console.log</last-replace>
-      <last-substitute>screenLogger</last-substitute>
+      <last-pattern>getGciFallbackUrl</last-pattern>
+      <last-replace>getGciRecipientFallbackUrl</last-replace>
+      <last-substitute>getGciFallbackUrl</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1331,6 +1329,7 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>screenLogger</entry>
         <entry>testAction</entry>
+        <entry>getGciFallbackUrl</entry>
       </history-search>
       <history-cmd>
         <entry>rnu</entry>
@@ -1353,6 +1352,7 @@
         <entry>set nornu</entry>
         <entry>set paste</entry>
         <entry>wq</entry>
+        <entry>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
