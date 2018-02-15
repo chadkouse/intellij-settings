@@ -347,6 +347,10 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1518716903850">
+        <mark key="'" line="4453" column="33" />
+        <mark key="[" line="6175" column="128" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1517512431861">
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
@@ -1140,7 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="210" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="1478" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="500" column="51" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" />
@@ -1240,49 +1243,50 @@
       <jump line="5330" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="5293" column="53" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="518" column="45" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" />
+      <jump line="4453" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getGciFallbackUrl</text>
       </register>
       <register name="-" type="4">
-        <text>accountId</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>|</text>
       </register>
       <register name="2" type="4">
-        <text>accountId</text>
+        <text>|</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2Vzc2lvbklEID0gJHRoaXMtPmdldFNlc3Npb25JZCgpOwogICAgICAgICRpbmZvID0gJHRoaXMtPmdldEFhcnBBY2NvdW50SW5mb0ludGVybmFsKCRzZXNzaW9uSUQsICRhY2NvdW50SWQpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>!</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGUgPSBNYWdlOjphcHAoKS0+Z2V0Q2FjaGVJbnN0YW5jZSgpOwogICAgICAgICRjYWNoZUtleSA9ICJhYXJwOjE6YXBpc2Vzc2lvbiI7CiAgICAgICAgJHNlc3Npb25JRCA9ICRjYWNoZS0+bG9hZCgkY2FjaGVLZXkpOwo=</text>
+      <register name="6" type="4">
+        <text>$</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHNlc3Npb25JRCkpIHsKICAgICAgICAgICAgLy9yZWxvYWQgaXQKICAgICAgICAgICAgJHNlc3Npb25JRCA9ICR0aGlzLT5nZXROZXdTZXNzaW9uSUQoKTsKICAgICAgICAgICAgJGNhY2hlLT5zYXZlKCRzZXNzaW9uSUQsICRjYWNoZUtleSwgYXJyYXkoKSwgODY0MDApOyAvL2V4cGlyZXMgaW4gMjQgaG91cnMKICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRhcHAgfHwgZW1wdHkoJGFwcCkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JHRoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW1zKCk7</text>
       </register>
     </registers>
     <search>
