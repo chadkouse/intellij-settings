@@ -347,10 +347,6 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1518716903850">
-        <mark key="'" line="4453" column="33" />
-        <mark key="[" line="6175" column="128" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1517512431861">
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
@@ -395,11 +391,6 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/layout/personalizations.xml" timestamp="1518570918036">
         <mark key="[" line="515" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1518460581193">
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="12" column="26" />
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Webservice/Helper/Data.php" timestamp="1518643187941">
         <mark key="]" line="115" column="0" />
         <mark key="^" line="114" column="16" />
@@ -434,6 +425,7 @@
         <mark key="." line="450" column="79" />
         <mark key="[" line="415" column="108" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/checkout/cart/item/defaultv2.phtml" timestamp="1518799065513" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/adminhtml.xml" timestamp="1518460772895">
         <mark key="]" line="28" column="38" />
         <mark key="^" line="28" column="38" />
