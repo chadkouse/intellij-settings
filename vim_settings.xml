@@ -425,11 +425,11 @@
         <mark key="." line="450" column="79" />
         <mark key="[" line="415" column="108" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/checkout/cart/item/defaultv2.phtml" timestamp="1518799896227">
-        <mark key="]" line="91" column="9" />
-        <mark key="^" line="91" column="9" />
-        <mark key="." line="91" column="9" />
-        <mark key="[" line="91" column="6" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/checkout/cart/item/defaultv2.phtml" timestamp="1518801119296">
+        <mark key="]" line="121" column="5" />
+        <mark key="^" line="93" column="20" />
+        <mark key="." line="109" column="0" />
+        <mark key="[" line="109" column="7" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/adminhtml.xml" timestamp="1518460772895">
         <mark key="]" line="28" column="38" />
@@ -1243,8 +1243,8 @@
       <jump line="4453" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWlmKCRwZXJJdGVtLT5nZXRIb2xkZXJJZCgpICYmICRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSl7IC8vdXNlZCBmb3IgZGV0ZWN0aW5nIGlmIHByb2R1Y3QgaXMgY29tYmluZWQKICAgICAgICBlY2hvICJoZXJlMjxicj4iOwoJCWlmKE1hZ2U6OnJlZ2lzdHJ5KCJjYXJ0LWl0ZW0tIi4kX2l0ZW0tPmdldFBlcnNvbmFsaXphdGlvbkl0ZW1JZCgpKSl7CiAgICAgICAgICAgIGVjaG8gImhlcmUzPGJyPiI7CgkJCSRfaXRlbVN0eWxlIC49ICIgcGVyc29uYWxpemF0aW9uLWNvbWJpbmVkLWJvdHRvbSI7CgkJCU1hZ2U6OnVucmVnaXN0ZXIoImNhcnQtaXRlbS0iLiRfaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwoJCQkkaGlkZVF0eSA9IHRydWU7CgkJfSBlbHNlIHsKICAgICAgICAgICAgZWNobyAiaGVyZTQ8YnI+IjsKCQkJTWFnZTo6cmVnaXN0ZXIoImNhcnQtaXRlbS0iLiRfaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCksdHJ1ZSk7CgkJCSRfaXRlbVN0eWxlIC49ICIgcGVyc29uYWxpemF0aW9uLWNvbWJpbmVkIjsKCQl9Cgl9Cg==</text>
       </register>
       <register name="/" type="4">
         <text>getGciFallbackUrl</text>
@@ -1256,34 +1256,34 @@
         <text>|</text>
       </register>
       <register name="2" type="4">
-        <text>|</text>
-      </register>
-      <register name="1" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCJIZXJlIik7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Vzc2lvbklEID0gJHRoaXMtPmdldFNlc3Npb25JZCgpOwogICAgICAgICRpbmZvID0gJHRoaXMtPmdldEFhcnBBY2NvdW50SW5mb0ludGVybmFsKCRzZXNzaW9uSUQsICRhY2NvdW50SWQpOwo=</text>
+        <text encoding="base64">CWlmKCRwZXJJdGVtLT5nZXRIb2xkZXJJZCgpICYmICRwZXJJdGVtLT5nZXRQcm9kdWN0SWQoKSl7IC8vdXNlZCBmb3IgZGV0ZWN0aW5nIGlmIHByb2R1Y3QgaXMgY29tYmluZWQKICAgICAgICBlY2hvICJoZXJlMjxicj4iOwoJCWlmKE1hZ2U6OnJlZ2lzdHJ5KCJjYXJ0LWl0ZW0tIi4kX2l0ZW0tPmdldFBlcnNvbmFsaXphdGlvbkl0ZW1JZCgpKSl7CiAgICAgICAgICAgIGVjaG8gImhlcmUzPGJyPiI7CgkJCSRfaXRlbVN0eWxlIC49ICIgcGVyc29uYWxpemF0aW9uLWNvbWJpbmVkLWJvdHRvbSI7CgkJCU1hZ2U6OnVucmVnaXN0ZXIoImNhcnQtaXRlbS0iLiRfaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCkpOwoJCQkkaGlkZVF0eSA9IHRydWU7CgkJfSBlbHNlIHsKICAgICAgICAgICAgZWNobyAiaGVyZTQ8YnI+IjsKCQkJTWFnZTo6cmVnaXN0ZXIoImNhcnQtaXRlbS0iLiRfaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCksdHJ1ZSk7CgkJCSRfaXRlbVN0eWxlIC49ICIgcGVyc29uYWxpemF0aW9uLWNvbWJpbmVkIjsKCQl9Cgl9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>!</text>
-      </register>
-      <register name="6" type="4">
         <text>$</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>c</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>|</text>
       </register>
       <register name=":" type="4">
         <text>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISRhcHAgfHwgZW1wdHkoJGFwcCkpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JHRoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW1zKCk7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFJlcXVlc3QoKS0+Z2V0UGFyYW1zKCk7</text>
+        <text>!</text>
       </register>
     </registers>
     <search>
