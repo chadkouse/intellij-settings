@@ -13,10 +13,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" timestamp="1517509873659" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobileb2c/template/checkout/success.phtml" timestamp="1519058864518">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobileb2c/template/checkout/success.phtml" timestamp="1519060348431">
         <mark key="]" line="45" column="46" />
         <mark key="." line="46" column="0" />
-        <mark key="[" line="41" column="0" />
+        <mark key="[" line="34" column="50" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_token.phtml" timestamp="1517519157399">
         <mark key="]" line="34" column="58" />
@@ -24,8 +24,11 @@
         <mark key="." line="166" column="24" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/checkout/success.phtml" timestamp="1519058917745">
-        <mark key="[" line="39" column="123" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/checkout/success.phtml" timestamp="1519060286229">
+        <mark key="[" line="33" column="50" />
+      </file>
+      <file name="/a.dummy" timestamp="1519060222157">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/catalog/product/list.phtml" timestamp="1518811984013">
         <mark key="'" line="17" column="1" />
@@ -91,6 +94,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/personalization/design/inside.phtml" timestamp="1517340489916">
         <mark key="[" line="94" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Company/sql/b2b_company_setup/mysql4-upgrade-0.3.8-0.3.9.php" timestamp="1517515139728">
+        <mark key="[" line="3" column="167" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/File/Validator/Image.php" timestamp="1518810259994" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Sms.php" timestamp="1518801875508" />
@@ -206,47 +212,47 @@
       <jump line="294" column="19" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/gifttokens/ajaxTokenManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRwZXJTY2hlZHVsZUlkID0gJHBlclNjaGVkdWxlLT5nZXRJZCgpOwogICAgaWYgKGluX2FycmF5KCRwZXJTY2hlZHVsZUlkLCAkc2VudFNjaGVkdWxlcykpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0KICAgIGFycmF5X3B1c2goJHNlbnRTY2hlZHVsZXMsICRwZXJTY2hlZHVsZUlkKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2F0ZWdvcmllcy5pbmRleE9mKGNhdCkgPT0gLTEpIHsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRwZXJTY2hlZHVsZUlkID0gJHBlclNjaGVkdWxlLT5nZXRJZCgpOwogICAgaWYgKGluX2FycmF5KCRwZXJTY2hlZHVsZUlkLCAkc2VudFNjaGVkdWxlcykpIHsKICAgICAgICBjb250aW51ZTsKICAgIH0KICAgIGFycmF5X3B1c2goJHNlbnRTY2hlZHVsZXMsICRwZXJTY2hlZHVsZUlkKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhLm5hbWUgJiYgKQo=</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcmllcy5zb3J0KCk7Cg==</text>
+      <register name="6" type="4">
+        <text>u</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZm91bmQgPSBmYWxzZTsK</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhLnBvc2l0aW9uIC0gYi5wb3NpdGlvbikgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChhLm5hbWUgPiBiLm5hbWUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>v</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
     </registers>
     <search>
