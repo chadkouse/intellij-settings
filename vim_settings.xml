@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/composer.json" timestamp="1518803980300">
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="[" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/coupon/index.phtml" timestamp="1509478457569">
         <mark key="]" line="16" column="62" />
         <mark key="^" line="16" column="62" />
@@ -222,6 +227,11 @@
         <mark key="." line="7" column="55" />
         <mark key="[" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobileb2c/template/checkout/success.phtml" timestamp="1519060348431">
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="34" column="50" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_token.phtml" timestamp="1517519157399">
         <mark key="]" line="34" column="58" />
         <mark key="^" line="166" column="24" />
@@ -239,6 +249,7 @@
         <mark key="." line="735" column="86" />
         <mark key="[" line="730" column="54" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Chill8/Templates/etc/config.xml" timestamp="1519155486158" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/opcheckout-mobile.js" timestamp="1502732883231">
         <mark key="]" line="937" column="0" />
         <mark key="^" line="937" column="0" />
@@ -345,10 +356,11 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1517512431861">
-        <mark key="]" line="35" column="25" />
-        <mark key="." line="35" column="25" />
-        <mark key="[" line="35" column="25" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1519156474105">
+        <mark key="]" line="87" column="84" />
+        <mark key="^" line="86" column="50" />
+        <mark key="." line="87" column="84" />
+        <mark key="[" line="87" column="84" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -385,6 +397,11 @@
         <mark key="^" line="214" column="29" />
         <mark key="." line="214" column="29" />
         <mark key="[" line="214" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1518460581193">
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="12" column="26" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Webservice/Helper/Data.php" timestamp="1518643187941">
         <mark key="]" line="115" column="0" />
@@ -718,9 +735,10 @@
         <mark key="." line="1" column="46" />
         <mark key="[" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/layout/digital.xml" timestamp="1519150309299">
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/layout/digital.xml" timestamp="1519156101598">
+        <mark key="]" line="10" column="98" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/layout/radialpaymentmethod.xml" timestamp="1514915494668">
         <mark key="]" line="6" column="30" />
@@ -1293,46 +1311,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXYuZ2NpX3NpZGVwYW5lbF9jbG9zZSB7CiAgICBwb3NpdGlvbjphYnNvbHV0ZTsKICAgIHRvcDogMTBweDsKICAgIHJpZ2h0OiAtMjBweDsKICAgIHdpZHRoOiAyMHB4OwogICAgaGVpZ2h0OiAyMHB4OwogICAgY29sb3I6IGJsYWNrOwogICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICBmb250LXdlaWdodDpsaWdodGVyOwogICAgZm9udC1zaXplOiAzZW07CiAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICBkaXNwbGF5Om5vbmU7CiAgfQo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoImpzIik7ID8+L2pzL3NpZGVwYW5lbC9uZXdzLmpzIiAvPgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
