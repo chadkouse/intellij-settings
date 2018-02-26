@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/composer.json" timestamp="1518803980300">
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="[" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/coupon/index.phtml" timestamp="1509478457569">
         <mark key="]" line="16" column="62" />
         <mark key="^" line="16" column="62" />
@@ -402,6 +407,11 @@
         <mark key="^" line="214" column="29" />
         <mark key="." line="214" column="29" />
         <mark key="[" line="214" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1518460581193">
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="12" column="26" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aarp/Webservice/Helper/Data.php" timestamp="1519329383940">
         <mark key="]" line="111" column="29" />
@@ -1055,7 +1065,7 @@
         <mark key="." line="46" column="0" />
         <mark key="[" line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/digital/landing/index_alternative.phtml" timestamp="1516743553904">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/digital/landing/index_alternative.phtml" timestamp="1519669185158">
         <mark key="]" line="28" column="62" />
         <mark key="." line="28" column="62" />
         <mark key="[" line="28" column="62" />
