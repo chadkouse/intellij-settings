@@ -415,11 +415,11 @@
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1519756320254">
-        <mark key="]" line="2760" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1519763384816">
+        <mark key="]" line="426" column="64" />
         <mark key="^" line="2626" column="98" />
         <mark key="." line="2760" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="391" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Moderationrequestlist.php" timestamp="1511897144186">
         <mark key="]" line="7" column="55" />
@@ -950,11 +950,11 @@
         <mark key="." line="173" column="69" />
         <mark key="[" line="173" column="65" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_nogift_email.html" timestamp="1519762604821">
-        <mark key="]" line="685" column="478" />
-        <mark key="^" line="685" column="478" />
-        <mark key="." line="685" column="478" />
-        <mark key="[" line="685" column="473" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_nogift_email.html" timestamp="1519763875801">
+        <mark key="]" line="362" column="201" />
+        <mark key="^" line="362" column="201" />
+        <mark key="." line="362" column="201" />
+        <mark key="[" line="362" column="200" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/File/Validator/Image.php" timestamp="1518810259994" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu_landing.phtml" timestamp="1502908593760">
@@ -1026,11 +1026,11 @@
         <mark key="." line="227" column="0" />
         <mark key="[" line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1519762575279">
-        <mark key="]" line="871" column="478" />
-        <mark key="^" line="871" column="478" />
-        <mark key="." line="871" column="478" />
-        <mark key="[" line="871" column="473" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1519763871812">
+        <mark key="]" line="362" column="201" />
+        <mark key="^" line="362" column="200" />
+        <mark key="." line="362" column="201" />
+        <mark key="[" line="362" column="200" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/carrabbas/layout/personalizations.xml" timestamp="1510172657604">
         <mark key="]" line="527" column="195" />
@@ -1364,46 +1364,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gs</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>gs</text>
+        <text>2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PC9hPg==</text>
       </register>
-      <register name="2" type="4">
-        <text>gs</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjVweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjhweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjhweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjVweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="1" type="4">
-        <text>gs</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRwYXJhbXNbImhhc0dpZnQiXSA9PSB0cnVlKSB7CiAgICAgICAgICAgICAgICAkcGF0aCA9IGRpcm5hbWUoZGlybmFtZShfX0ZJTEVfXykpIC4gRFMgLiAnZGVzaWduJyAuIERTIC4gJ2dzX2VtYWlsLmh0bWwnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJHBhdGggPSBkaXJuYW1lKGRpcm5hbWUoX19GSUxFX18pKSAuIERTIC4gJ2Rlc2lnbicgLiBEUyAuICdnc19ub2dpZnRfZW1haWwuaHRtbCc7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjVweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsdD0iIiBib3JkZXI9IjAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNyYz0iaHR0cDovL2h0bWwtZW1haWxzLTM2OTIzLnMzLmFtYXpvbmF3cy5jb20vaHRtbC1lbWFpbHMvaW1hZ2VzL2dzX2VtYWlsL2VtcHR5X2ljb24ucG5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogIzAwMDAwMSAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiA0NHB4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogNDRweDsgbWF4LXdpZHRoOiAyNXB4OyBtaW4taGVpZ2h0OiA0NHB4OyBtaW4td2lkdGg6IDI1cHg7IHdpZHRoOiAyNXB4Ii8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iaGVpZ2h0OiA0NHB4OyBsaW5lLWhlaWdodDogMHB4OyBtc28tbGluZS1oZWlnaHQtcnVsZTogZXhhY3RseTsgd2lkdGg6IDI4cHgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbHQ9IiIgYm9yZGVyPSIwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9odG1sLWVtYWlscy0zNjkyMy5zMy5hbWF6b25hd3MuY29tL2h0bWwtZW1haWxzL2ltYWdlcy9nc19lbWFpbC9lbXB0eV9pY29uLnBuZyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlcjogMDsgY29sb3I6ICMwMDAwMDEgIWltcG9ydGFudDsgZGlzcGxheTogYmxvY2s7IGhlaWdodDogNDRweDsgbGluZS1oZWlnaHQ6IDE7IG1heC1oZWlnaHQ6IDQ0cHg7IG1heC13aWR0aDogMjhweDsgbWluLWhlaWdodDogNDRweDsgbWluLXdpZHRoOiAyOHB4OyB3aWR0aDogMjhweCIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImhlaWdodDogNDRweDsgbGluZS1oZWlnaHQ6IDBweDsgbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6IGV4YWN0bHk7IHdpZHRoOiAyOHB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSIiIGJvcmRlcj0iMCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvZ3NfZW1haWwvZW1wdHlfaWNvbi5wbmciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAxOyBtYXgtaGVpZ2h0OiA0NHB4OyBtYXgtd2lkdGg6IDI4cHg7IG1pbi1oZWlnaHQ6IDQ0cHg7IG1pbi13aWR0aDogMjhweDsgd2lkdGg6IDI4cHgiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJoZWlnaHQ6IDQ0cHg7IGxpbmUtaGVpZ2h0OiAwcHg7IG1zby1saW5lLWhlaWdodC1ydWxlOiBleGFjdGx5OyB3aWR0aDogMjVweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsdD0iIiBib3JkZXI9IjAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNyYz0iaHR0cDovL2h0bWwtZW1haWxzLTM2OTIzLnMzLmFtYXpvbmF3cy5jb20vaHRtbC1lbWFpbHMvaW1hZ2VzL2dzX2VtYWlsL2VtcHR5X2ljb24ucG5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogIzAwMDAwMSAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiA0NHB4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogNDRweDsgbWF4LXdpZHRoOiAyNXB4OyBtaW4taGVpZ2h0OiA0NHB4OyBtaW4td2lkdGg6IDI1cHg7IHdpZHRoOiAyNXB4Ii8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Press play and watch it come to life!</text>
+        <text>Instagram Logo</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PC9hPg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PC9hPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text>Twitter Logo</text>
       </register>
       <register name="8" type="4">
-        <text>Press play and watch it come to life!</text>
+        <text>Pinterest Logo</text>
       </register>
     </registers>
     <search>
@@ -1453,7 +1453,6 @@
         <entry encoding="base64">JzwsJz5zL2F1ZGlvL3NvdW5kL2c=</entry>
         <entry>%s/showTokens()/showSounds()/g</entry>
         <entry>%s/currentTokenList/currentSoundsList/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4lcy9zY3JlZW5Mb2dnZXIvY29uc29sZS5sb2cvZw==</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
@@ -1463,6 +1462,7 @@
         <entry>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</entry>
         <entry>wq</entry>
         <entry>set paste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
