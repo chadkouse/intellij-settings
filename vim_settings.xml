@@ -345,6 +345,12 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1519745024546">
+        <mark key="]" line="4314" column="67" />
+        <mark key="^" line="4314" column="67" />
+        <mark key="." line="4314" column="67" />
+        <mark key="[" line="4314" column="61" />
+      </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -1249,47 +1255,47 @@
       <jump line="294" column="19" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/gifttokens/ajaxTokenManager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE1vZHVsZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZjo6U1RBVFVTX0VSUk9SOwo=</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE1vZHVsZQ==</text>
+        <text>The requested quantity for the product is not available.</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGY6OlNUQVRVU19FUlJPUjsK</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>The requested quantity for the product is not available.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IE1vZHVsZQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZjo6U1RBVFVTX0VSUk9SOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVvdGUgPSAkdGhpcy0+Z2V0UXVvdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlID0gYXJyYXkoInN0YXR1cyIgPT4gMCwgImRhdGEiID0+ICRyZXN1bHQsICJjb2RlIiA9PiA0MDAsICJtZXNzYWdlIiA9PiAkdGhpcy0+X18oJ1RoZXJlIGlzIGEgcHJvYmxlbSBwbGFjaW5nIHlvdXIgb3JkZXIsIHBsZWFzZSB0cnkgYWdhaW4gbGF0ZXInKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8ganNvbl9lbmNvZGUoJHJlc3BvbnNlKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>get</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text encoding="base64">IE1vZHVsZQ==</text>
       </register>
-      <register name="4" type="4">
-        <text>c</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>c</text>
       </register>
     </registers>
     <search>
