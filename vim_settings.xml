@@ -298,23 +298,17 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1519769870349">
-        <mark key="]" line="1773" column="110" />
-        <mark key="^" line="1773" column="110" />
-        <mark key="." line="1773" column="110" />
-        <mark key="[" line="1773" column="105" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1519836229661">
+        <mark key="]" line="3244" column="153" />
+        <mark key="^" line="3244" column="152" />
+        <mark key="." line="3244" column="153" />
+        <mark key="[" line="3244" column="153" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
         <mark key="[" line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/page/preview.phtml" timestamp="1519770027954">
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="[" line="20" column="52" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/etc/modules/GCI_Connect360.xml" timestamp="1498158738768">
         <mark key="]" line="3" column="22" />
@@ -370,9 +364,9 @@
         <mark key="[" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1519759677219">
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="[" line="86" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="[" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -1305,46 +1299,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c10538</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>c10538</text>
+        <text>k</text>
       </register>
       <register name="3" type="4">
-        <text>cooper</text>
+        <text>o</text>
       </register>
       <register name="2" type="4">
-        <text>cooper</text>
+        <text>o</text>
       </register>
       <register name="1" type="4">
-        <text>c10538</text>
+        <text>k</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IEIyQl9DT0RFID0gJ2dpZnRjYXJkc2hvcGIyYic7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAoKICAgICAgICAgICAgfSBlbHNlIGlmICgkZGF0YUhlbHBlci0+aXNHaWZ0VG9rZW4oJHByb2R1Y3QpKSB7CiAgICAgICAgICAgICAgICAkbWVzc2FnZVVSTCA9ICRkYXRhSGVscGVyLT5nZXRQZXJzb25hbGl6YXRpb25EZWxpdmVyeVVybCgkcHJvZHVjdCwgJHBlckl0ZW0pOwogICAgICAgICAgICAgICAgJHByZXZpZXdEYXRhID0gJHRoaXMtPmdldERpZ2l0YWxUb2tlblByZXZpZXdEYXRhKCRwZXJJdGVtLCAkZGlnaXRhbEl0ZW1zKTsKICAgICAgICAgICAgICAgICR0b2tlbkltYWdlVVJMID0gJHByZXZpZXdEYXRhWyJzdGlja2VyX2JhY2tfdXJsIl07CgogICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSAkcGVySXRlbS0+Z2V0SW5zaWRlTWVzc2FnZSgpOwogICAgICAgICAgICAgICAgJGluc2lkZU1lc3NhZ2UgPSBqc29uX2RlY29kZSgkaW5zaWRlTWVzc2FnZSwgdHJ1ZSk7CiAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJGluc2lkZU1lc3NhZ2VbJ21lc3NhZ2VfaWQnXSkpIHsKICAgICAgICAgICAgICAgICAgICAkaW5zaWRlTWVzc2FnZSA9ICR0aGlzLT5lc2NhcGVIdG1sKHN0cnRvdXBwZXIoJGluc2lkZU1lc3NhZ2VbJ21lc3NhZ2VfaWQnXSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkaW5zaWRlTWVzc2FnZSA9ICJTVVJQUklTRSI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkYm9keSA9ICR0aGlzLT5nZXRUb2tlbkVtYWlsQm9keSgkdG9OYW1lRWRtLCAkZnJvbUZpcnN0TmFtZSwgJGluc2lkZU1lc3NhZ2UsICRtZXNzYWdlVVJMLCAkdG9rZW5JbWFnZVVSTCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGJvZHkgPSAkdGhpcy0+Z2V0RW1haWxCb2R5KCRzY2hlZHVsZUlkLCRmcm9tRW1haWwsICR0b05hbWVFZG0sICRmcm9tRmlyc3ROYW1lLCAkbG9nb1VSTCwgJG1lc3NhZ2VVUkwsIE1hZ2U6OmFwcCgpLT5nZXRTdG9yZSgpLT5nZXRDb2RlKCksJHNoYXJlSW1hZ2UsJGlzQmFja2VuZCwgJHByb2R1Y3QpOwo=</text>
+      <register name="7" type="4">
+        <text>h</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="4" type="4">
-        <text>cooper</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgkZGF0YUhlbHBlci0+aXNHaWZ0VG9rZW4oJHByb2R1Y3QpKSB7CiAgICAgICAgICAgICAgICAkaW5zaWRlTWVzc2FnZSA9ICRwZXJJdGVtLT5nZXRJbnNpZGVNZXNzYWdlKCk7CiAgICAgICAgICAgICAgICAkaW5zaWRlTWVzc2FnZSA9IGpzb25fZGVjb2RlKCRpbnNpZGVNZXNzYWdlLCB0cnVlKTsKICAgICAgICAgICAgICAgIGlmIChpc3NldCgkaW5zaWRlTWVzc2FnZVsnbWVzc2FnZV9pZCddKSkgewogICAgICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0gJHRoaXMtPmVzY2FwZUh0bWwoc3RydG91cHBlcigkaW5zaWRlTWVzc2FnZVsnbWVzc2FnZV9pZCddKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICRpbnNpZGVNZXNzYWdlID0gIlNVUlBSSVNFIjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRib2R5ID0gJHRoaXMtPmdldFRva2VuRW1haWxCb2R5KCR0b05hbWVFZG0sICRmcm9tRmlyc3ROYW1lLCAkaW5zaWRlTWVzc2FnZSwgJG1lc3NhZ2VVUkwsICR0b2tlbkltYWdlVVJMKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICRib2R5ID0gJHRoaXMtPmdldEVtYWlsQm9keSgkc2NoZWR1bGVJZCwkZnJvbUVtYWlsLCAkdG9OYW1lRWRtLCAkZnJvbUZpcnN0TmFtZSwgJGxvZ29VUkwsICRtZXNzYWdlVVJMLCBNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0Q29kZSgpLCRzaGFyZUltYWdlLCRpc0JhY2tlbmQsICRwcm9kdWN0KTsK</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
     </registers>
     <search>
