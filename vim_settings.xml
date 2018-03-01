@@ -471,6 +471,12 @@
         <mark key="." line="216" column="21" />
         <mark key="[" line="216" column="21" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2bmobile/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1519914909822">
+        <mark key="]" line="46" column="115" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/etc/system.xml" timestamp="1518460029380" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/giftcard/js.phtml" timestamp="1519850663162">
         <mark key="]" line="12" column="55" />
@@ -834,6 +840,10 @@
         <mark key="^" line="160" column="9" />
         <mark key="." line="160" column="4" />
         <mark key="[" line="160" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1519914609061">
+        <mark key="]" line="59" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2b/js/sidepanel/news.js" timestamp="1519147354600">
         <mark key="]" line="4" column="45" />
@@ -1351,7 +1361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsUHJldmlld0RhdGEoJHRoaXMtPnBlcnNvbmFsaXphdGlvbkl0ZW0pOwo=</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
@@ -1363,22 +1373,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtZGV2aWNlLXdpZHRoOiA0ODBweCksIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpLCBzY3JlZW4gYW5kIChvcmllbnRhdGlvbjogbGFuZHNjYXBlKSBhbmQgKG1heC13aWR0aDogNjMwcHgpIHsKCiAgICAgICAgICAgIC8qIHZlcnkgaW1wb3J0YW50ISBhbGwgZXhjZXB0ICdhbGwnIGFuZCB0aGlzIGN1cnJlbnQgdHlwZSBnZXQgYSBkaXNwbGF5Om5vbmU7ICovCiAgICAgICAgICAgIC5taS1kZXNrdG9wIHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLyogdGhlbiBzaG93IHRoZSBtb2JpbGUgb25lICovCiAgICAgICAgICAgIC5taS1tb2JpbGUgewogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2sgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbWF4LWhlaWdodDogbm9uZSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDEuNSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgZmxvYXQ6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIG92ZXJmbG93OiB2aXNpYmxlICFpbXBvcnRhbnQ7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">JHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsUHJldmlld0RhdGEoJHRoaXMtPnBlcnNvbmFsaXphdGlvbkl0ZW0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsUHJldmlld0RhdGEoJHRoaXMtPnBlcnNvbmFsaXphdGlvbkl0ZW0pOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YmxvY2sgdHlwZT0iY29yZS90ZW1wbGF0ZSIgbmFtZT0icHJvZHVjdF9naWZ0Y2FyZF9yaWdodF9zZW5kYnkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzPSJyaWdodC5zZW5kYnkiIHRlbXBsYXRlPSJwcm9kdWN0L2luZGV4L3JpZ2h0L3NlbmRieS5waHRtbCIvPgo=</text>
+        <text encoding="base64">aWYgKGlzc2V0KCRwcmV2aWV3RGF0YVsndmlkZW8nXSkgJiYgIWVtcHR5KCRwcmV2aWV3RGF0YVsndmlkZW8nXSkpIHsKICAgICR0ZXh0TWVzc2FnZVByb3BlcnRpZXNbJ3RvcCddID0gMTgwOwogICAgJHRleHRNZXNzYWdlUHJvcGVydGllc1snaGVpZ2h0J10gPSAxOTA7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text>cooper_email</text>
-      </register>
-      <register name="6" type="4">
         <text>'</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtZGV2aWNlLXdpZHRoOiA0ODBweCksIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpLCBzY3JlZW4gYW5kIChvcmllbnRhdGlvbjogbGFuZHNjYXBlKSBhbmQgKG1heC13aWR0aDogNjMwcHgpIHsKCiAgICAgICAgICAgIC8qIHZlcnkgaW1wb3J0YW50ISBhbGwgZXhjZXB0ICdhbGwnIGFuZCB0aGlzIGN1cnJlbnQgdHlwZSBnZXQgYSBkaXNwbGF5Om5vbmU7ICovCiAgICAgICAgICAgIC5taS1kZXNrdG9wIHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLyogdGhlbiBzaG93IHRoZSBtb2JpbGUgb25lICovCiAgICAgICAgICAgIC5taS1tb2JpbGUgewogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2sgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbWF4LWhlaWdodDogbm9uZSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDEuNSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgZmxvYXQ6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIG92ZXJmbG93OiB2aXNpYmxlICFpbXBvcnRhbnQ7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtZGV2aWNlLXdpZHRoOiA0ODBweCksIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDgwcHgpLCBzY3JlZW4gYW5kIChvcmllbnRhdGlvbjogbGFuZHNjYXBlKSBhbmQgKG1heC13aWR0aDogNjMwcHgpIHsKCiAgICAgICAgICAgIC8qIHZlcnkgaW1wb3J0YW50ISBhbGwgZXhjZXB0ICdhbGwnIGFuZCB0aGlzIGN1cnJlbnQgdHlwZSBnZXQgYSBkaXNwbGF5Om5vbmU7ICovCiAgICAgICAgICAgIC5taS1kZXNrdG9wIHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLyogdGhlbiBzaG93IHRoZSBtb2JpbGUgb25lICovCiAgICAgICAgICAgIC5taS1tb2JpbGUgewogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2sgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbWF4LWhlaWdodDogbm9uZSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDEuNSAhaW1wb3J0YW50OwogICAgICAgICAgICAgICAgZmxvYXQ6IG5vbmUgIWltcG9ydGFudDsKICAgICAgICAgICAgICAgIG92ZXJmbG93OiB2aXNpYmxlICFpbXBvcnRhbnQ7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
@@ -1386,11 +1396,11 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coJ2dldHRpbmcgZW1haWwgdGVtcGxhdGUgZm9yICcgLiAkc3RvcmVjb2RlLCBudWxsLCAnc3lzdGVtLmxvZycpOwo=</text>
+      <register name="9" type="4">
+        <text>cooper_email</text>
       </register>
       <register name="8" type="4">
-        <text>image-f3f28b6e6be848d98f13d6fe7c409c440b8100e9</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
