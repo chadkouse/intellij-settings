@@ -126,6 +126,12 @@
         <mark key="." line="250" column="19961" />
         <mark key="[" line="250" column="19959" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/navigation/top.phtml" timestamp="1520283492109">
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="68" column="136" />
+        <mark key="." line="68" column="38" />
+        <mark key="[" line="68" column="38" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Block/Form/Radialpaymentmethod.php" timestamp="1513019295799">
         <mark key="]" line="11" column="57" />
         <mark key="^" line="12" column="34" />
@@ -319,12 +325,6 @@
         <mark key="." line="3" column="22" />
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1520277674026">
-        <mark key="]" line="1403" column="0" />
-        <mark key="^" line="1402" column="171" />
-        <mark key="." line="1403" column="0" />
-        <mark key="[" line="1403" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/catalog/product/list.phtml" timestamp="1499876168218">
         <mark key="]" line="111" column="8" />
         <mark key="^" line="106" column="51" />
@@ -335,6 +335,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/product/list/token.phtml" timestamp="1520284369235">
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
@@ -568,11 +574,11 @@
         <mark key="." line="28" column="0" />
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/greetingcards/ajaxGreetingcardManager.js" timestamp="1520273128849">
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="[" line="13" column="101" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/greetingcards/ajaxGreetingcardManager.js" timestamp="1520283213996">
+        <mark key="]" line="13" column="128" />
+        <mark key="^" line="13" column="69" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.7-0.8.8.php" timestamp="1508444733377">
         <mark key="]" line="32" column="133" />
@@ -793,6 +799,12 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
         <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/gifttokens/ajaxTokenManager.js" timestamp="1520284406644">
+        <mark key="]" line="157" column="35" />
+        <mark key="^" line="157" column="35" />
+        <mark key="." line="157" column="35" />
+        <mark key="[" line="157" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/page/html/header.phtml" timestamp="1509478845120">
         <mark key="]" line="40" column="45" />
@@ -1074,7 +1086,6 @@
         <mark key="[" line="2" column="99" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/EmailTracking/controllers/Adminhtml/DeliveryController.php" timestamp="1520275576204">
-        <mark key="]" line="43" column="13" />
         <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/gifttokens/design/app_mobile.js" timestamp="1517326555008">
@@ -1330,47 +1341,47 @@
       <jump line="988" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGFycmF5KCdzdGF0dXMnID0+IDAsICdtZXNzYWdlJyA9PiAnQW4gZXJyb3Igb2NjdXJyZWQgd2hpbGUgc2VuZGluZyBlbWFpbC4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>badge</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>badge</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gYXJyYXkoJ3N0YXR1cycgPT4gMCwgJ21lc3NhZ2UnID0+ICdFcnJvci4gU2VuZCBEYXRlIGlzIG5vdCByZWFjaGVkLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcjbmFycm93LWJ5LW9wdGlvbicpLmZpbmQoJ2RkJykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOwogICAgICAgICAgICB0LmFkZENsYXNzKCdhY3RpdmUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGFycmF5KCdzdGF0dXMnID0+IDAsICdtZXNzYWdlJyA9PiAnQW4gZXJyb3Igb2NjdXJyZWQgd2hpbGUgc2VuZGluZyBlbWFpbC4nKTsK</text>
+      <register name="1" type="4">
+        <text>badge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFnZTo6bG9nKCJGYWlsZWQgdG8gc2VuZCB2YXVsdGVkIGl0ZW0gZm9yIG9yZGVyICIgLiAgTWFnZTo6Z2V0U2luZ2xldG9uKCdjaGVja291dC9zZXNzaW9uJyktPmdldExhc3RSZWFsT3JkZXJJZCgpLCBudWxsLCAic3lzdGVtLmxvZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgb3AgPSBqUXVlcnkoJyNuYXJyb3ctYnktb3B0aW9uJyk7CiAgICAgICAgb3AuZmluZCgnZGQnKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7CiAgICAgICAgb3AuZmluZCgiW2RhdGEtb3B0aW9uPSdiYWRnZXMnXSIpLmFkZENsYXNzKCdhY3RpdmUnKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdFsnJ10K</text>
+      <register name="7" type="4">
+        <text>jQuery(this).</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0TWVudS5maW5kKCdkZCcpLnJlbW92ZUNsYXNzKCdhY3RpdmUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGFycmF5KCdzdGF0dXMnID0+IDAsICdtZXNzYWdlJyA9PiAnQW4gZXJyb3Igb2NjdXJyZWQgd2hpbGUgc2VuZGluZyBlbWFpbC4nKTsK</text>
+        <text encoding="base64">ICAgICAgICB0LmFkZENsYXNzKCdhY3RpdmUnKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coIkZhaWxlZCB0byBzZW5kIHZhdWx0ZWQgaXRlbSBmb3Igb3JkZXIgIiAuICBNYWdlOjpnZXRTaW5nbGV0b24oJ2NoZWNrb3V0L3Nlc3Npb24nKS0+Z2V0TGFzdFJlYWxPcmRlcklkKCksIG51bGwsICJzeXN0ZW0ubG9nIik7Cg==</text>
+      <register name="4" type="4">
+        <text>leftMenu</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcGVySXRlbUlkcyA9IGFycmF5KCk7Cg==</text>
+      <register name="9" type="4">
+        <text>jQuery(this).</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGFycmF5KCdzdGF0dXMnID0+IDEsICdtZXNzYWdlJyA9PiAnU3VjY2Vzc2Z1bGx5IHNlbnQgZW1haWwuJyk7Cg==</text>
+      <register name="8" type="4">
+        <text>jQuery(this).</text>
       </register>
     </registers>
     <search>
