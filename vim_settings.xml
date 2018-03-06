@@ -340,12 +340,6 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/product/list/token.phtml" timestamp="1520285982925">
-        <mark key="]" line="9" column="126" />
-        <mark key="^" line="9" column="126" />
-        <mark key="." line="9" column="126" />
-        <mark key="[" line="9" column="128" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
         <mark key="^" line="4040" column="27" />
@@ -381,6 +375,12 @@
         <mark key="^" line="13" column="64" />
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1520355946358">
+        <mark key="]" line="5721" column="112" />
+        <mark key="^" line="5721" column="112" />
+        <mark key="." line="5721" column="112" />
+        <mark key="[" line="5721" column="101" />
       </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
@@ -509,8 +509,7 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1520349851093">
         <mark key="]" line="598" column="153" />
-        <mark key="^" line="134" column="61" />
-        <mark key="." line="132" column="71" />
+        <mark key="^" line="73" column="61" />
         <mark key="[" line="598" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" timestamp="1513701477607">
@@ -799,6 +798,12 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
         <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/gifttokens/ajaxTokenManager.js" timestamp="1520355881359">
+        <mark key="]" line="52" column="63" />
+        <mark key="^" line="52" column="63" />
+        <mark key="." line="52" column="63" />
+        <mark key="[" line="52" column="60" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/page/html/header.phtml" timestamp="1509478845120">
         <mark key="]" line="40" column="45" />
@@ -1336,46 +1341,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoJHBlckl0ZW0tPmdldEhvbGRlcklkKCkgPT0gJHBlckl0ZW0tPmdldFByb2R1Y3RJZCgpIHx8ICRwZXJJdGVtLT5nZXRIb2xkZXJJZCgpID09IDApIHsKLy8gICAgICAgICAgICAgICAgJHNpbmdsZUdpZnRDYXJkID0gdHJ1ZTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgZWxzZSB7Ci8vICAgICAgICAgICAgICAgICRzaW5nbGVHaWZ0Q2FyZCA9IGZhbHNlOwovLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2VfdXJsJyA9PiAoc3RyaW5nKU1hZ2U6OmhlbHBlcignY2F0YWxvZy9pbWFnZScpLT5pbml0KCRzdGlja2VyLCAnaW1hZ2UnKSwK</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>sonalization</text>
+        <text>width:200px;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcmV2aWV3RGF0YVsnc3RpY2tlcl9iYWNrX3VybCddID0gKHN0cmluZylNYWdlOjpoZWxwZXIoJ2NhdGFsb2cvaW1hZ2UnKS0+aW5pdCgkc3RpY2tlcl9wcm9kdWN0LCAnaW1hZ2UnKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZ2V0IGltYWdlIGZyb20gc3RpY2tlciBpZAo=</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoJHBlckl0ZW0tPmdldEhvbGRlcklkKCkgPT0gJHBlckl0ZW0tPmdldFByb2R1Y3RJZCgpIHx8ICRwZXJJdGVtLT5nZXRIb2xkZXJJZCgpID09IDApIHsKLy8gICAgICAgICAgICAgICAgJHNpbmdsZUdpZnRDYXJkID0gdHJ1ZTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgZWxzZSB7Ci8vICAgICAgICAgICAgICAgICRzaW5nbGVHaWZ0Q2FyZCA9IGZhbHNlOwovLyAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="2" type="4">
+        <text>image-rendering: -webkit-optimize-contrast</text>
+      </register>
+      <register name="1" type="4">
+        <text>width:200px;</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RpY2tlcl9iYWNrX3R5cGUgPSAkcGVyc29uYWxpemF0aW9uSXRlbS0+Z2V0U3RpY2tlckJhY2tUeXBlKCk7CiAgICAgICAgaWYgKCRzdGlja2VyX2JhY2tfdHlwZSA9PSAxKSB7CiAgICAgICAgICAgIC8vZ2V0IGltYWdlIGZyb20gc3RpY2tlciBpZAogICAgICAgICAgICAkc3RpY2tlcl9wcm9kdWN0ID0gTWFnZTo6Z2V0TW9kZWwoImNhdGFsb2cvcHJvZHVjdCIpLT5sb2FkKCRwZXJzb25hbGl6YXRpb25JdGVtLT5nZXRTdGlja2VyQmFja0lkKCkpOwogICAgICAgICAgICAkcHJldmlld0RhdGFbJ3N0aWNrZXJfYmFja191cmwnXSA9IChzdHJpbmcpTWFnZTo6aGVscGVyKCdjYXRhbG9nL2ltYWdlJyktPmluaXQoJHN0aWNrZXJfcHJvZHVjdCwgJ2ltYWdlJyk7CiAgICAgICAgICAgICRmYlNoYXJlSW1hZ2UgPSBNYWdlOjpoZWxwZXIoJ2NhdGFsb2cvaW1hZ2UnKS0+aW5pdCgkc3RpY2tlcl9wcm9kdWN0LCAnaW1hZ2UnKQogICAgICAgICAgICAgICAgLT5jb25zdHJhaW5Pbmx5KGZhbHNlKQogICAgICAgICAgICAgICAgLT5rZWVwQXNwZWN0UmF0aW8odHJ1ZSkKICAgICAgICAgICAgICAgIC0+a2VlcEZyYW1lKHRydWUpCiAgICAgICAgICAgICAgICAtPnJlc2l6ZSgyMDAsIDIwMCk7CiAgICAgICAgICAgICRwcmV2aWV3RGF0YVsnZmJfc2hhcmVfaW1hZ2VfdXJsJ10gPSAoc3RyaW5nKSRmYlNoYXJlSW1hZ2U7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkcHJldmlld0RhdGFbJ3N0aWNrZXJfYmFja19hbmltX2ltYWdlX3VybCddID0gKHN0cmluZylNYWdlOjpoZWxwZXIoJ2NhdGFsb2cvaW1hZ2UnKS0+aW5pdCgkc3RpY2tlcl9wcm9kdWN0LCAnZ2NpX2FuaW1faW1hZ2UnKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICAkcHJldmlld0RhdGFbJ3N0aWNrZXJfYmFja19hbmltX2ltYWdlX3VybCddID0gJHByZXZpZXdEYXRhWydzdGlja2VyX2JhY2tfdXJsJ107CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2VfdXJsJyA9PiAoc3RyaW5nKU1hZ2U6OmhlbHBlcignY2F0YWxvZy9pbWFnZScpLT5pbml0KCRzdGlja2VyLCAnaW1hZ2UnKSwK</text>
       </register>
-      <register name="7" type="4">
-        <text>sonalization</text>
-      </register>
-      <register name="6" type="4">
-        <text>sonalization</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmYlNoYXJlSW1hZ2UgPSBNYWdlOjpoZWxwZXIoJ2NhdGFsb2cvaW1hZ2UnKS0+aW5pdCgkc3RpY2tlcl9wcm9kdWN0LCAnaW1hZ2UnKQogICAgICAgICAgICAgICAgICAgIC0+Y29uc3RyYWluT25seShmYWxzZSkKICAgICAgICAgICAgICAgICAgICAtPmtlZXBBc3BlY3RSYXRpbyh0cnVlKQogICAgICAgICAgICAgICAgICAgIC0+a2VlcEZyYW1lKHRydWUpCiAgICAgICAgICAgICAgICAgICAgLT5yZXNpemUoMjAwLCAyMDApOwogICAgICAgICAgICAgICAgJHByZXZpZXdEYXRhWydmYl9zaGFyZV9pbWFnZV91cmwnXSA9IChzdHJpbmcpJGZiU2hhcmVJbWFnZTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgJHByZXZpZXdEYXRhWydzdGlja2VyX2JhY2tfYW5pbV9pbWFnZV91cmwnXSA9IChzdHJpbmcpTWFnZTo6aGVscGVyKCdjYXRhbG9nL2ltYWdlJyktPmluaXQoJHN0aWNrZXJfcHJvZHVjdCwgJ2djaV9hbmltX2ltYWdlJyk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgICAgICAgICAkcHJldmlld0RhdGFbJ3N0aWNrZXJfYmFja19hbmltX2ltYWdlX3VybCddID0gJHByZXZpZXdEYXRhWydzdGlja2VyX2JhY2tfdXJsJ107CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcmV2aWV3RGF0YVsnc3RpY2tlcl9iYWNrX3VybCddID0gKHN0cmluZylNYWdlOjpoZWxwZXIoJ2NhdGFsb2cvaW1hZ2UnKS0+aW5pdCgkc3RpY2tlcl9wcm9kdWN0LCAnaW1hZ2UnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZ2V0IGltYWdlIGZyb20gc3RpY2tlciBpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlbnRpbWVudCA9ICRwcmV2aWV3RGF0YQo=</text>
+      <register name="9" type="4">
+        <text>sonalization</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpZXdEYXRhID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbicpLT5nZXREaWdpdGFsVG9rZW5QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLCAkdmF1bHRJZCk7Cg==</text>
+      <register name="8" type="4">
+        <text>sonalization</text>
       </register>
     </registers>
     <search>
