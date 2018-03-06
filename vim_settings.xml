@@ -126,12 +126,6 @@
         <mark key="." line="250" column="19961" />
         <mark key="[" line="250" column="19959" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/navigation/top.phtml" timestamp="1520283492109">
-        <mark key="]" line="68" column="38" />
-        <mark key="^" line="68" column="136" />
-        <mark key="." line="68" column="38" />
-        <mark key="[" line="68" column="38" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Block/Form/Radialpaymentmethod.php" timestamp="1513019295799">
         <mark key="]" line="11" column="57" />
         <mark key="^" line="12" column="34" />
@@ -313,10 +307,6 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1520349882023">
-        <mark key="]" line="285" column="12" />
-        <mark key="[" line="270" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
         <mark key="^" line="11" column="51" />
@@ -376,12 +366,6 @@
         <mark key="." line="24" column="60" />
         <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1520355946358">
-        <mark key="]" line="5721" column="112" />
-        <mark key="^" line="5721" column="112" />
-        <mark key="." line="5721" column="112" />
-        <mark key="[" line="5721" column="101" />
-      </file>
       <file name="$USER_HOME$/src/github.com/socialinnovationsinc/sayic-api/lib/entities.js" timestamp="1503328913556">
         <mark key="]" line="165" column="84" />
         <mark key="^" line="165" column="84" />
@@ -399,6 +383,9 @@
         <mark key="^" line="88" column="99" />
         <mark key="." line="88" column="99" />
         <mark key="[" line="89" column="10816" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1520006418457">
+        <mark key="^" line="2644" column="98" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Moderationrequestlist.php" timestamp="1511897144186">
         <mark key="]" line="7" column="55" />
@@ -508,9 +495,7 @@
         <mark key="[" line="201" column="120" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1520349851093">
-        <mark key="]" line="598" column="153" />
         <mark key="^" line="73" column="61" />
-        <mark key="[" line="598" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" timestamp="1513701477607">
         <mark key="]" line="663" column="13" />
@@ -899,10 +884,6 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
         <mark key="[" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/community/AccurateTax/Enterprise/sql/enterprise_setup/mysql4-install-3.0.0.php.NO" timestamp="1520024220257">
-        <mark key="]" line="20" column="1" />
-        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/etc/system.xml" timestamp="1509652241970">
         <mark key="]" line="6" column="32" />
