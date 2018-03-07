@@ -207,11 +207,11 @@
         <mark key="." line="423" column="24" />
         <mark key="[" line="423" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1520445011938">
-        <mark key="]" line="686" column="82" />
-        <mark key="^" line="686" column="82" />
-        <mark key="." line="686" column="82" />
-        <mark key="[" line="686" column="100" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1520450508208">
+        <mark key="]" line="493" column="134" />
+        <mark key="^" line="493" column="134" />
+        <mark key="." line="493" column="134" />
+        <mark key="[" line="493" column="127" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/persistent/checkout/onepage/loginV2.phtml" timestamp="1502242722078">
         <mark key="]" line="94" column="130" />
@@ -1334,46 +1334,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gift</text>
+        <text>n eGift Card</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>gift</text>
+        <text>n eGift Card</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>gift</text>
+        <text>n eGift Card</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHN1YmplY3QgPSAkZnJvbUZpcnN0TmFtZSAuICcgc2VudCB5b3UgYSBnaWZ0ISc7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CSRhdHRyaWJ1dGVOYW1lNSwgJGF0dHJpYnV0ZU5hbWU2LCAkYXR0cmlidXRlTmFtZTcsICRhdHRyaWJ1dGVOYW1lOA==</text>
+        <text>f</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRleHRzdHlsZQo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>Token</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>C</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>G</text>
       </register>
       <register name="8" type="4">
-        <text>, $attributeName2, $attributeName3, $attributeName4,</text>
+        <text>i</text>
       </register>
     </registers>
     <search>
