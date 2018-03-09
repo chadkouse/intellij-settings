@@ -138,7 +138,12 @@
         <mark key="." line="75" column="0" />
         <mark key="[" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/Model/Cart/Observer.php" timestamp="1520622466832" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/Model/Cart/Observer.php" timestamp="1520628474445">
+        <mark key="]" line="102" column="64" />
+        <mark key="^" line="102" column="63" />
+        <mark key="." line="102" column="64" />
+        <mark key="[" line="102" column="64" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/lowes_activation_email.html" timestamp="1510776569538">
         <mark key="]" line="250" column="19961" />
         <mark key="^" line="250" column="19961" />
@@ -1400,47 +1405,47 @@
       <jump line="270" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Svs.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICR0aGlzOjpHSUZUX1NLVTsgLy9sb2dpYyBoYXMgY2hhbmdlZCBhbmQgdGhpcyBpcyBvbmx5IHByb2R1Y3QgdXNlZCBmb3IgVENQIGNvdXBvbnMu</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">ICR0aGlzOjpHSUZUX1NLVTsgLy9sb2dpYyBoYXMgY2hhbmdlZCBhbmQgdGhpcyBpcyBvbmx5IHByb2R1Y3QgdXNlZCBmb3IgVENQIGNvdXBvbnMu</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgR0NJX1N2c19WYXVsdF9JdGVtIGV4dGVuZHMgTWFnZV9Db3JlX01vZGVsX0Fic3RyYWN0Cg==</text>
+        <text encoding="base64">CQlmb3JlYWNoICgkY29uZmlnIGFzICRrZXkgPT4gJHZhbCl7CiAgICAgICAgICAgICRza3U9ICR2YWxbJ3NrdSddOwoJCX0K</text>
       </register>
-      <register name="2" type="4">
-        <text>{</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkbWF4QWRkZWQ9MDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICR0aGlzOjpHSUZUX1NLVTsgLy9sb2dpYyBoYXMgY2hhbmdlZCBhbmQgdGhpcyBpcyBvbmx5IHByb2R1Y3QgdXNlZCBmb3IgVENQIGNvdXBvbnMu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgR0NJX1BlcnNvbmFsaXphdGlvbnNfTW9kZWxfU3ZzUmVzdWx0IGV4dGVuZHMgTWFnZV9Db3JlX01vZGVsX0Fic3RyYWN0IHsK</text>
+        <text encoding="base64">ICAgIAkkY29uZmlnPSR0aGlzLT5fZ2V0Q29uZmlndXJhdGlvbigpOwogICAgCSRtYXhBZGRlZD0wOwogICAgCSRza3U9bnVsbDsKICAgIAlmb3JlYWNoICgkY29uZmlnIGFzICRrZXkgPT4gJHZhbCl7CiAgICAJCWlmKCR2YWxbJ3ByaWNlJ10gPD0gJHByaWNlKXsKICAgIAkJCWlmKCR2YWxbJ3ByaWNlJ10gPiAkbWF4QWRkZWQpewoJICAgIAkJCSRtYXhBZGRlZD0kdmFsWydwcmljZSddOwoJICAgIAkJCSRza3U9ICR2YWxbJ3NrdSddOwogICAgCQkJfQogICAgCQl9CiAgICAJfQogICAgCXJldHVybiAkc2t1Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Result</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlyZXR1cm4gJHNrdTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Result</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcmV0dXJuICRza3U7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Result</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gX2NvbnN0cnVjdCgpewogICAgICAgICAgICAkdGhpcy0+X2luaXQoInBlcnNvbmFsaXphdGlvbnMvc3ZzVmF1bHRJdGVtIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJHZhbFsncHJpY2UnXSA+ICRtYXhBZGRlZCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtYXhBZGRlZD0kdmFsWydwcmljZSddOwo=</text>
       </register>
     </registers>
     <search>
