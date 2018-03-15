@@ -1318,6 +1318,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1521122676194">
+        <mark key="]" line="373" column="64" />
+        <mark key="^" line="373" column="64" />
+        <mark key="." line="373" column="64" />
+        <mark key="[" line="373" column="65" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefishmobile/template/personalizations/preview/haptic_bonefishcocktailholiday.phtml" timestamp="1510172571402">
         <mark key="]" line="26" column="67" />
         <mark key="^" line="26" column="67" />
@@ -1354,11 +1360,11 @@
         <mark key="." line="6" column="41" />
         <mark key="[" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/gifttokens/design/app.js" timestamp="1517519507774">
-        <mark key="]" line="122" column="39" />
-        <mark key="^" line="122" column="39" />
-        <mark key="." line="122" column="39" />
-        <mark key="[" line="122" column="36" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/gifttokens/design/app.js" timestamp="1521122857521">
+        <mark key="]" line="50" column="71" />
+        <mark key="^" line="50" column="71" />
+        <mark key="." line="50" column="71" />
+        <mark key="[" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/animations/tcp/cupcakepink.html" timestamp="1508354093547">
         <mark key="]" line="87" column="19" />
@@ -1483,46 +1489,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9nZXQgb3JkZXIgYW5kIHNlbmQgY29vcGVyIGFwaSBpbnRlZ3JhdGlvbiBtZXNzYWdlCiRvcmRlcklkID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdjaGVja291dC9zZXNzaW9uJyktPmdldExhc3RPcmRlcklkKCk7CmlmICgkb3JkZXJJZCkgewogICAgJG9yZGVyID0gTWFnZTo6Z2V0TW9kZWwoJ3NhbGVzL29yZGVyJyktPmxvYWQoJG9yZGVySWQpOwogICAgaWYgKCRvcmRlci0+Z2V0SWQoKSkgewogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>:helper('personalizations/personalization')</text>
+        <text>fetchSentiments</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>fetchSentiments</text>
       </register>
-      <register name="2" type="4">
-        <text>:helper('personalizations/personalization')</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9nZXQgb3JkZXIgYW5kIHNlbmQgY29vcGVyIGFwaSBpbnRlZ3JhdGlvbiBtZXNzYWdlCiRvcmRlcklkID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdjaGVja291dC9zZXNzaW9uJyktPmdldExhc3RPcmRlcklkKCk7CmlmICgkb3JkZXJJZCkgewogICAgJG9yZGVyID0gTWFnZTo6Z2V0TW9kZWwoJ3NhbGVzL29yZGVyJyktPmxvYWQoJG9yZGVySWQpOwogICAgaWYgKCRvcmRlci0+Z2V0SWQoKSkgewogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihNYWdlOjphcHAoKS0+Z2V0U3RvcmUoKS0+Z2V0Q29kZSgpID09ICRwZXJIZWxwZXI6OkIyQjIwX0NPREUpewo=</text>
+        <text encoding="base64">CXZhciBzZW5kZXJFbWFpbCA9IGpRdWVyeSgnI3NlbmRfZnJvbV9lbWFpbCcpLnZhbCgpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>Mage</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>:helper('personalizations/personalization')</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9nZXQgb3JkZXIgYW5kIHNlbmQgY29vcGVyIGFwaSBpbnRlZ3JhdGlvbiBtZXNzYWdlCiRvcmRlcklkID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdjaGVja291dC9zZXNzaW9uJyktPmdldExhc3RPcmRlcklkKCk7CmlmICgkb3JkZXJJZCkgewogICAgJG9yZGVyID0gTWFnZTo6Z2V0TW9kZWwoJ3NhbGVzL29yZGVyJyktPmxvYWQoJG9yZGVySWQpOwogICAgaWYgKCRvcmRlci0+Z2V0SWQoKSkgewogICAgfQp9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGN1c3RvbWVyLT5nZXRQcmVmaXgoKTsKICAgICAgICAgICAgJGN1c3RvbWVyLT5nZXROYW1lKCk7IC8vIEZ1bGwgTmFtZQogICAgICAgICAgICAkY3VzdG9tZXItPmdldEZpcnN0bmFtZSgpOyAvLyBGaXJzdCBOYW1lCiAgICAgICAgICAgICRjdXN0b21lci0+Z2V0TWlkZGxlbmFtZSgpOyAvLyBNaWRkbGUgTmFtZQogICAgICAgICAgICAkY3VzdG9tZXItPmdldExhc3RuYW1lKCk7IC8vIExhc3QgTmFtZQogICAgICAgICAgICAkY3VzdG9tZXItPmdldFN1ZmZpeCgpOwoKICAgICAgICAgICAgLy8gQWxsIG90aGVyIGN1c3RvbWVyIGRhdGEKICAgICAgICAgICAgJGN1c3RvbWVyLT5nZXRXZWJzaXRlSWQoKTsgLy8gSUQKICAgICAgICAgICAgJGN1c3RvbWVyLT5nZXRFbnRpdHlJZCgpOyAvLyBJRAogICAgICAgICAgICAkY3VzdG9tZXItPmdldEVudGl0eVR5cGVJZCgpOyAvLyBJRAogICAgICAgICAgICAkY3VzdG9tZXItPmdldEF0dHJpYnV0ZVNldElkKCk7IC8vIElECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICRwZXJIZWxwZXI6OkIyQjIwX0NPREU=</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
