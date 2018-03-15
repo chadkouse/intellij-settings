@@ -411,6 +411,9 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1521137378431">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
         <mark key="]" line="4040" column="27" />
         <mark key="^" line="4040" column="27" />
@@ -499,6 +502,7 @@
         <mark key="." line="214" column="29" />
         <mark key="[" line="214" column="31" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1521137377629" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1520620882458">
         <mark key="]" line="490" column="31" />
         <mark key="." line="490" column="31" />
@@ -641,11 +645,11 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1521080543865">
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="99" column="84" />
-        <mark key="." line="10" column="0" />
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1521137435638">
+        <mark key="]" line="32" column="48" />
+        <mark key="^" line="100" column="84" />
+        <mark key="." line="32" column="0" />
+        <mark key="[" line="51" column="91" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/landing.css" timestamp="1502997451489">
         <mark key="]" line="522" column="15" />
@@ -1494,8 +1498,8 @@
       <jump line="5750" column="12" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSByb3VuZCgkcGVySXRlbS0+Z2V0UHJpY2UoKSwgMik7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
@@ -1504,13 +1508,13 @@
         <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
-      </register>
-      <register name="2" type="4">
-        <text>'</text>
-      </register>
-      <register name="1" type="4">
         <text>]</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSByb3VuZCgkcGVySXRlbS0+Z2V0UHJpY2UoKSwgMik7CiAgICAgICAgaWYgKGVtcHR5KCR2YWx1ZSkgfHwgJHZhbHVlIDw9IDApIHsKICAgICAgICAgICAgJHZhbHVlID0gMDsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSByb3VuZCgkcGVySXRlbS0+Z2V0UHJpY2UoKSwgMik7Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBDaGVjayBpZiBhbnkgY3VzdG9tZXIgaXMgbG9nZ2VkIGluIG9yIG5vdAogICAgICAgIGlmIChNYWdlOjpnZXRTaW5nbGV0b24oJ2N1c3RvbWVyL3Nlc3Npb24nKS0+aXNMb2dnZWRJbigpKSB7CgogICAgICAgICAgICAvLyBMb2FkIHRoZSBjdXN0b21lcidzIGRhdGEKICAgICAgICAgICAgJGN1c3RvbWVyID0gTWFnZTo6Z2V0U2luZ2xldG9uKCdjdXN0b21lci9zZXNzaW9uJyktPmdldEN1c3RvbWVyKCk7CgogICAgICAgICAgICAkcGFnZV9kYXRhWydjdXN0b21lcl9lbWFpbCddID0gJGN1c3RvbWVyLT5nZXRFbWFpbCgpOwogICAgICAgIH0K</text>
@@ -1519,22 +1523,22 @@
         <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
