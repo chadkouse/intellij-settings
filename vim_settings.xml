@@ -132,6 +132,11 @@
         <mark key="." line="316" column="18" />
         <mark key="[" line="316" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/css/sidepanel/news.less" timestamp="1521226836948">
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/token2_email.html" timestamp="1515100188708">
         <mark key="]" line="378" column="0" />
         <mark key="." line="378" column="0" />
@@ -172,10 +177,7 @@
         <mark key="[" line="4" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/navigation/top.phtml" timestamp="1521223604960">
-        <mark key="]" line="76" column="104" />
-        <mark key="^" line="78" column="85" />
-        <mark key="." line="76" column="104" />
-        <mark key="[" line="76" column="104" />
+        <mark key="^" line="68" column="85" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Block/Form/Radialpaymentmethod.php" timestamp="1513019295799">
         <mark key="]" line="11" column="57" />
@@ -1488,47 +1490,47 @@
       <jump line="5750" column="12" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>375</text>
       </register>
       <register name="3" type="4">
-        <text>S</text>
+        <text>375</text>
       </register>
       <register name="2" type="4">
-        <text>WARDS</text>
+        <text>375</text>
       </register>
-      <register name="1" type="4">
-        <text>S</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHBhZ2VfZGF0YVsnY3VzdG9tZXJfZmlyc3RfbmFtZSddID0gJGN1c3RvbWVyLT5nZXRGaXJzdE5hbWUoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>S</text>
       </register>
       <register name="6" type="4">
-        <text>YEARS OF SERVICE</text>
+        <text>WARDS</text>
       </register>
       <register name="5" type="4">
-        <text>YEARS OF SERVICE</text>
+        <text>S</text>
       </register>
       <register name="4" type="4">
-        <text>WARDS</text>
+        <text>375</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>YEARS OF SERVICE</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>WARDS</text>
       </register>
     </registers>
     <search>
