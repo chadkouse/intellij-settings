@@ -979,6 +979,12 @@
         <mark key="." line="225" column="60" />
         <mark key="[" line="225" column="59" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/config.xml" timestamp="1521640860474">
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="27" column="56" />
+        <mark key="." line="43" column="26" />
+        <mark key="[" line="43" column="26" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/checkoutonepage_out.css" timestamp="1516289575948">
         <mark key="]" line="226" column="0" />
         <mark key="^" line="225" column="35" />
@@ -1354,46 +1360,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>375</text>
+        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>375</text>
+        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkb3JkZXIgTWFnZV9TYWxlc19Nb2RlbF9PcmRlcgo=</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>375</text>
+        <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>375</text>
+        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRxdW90ZSBNYWdlX1NhbGVzX01vZGVsX1F1b3RlCiAgICAgKiBAcGFyYW0gJHBheW1lbnREYXRhIGFycmF5CiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKiBAdGhyb3dzIE1hZ2VfQ29yZV9FeGNlcHRpb24KICAgICAqLwo=</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>C</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZGlyZWN0IA==</text>
+        <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBheW1lbnRIZWxwZXItPnByb2Nlc3NQYXltZW50KCRxdW90ZSwgJHBheW1lbnREYXRhLCAkb3JkZXIpOwo=</text>
+      <register name="4" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>375</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>375</text>
       </register>
     </registers>
     <search>
