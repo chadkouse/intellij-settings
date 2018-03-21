@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/delivery/index.phtml" timestamp="1521658635974">
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="58" column="46" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/css/styles-mobile.min.css" timestamp="1519846540005">
         <mark key="]" line="94" column="22" />
         <mark key="^" line="94" column="22" />
@@ -333,12 +339,12 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1521487464577">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1521658207593">
         <mark key="'" line="18" column="10" />
-        <mark key="]" line="4929" column="3" />
+        <mark key="]" line="206" column="88" />
         <mark key="^" line="4929" column="3" />
         <mark key="." line="4929" column="3" />
-        <mark key="[" line="4929" column="5" />
+        <mark key="[" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -375,6 +381,9 @@
         <mark key="^" line="4040" column="27" />
         <mark key="." line="4040" column="27" />
         <mark key="[" line="4040" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1521656759028">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsVaultItem.php" timestamp="1520620677444">
         <mark key="]" line="2" column="0" />
@@ -556,6 +565,7 @@
         <mark key="." line="201" column="123" />
         <mark key="[" line="201" column="120" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1521656757891" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" timestamp="1513701477607">
         <mark key="]" line="663" column="13" />
         <mark key="^" line="663" column="12" />
@@ -757,6 +767,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="[" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobileb2c/template/product/delivery/index.phtml" timestamp="1521658633032">
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="63" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Accountcredit/etc/config.xml" timestamp="1519676564618">
         <mark key="]" line="21" column="49" />
@@ -1135,11 +1150,17 @@
         <mark key="." line="150" column="0" />
         <mark key="[" line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/controllers/DeliveryController.php" timestamp="1519077849162">
-        <mark key="]" line="59" column="59" />
-        <mark key="^" line="58" column="38" />
-        <mark key="." line="59" column="59" />
-        <mark key="[" line="59" column="59" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/controllers/DeliveryController.php" timestamp="1521658275029">
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="75" column="111" />
+        <mark key="." line="81" column="0" />
+        <mark key="[" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/tokenofpage/index.phtml" timestamp="1521657454968">
+        <mark key="]" line="225" column="174" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="[" line="225" column="134" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/embedded.phtml" timestamp="1515696265156">
         <mark key="]" line="5" column="26" />
@@ -1359,47 +1380,47 @@
       <jump line="18" column="10" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHJlZGVlbURhdGEgPSAkdGhpcy0+Z2V0UmVkZWVtRGF0YSgpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
+        <text>Number</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWNobyAkanNvblsiVXNhZ2VJbnN0cnVjdGlvbnMiXTsgPz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWNobyAkanNvblsiVGVybXNBbmRDb25kaXRpb25zIl07ID8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>ttps://sqs.us-east-1.amazonaws.com/438720273189/cooperRecognitionDev</text>
+        <text>Number</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRxdW90ZSBNYWdlX1NhbGVzX01vZGVsX1F1b3RlCiAgICAgKiBAcGFyYW0gJHBheW1lbnREYXRhIGFycmF5CiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKiBAdGhyb3dzIE1hZ2VfQ29yZV9FeGNlcHRpb24KICAgICAqLwo=</text>
+        <text encoding="base64">JHJlZGVlbURhdGEgPSAkdGhpcy0+Z2V0UmVkZWVtRGF0YSgpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>C</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJJGxheW91dC0+UGVySXRlbSgkcGVySXRlbSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWNobyAkanNvblsiVXNhZ2VJbnN0cnVjdGlvbnMiXTsgPz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>375</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="8" type="4">
-        <text>375</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
