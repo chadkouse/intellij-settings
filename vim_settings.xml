@@ -442,7 +442,7 @@
         <mark key="." line="106" column="51" />
         <mark key="[" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/facebook/init.phtml" timestamp="1521667030690">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/facebook/init.phtml" timestamp="1521728849479">
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
@@ -464,9 +464,6 @@
         <mark key="^" line="4040" column="27" />
         <mark key="." line="4040" column="27" />
         <mark key="[" line="4040" column="24" />
-      </file>
-      <file name="/a.dummy" timestamp="1521726943925">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsVaultItem.php" timestamp="1520620677444">
         <mark key="]" line="2" column="0" />
@@ -1420,6 +1417,12 @@
         <mark key="." line="58" column="14" />
         <mark key="[" line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1521729293277">
+        <mark key="]" line="960" column="36" />
+        <mark key="^" line="960" column="36" />
+        <mark key="." line="960" column="36" />
+        <mark key="[" line="960" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.9-0.9.0.php" timestamp="1520614680924">
         <mark key="]" line="21" column="111" />
         <mark key="^" line="21" column="111" />
@@ -1561,46 +1564,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>init</text>
+        <text encoding="base64">JGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0Q291bnRyeUlkKCk=</text>
       </register>
       <register name="/" type="4">
         <text>categoryBread</text>
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text encoding="base64">JGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0Q291bnRyeUlkKCk=</text>
       </register>
       <register name="3" type="4">
-        <text>head</text>
+        <text>COUPON</text>
       </register>
       <register name="2" type="4">
-        <text>init</text>
+        <text encoding="base64">JGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0Q291bnRyeUlkKCk=</text>
       </register>
       <register name="1" type="4">
-        <text>init</text>
+        <text encoding="base64">JGJpbGxpbmdDb250YWN0QWRkcmVzcy0+Z2V0Q291bnRyeUlkKCk=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8cmVmZXJlbmNlIG5hbWU9ImJlZm9yZV9oZWFkX2VuZCI+CiAgICAgICAgICAgIDxibG9jayB0eXBlPSJnY2lfcmF5Z3VuL3RlbXBsYXRlIiB0ZW1wbGF0ZT0iZ2NpX3JheWd1bi9pbml0LnBodG1sIiBuYW1lPSJnY2lfcmF5Z3VuX2luaXQiIC8+CiAgICAgICAgPC9yZWZlcmVuY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50cnkgPSAkYmlsbGluZ0NvbnRhY3RBZGRyZXNzLT5nZXRDb3VudHJ5SWQoKTsKICAgICAgICAgICAgaWYgKCEkY291bnRyeSB8fCBlbXB0eSgkY291bnRyeSkpIHsKICAgICAgICAgICAgICAgICRjb3VudHJ5ID0gIlVTIjsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoISRmaXJzdE5hbWUgfHwgZW1wdHkoJGZpcnN0TmFtZSkpIHsKICAgICAgICAgICAgICAgICRmaXJzdE5hbWUgPSAiQ09VUE9OIjsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoISRsYXN0TmFtZSB8fCBlbXB0eSgkbGFzdE5hbWUpKSB7CiAgICAgICAgICAgICAgICAkbGFzdE5hbWUgPSAiVXNlciI7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>Integration</text>
+        <text>firstName</text>
       </register>
       <register name="6" type="4">
-        <text>Integration</text>
+        <text>ame</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>firstNlastName</text>
       </register>
       <register name="4" type="4">
-        <text>after_body_start</text>
+        <text>firstName</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>facebook</text>
+        <text>init</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgoJIWZ1bmN0aW9uKGEsYixjLGQsZSxmLGcsaCl7YS5SYXlndW5PYmplY3Q9ZSxhW2VdPWFbZV18fGZ1bmN0aW9uKCl7CgkJCShhW2VdLm89YVtlXS5vfHxbXSkucHVzaChhcmd1bWVudHMpfSxmPWIuY3JlYXRlRWxlbWVudChjKSxnPWIuZ2V0RWxlbWVudHNCeVRhZ05hbWUoYylbMF0sCgkJZi5hc3luYz0xLGYuc3JjPWQsZy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShmLGcpLGg9YS5vbmVycm9yLGEub25lcnJvcj1mdW5jdGlvbihiLGMsZCxmLGcpewoJCWgmJmgoYixjLGQsZixnKSxnfHwoZz1uZXcgRXJyb3IoYikpLGFbZV0ucT1hW2VdLnF8fFtdLGFbZV0ucS5wdXNoKHsKCQkJZTpnfSl9fSh3aW5kb3csZG9jdW1lbnQsInNjcmlwdCIsIi8vY2RuLnJheWd1bi5pby9yYXlndW40anMvcmF5Z3VuLm1pbi5qcyIsInJnNGpzIik7Cjwvc2NyaXB0Pgo=</text>
+      <register name="8" type="4">
+        <text>init</text>
       </register>
     </registers>
     <search>
