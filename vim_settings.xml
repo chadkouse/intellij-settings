@@ -168,11 +168,11 @@
         <mark key="." line="75" column="0" />
         <mark key="[" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/Model/Cart/Observer.php" timestamp="1522069709604">
-        <mark key="]" line="96" column="47" />
-        <mark key="^" line="96" column="46" />
-        <mark key="." line="96" column="47" />
-        <mark key="[" line="96" column="47" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/Model/Cart/Observer.php" timestamp="1522070515204">
+        <mark key="]" line="92" column="149" />
+        <mark key="^" line="92" column="36" />
+        <mark key="." line="92" column="36" />
+        <mark key="[" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/raygun/init.phtml" timestamp="1521666178796">
         <mark key="]" line="21" column="0" />
@@ -201,6 +201,9 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="[" line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" timestamp="1522071685785">
+        <mark key="[" line="477" column="184" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Bonefish/sql/bonefish_setup/mysql4-install-0.1.0.php" timestamp="1497629917947">
         <mark key="]" line="15" column="25" />
@@ -409,9 +412,11 @@
         <mark key="." line="7" column="46" />
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1521815926330">
-        <mark key="^" line="4004" column="3" />
-        <mark key="." line="4004" column="3" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1522071166223">
+        <mark key="]" line="1733" column="28" />
+        <mark key="^" line="71" column="103" />
+        <mark key="." line="1733" column="28" />
+        <mark key="[" line="1733" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -461,7 +466,7 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1522069710927">
+      <file name="/a.dummy" timestamp="1522070429820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/checkoutonepage.css" timestamp="1502983837818">
@@ -1558,47 +1563,47 @@
       <jump line="41" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Raygun/Block/Template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMvZ2lmVGFuZ28iKTsKCQkJCQkJCSRqc29uID0gJGhlbHBlci0+Z2V0UmVkZWVtRGF0YSgkZ2lmdGNhcmRfaWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>The Children's Place sent you a Surprise Bonus Card!</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
+        <text>The Children's Place sent you a Surprise Bonus Card!</text>
+      </register>
+      <register name="3" type="4">
         <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ID8gTWFnZTo6aGVscGVyKCdjaGVja291dC9jYXJ0JyktPmdldFF1b3RlKCktPmdldEdyYW5kVG90YWwoKSA6ICRwcmljZQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJfQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCSRoZWxwZXIgPSBNYWdlOjpoZWxwZXIoInBlcnNvbmFsaXphdGlvbnMvZ2lmVGFuZ28iKTsKCQkJCQkJCSRqc29uID0gJGhlbHBlci0+Z2V0UmVkZWVtRGF0YSgkZ2lmdGNhcmRfaWQpOwo=</text>
+      <register name="1" type="4">
+        <text>The Children's Place sent you a Surprise Bonus Card!</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJJGdpZnRjYXJkX2lkID0gJHByZXZpZXdEYXRhWydnaWZ0YW5nb19pZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByaWNlID0gJG9yZGVyLT5nZXRHcmFuZFRvdGFsKCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJG9yZGVySXRlbSA9IE1hZ2U6OmdldE1vZGVsKCJzYWxlcy9vcmRlcl9pdGVtIiktPmxvYWQoJHBlckl0ZW0tPmdldElkKCksICdwZXJzb25hbGl6YXRpb25faXRlbV9pZCcpOwoJCQkJCQkkcHJldmlld0RhdGEgPSBhcnJheSgiZ2lmdGFuZ29faWQiPT4kb3JkZXJJdGVtLT5nZXRQZXJzb25hbGl6YXRpb25HaWZ0YW5nb0dpZnRjYXJkSWQoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/_recognition//g</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>Q</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
