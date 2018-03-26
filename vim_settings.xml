@@ -45,6 +45,17 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu.phtml" timestamp="1522090003396">
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="43" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Controller/Request/Http.php" timestamp="1522089958859">
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
+        <mark key="[" line="296" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/Helper/Pictures.php" timestamp="1508521128488">
         <mark key="]" line="200" column="48" />
         <mark key="^" line="200" column="48" />
@@ -201,6 +212,12 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="[" line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Helper/Url.php" timestamp="1522089972909">
+        <mark key="]" line="52" column="73" />
+        <mark key="^" line="52" column="73" />
+        <mark key="." line="52" column="73" />
+        <mark key="[" line="52" column="69" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/tcp_coupon.html" timestamp="1522071722761">
         <mark key="]" line="451" column="124" />
@@ -606,6 +623,11 @@
         <mark key="." line="12" column="55" />
         <mark key="[" line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/Url.php" timestamp="1522088784407">
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+        <mark key="[" line="347" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/animation/design.phtml" timestamp="1508856277483">
         <mark key="]" line="34" column="49" />
         <mark key="^" line="34" column="49" />
@@ -739,6 +761,11 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="49" />
         <mark key="[" line="90" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Core/Model/Config.php" timestamp="1522089033708">
+        <mark key="]" line="1491" column="0" />
+        <mark key="." line="1491" column="0" />
+        <mark key="[" line="1491" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Aaa/AaaSSO/controllers/IndexController.php" timestamp="1516721309808">
         <mark key="]" line="89" column="40" />
@@ -1546,46 +1573,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lIg==</text>
+        <text>Scheme</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lIg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGZvcm1hdFVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ZGllOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJJHByb2R1Y3RDb3Vwb24gPSBNYWdlOjpIZWxwZXIoImNvdXBvbiIpLT5nZXRDb3Vwb24oJGRpZ2l0YWxJdGVtcy0+Z2V0U2VuZGVyRW1haWwoKSwgJHBlckl0ZW0tPmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>_SERVER</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHJpY2UgPSAkb3JkZXItPmdldEdyYW5kVG90YWwoKTsK</text>
+      <register name="6" type="4">
+        <text>Scheme</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHJpY2UgPSAkb3JkZXItPmdldEdyYW5kVG90YWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkX1NFUlZFUik7CiAgICAgICAgZGllOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGhpcy0+cGVySXRlbS0+Z2V0UHJpY2UoKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVxdWVzdC0+Z2V0SHR0cEhvc3QoZmFsc2UpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/_recognition//g</text>
+        <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>params['value']</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8nJCcuKGludCkkcHJvZHVjdENvdXBvbi0+Z2V0V2VpZ2h0KCk7Ly8iJDEwIjs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcG9ydCk7Cg==</text>
       </register>
     </registers>
     <search>
@@ -1638,9 +1665,9 @@
         <entry>%s/getGciFallbackUrl/getGciRecipientFallbackUrl/g</entry>
         <entry>wq</entry>
         <entry>set paste</entry>
-        <entry>w</entry>
         <entry>%s/cooper/raygun/g</entry>
         <entry>%s/_recognition//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
