@@ -32,6 +32,12 @@
         <mark key="." line="204" column="30" />
         <mark key="[" line="204" column="25" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/videorecorder.js" timestamp="1522093809079">
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="[" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxStickerManager.js" timestamp="1514307476642">
         <mark key="]" line="6" column="35" />
         <mark key="^" line="0" column="19" />
@@ -200,6 +206,12 @@
         <mark key="^" line="250" column="19961" />
         <mark key="." line="250" column="19961" />
         <mark key="[" line="250" column="19959" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/videorecorder.js" timestamp="1522093904750">
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="24" column="31" />
+        <mark key="[" line="24" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsVaultitem.php" timestamp="1520620950931">
         <mark key="]" line="4" column="48" />
@@ -1581,47 +1593,47 @@
       <jump line="41" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Raygun/Block/Template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgiaGVyZTIiKTsKCQlkaWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>ide</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>ide</text>
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaGVyZSIpOwogICAgICAgIGRpZTsK</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgiaGVyZTIiKTsKCQlkaWU7Cg==</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogCg==</text>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVscGVyID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zJyk7Cg==</text>
+      <register name="6" type="4">
+        <text>false</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaGVyZTIiKTsK</text>
+      <register name="5" type="4">
+        <text>-</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      <register name="4" type="4">
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhlcmUiKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaGVyZSIpOwogICAgICAgIGRpZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGllOwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgiaGVyZTIiKTsKCQlkaWU7Cg==</text>
       </register>
     </registers>
     <search>
