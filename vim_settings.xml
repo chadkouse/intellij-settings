@@ -411,11 +411,8 @@
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1521815926330">
-        <mark key="'" line="18" column="10" />
-        <mark key="]" line="206" column="88" />
-        <mark key="^" line="4929" column="3" />
-        <mark key="." line="4929" column="3" />
-        <mark key="[" line="205" column="0" />
+        <mark key="^" line="4004" column="3" />
+        <mark key="." line="4004" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Block/Svsexport/Button.php" timestamp="1497549156279">
         <mark key="]" line="11" column="51" />
@@ -471,7 +468,7 @@
         <mark key="." line="4040" column="27" />
         <mark key="[" line="4040" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1521815927161">
+      <file name="/a.dummy" timestamp="1522069457171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsVaultItem.php" timestamp="1520620677444">
@@ -1425,12 +1422,7 @@
         <mark key="." line="58" column="14" />
         <mark key="[" line="58" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1521814613533">
-        <mark key="]" line="513" column="35" />
-        <mark key="^" line="512" column="36" />
-        <mark key="." line="513" column="35" />
-        <mark key="[" line="513" column="35" />
-      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1521814613533" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.9-0.9.0.php" timestamp="1520614680924">
         <mark key="]" line="21" column="111" />
         <mark key="^" line="21" column="111" />
