@@ -32,11 +32,11 @@
         <mark key="." line="204" column="30" />
         <mark key="[" line="204" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/videorecorder.js" timestamp="1522093809079">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/es6/videorecorder.js" timestamp="1522095156193">
         <mark key="]" line="17" column="35" />
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
-        <mark key="[" line="17" column="31" />
+        <mark key="[" line="123" column="50" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxStickerManager.js" timestamp="1514307476642">
         <mark key="]" line="6" column="35" />
@@ -207,11 +207,11 @@
         <mark key="." line="250" column="19961" />
         <mark key="[" line="250" column="19959" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/videorecorder.js" timestamp="1522093904750">
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="31" />
-        <mark key="[" line="24" column="31" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/videorecorder.js" timestamp="1522095180050">
+        <mark key="]" line="139" column="54" />
+        <mark key="^" line="139" column="54" />
+        <mark key="." line="139" column="54" />
+        <mark key="[" line="139" column="55" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Resource/SvsVaultitem.php" timestamp="1520620950931">
         <mark key="]" line="4" column="48" />
@@ -864,11 +864,6 @@
         <mark key="." line="55" column="44" />
         <mark key="[" line="55" column="43" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Personalizations/Schedule.php" timestamp="1521815517164">
-        <mark key="]" line="21" column="66" />
-        <mark key="^" line="21" column="66" />
-        <mark key="." line="21" column="66" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/haptic_bonefishcocktailholiday.phtml" timestamp="1510172548964">
         <mark key="]" line="25" column="67" />
         <mark key="^" line="25" column="67" />
@@ -922,6 +917,9 @@
         <mark key="^" line="121" column="1" />
         <mark key="." line="128" column="0" />
         <mark key="[" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/product/index/modals/video.phtml" timestamp="1522095073898">
+        <mark key="[" line="104" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/CronController.php" timestamp="1516053882171">
         <mark key="]" line="83" column="71" />
@@ -1238,6 +1236,12 @@
         <mark key="^" line="872" column="82" />
         <mark key="." line="872" column="82" />
         <mark key="[" line="872" column="100" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/css/product/video.less" timestamp="1522094918979">
+        <mark key="]" line="155" column="21" />
+        <mark key="^" line="155" column="21" />
+        <mark key="." line="155" column="21" />
+        <mark key="[" line="154" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Photobook/controllers/PhotobookController.php" timestamp="1511890425556">
         <mark key="]" line="444" column="77" />
@@ -1593,8 +1597,8 @@
       <jump line="41" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Raygun/Block/Template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -1605,35 +1609,35 @@
       <register name="3" type="4">
         <text>true</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvL0lFIGZpeAogIG1heC1oZWlnaHQ6IDMwMHB4OwogIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaGVyZSIpOwogICAgICAgIGRpZTsK</text>
+      <register name="9" type="4">
+        <text>false</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgiaGVyZTIiKTsKCQlkaWU7Cg==</text>
+      <register name="8" type="4">
+        <text>false</text>
       </register>
     </registers>
     <search>
