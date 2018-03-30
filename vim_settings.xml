@@ -713,11 +713,11 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1521137435638">
-        <mark key="]" line="32" column="48" />
-        <mark key="^" line="100" column="84" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="51" column="91" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1522423585589">
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="99" column="84" />
+        <mark key="." line="99" column="0" />
+        <mark key="[" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/landing.css" timestamp="1502997451489">
         <mark key="]" line="522" column="15" />
@@ -1026,9 +1026,9 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1522091828617">
-        <mark key="]" line="3049" column="0" />
-        <mark key="." line="3049" column="0" />
-        <mark key="[" line="3049" column="0" />
+        <mark key="]" line="3003" column="0" />
+        <mark key="." line="3003" column="0" />
+        <mark key="[" line="3003" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/page/checkout_onepage.phtml" timestamp="1510848805015">
         <mark key="]" line="160" column="4" />
@@ -1598,7 +1598,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVuYWJsZWQpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -1606,14 +1606,14 @@
       <register name="-" type="4">
         <text>true</text>
       </register>
-      <register name="3" type="4">
-        <text>true</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAvL0lFIGZpeAogIG1heC1oZWlnaHQ6IDMwMHB4OwogIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVuYWJsZWQpOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwo=</text>
@@ -1622,7 +1622,7 @@
         <text>-</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
       <register name="5" type="4">
         <text>true</text>
@@ -1637,7 +1637,7 @@
         <text>false</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
     </registers>
     <search>
