@@ -685,6 +685,11 @@
         <mark key="." line="201" column="123" />
         <mark key="[" line="201" column="120" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1522426594244">
+        <mark key="]" line="1033" column="0" />
+        <mark key="." line="1033" column="0" />
+        <mark key="[" line="1033" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/digital/activate/style.less" timestamp="1513701477607">
         <mark key="]" line="663" column="13" />
         <mark key="^" line="663" column="12" />
@@ -1125,11 +1130,11 @@
         <mark key="." line="28" column="88" />
         <mark key="[" line="28" column="88" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1516292521914">
-        <mark key="]" line="173" column="69" />
-        <mark key="^" line="173" column="69" />
-        <mark key="." line="173" column="69" />
-        <mark key="[" line="173" column="65" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1522426467362">
+        <mark key="]" line="248" column="63" />
+        <mark key="^" line="248" column="63" />
+        <mark key="." line="248" column="63" />
+        <mark key="[" line="248" column="41" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/leftmenu_landing.phtml" timestamp="1502908593760">
         <mark key="]" line="146" column="165" />
@@ -1593,46 +1598,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVuYWJsZWQpOwo=</text>
+        <text encoding="base64">CQkJCSRwcmV2aWV3RGF0YSA9ICRwZXJzb25hbGl6YXRpb25IZWxwZXItPmdldERpZ2l0YWxBbmltYXRpb25QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlKTsK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>perItem</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL0lFIGZpeAogIG1heC1oZWlnaHQ6IDMwMHB4OwogIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVuYWJsZWQpOwo=</text>
       </register>
+      <register name="2" type="4">
+        <text>perItem</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSRwcmV2aWV3RGF0YSA9ICRwZXJzb25hbGl6YXRpb25IZWxwZXItPmdldERpZ2l0YWxBbmltYXRpb25QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlKTsK</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwo=</text>
+        <text encoding="base64">CQkJCSRwcmV2aWV3RGF0YSA9ICRwZXJzb25hbGl6YXRpb25IZWxwZXItPmdldERpZ2l0YWxBbmltYXRpb25QcmV2aWV3RGF0YSgkcGVySXRlbSwgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
       <register name="6" type="4">
         <text>true</text>
       </register>
-      <register name="5" type="4">
-        <text>true</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvL0lFIGZpeAogIG1heC1oZWlnaHQ6IDMwMHB4OwogIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>true</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
