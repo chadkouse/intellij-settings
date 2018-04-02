@@ -173,6 +173,11 @@
         <mark key="." line="378" column="0" />
         <mark key="[" line="378" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1522695874970">
+        <mark key="]" line="173" column="18" />
+        <mark key="." line="171" column="0" />
+        <mark key="[" line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/scripts/load_svs_vault_file.php" timestamp="1520619984823">
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="16" />
@@ -1580,47 +1585,47 @@
       <jump line="41" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Raygun/Block/Template.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9InNlbnRpbWVudF9saXN0Ij4KICAgICAgICAgICAgICAgICAgIExvYWRpbmcuLi4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>span</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>span</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Bhbgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9InNlbnRpbWVudF9saXN0Ij4KICAgICAgICAgICAgICAgICAgIExvYWRpbmcuLi4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OmxlZnQ7Cg==</text>
+        <text encoding="base64">ICAgIC52YWx1ZV9ib3ggewogICAgICAuc2l6ZSgxODAsIDM1KTsKICAgICAgYm9yZGVyOiBzb2xpZCAxcHggQHBhc3NpdmVfY29sb3JfNDsKICAgICAgZm9udC1zaXplOiAxLjVlbTsKICAgICAgbWFyZ2luOiAzNXB4IGF1dG8gMDsKICAgICAgLmFkanVzdGVyIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBAcGFzc2l2ZV9jb2xvcl80OwogICAgICAgIC5zaXplKDMyLCAxMDAlKTsKICAgICAgICBwYWRkaW5nLXRvcDo2cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6Ym9sZDsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgZm9udC1zaXplOjEuOGVtOwogICAgICAgIC51c2VyLXNlbGVjdChub25lKTsKICAgICAgICAmLnBsdXMgewogICAgICAgICAgbWFyZ2luLWxlZnQ6IDE0OHB4OwogICAgICAgICAgcGFkZGluZy10b3A6OXB4OwogICAgICAgIH0KICAgICAgfQogICAgICAudmFsdWUgewogICAgICAgIG1hcmdpbi1sZWZ0OjMycHg7CiAgICAgICAgd2lkdGg6IDExNnB4OwogICAgICAgIHBhZGRpbmctdG9wOjlweDsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiBsZWZ0Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>relative</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC52YWx1ZV9ib3ggewogICAgICAuc2l6ZSgxODAsIDM1KTsKICAgICAgYm9yZGVyOiBzb2xpZCAxcHggQHBhc3NpdmVfY29sb3JfNDsKICAgICAgZm9udC1zaXplOiAxLjVlbTsKICAgICAgbWFyZ2luOiAzNXB4IGF1dG8gMDsKICAgICAgLmFkanVzdGVyIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBAcGFzc2l2ZV9jb2xvcl80OwogICAgICAgIC5zaXplKDMyLCAxMDAlKTsKICAgICAgICBwYWRkaW5nLXRvcDo2cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6Ym9sZDsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgZm9udC1zaXplOjEuOGVtOwogICAgICAgIC51c2VyLXNlbGVjdChub25lKTsKICAgICAgICAmLnBsdXMgewogICAgICAgICAgbWFyZ2luLWxlZnQ6IDE0OHB4OwogICAgICAgICAgcGFkZGluZy10b3A6OXB4OwogICAgICAgIH0KICAgICAgfQogICAgICAudmFsdWUgewogICAgICAgIG1hcmdpbi1sZWZ0OjMycHg7CiAgICAgICAgd2lkdGg6IDExNnB4OwogICAgICAgIHBhZGRpbmctdG9wOjlweDsKICAgICAgfQogICAgfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBsZWZ0Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJlbCB2YWx1ZV9ib3giPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFicyBiYm94IGFkanVzdGVyIG1pbnVzIiBkYXRhLWRlbHRhPSItMSI+LTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFicyBiYm94IHZhbHVlIj5WYWx1ZSAkPHNwYW4gY2xhc3M9InRva2VuX3ZhbHVlIj44PC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFicyBiYm94IGFkanVzdGVyIHBsdXMiIGRhdGEtZGVsdGE9IjEiPis8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="8" type="4">
+        <text>relative</text>
       </register>
     </registers>
     <search>
