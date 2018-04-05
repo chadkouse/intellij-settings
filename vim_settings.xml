@@ -1030,11 +1030,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/catalog/product/list/giftwrap.phtml" timestamp="1522940654955">
-        <mark key="]" line="21" column="118" />
-        <mark key="^" line="21" column="118" />
-        <mark key="." line="21" column="118" />
-        <mark key="[" line="21" column="115" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/catalog/product/list/giftwrap.phtml" timestamp="1522941435076">
+        <mark key="]" line="21" column="103" />
+        <mark key="^" line="21" column="103" />
+        <mark key="." line="21" column="103" />
+        <mark key="[" line="21" column="103" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" timestamp="1516031463908">
         <mark key="]" line="84" column="0" />
@@ -1598,46 +1598,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNyYz0iPD9waHAgZWNobyAkdGhpcy0+aGVscGVyKCdjYXRhbG9nL2ltYWdlJyktPmluaXQoJF9wcm9kdWN0LCAnc21hbGxfaW1hZ2UnKS0+a2VlcEZyYW1lKGZhbHNlKS0+cmVzaXplKDIzOCwgMTg5KTsgPz4iCg==</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
