@@ -3,23 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1523566132544">
-        <mark key="]" line="529" column="80" />
-        <mark key="^" line="529" column="80" />
-        <mark key="." line="529" column="80" />
-        <mark key="[" line="528" column="16" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2b/js/html5-message-manager.js" timestamp="1523542090029">
         <mark key="'" line="448" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1523564113038">
-        <mark key="[" line="274" column="70" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1523587137556">
+        <mark key="]" line="32" column="64" />
+        <mark key="^" line="17" column="65" />
+        <mark key="." line="32" column="49" />
+        <mark key="[" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/gifttokens/design/style.less" timestamp="1523565886939">
-        <mark key="]" line="392" column="43" />
-        <mark key="^" line="392" column="43" />
-        <mark key="." line="392" column="43" />
-        <mark key="[" line="391" column="34" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1523586983699">
+        <mark key="]" line="513" column="101" />
+        <mark key="^" line="513" column="101" />
+        <mark key="." line="513" column="101" />
+        <mark key="[" line="537" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Personalizations/Observer.php" timestamp="1523473918244" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_token_email.html" timestamp="1523454803833">
@@ -29,7 +26,7 @@
         <mark key="[" line="503" column="116" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1523539433729">
-        <mark key="[" line="2201" column="12" />
+        <mark key="[" line="2325" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1523474330960" />
     </filemarks>
@@ -136,47 +133,47 @@
       <jump line="448" column="2" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2b/js/html5-message-manager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>aaama</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>aaama</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQtd2VpZ2h0OiAxMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnRvbG93ZXIoTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSk9PSJnaWZ0Y2FyZHNob3BiMmIiIHx8Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogIzY2NjsK</text>
+      <register name="2" type="4">
+        <text>giftcardshopb2b</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>aaama</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQtZmFtaWx5OidHb3RoYW1Cb2xkJywgc2Fucy1zZXJpZjsK</text>
+      <register name="0" type="4">
+        <text>giftcardshopb2b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQtZmFtaWx5OidHb3RoYW1Cb2xkJywgc2Fucy1zZXJpZjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGZvbnQtd2VpZ2h0OiAxMDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQtc2l6ZTogMTZwdDsKICAgICAgICAgIGZvbnQtZmFtaWx5OidHb3RoYW1Cb2xkJywgc2Fucy1zZXJpZjsKICAgICAgICAgIGNvbG9yOiAjMDAwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogIzY2NjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>aaama</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>ld</text>
+        <text>t</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
