@@ -111,11 +111,11 @@
         <mark key="." line="28" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/scripts/queue_consumers/async_orders.php" timestamp="1523995867312">
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="38" column="23" />
-        <mark key="." line="40" column="0" />
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/scripts/queue_consumers/async_orders.php" timestamp="1523997597598">
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="[" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/community/Varien/Autoload.php" timestamp="1523898435897">
         <mark key="[" line="0" column="0" />
@@ -335,46 +335,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRyZXN1bHQtPmdldFBhdGgoJ01lc3NhZ2VzLyovQm9keScpIGFzICRtZXNzYWdlQm9keSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text>body</text>
       </register>
-      <register name="3" type="4">
-        <text>integer</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>body</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRyZXN1bHQtPmdldFBhdGgoJ01lc3NhZ2VzLyovQm9keScpIGFzICRtZXNzYWdlQm9keSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc3FzX3VybCA9ICJodHRwczovL3Nxcy51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS80Mzg3MjAyNzMxODkvZGV2OUJhdGNoT3JkZXJQcm9jZXNzaW5nIjsKCiAgICAgICAgJGNsaWVudCA9IFNxc0NsaWVudDo6ZmFjdG9yeShhcnJheSgKICAgICAgICAgICAgJ2tleScgPT4gJ0FLSUFKTEdCNDJPVjNBV1o1QVRRJywKICAgICAgICAgICAgJ3NlY3JldCcgPT4gJ1g3dW0yZUdoVE1McUI5ZXRuVW02Q3hPSThTVnN6bkt5c0ZKRXc0ZWYnLAogICAgICAgICAgICAncmVnaW9uJyAgPT4gJGF3c19yZWdpb24KICAgICAgICApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnQXR0cmlidXRlTmFtZXMnID0+IGFycmF5KCdzdHJpbmcnLCAuLi4gKSwK</text>
+        <text encoding="base64">ICAgIGVjaG8gInRpY2siOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICdNZXNzYWdlQXR0cmlidXRlTmFtZXMnID0+IGFycmF5KCdzdHJpbmcnLCAuLi4gKSwK</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>integer</text>
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdWaXNpYmlsaXR5VGltZW91dCcgPT4gaW50ZWdlciwK</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIi4iOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>'string'</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
