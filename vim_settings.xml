@@ -78,11 +78,12 @@
       <file name="/a.txt" timestamp="1523896529231">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1523978079708">
-        <mark key="]" line="353" column="8" />
-        <mark key="^" line="353" column="8" />
-        <mark key="." line="353" column="8" />
-        <mark key="[" line="333" column="27" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1523980927404">
+        <mark key="'" line="373" column="29" />
+        <mark key="]" line="343" column="20" />
+        <mark key="^" line="343" column="20" />
+        <mark key="." line="343" column="20" />
+        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1516209250055">
         <mark key="]" line="514" column="12" />
@@ -103,6 +104,12 @@
         <mark key="]" line="89" column="40" />
         <mark key="." line="89" column="40" />
         <mark key="[" line="89" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1523979842838">
+        <mark key="]" line="6199" column="45" />
+        <mark key="^" line="6199" column="45" />
+        <mark key="." line="6199" column="45" />
+        <mark key="[" line="6213" column="110" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/giftcard/validation.js" timestamp="1515435039479">
         <mark key="]" line="31" column="0" />
@@ -218,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Sales/Model/Service/Quote.php" />
       <jump line="3958" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="458" column="17" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" />
       <jump line="1267" column="1" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" />
@@ -318,49 +324,50 @@
       <jump line="38" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/font-face.css" />
       <jump line="5802" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="284" column="199" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_token_email.html" />
+      <jump line="373" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1AC0D5</text>
+        <text>cooper</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>1AC0D5</text>
+        <text>cooper</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>1AC0D5</text>
+        <text>cooper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZ2lmdENhcmRTaG9wSGVscGVyID0gTWFnZTo6aGVscGVyKCdwZXJzb25hbGl6YXRpb25zL2dpZnRjYXJkc2hvcCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRlc3REYXRhWydwZXJzb25hbGl6YXRpb25JZCddID0gJHBlcnNvbmFsaXphdGlvbklkOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRnaWZ0Q2FyZFNob3BIZWxwZXItPnBhcnNlRGlnaXRhbENzdigpCg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>false</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
     </registers>
     <search>
