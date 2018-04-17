@@ -68,6 +68,12 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/community/Varien/Autoload.php" timestamp="1523898435897">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1524004905855">
+        <mark key="]" line="66" column="104" />
+        <mark key="^" line="48" column="48" />
+        <mark key="." line="66" column="104" />
+        <mark key="[" line="66" column="104" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_v2.phtml" timestamp="1517255124714">
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -77,9 +83,6 @@
         <mark key="'" line="448" column="2" />
       </file>
       <file name="/a.txt" timestamp="1523896529231">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1524002612176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1524003231478">
@@ -343,46 +346,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>perItem</text>
+        <text>perItemId</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>perItem</text>
+        <text>perItemId</text>
       </register>
       <register name="3" type="4">
-        <text>ItemId</text>
+        <text>item</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVySXRlbSA9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>perItem</text>
+        <text>perItemId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRlc3REYXRhWydwZXJJdGVtSWQnXSA9ICRwZXJJdGVtSWQ7Cg==</text>
+        <text encoding="base64">CQkJCQkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtJyktPmxvYWQoJHBlckl0ZW1JZCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">TWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldElkKCkp</text>
+        <text>perItem</text>
       </register>
-      <register name="5" type="4">
-        <text>;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>ItemId</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzYXZlIGZpcnN0IG5hbWUsIGxhc3QgbmFtZSwgZnVsbCBuYW1lIG9mIHNlbmRlcgovLyAgICAgICAgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5zZXRTZW5kZXJGaXJzdE5hbWUoJHNjaGVkdWxlSW5mb1snc2VuZGVyX2ZpcnN0X25hbWUnXSk7Ci8vICAgICAgICAkcGVyc29uYWxpemF0aW9uU2NoZWR1bGUtPnNldFNlbmRlckxhc3ROYW1lKCRzY2hlZHVsZUluZm9bJ3NlbmRlcl9sYXN0X25hbWUnXSk7Ci8vICAgICAgICAkc2VuZGVyRnVsbE5hbWUgPSAkc2NoZWR1bGVJbmZvWydzZW5kZXJfZmlyc3RfbmFtZSddIC4gIiAiIC4gJHNjaGVkdWxlSW5mb1snc2VuZGVyX2xhc3RfbmFtZSddOwovLyAgICAgICAgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5zZXRTZW5kZXJOYW1lKCRzZW5kZXJGdWxsTmFtZSk7Ci8vICAgICAgICAkcGVyc29uYWxpemF0aW9uU2NoZWR1bGUtPnNldFNlbmRlckVtYWlsKCRzY2hlZHVsZUluZm9bJ3NlbmRlcl9lbWFpbCddKTsKLy8KLy8gICAgICAgICRwZXJzb25hbGl6YXRpb25TY2hlZHVsZS0+c2V0Q3JlYXRlZFRpbWUobm93KCkpOwovLyAgICAgICAgJHBlcnNvbmFsaXphdGlvblNjaGVkdWxlLT5zZXRVcGRhdGVUaW1lKG5vdygpKTsKICAgICAgICAvLyBzZXQgc3RvcmUgZm9yIHRoZSBzY2hlZHVsZQo=</text>
+      <register name="9" type="4">
+        <text>ItemId</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>ItemId</text>
       </register>
     </registers>
     <search>
