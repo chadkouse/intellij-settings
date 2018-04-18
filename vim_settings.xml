@@ -8,7 +8,6 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/shell/abstract.php" timestamp="1523995359142" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Vault/etc/config.xml" timestamp="1520024293827">
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
@@ -69,10 +68,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1524004905855">
-        <mark key="]" line="66" column="104" />
         <mark key="^" line="48" column="48" />
-        <mark key="." line="66" column="104" />
-        <mark key="[" line="66" column="104" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_v2.phtml" timestamp="1517255124714">
         <mark key="]" line="32" column="0" />
@@ -84,14 +80,6 @@
       </file>
       <file name="/a.txt" timestamp="1523896529231">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1524003231478">
-        <mark key="'" line="379" column="29" />
-        <mark key="a" line="544" column="45" />
-        <mark key="]" line="333" column="89" />
-        <mark key="^" line="333" column="89" />
-        <mark key="." line="333" column="89" />
-        <mark key="[" line="333" column="89" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1516209250055">
         <mark key="]" line="514" column="12" />
@@ -112,12 +100,6 @@
         <mark key="]" line="89" column="40" />
         <mark key="." line="89" column="40" />
         <mark key="[" line="89" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1524002820044">
-        <mark key="]" line="6219" column="153" />
-        <mark key="^" line="6219" column="153" />
-        <mark key="." line="6219" column="153" />
-        <mark key="[" line="6219" column="126" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/js/giftcard/validation.js" timestamp="1515435039479">
         <mark key="]" line="31" column="0" />
@@ -155,10 +137,6 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Session.php" timestamp="1523998212102">
         <mark key="]" line="140" column="87" />
         <mark key="[" line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1524002757148">
-        <mark key="]" line="5747" column="8" />
-        <mark key="[" line="5693" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/etc/config.xml" timestamp="1523037427820">
         <mark key="]" line="12" column="26" />
@@ -229,12 +207,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_token_email.html" timestamp="1523977710553">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_token_email.html" timestamp="1524046393830">
         <mark key="'" line="284" column="199" />
-        <mark key="]" line="321" column="172" />
-        <mark key="^" line="321" column="172" />
-        <mark key="." line="321" column="172" />
-        <mark key="[" line="284" column="187" />
+        <mark key="]" line="404" column="0" />
+        <mark key="^" line="399" column="57" />
+        <mark key="." line="404" column="0" />
+        <mark key="[" line="402" column="135" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopb2c/css/gifttokens/landing.less" timestamp="1522938973627">
         <mark key="]" line="52" column="0" />
@@ -345,47 +323,47 @@
       <jump line="373" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>perItemId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxhIGhyZWY9Im1haWx0bzpvbmxpbmVAZ2lmdGNhcmRpbXByZXNzaW9ucy5jb20iIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iRW1haWwgdXMiCgkJCQkJCQkJCQkJCQkgICBzdHlsZT0iYm9yZGVyOiBub25lOyBjb2xvcjogIzYyNjM3MCAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiAxMHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxpbmUtaGVpZ2h0OiAxOyAgbWFyZ2luLXRvcDowOyBwYWRkaW5nLXRvcDowOyBtYXJnaW4tcmlnaHQ6MDsgcGFkZGluZy1yaWdodDowOyBtYXJnaW4tYm90dG9tOjA7IHBhZGRpbmctYm90dG9tOjA7IG1hcmdpbi1sZWZ0OjA7IHBhZGRpbmctbGVmdDowOyAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LXNoYWRvdzogbm9uZSI+PGltZwoJCQkJCQkJCQkJCQkJCQlhbHQ9IkVtYWlsIHVzIiBib3JkZXI9IjAiCgkJCQkJCQkJCQkJCQkJCXNyYz0iaHR0cDovL2h0bWwtZW1haWxzLTM2OTIzLnMzLmFtYXpvbmF3cy5jb20vaHRtbC1lbWFpbHMvaW1hZ2VzL2ltYWdlLTcxNWNmZWU1NGNkYjJhODc3NmJhMTg1ZmNmZDE0YmY5MDIzZTZiNjIuanBnIgoJCQkJCQkJCQkJCQkJCQlzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogIzAwMDAwMSAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzM3B4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogMzNweDsgbWF4LXdpZHRoOiA0MnB4OyBtaW4taGVpZ2h0OiAzM3B4OyBtaW4td2lkdGg6IDQycHg7IHdpZHRoOiA0MnB4Ii8+PC9hPgo=</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>perItemId</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>item</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vR2lmdENhcmRfU2hvcCIgdGFyZ2V0PSJfYmxhbmsiCgkJCQkJCQkJCQkJCQkgICB0aXRsZT0iVmlzaXQgdXMgb24gVHdpdHRlciIKCQkJCQkJCQkJCQkJCSAgIHN0eWxlPSJib3JkZXI6IG5vbmU7IGNvbG9yOiAjNjI2MzcwICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBmb250LXNpemU6IDEwcHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC13ZWlnaHQ6IDQwMDsgbGluZS1oZWlnaHQ6IDE7ICBtYXJnaW4tdG9wOjA7IHBhZGRpbmctdG9wOjA7IG1hcmdpbi1yaWdodDowOyBwYWRkaW5nLXJpZ2h0OjA7IG1hcmdpbi1ib3R0b206MDsgcGFkZGluZy1ib3R0b206MDsgbWFyZ2luLWxlZnQ6MDsgcGFkZGluZy1sZWZ0OjA7ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7IHRleHQtc2hhZG93OiBub25lIj48aW1nCgkJCQkJCQkJCQkJCQkJCWFsdD0iVmlzaXQgdXMgb24gVHdpdHRlciIgYm9yZGVyPSIwIgoJCQkJCQkJCQkJCQkJCQlzcmM9Imh0dHA6Ly9odG1sLWVtYWlscy0zNjkyMy5zMy5hbWF6b25hd3MuY29tL2h0bWwtZW1haWxzL2ltYWdlcy9pbWFnZS1mN2FkOGQ0ZjUxZDljMzRmYTk0M2EwM2Q0N2M3MDI2MzA1YjNlOGViLmpwZyIKCQkJCQkJCQkJCQkJCQkJc3R5bGU9ImJvcmRlcjogMDsgY29sb3I6ICMwMDAwMDEgIWltcG9ydGFudDsgZGlzcGxheTogYmxvY2s7IGhlaWdodDogMzNweDsgbGluZS1oZWlnaHQ6IDE7IG1heC1oZWlnaHQ6IDMzcHg7IG1heC13aWR0aDogNDRweDsgbWluLWhlaWdodDogMzNweDsgbWluLXdpZHRoOiA0NHB4OyB3aWR0aDogNDRweCIvPjwvYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVySXRlbSA9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxhIGhyZWY9Imh0dHBzOi8vd3d3LnBpbnRlcmVzdC5jb20vdGhlZ2lmdGNhcmRzaG9wLyIgdGFyZ2V0PSJfYmxhbmsiCgkJCQkJCQkJCQkJCQkgICB0aXRsZT0iVmlzaXQgdXMgb24gUGludGVyZXN0IgoJCQkJCQkJCQkJCQkJICAgc3R5bGU9ImJvcmRlcjogbm9uZTsgY29sb3I6ICM2MjYzNzAgIWltcG9ydGFudDsgZGlzcGxheTogYmxvY2s7IGZvbnQtc2l6ZTogMTBweDsgZm9udC1zdHlsZTogbm9ybWFsOyBmb250LXdlaWdodDogNDAwOyBsaW5lLWhlaWdodDogMTsgIG1hcmdpbi10b3A6MDsgcGFkZGluZy10b3A6MDsgbWFyZ2luLXJpZ2h0OjA7IHBhZGRpbmctcmlnaHQ6MDsgbWFyZ2luLWJvdHRvbTowOyBwYWRkaW5nLWJvdHRvbTowOyBtYXJnaW4tbGVmdDowOyBwYWRkaW5nLWxlZnQ6MDsgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsgdGV4dC1zaGFkb3c6IG5vbmUiPjxpbWcKCQkJCQkJCQkJCQkJCQkJYWx0PSJWaXNpdCB1cyBvbiBQaW50ZXJlc3QiIGJvcmRlcj0iMCIKCQkJCQkJCQkJCQkJCQkJc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvaW1hZ2UtZDI4NjdhN2EzOGFhYzQ0NGQ3YjUwMjRkOWMxMDAzNDc1YTIwMTM3Ni5qcGciCgkJCQkJCQkJCQkJCQkJCXN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDMzcHg7IGxpbmUtaGVpZ2h0OiAxOyBtYXgtaGVpZ2h0OiAzM3B4OyBtYXgtd2lkdGg6IDQzcHg7IG1pbi1oZWlnaHQ6IDMzcHg7IG1pbi13aWR0aDogNDNweDsgd2lkdGg6IDQzcHgiLz48L2E+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>perItemId</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxhIGhyZWY9Im1haWx0bzpvbmxpbmVAZ2lmdGNhcmRpbXByZXNzaW9ucy5jb20iIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iRW1haWwgdXMiCgkJCQkJCQkJCQkJCQkgICBzdHlsZT0iYm9yZGVyOiBub25lOyBjb2xvcjogIzYyNjM3MCAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgZm9udC1zaXplOiAxMHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxpbmUtaGVpZ2h0OiAxOyAgbWFyZ2luLXRvcDowOyBwYWRkaW5nLXRvcDowOyBtYXJnaW4tcmlnaHQ6MDsgcGFkZGluZy1yaWdodDowOyBtYXJnaW4tYm90dG9tOjA7IHBhZGRpbmctYm90dG9tOjA7IG1hcmdpbi1sZWZ0OjA7IHBhZGRpbmctbGVmdDowOyAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB0ZXh0LXNoYWRvdzogbm9uZSI+PGltZwoJCQkJCQkJCQkJCQkJCQlhbHQ9IkVtYWlsIHVzIiBib3JkZXI9IjAiCgkJCQkJCQkJCQkJCQkJCXNyYz0iaHR0cDovL2h0bWwtZW1haWxzLTM2OTIzLnMzLmFtYXpvbmF3cy5jb20vaHRtbC1lbWFpbHMvaW1hZ2VzL2ltYWdlLTcxNWNmZWU1NGNkYjJhODc3NmJhMTg1ZmNmZDE0YmY5MDIzZTZiNjIuanBnIgoJCQkJCQkJCQkJCQkJCQlzdHlsZT0iYm9yZGVyOiAwOyBjb2xvcjogIzAwMDAwMSAhaW1wb3J0YW50OyBkaXNwbGF5OiBibG9jazsgaGVpZ2h0OiAzM3B4OyBsaW5lLWhlaWdodDogMTsgbWF4LWhlaWdodDogMzNweDsgbWF4LXdpZHRoOiA0MnB4OyBtaW4taGVpZ2h0OiAzM3B4OyBtaW4td2lkdGg6IDQycHg7IHdpZHRoOiA0MnB4Ii8+PC9hPgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCSRwZXJJdGVtID0gTWFnZTo6Z2V0TW9kZWwoJ3BlcnNvbmFsaXphdGlvbnMvcGVyc29uYWxpemF0aW9uc19pdGVtJyktPmxvYWQoJHBlckl0ZW1JZCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>E</text>
       </register>
       <register name="6" type="4">
-        <text>perItem</text>
+        <text>Y</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9wYWdlcy9UaGUtR2lmdC1DYXJkLVNob3AvMzMzMzU4MDE2ODU0NTEzIgoJCQkJCQkJCQkJCQkJICAgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJWaXNpdCB1cyBvbiBGYWNlYm9vayIKCQkJCQkJCQkJCQkJCSAgIHN0eWxlPSJib3JkZXI6IG5vbmU7IGNvbG9yOiAjNjI2MzcwICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBmb250LXNpemU6IDEwcHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC13ZWlnaHQ6IDQwMDsgbGluZS1oZWlnaHQ6IDE7ICBtYXJnaW4tdG9wOjA7IHBhZGRpbmctdG9wOjA7IG1hcmdpbi1yaWdodDowOyBwYWRkaW5nLXJpZ2h0OjA7IG1hcmdpbi1ib3R0b206MDsgcGFkZGluZy1ib3R0b206MDsgbWFyZ2luLWxlZnQ6MDsgcGFkZGluZy1sZWZ0OjA7ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7IHRleHQtc2hhZG93OiBub25lIj48aW1nCgkJCQkJCQkJCQkJCQkJCWFsdD0iVmlzaXQgdXMgb24gRmFjZWJvb2siIGJvcmRlcj0iMCIKCQkJCQkJCQkJCQkJCQkJc3JjPSJodHRwOi8vaHRtbC1lbWFpbHMtMzY5MjMuczMuYW1hem9uYXdzLmNvbS9odG1sLWVtYWlscy9pbWFnZXMvaW1hZ2UtOTY0NzNhNzgyZGEwZmEzNmIwODA3OTU3MzgwOTNkMDIyYTc3NTEwZS5qcGciCgkJCQkJCQkJCQkJCQkJCXN0eWxlPSJib3JkZXI6IDA7IGNvbG9yOiAjMDAwMDAxICFpbXBvcnRhbnQ7IGRpc3BsYXk6IGJsb2NrOyBoZWlnaHQ6IDMzcHg7IGxpbmUtaGVpZ2h0OiAxOyBtYXgtaGVpZ2h0OiAzM3B4OyBtYXgtd2lkdGg6IDQycHg7IG1pbi1oZWlnaHQ6IDMzcHg7IG1pbi13aWR0aDogNDJweDsgd2lkdGg6IDQycHgiLz48L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>ItemId</text>
+        <text>perItemId</text>
       </register>
       <register name="8" type="4">
-        <text>ItemId</text>
+        <text>H</text>
       </register>
     </registers>
     <search>
