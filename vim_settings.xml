@@ -10,7 +10,11 @@
         <mark key="[" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/Helper/Data.php" timestamp="1524079115024" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1524084329042" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1524152976244">
+        <mark key="]" line="1187" column="0" />
+        <mark key="." line="1187" column="0" />
+        <mark key="[" line="1187" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1524083921677">
         <mark key="]" line="1085" column="0" />
         <mark key="^" line="1085" column="0" />
@@ -22,6 +26,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/adminhtml/default/default/template/emailTracking/order/view/tab/emailTracking.phtml" timestamp="1524004905855">
         <mark key="^" line="48" column="48" />
+      </file>
+      <file name="/a.dummy" timestamp="1524152956596">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1523896529231">
         <mark key="[" line="0" column="0" />
@@ -174,7 +181,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJfSBlbHNlaWYgKCR0aGlzLT5fZ2V0SGVscGVyKCktPmlzR2lmdFRva2VuKCRzdWJQcm9kdWN0KSkgewoJCQkJCQkJLy90aWNrZXQgIzQyOTkgcmVkaXJlY3QgdG8gb2xkIHBhZ2UgdGVtcG9yYXJpbHkKCQkJCQkJCSR1cmwgPSAiL3BlcnNvbmFsaXphdGlvbnMvcHJldmlldy90b2tlbm9mL2lkLyIgLiAkc2NoZWR1bGVJZCAuICIvdG9rZW4vIiAuIHJhd3VybGVuY29kZSgkdG9rZW4pIC4gIj9wPTEiOwoJCQkJCQkJJHRoaXMtPl9yZWRpcmVjdFVybCgkdXJsKTsKCQkJCQkJCXJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkcGVySXRlbS0+Z2V0SXNEaWdpdGFsKCkpIHt9Cg==</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -183,34 +190,34 @@
         <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="2" type="4">
         <text>s</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQkJCQkJfSBlbHNlaWYgKCR0aGlzLT5fZ2V0SGVscGVyKCktPmlzR2lmdFRva2VuKCRzdWJQcm9kdWN0KSkgewoJCQkJCQkJLy90aWNrZXQgIzQyOTkgcmVkaXJlY3QgdG8gb2xkIHBhZ2UgdGVtcG9yYXJpbHkKCQkJCQkJCSR1cmwgPSAiL3BlcnNvbmFsaXphdGlvbnMvcHJldmlldy90b2tlbm9mL2lkLyIgLiAkc2NoZWR1bGVJZCAuICIvdG9rZW4vIiAuIHJhd3VybGVuY29kZSgkdG9rZW4pIC4gIj9wPTEiOwoJCQkJCQkJJHRoaXMtPl9yZWRpcmVjdFVybCgkdXJsKTsKCQkJCQkJCXJldHVybjsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkcGVySXRlbS0+Z2V0SXNEaWdpdGFsKCkpIHt9Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJfSBlbHNlaWYgKCR0aGlzLT5fZ2V0SGVscGVyKCktPmlzR2lmdFRva2VuKCRzdWJQcm9kdWN0KSkgewo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHx8ICR0aGlzLT5fZ2V0SGVscGVyKA==</text>
-      </register>
-      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>-</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Pg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text encoding="base64">IHx8ICR0aGlzLT5fZ2V0SGVscGVyKA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IHx8ICR0aGlzLT5fZ2V0SGVscGVyKA==</text>
