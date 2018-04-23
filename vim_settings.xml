@@ -39,6 +39,12 @@
         <mark key="." line="8" column="36" />
         <mark key="[" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/bonefish/template/personalizations/gifttokens/bonefishBlock.phtml" timestamp="1524503931724">
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="[" line="26" column="33" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Company/controllers/SettingController.php" timestamp="1517342387077">
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
@@ -96,9 +102,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1524502424294">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1516209250055">
         <mark key="]" line="514" column="12" />
@@ -338,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpdiA9ICI8ZGl2IGNsYXNzPSdzZW50aW1lbnRfaXRlbScgZGF0YS1lbnRpdHktaWQ9J3VwbG9hZCc+IjsKICAgICAgICAgICAgZGl2ICs9ICI8aW1nIHNyYz0nL3NraW4vZnJvbnRlbmQvZ2NpL2dpZnRjYXJkc2hvcHYyL2ltYWdlcy9naWZ0dG9rZW5zL2Rlc2lnbi91cGxvYWRfcGhvdG8ucG5nJyAvPiI7CiAgICAgICAgICAgIGRpdiArPSAiPC9kaXY+IjsKICAgICAgICAgICAgc2VudGltZW50T3Zlckxpc3QuYXBwZW5kKGRpdik7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -347,37 +350,37 @@
         <text>vestadirect</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0WyJmdWxmaWxsbWVudF9tZXRob2RzIl0sICJvbW5pY2FyZCIpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpdiA9ICI8ZGl2IGNsYXNzPSdzZW50aW1lbnRfaXRlbScgZGF0YS1lbnRpdHktaWQ9J3VwbG9hZCc+IjsKICAgICAgICAgICAgZGl2ICs9ICI8aW1nIHNyYz0nL3NraW4vZnJvbnRlbmQvZ2NpL2dpZnRjYXJkc2hvcHYyL2ltYWdlcy9naWZ0dG9rZW5zL2Rlc2lnbi91cGxvYWRfcGhvdG8ucG5nJyAvPiI7CiAgICAgICAgICAgIGRpdiArPSAiPC9kaXY+IjsKICAgICAgICAgICAgc2VudGltZW50TGlzdC5hcHBlbmQoZGl2KTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpdiA9ICI8ZGl2IGNsYXNzPSdzZW50aW1lbnRfaXRlbScgZGF0YS1lbnRpdHktaWQ9J3VwbG9hZCc+IjsKICAgICAgICAgICAgZGl2ICs9ICI8aW1nIHNyYz0nL3NraW4vZnJvbnRlbmQvZ2NpL2dpZnRjYXJkc2hvcHYyL2ltYWdlcy9naWZ0dG9rZW5zL2Rlc2lnbi91cGxvYWRfcGhvdG8ucG5nJyAvPiI7CiAgICAgICAgICAgIGRpdiArPSAiPC9kaXY+IjsKICAgICAgICAgICAgc2VudGltZW50T3Zlckxpc3QuYXBwZW5kKGRpdik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpdiA9ICI8ZGl2IGNsYXNzPSdzZW50aW1lbnRfaXRlbScgZGF0YS1lbnRpdHktaWQ9J3VwbG9hZCc+IjsKICAgICAgICAgICAgZGl2ICs9ICI8aW1nIHNyYz0nL3NraW4vZnJvbnRlbmQvZ2NpL2dpZnRjYXJkc2hvcHYyL2ltYWdlcy9naWZ0dG9rZW5zL2Rlc2lnbi91cGxvYWRfcGhvdG8ucG5nJyAvPiI7CiAgICAgICAgICAgIGRpdiArPSAiPC9kaXY+IjsKICAgICAgICAgICAgc2VudGltZW50TGlzdC5hcHBlbmQoZGl2KTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0WyJmdWxmaWxsbWVudF9tZXRob2RzIl0sICJnaWZ0YW5nbyIpOwo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>vestadirect</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0WyJmdWxmaWxsbWVudF9tZXRob2RzIl0sICJzdnMiKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>vestadirect</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0WyJmdWxmaWxsbWVudF9tZXRob2RzIl0sICJvbW5pY2FyZCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCdoZXJlMjogJyAuIGpzb25fZW5jb2RlKCRyZXN1bHQpLCBudWxsLCAncGF5bWVudHMubG9nJyk7Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>vestadirect</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0WyJmdWxmaWxsbWVudF9tZXRob2RzIl0sICJnaWZ0YW5nbyIpOwo=</text>
       </register>
     </registers>
     <search>
