@@ -100,9 +100,6 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1524665258158">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Radialpaymentmethod/Helper/Data.php" timestamp="1516209250055">
         <mark key="]" line="514" column="12" />
         <mark key="." line="514" column="12" />
@@ -163,6 +160,12 @@
         <mark key="]" line="90" column="76" />
         <mark key="." line="90" column="76" />
         <mark key="[" line="90" column="75" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/navigation/top.phtml" timestamp="1524666514719">
+        <mark key="]" line="77" column="42" />
+        <mark key="^" line="76" column="147" />
+        <mark key="." line="77" column="0" />
+        <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopb2c/template/persistent/checkout/onepage/billingv2.phtml" timestamp="1524169556115">
         <mark key="]" line="94" column="76" />
@@ -345,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJvZHkgPSAkc2VuZGVyX25hbWUgLiAiIGhhcyBzZW50IHlvdSBhIGdpZnQgZnJvbSAiIC4gJHByb2R1Y3RfbmFtZSAuICIhICIgLiAkc2hvcnR1cmxfZnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBpZD0iZGl2aWRlci1oZWFkZXIiPnw8L3NwYW4+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -363,7 +366,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGJvZHkgPSAkc2VuZGVyX25hbWUgLiAiIGhhcyBzZW50IHlvdSBhIGdpZnQgZnJvbSAiIC4gJHByb2R1Y3RfbmFtZSAuICIhICIgLiAkc2hvcnR1cmxfZnVsbDsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vR2V0IG1hbnVmYWN0dXJlcnMgaWQgZnJvbSBtYW51ZmFjdHVyZXJzX3Byb2R1Y3RzIHRhYmxlCiAgICAgICAgICAgICAgICAkbWFudWZhY3R1cmVycyA9IE1hZ2U6OmdldE1vZGVsKCdtYW51ZmFjdHVyZXJzL21hbnVmYWN0dXJlcnMnKS0+Y2hlY2tNYW51ZmFjdHVyZXIoKHN0cmluZykkX3Byb2R1Y3QtPmdldElkKCkpOwoKICAgICAgICAgICAgICAgICRtYW51ZmFjdHVyZXJzX25hbWUgPSAiIjsKICAgICAgICAgICAgICAgIGlmICgkbWFudWZhY3R1cmVycyAhPSBudWxsICYmIGNvdW50KCRtYW51ZmFjdHVyZXJzKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAkbWFudWZhY3R1cmVyc19uYW1lID0gIiBmcm9tICIgLiAkbWFudWZhY3R1cmVyc1swXVsibV9uYW1lIl07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkbWFudWZhY3R1cmVyc19uYW1lID0gc3RyX2lyZXBsYWNlKCIuY29tIiwgIiIsICRtYW51ZmFjdHVyZXJzX25hbWUpOwogICAgICAgICAgICAgICAgJGJvZHkgPSAkc2VuZGVyX25hbWUgLiAiIGhhcyBzZW50IHlvdSBhIGdpZnQiIC4gJG1hbnVmYWN0dXJlcnNfbmFtZSAuICIhICIgLiAkc2hvcnR1cmxfZnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBpZD0iZGl2aWRlci1oZWFkZXIiPnw8L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
