@@ -40,7 +40,6 @@
         <mark key="." line="8" column="36" />
         <mark key="[" line="8" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1525191538364" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/sounds/style.less" timestamp="1524244831747">
         <mark key="]" line="225" column="19" />
         <mark key="^" line="225" column="19" />
@@ -52,6 +51,9 @@
         <mark key="^" line="26" column="44" />
         <mark key="." line="26" column="44" />
         <mark key="[" line="26" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/skininfo.txt" timestamp="1525192920778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/digital/landing/index_alternative.phtml" timestamp="1525191575396">
         <mark key="]" line="39" column="123" />
@@ -179,46 +181,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>26B3CB</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>26B3CB</text>
       </register>
       <register name="3" type="4">
-        <text>B</text>
-      </register>
-      <register name="2" type="4">
         <text>;</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>26B3CB</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LnByaW1hcnktY29sb3IgewogICAgY29sb3I6ICNkYTJkMjU7Cn0KLnByaW1hcnktYm9yZGVyLWNvbG9yIHsKICAgIGNvbG9yOiAjZGEyZDI1Owp9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>6</text>
-      </register>
-      <register name="6" type="4">
         <text>B</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>3</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>C</text>
+      </register>
+      <register name="4" type="4">
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
