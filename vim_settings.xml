@@ -79,11 +79,11 @@
         <mark key="." line="131" column="0" />
         <mark key="[" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Store/Observer.php" timestamp="1525380126098">
-        <mark key="]" line="164" column="66" />
-        <mark key="^" line="164" column="66" />
-        <mark key="." line="164" column="66" />
-        <mark key="[" line="164" column="57" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Store/Observer.php" timestamp="1525453438258">
+        <mark key="]" line="337" column="66" />
+        <mark key="^" line="337" column="66" />
+        <mark key="." line="337" column="66" />
+        <mark key="[" line="337" column="61" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarpmobile/template/page/html/header.phtml" timestamp="1525379646672">
         <mark key="]" line="127" column="0" />
@@ -216,8 +216,8 @@
       <jump line="373" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS1PY2Nhc3Npb25zIExpc3QK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -226,37 +226,37 @@
         <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="2" type="4">
-        <text>l</text>
-      </register>
-      <register name="1" type="4">
         <text>e</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">LS1PY2Nhc3Npb25zIExpc3QK</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCU1hZ2U6OmdldERlc2lnbigpLT5zZXRUaGVtZSgndGVtcGxhdGUnLCAnZ2lmdGNhcmRtb2JpbGViMmMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWdlOjpnZXREZXNpZ24oKS0+c2V0VGhlbWUoJ3NraW4nLCAnYWFycCcpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>giftcardmobileb2c</text>
-      </register>
-      <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="5" type="4">
         <text>b</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>m</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>giftcardmobileb2c</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FydEljb24gPSAiL3NraW4vZnJvbnRlbmQvZ2NpL2dpZnRjYXJkc2hvcC9pbWFnZXMvaW1hZ2VzL2FsYWdpZnQvY2FydF9pY29uX21vYmlsZV9hY3RpdmUucG5nIjsK</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
     </registers>
     <search>
