@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/800f/template/personalizations/800f/products/product.phtml" timestamp="1525719444993">
+        <mark key="]" line="11" column="49" />
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/page/html/header.phtml" timestamp="1525703912562">
         <mark key="]" line="45" column="12" />
         <mark key="[" line="39" column="0" />
@@ -24,12 +28,6 @@
         <mark key="^" line="26" column="44" />
         <mark key="." line="26" column="44" />
         <mark key="[" line="26" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1525709669706">
-        <mark key="]" line="1780" column="69" />
-        <mark key="^" line="1425" column="68" />
-        <mark key="." line="1780" column="0" />
-        <mark key="[" line="1780" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/page/preview.phtml" timestamp="1525702928364">
         <mark key="]" line="21" column="269" />
@@ -63,6 +61,12 @@
         <mark key="^" line="131" column="59" />
         <mark key="." line="131" column="0" />
         <mark key="[" line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/800fmobile/template/personalizations/800f/products/product.phtml" timestamp="1525719603349">
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Store/Observer.php" timestamp="1525455416903">
         <mark key="]" line="336" column="0" />
@@ -254,47 +258,47 @@
       <jump line="373" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSA9PSBzZWxmOjpCMkIyMF9DT0RFCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>//change to b2b to block b2b</text>
+        <text>/</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
-      </register>
-      <register name="2" type="4">
-        <text>//change to b2b to block b2b</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="4">
+        <text>/</text>
+      </register>
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgTWFnZTo6YXBwKCktPmdldFN0b3JlKCktPmdldENvZGUoKSA9PSBzZWxmOjpCMkIyMF9DT0RFCg==</text>
+        <text encoding="base64">JF9jdXJyZW50Q2F0ID0gTWFnZTo6cmVnaXN0cnkoJ2N1cnJlbnRfY2F0ZWdvcnknKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
-      </register>
-      <register name="6" type="4">
-        <text>_</text>
-      </register>
-      <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>l</text>
+      </register>
+      <register name="5" type="4">
+        <text>d</text>
+      </register>
+      <register name="4" type="4">
+        <text>//change to b2b to block b2b</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JF9jYXRlZ29yeS0+Z2V0RGF0YSgnaW1hZ2UnKQ==</text>
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRjdXN0b21fbHZvZ29fc3JjID0gTWFnZTo6Z2V0U3RvcmVDb25maWcoJ2Rlc2lnbi9oZWFkZXIvbG9nb19zcmMnKTsKICAgICRjdXN0b21fbG9nb19hbHQgPSBNYWdlOjpnZXRTdG9yZUNvbmZpZygnZGVzaWduL2hlYWRlci9sb2dvX2FsdCcpOwo=</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
     </registers>
     <search>
