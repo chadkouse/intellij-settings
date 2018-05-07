@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/page/html/header.phtml" timestamp="1525703912562">
+        <mark key="]" line="45" column="12" />
+        <mark key="[" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/css/styles.min.css" timestamp="1525191544624">
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
@@ -66,6 +70,12 @@
         <mark key="." line="336" column="0" />
         <mark key="[" line="336" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/preview/digital_v2.phtml" timestamp="1525704227009">
+        <mark key="]" line="82" column="28" />
+        <mark key="^" line="77" column="26" />
+        <mark key="." line="82" column="13" />
+        <mark key="[" line="82" column="13" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/generic/product_types.phtml" timestamp="1525703211610">
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
@@ -126,6 +136,10 @@
         <mark key="^" line="120" column="88" />
         <mark key="." line="127" column="0" />
         <mark key="[" line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Page/Block/Html/Header.php" timestamp="1525704191189">
+        <mark key="]" line="68" column="85" />
+        <mark key="[" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" timestamp="1524754131640">
         <mark key="]" line="54" column="75" />
@@ -237,47 +251,47 @@
       <jump line="373" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>logoSrc</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>logoSrc</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>logoSrc</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>logoSrc</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>logoSrc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFZhbGlkYXRpb24uYWRkKCd2YWxpZGF0ZS1hYXJwY29kZScsJ1dyb25nIGNvZGUgc3VwcGxpZWQnLGZ1bmN0aW9uKGZpZWxkX3ZhbHVlKSB7CiAgICAgICAgdmFyIGRhdGE9bmV3IEFqYXguUmVxdWVzdCgnPD9waHAgZWNobyBNYWdlOjpnZXRCYXNlVXJsKE1hZ2VfQ29yZV9Nb2RlbF9TdG9yZTo6VVJMX1RZUEVfTElOSywgdHJ1ZSk7ID8+YWFycHZhbGlkYXRpb24vdmFsaWRhdGUvY29kZScsIHsKICAgICAgICAgICAgbWV0aG9kOiAnZ2V0JywKICAgICAgICAgICAgYXN5bmNocm9ub3VzOiBmYWxzZSwKICAgICAgICAgICAgcGFyYW1ldGVyczoge3ZlcmlmeTogZmllbGRfdmFsdWV9CiAgICAgICAgfSk7CiAgICAgICAgdmFyIHJlc3BvbnNlID0gSlNPTi5wYXJzZShkYXRhLnRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwogICAgICAgIHJldHVybiByZXNwb25zZS5zdGF0dXM7CiAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>custom_logo_src</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text encoding="base64">JHRoaXMtPmdldExvZ29TcmMoKTs=</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>y</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNraW4vZnJvbnRlbmQvZ2NpL2IyYi9pbWFnZXMvbG9nby5wbmcK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PC9jZW50ZXI+</text>
+        <text encoding="base64">JHRoaXMtPmdldExvZ29TcmMoKTsKICAgICA=</text>
       </register>
     </registers>
     <search>
