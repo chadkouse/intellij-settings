@@ -43,6 +43,7 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/page/additional.less" timestamp="1525910705561" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/checkoutonepage.less" timestamp="1525890431992">
         <mark key="'" line="2124" column="26" />
         <mark key="]" line="1" column="33" />
@@ -70,7 +71,7 @@
         <mark key="." line="484" column="129" />
         <mark key="[" line="484" column="129" />
       </file>
-      <file name="/a.dummy" timestamp="1525909380610">
+      <file name="/a.dummy" timestamp="1525910583621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/js/digital_v2/htmlcard.styles.less" timestamp="1525909394442">
@@ -93,11 +94,11 @@
         <mark key="." line="0" column="25" />
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/checkoutonepage_out.less" timestamp="1525889379473">
-        <mark key="]" line="2" column="8" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/checkoutonepage_out.less" timestamp="1525910564225">
+        <mark key="]" line="0" column="34" />
         <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="[" line="2" column="2" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/email/style.less" timestamp="1525889730378">
         <mark key="]" line="1" column="36" />
@@ -224,8 +225,8 @@
         <mark key="[" line="3259" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/skininfo.txt" timestamp="1525874779077" />
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/checkoutonepage_mobile.less" timestamp="1525890434531">
-        <mark key="]" line="1" column="34" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/checkoutonepage_mobile.less" timestamp="1525910560633">
+        <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -346,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmaWx0ZXI6IHByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5NYXRyaXgoTTExPWNvcyjOuCksIE0xMj0tc2luKM64KSwgTTIxPXNpbijOuCksIE0yMj1jb3MozrgpLCBTaXppbmdNZXRob2Q9ImF1dG8gZXhwYW5kIik7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnL21haW4vdmFyaWFibGVzJzsK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -355,13 +356,13 @@
         <text>da2d25</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
-      </register>
-      <register name="2" type="4">
         <text>da2d25</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICBmaWx0ZXI6IHByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5NYXRyaXgoTTExPWNvcyjOuCksIE0xMj0tc2luKM64KSwgTTIxPXNpbijOuCksIE0yMj1jb3MozrgpLCBTaXppbmdNZXRob2Q9ImF1dG8gZXhwYW5kIik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">QGltcG9ydCAnL21haW4vdmFyaWFibGVzJzsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi4vdGhlbWUvbWFpbi92YXJpYWJsZXMiOwo=</text>
@@ -369,14 +370,14 @@
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QGltcG9ydCAiLi4vdGhlbWUvbWFpbi92YXJpYWJsZXMiOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBTYWZhcmk=</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
