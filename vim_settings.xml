@@ -205,7 +205,8 @@
         <mark key="." line="384" column="69" />
         <mark key="[" line="384" column="69" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1525981813748">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1527008124794">
+        <mark key="'" line="30" column="38" />
         <mark key="]" line="344" column="201" />
         <mark key="." line="344" column="201" />
         <mark key="[" line="344" column="200" />
@@ -423,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/animation/design/style.css" />
       <jump line="100" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
       <jump line="83" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
       <jump line="1994" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
@@ -523,6 +523,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/html5-message-manager.js" />
       <jump line="3643" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
