@@ -116,22 +116,17 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_nogift_email.html" timestamp="1525981817565">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_nogift_email.html" timestamp="1527015111123">
         <mark key="]" line="344" column="201" />
+        <mark key="^" line="535" column="223" />
         <mark key="." line="344" column="201" />
         <mark key="[" line="344" column="200" />
-      </file>
-      <file name="/a.txt" timestamp="1526658652788">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Customer/controllers/AccountController.php" timestamp="1526992479314">
         <mark key="]" line="544" column="87" />
         <mark key="^" line="545" column="38" />
         <mark key="." line="545" column="40" />
         <mark key="[" line="544" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/js/digital_v2/htmlcard.styles.less" timestamp="1525909394442">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/ebay_catalog.less" timestamp="1525890455541">
         <mark key="]" line="1" column="34" />
@@ -144,9 +139,6 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="[" line="12" column="53" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Company/Model/Customer/Observer.php" timestamp="1526933110254">
-        <mark key="[" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/checkoutonepage_out.less" timestamp="1525889196697">
         <mark key="]" line="0" column="25" />
@@ -205,14 +197,12 @@
         <mark key="." line="384" column="69" />
         <mark key="[" line="384" column="69" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1527008124794">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1527015106612">
         <mark key="'" line="30" column="38" />
         <mark key="]" line="344" column="201" />
+        <mark key="^" line="721" column="223" />
         <mark key="." line="344" column="201" />
         <mark key="[" line="344" column="200" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/style.less" timestamp="1525889206344">
-        <mark key="[" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1526992177010">
         <mark key="]" line="33" column="41" />
@@ -266,11 +256,11 @@
         <mark key="." line="94" column="35" />
         <mark key="[" line="94" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Corpbudget/Helper/Data.php" timestamp="1526995677692">
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
-        <mark key="[" line="34" column="47" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Corpbudget/Helper/Data.php" timestamp="1527015622825">
+        <mark key="]" line="41" column="64" />
+        <mark key="^" line="41" column="64" />
+        <mark key="." line="41" column="64" />
+        <mark key="[" line="41" column="61" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/product/delivery/main.less" timestamp="1525890215862">
         <mark key="]" line="1" column="39" />
@@ -338,9 +328,6 @@
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526661341175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/html5-personalizations-mobile.less" timestamp="1525890110879">
@@ -526,38 +513,38 @@
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXNldExvYWRXYWl0aW5nKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>_Session</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>Mage_Checkout_Model_Session</text>
-      </register>
-      <register name="2" type="4">
         <text>_Session</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXNldExvYWRXYWl0aW5nKCk7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>false</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JG9yZGVyID0gTWFnZTo6Z2V0TW9kZWwoJ3NhbGVzL29yZGVyJyktPmxvYWQoJGluY3JlbWVudElkLCAnaW5jcmVtZW50X2lkJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>ServiceFee</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">JGhlbHBlciA9IE1hZ2U6OmhlbHBlcignZ2NpX2Nvb3BlcicpOwokaGVscGVyLT5zZW5kUmVjb2duaXRpb25NZXNzYWdlcygkb3JkZXIpOwpNYWdlOjpoZWxwZXIoJ2djaV9jb3JwYnVkZ2V0JyktPm9wdGltaXN0aWNhbGx5RGVkdWN0QnVkZ2V0KCRvcmRlcik7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dGhpcy0+Z2V0T3JkZXI=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkc2Vzc2lvbi0+Z2V0TGEK</text>
+      </register>
+      <register name="4" type="4">
+        <text>Mage_Checkout_Model_Session</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -565,8 +552,8 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>ServiceFee</text>
       </register>
     </registers>
     <search>
