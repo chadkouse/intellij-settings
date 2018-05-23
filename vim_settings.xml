@@ -341,11 +341,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/checkout/cart/item/defaultv2.phtml" timestamp="1527090180696">
-        <mark key="]" line="80" column="41" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/checkout/cart/item/defaultv2.phtml" timestamp="1527091322741">
+        <mark key="]" line="74" column="51" />
         <mark key="^" line="80" column="41" />
         <mark key="." line="80" column="41" />
-        <mark key="[" line="79" column="9" />
+        <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/styles.min.less" timestamp="1525889923666">
         <mark key="]" line="1" column="37" />
@@ -512,8 +512,8 @@
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Sentiment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -522,37 +522,37 @@
         <text>Sentiment</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0aWNrZXIgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>perItem</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Sentiment</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRwcm9kdWN0R3JlZXRpbmdDYXJkID0gTWFnZTo6Z2V0TW9kZWwoImNhdGFsb2cvcHJvZHVjdCIpLT5sb2FkKCRwZXJJdGVtLT5nZXRIb2xkZXJJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGV4dF9hZGp1c3RtZW50ID0gJHBlckl0ZW0tPmdldFRleHRBZGp1c3RtZW50KCk7CiAgICAgICAgJGpzb24gPSBqc29uX2RlY29kZSgkdGV4dF9hZGp1c3RtZW50KTsKICAgICAgICBpZiAoJGpzb24tPm1lc3NhZ2VfaWQtPnZpcnR1YWxfd3JhcC0+bmFtZSkgewo=</text>
       </register>
       <register name="7" type="4">
-        <text>I</text>
+        <text>perItem</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>Sentiment</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGpzb24gPSAkcGVySXRlbQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHN0aWNrZXIgPSAK</text>
       </register>
     </registers>
     <search>
