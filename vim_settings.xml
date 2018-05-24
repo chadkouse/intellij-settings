@@ -161,10 +161,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1527173298963">
-        <mark key="]" line="6196" column="138" />
-        <mark key="." line="6196" column="138" />
-        <mark key="[" line="6196" column="137" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1527189170461">
+        <mark key="]" line="6253" column="0" />
+        <mark key="^" line="6252" column="27" />
+        <mark key="." line="6253" column="0" />
+        <mark key="[" line="6253" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/preview.less" timestamp="1525889234442">
         <mark key="]" line="0" column="36" />
@@ -246,11 +247,10 @@
         <mark key="." line="94" column="35" />
         <mark key="[" line="94" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Corpbudget/Helper/Data.php" timestamp="1527015722645">
-        <mark key="]" line="41" column="64" />
-        <mark key="^" line="41" column="64" />
-        <mark key="." line="41" column="64" />
-        <mark key="[" line="41" column="61" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Corpbudget/Helper/Data.php" timestamp="1527189128070">
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="12" />
+        <mark key="[" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/product/delivery/main.less" timestamp="1525890215862">
         <mark key="]" line="1" column="39" />
@@ -513,47 +513,47 @@
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U2VydmljZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkaXNfdmFsaWRfcmVzdWx0ID0gJGhlbHBlci0+dmFsaWRhdGVSZWNpcGllbnQoYXJyYXkoJ2VtYWlsJz0+JHJlY2lwaWVudF9lbWFpbCkpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VydmljZSA=</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>system</text>
+        <text>getEstimatedCurrentUserBalance</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">U2VydmljZSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkaXNfdmFsaWRfcmVzdWx0ID0gJGhlbHBlci0+dmFsaWRhdGVSZWNpcGllbnQoYXJyYXkoJ2VtYWlsJz0+JHJlY2lwaWVudF9lbWFpbCkpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWdlOjpsb2coIkVycm9yIGFkZGluZyB0b2tlbjogIiAuICRxdW90ZUl0ZW1NYWluLCBudWxsLCAnZXhjZXB0aW9uLmxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1ldGVycyA9ICR0aGlzLT5nZXRSZXF1ZXN0KCktPmdldFBhcmFtcygpOwogICAgICAgICRyZWNpcGllbnRfZW1haWwgPSAkcGFyYW1ldGVyc1snZW1haWwnXTsKCiAgICAgICAgJGhlbHBlciA9IE1hZ2U6OmhlbHBlcignZ2NpX2Nvb3BlcicpOwogICAgICAgICRpc192YWxpZF9yZXN1bHQgPSAkaGVscGVyLT52YWxpZGF0ZVJlY2lwaWVudChhcnJheSgnZW1haWwnPT4kcmVjaXBpZW50X2VtYWlsKSk7CgogICAgICAgIGlmIChhcnJheV9rZXlfZXhpc3RzKCdlcnInLCAkaXNfdmFsaWRfcmVzdWx0KSB8fCAhJGlzX3ZhbGlkX3Jlc3VsdFsndmFsaWQnXSkgewogICAgICAgICAgICAkcmVzcG9uc2UgPSBhcnJheSgKICAgICAgICAgICAgICAgICJzdGF0dXMiID0+IDEsCiAgICAgICAgICAgICAgICAiZGF0YSIgPT4gIiIsCiAgICAgICAgICAgICAgICAiY29kZSIgPT4gNDAwLAogICAgICAgICAgICAgICAgIm1lc3NhZ2UiID0+ICRpc192YWxpZF9yZXN1bHRbJ21lc3NhZ2UnXQogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRyZXNwb25zZSA9IGFycmF5KAogICAgICAgICAgICAgICAgInN0YXR1cyIgPT4gMSwKICAgICAgICAgICAgICAgICJkYXRhIiA9PiAiIiwKICAgICAgICAgICAgICAgICJjb2RlIiA9PiAyMDAsCiAgICAgICAgICAgICAgICAibWVzc2FnZSIgPT4gIk9LIgogICAgICAgICAgICApOwogICAgICAgIH0KICAgICAgICBlY2hvIGpzb25fZW5jb2RlKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>recipient_email</text>
+      </register>
+      <register name="4" type="4">
+        <text>email</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>Sentiment</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkaGVscGVyID0gTWFnZTo6aGVscGVyKCdnY2lfY29vcGVyJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGpzb24gPSAkcGVySXRlbQo=</text>
+      <register name="8" type="4">
+        <text>mail</text>
       </register>
     </registers>
     <search>
