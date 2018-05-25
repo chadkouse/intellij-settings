@@ -161,11 +161,10 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1527257442038">
-        <mark key="]" line="4711" column="0" />
-        <mark key="^" line="4709" column="54" />
-        <mark key="." line="4711" column="0" />
-        <mark key="[" line="4711" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1527260232612">
+        <mark key="]" line="3960" column="0" />
+        <mark key="." line="3960" column="0" />
+        <mark key="[" line="3960" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/preview.less" timestamp="1525889234442">
         <mark key="]" line="0" column="36" />
@@ -514,46 +513,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlcnZpY2VfZmVlID0gZmxvYXR2YWwoJHNlcnZpY2VfZmVlKTsK</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>coupon_code</text>
+        <text>Id</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdC0+Z2V0Cg==</text>
+      <register name="3" type="4">
+        <text>Id</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRxdW90ZU9iagogICAgICogQHBhcmFtIG51bGwgJHRyYW5zYWN0aW9uSWQKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8K</text>
+      <register name="2" type="4">
+        <text>Id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlcnZpY2VfZmVlID0gZmxvYXR2YWwoJHNlcnZpY2VfZmVlKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRwb3N0RGF0YVsndHJhbnNhY3Rpb25JbmZvJ11bJ3Byb21vX2NvZGUnXSkpIHsKICAgICAgICAgICAgICAgICRjb3Vwb25fY29kZSA9ICRwb3N0RGF0YVsndHJhbnNhY3Rpb25JbmZvJ11bJ3Byb21vX2NvZGUnXTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>promo_code</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>coupon_code</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdC0+Z2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRxdW90ZU9iagogICAgICogQHBhcmFtIG51bGwgJHRyYW5zYWN0aW9uSWQKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>fee</text>
+        <text>coupon_code</text>
       </register>
-      <register name="8" type="4">
-        <text>promo_code</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
