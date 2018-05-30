@@ -182,11 +182,10 @@
         <mark key="." line="4" column="26" />
         <mark key="[" line="43" column="104" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1526992662805">
-        <mark key="]" line="90" column="67" />
-        <mark key="^" line="90" column="67" />
-        <mark key="." line="90" column="67" />
-        <mark key="[" line="90" column="53" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/digital/landing/index.phtml" timestamp="1527706864947">
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/layout/product.xml" timestamp="1525889964420">
         <mark key="]" line="384" column="69" />
@@ -535,47 +534,47 @@
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">PCEtLSAgICA8ZGl2IGNsYXNzPSJzcG90LXJld2FyZHMtdGl0bGUiPjxzcGFuIGNsYXNzPSJ0aXRsZS1zcG90Ij5TcG90IFJld2FyZHMgPC9zcGFuPjxzcGFuIGNsYXNzPSJ0aXRsZS11bmRlciI+R2lmdCBUb2tlbnMmcmVnOzwvc3Bhbj48L2Rpdj4tLT4KPCEtLSAgICA8ZGl2IGNsYXNzPSJ0ZXh0LXNwb3QiPlNlbmQgYnkgdGV4dCBvciBlbWFpbCBpbiBzZWNvbmRzISBSZWNvZ25pemUgYSBIZXJvIG9uLXRoZS1zcG90IHdpdGggYSBHaWZ0IFRva2VuJnJlZzsgcmV3YXJkLjwvZGl2Pi0tPgo8IS0tICAgIDxkaXYgY2xhc3M9ImdpZnRjYXJkLWNhcm91c2VscyBnaWZ0Y2FyZC1kaWdpdGFsLWNhcm91c2VsIiBzdHlsZT0iZGlzcGxheTogLS0+PD9waHAgLy9lY2hvICRkZWxpdmVyeVR5cGUgIT0gInBoeXNpY2FsIiA/ICJibG9jayIgOiAibm9uZSIgPz48IS0tIiA+LS0+CjwhLS0gICAgICAgIDxkaXYgY2xhc3M9ImpjYXJvdXNlbCBkaWdpdGFsLWNhcm91c2VsIiBzdHlsZT0iZGlzcGxheTogLS0+PD9waHAgLy9lY2hvICRkZWxpdmVyeVR5cGUgIT0gInBoeXNpY2FsIiA/ICJibG9jayIgOiAibm9uZSIgPz48IS0tIiA+LS0+CjwhLS0gICAgICAgICAgICA8dWwgZGF0YS13aWR0aD0iLS0+PD9waHAgLy9lY2hvICgkYURpZ2l0YWxHaWZ0Q2FyZHNbJ2NvdW50J10gKiAxODApOyA/PjwhLS1weDsiIGNsYXNzPSJkaWdpdGFsLWNhcmQiIHN0eWxlPSJ3aWR0aDotLT48P3BocCAvL2VjaG8gKCRhRGlnaXRhbEdpZnRDYXJkc1snY291bnQnXSAqIDE4MCk7ID8+Cjw/cGhwIC8vZWNobyAkYURpZ2l0YWxHaWZ0Q2FyZHNbJ2h0bWwnXTs/Pgo8IS0tICAgICAgICAgICAgPC91bD4tLT4KPCEtLSAgICAgICAgPC9kaXY+LS0+CjwhLS0tLT4KPCEtLSAgICAgICAgPGEgY2xhc3M9InByZXYgcHJldi1zdGFnZSIgaHJlZj0iamF2YXNjcmlwdDoiIGRhdGEtamNhcm91c2VsY29udHJvbD0idHJ1ZSI+LS0+CjwhLS0gICAgICAgICAgICA8aW1nIHNyYyA9ICItLT48P3BocCAvL2VjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy9odG1sNWRlc2lnbi9jYXJvdXNlbF9hcnJvd19sZWZ0LnBuZycpOyA/PjwhLS0iPi0tPgo8IS0tICAgICAgICA8L2E+LS0+CjwhLS0gICAgICAgIDxhIGNsYXNzPSJuZXh0IG5leHQtc3RhZ2UiIGhyZWY9ImphdmFzY3JpcHQ6IiBkYXRhLWpjYXJvdXNlbGNvbnRyb2w9InRydWUiPi0tPgo8IS0tICAgICAgICAgICAgPGltZyBzcmMgPSAiLS0+PD9waHAgLy9lY2hvICR0aGlzLT5nZXRTa2luVXJsKCdpbWFnZXMvaHRtbDVkZXNpZ24vY2Fyb3VzZWxfYXJyb3dfcmlnaHQucG5nJyk7ID8+PCEtLSI+LS0+CjwhLS0gICAgICAgIDwvYT4tLT4KPCEtLS0tPgo8IS0tICAgIDwvZGl2Pi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRwb3N0RGF0YVsndHJhbnNhY3Rpb25JbmZvJ11bJ3Byb21vX2NvZGUnXSkpIHsKICAgICAgICAgICAgICAgICRjb3Vwb25fY29kZSA9ICRwb3N0RGF0YVsndHJhbnNhY3Rpb25JbmZvJ11bJ3Byb21vX2NvZGUnXTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
