@@ -126,6 +126,9 @@
         <mark key="." line="12" column="21" />
         <mark key="[" line="7" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1527732995258">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Api800f/Helper/Data.php" timestamp="1527731959303">
         <mark key="]" line="1408" column="108" />
         <mark key="[" line="1408" column="0" />
@@ -283,11 +286,11 @@
         <mark key="." line="339" column="0" />
         <mark key="[" line="339" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/TCP/Coupon/controllers/IndexController.php" timestamp="1527732247663">
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="[" line="39" column="79" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/TCP/Coupon/controllers/IndexController.php" timestamp="1527733139136">
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="35" column="30" />
+        <mark key="[" line="35" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/custom.less" timestamp="1525889904422">
         <mark key="]" line="1" column="36" />
@@ -555,46 +558,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;/skin/frontend/gci/tcp/images/coupon/AugustCoupon.png&quot;</text>
+        <text>a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkZGF0YT1NYWdlOjpnZXRTaW5nbGV0b24oImNvdXBvbi90Y3Bjb3Vwb24iKS0+Z2V0Q29sbGVjdGlvbigpLT5hZGRGaWx0ZXIoJ29yZGVyX2lkJywkcGlkKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>}</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCSRjb3Vwb25kYXRhPU1hZ2U6OmdldFNpbmdsZXRvbigiY291cG9uL3RjcGNvdXBvbiIpLT5nZXRDb2xsZWN0aW9uKCktPmFkZEZpbHRlcignb3JkZXJfaWQnLCRwaWQpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>August</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkkb3JkZXIgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMnKS0+Z2V0T3JkZXJCeVBlcnNvbmFsaXphdGlvbklkKCRwaWQpOwo=</text>
+      <register name="9" type="4">
+        <text>August</text>
       </register>
       <register name="8" type="4">
-        <text>\</text>
+        <text>&quot;/skin/frontend/gci/tcp/images/coupon/AugustCoupon.png&quot;</text>
       </register>
     </registers>
     <search>
