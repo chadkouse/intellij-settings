@@ -177,11 +177,6 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" timestamp="1527687996957">
-        <mark key="]" line="3960" column="0" />
-        <mark key="." line="3960" column="0" />
-        <mark key="[" line="3960" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/preview.less" timestamp="1525889234442">
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
@@ -202,13 +197,6 @@
         <mark key="." line="384" column="69" />
         <mark key="[" line="384" column="69" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" timestamp="1527015106612">
-        <mark key="'" line="30" column="38" />
-        <mark key="]" line="344" column="201" />
-        <mark key="^" line="721" column="223" />
-        <mark key="." line="344" column="201" />
-        <mark key="[" line="344" column="200" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1526992177010">
         <mark key="]" line="33" column="41" />
         <mark key="^" line="33" column="40" />
@@ -220,6 +208,10 @@
         <mark key="^" line="75" column="61" />
         <mark key="." line="75" column="62" />
         <mark key="[" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp_old/layout/personalizations.xml" timestamp="1527777098941">
+        <mark key="]" line="491" column="178" />
+        <mark key="[" line="491" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/theme/main/variables.less" timestamp="1525912494365">
         <mark key="]" line="0" column="23" />
@@ -375,12 +367,6 @@
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="9" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Order.php" timestamp="1527691835870">
-        <mark key="]" line="535" column="99" />
-        <mark key="^" line="535" column="99" />
-        <mark key="." line="535" column="99" />
-        <mark key="[" line="535" column="81" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/digital-schedule.less" timestamp="1525890451820">
         <mark key="]" line="1" column="0" />
@@ -558,8 +544,8 @@
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Date</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9ImNvcmUvdGVtcGxhdGUiIG5hbWU9InBlcnNvbmFsaXphdGlvbnMucHJldmlldy5kaWdpdGFsLnRva2Vub2ciIGFzPSJwcmV2aWV3ZGlnaXRhbHRva2Vub2ciIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3ByZXZpZXcvZGlnaXRhbF90b2tlbl9vZy5waHRtbCIvPiAtLT4K</text>
       </register>
       <register name="/" type="4">
         <text>_recognition</text>
@@ -577,7 +563,7 @@
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqUXVlcnkoJy52YWxpZF9zdGFydF9kYXknKS5odG1sKHN0YXJ0X2RhdGUuZ2V0RGF0ZSgpKTsKICAgICAgICAgICAgICAgICAgICBqUXVlcnkoJy52YWxpZF9lbmRfZGF5JykuaHRtbChlbmRfZGF0ZS5nZXREYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJsb2NrIHR5cGU9ImNvcmUvdGVtcGxhdGUiIG5hbWU9InBlcnNvbmFsaXphdGlvbnMucHJldmlldy5kaWdpdGFsLnRva2Vub2ciIGFzPSJwcmV2aWV3ZGlnaXRhbHRva2Vub2ciIHRlbXBsYXRlPSJwZXJzb25hbGl6YXRpb25zL3ByZXZpZXcvZGlnaXRhbF90b2tlbl9vZy5waHRtbCIvPiAtLT4K</text>
       </register>
       <register name="7" type="4">
         <text>start</text>
