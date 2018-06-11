@@ -68,6 +68,12 @@
         <mark key="." line="5" column="63" />
         <mark key="[" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outback/template/personalizations/gifttokens/bonefishBlock.phtml" timestamp="1528726679205">
+        <mark key="'" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="[" line="22" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/checkoutonepage_out.less" timestamp="1525889196697">
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -275,12 +281,6 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/catalog/product/list/token.phtml" timestamp="1527280386614">
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="21" />
-        <mark key="[" line="7" column="40" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_nogift_email.html" timestamp="1527015111123">
         <mark key="]" line="344" column="201" />
         <mark key="^" line="535" column="223" />
@@ -288,6 +288,9 @@
         <mark key="[" line="344" column="200" />
       </file>
       <file name="/a.txt" timestamp="1528143719572">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1528726602979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/ebay_catalog.less" timestamp="1525890455541">
@@ -438,6 +441,9 @@
         <mark key="." line="0" column="9" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/gifttokens/design/style.css" timestamp="1528726701911">
+        <mark key="'" line="295" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/digital-schedule.less" timestamp="1525890451820">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -466,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
-      <jump line="83" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/layout/personalizations.xml" />
       <jump line="1994" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/layout/personalizations.xml" />
       <jump line="41" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Order.php" />
       <jump line="382" column="18" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/AnimationController.php" />
@@ -566,57 +570,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/b2b/js/html5-message-manager.js" />
       <jump line="3643" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="30" column="38" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_email.html" />
+      <jump line="22" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outback/template/personalizations/gifttokens/bonefishBlock.phtml" />
+      <jump line="295" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/gifttokens/design/style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>_recognition</text>
+        <text>#530c1b</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJbgoJCQlpZiAoJHBlckl0ZW0tPmdldEhvbGRlcklkKCkgPiAwKSB7CgkJCQkkc2x1ZyA9ICRkYXRhSGVscGVyLT5nZXRWaXJ0dWFsV3JhcFNsdWcoJHBlckl0ZW0tPmdldEhvbGRlcklkKCkpOwoJCQkJaWYoZW1wdHkoJHNsdWcpKSB7CgkJCQkJJHNsdWcgPSAndG9rZW5vZic7IC8vIzI2NzkKCQkJCQlNYWdlOjpsb2coJ1NMVUcgbm90IGZvdW5kIGZvciBob2xkZXJJRDonLiAkcGVySXRlbS0+Z2V0SG9sZGVySWQoKSwgTlVMTCwgJ3Rva2Vucy5sb2cnKTsKCQkJCX0K</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCSRzbHVnID0gJGRhdGFIZWxwZXItPmdldFZpcnR1YWxXcmFwU2x1ZygkcGVySXRlbS0+Z2V0SG9sZGVySWQoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
         <text>0</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCSRtZXNzYWdlVVJMID0gTWFnZTo6Z2V0QmFzZVVybChNYWdlX0NvcmVfTW9kZWxfU3RvcmU6OlVSTF9UWVBFX1dFQikgLiAicGVyc29uYWxpemF0aW9ucy9wcmV2aWV3LyIgLiAkc2x1ZyAuICIvaWQvIiAuICRzY2hlZHVsZUlkIC4gIi90b2tlbi8iIC4gJHRva2VuOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/#530c1b/#d14947/g</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
       <last-search>categoryBread</last-search>
       <last-offset />
-      <last-pattern>_recognition</last-pattern>
-      <last-replace />
-      <last-substitute>_recognition</last-substitute>
+      <last-pattern>#530c1b</last-pattern>
+      <last-replace>#d14947</last-replace>
+      <last-substitute>#530c1b</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -642,6 +648,7 @@
         <entry>categoryBread</entry>
         <entry>cooper</entry>
         <entry>_recognition</entry>
+        <entry>#530c1b</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21heC9taW4vZw==</entry>
@@ -664,6 +671,7 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>%s/#530c1b/#d14947/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
