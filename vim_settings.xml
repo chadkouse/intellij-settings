@@ -20,11 +20,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1528987898828">
-        <mark key="[" line="457" column="119" />
-        <mark key="]" line="457" column="130" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1528990005827">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="27" />
         <mark key="^" line="457" column="130" />
-        <mark key="." line="457" column="130" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/sales/order/totals.phtml" timestamp="1528212829494">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1528990344239">
+        <mark key="[" line="250" column="20" />
+        <mark key="]" line="250" column="25" />
+        <mark key="." line="250" column="25" />
+        <mark key="^" line="250" column="25" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/sounds/style.less" timestamp="1525890246645">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
@@ -194,6 +200,12 @@
         <mark key="]" line="81" column="53" />
         <mark key="^" line="81" column="53" />
         <mark key="." line="81" column="53" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1528990003057">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="26" />
+        <mark key="." line="254" column="25" />
+        <mark key="^" line="254" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1528730633271">
         <mark key="[" line="31" column="49" />
@@ -275,11 +287,11 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="292" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1528913121052">
-        <mark key="[" line="596" column="33" />
-        <mark key="]" line="596" column="34" />
-        <mark key="." line="596" column="34" />
-        <mark key="^" line="593" column="46" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1528989678703">
+        <mark key="[" line="773" column="58" />
+        <mark key="]" line="773" column="57" />
+        <mark key="." line="773" column="57" />
+        <mark key="^" line="773" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/slide-menu.less" timestamp="1525912552908">
         <mark key="[" line="94" column="22" />
@@ -336,6 +348,7 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1528989697785" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/slide-menu.less" timestamp="1525890489563">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="34" />
@@ -483,43 +496,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Futura</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Futura</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>#530c1c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWNhc2UgIlNULUhBUFRJQ0xPVFRFUlkiOgoJCQkJCXJldHVybiA5MDAwMDA0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICMwMDAwMDA7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>Futura</text>
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>LOTTERY</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>LOTTERY</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>#</text>
       </register>
       <register name="7" type="4">
-        <text>S</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>HAPTICLOTTERY</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>LOTTERY</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
