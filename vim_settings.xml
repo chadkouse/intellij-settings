@@ -20,6 +20,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1528987898828">
+        <mark key="[" line="457" column="119" />
+        <mark key="]" line="457" column="130" />
+        <mark key="^" line="457" column="130" />
+        <mark key="." line="457" column="130" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/sales/order/totals.phtml" timestamp="1528212829494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="51" column="18" />
@@ -31,6 +37,9 @@
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="/a.dummy" timestamp="1528988376846">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Sales/Block/Order/Totals.php" timestamp="1528213010699">
         <mark key="[" line="121" column="38" />
@@ -189,6 +198,7 @@
         <mark key="^" line="81" column="53" />
         <mark key="." line="81" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1528988293160" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Giftcardshop.php" timestamp="1528730633271">
         <mark key="[" line="31" column="49" />
         <mark key="]" line="31" column="55" />
@@ -476,11 +486,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/style-token.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Futura</text>
       </register>
       <register name="-" type="4">
-        <text>LOTTERY</text>
+        <text>Futura</text>
       </register>
       <register name="/" type="4">
         <text>#530c1c</text>
@@ -488,29 +498,29 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNhc2UgIlNULUhBUFRJQ0xPVFRFUlkiOgoJCQkJCXJldHVybiA5MDAwMDA0Owo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>Futura</text>
       </register>
-      <register name="2" type="4">
-        <text>LOTTERY</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
         <text>LOTTERY</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>LOTTERY</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
-        <text>S</text>
+        <text>T</text>
       </register>
       <register name="7" type="4">
-        <text>HAPTICLOTTERY</text>
+        <text>S</text>
       </register>
       <register name="8" type="4">
-        <text>LOTTERY</text>
+        <text>HAPTICLOTTERY</text>
       </register>
       <register name="9" type="4">
         <text>LOTTERY</text>
