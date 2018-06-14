@@ -26,6 +26,9 @@
         <mark key="^" line="457" column="130" />
         <mark key="." line="250" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/style-token-mobile.css" timestamp="1529004283860">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/sales/order/totals.phtml" timestamp="1528212829494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="51" column="18" />
@@ -37,6 +40,9 @@
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="/a.dummy" timestamp="1529003742265">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Sales/Block/Order/Totals.php" timestamp="1528213010699">
         <mark key="[" line="121" column="38" />
@@ -157,11 +163,11 @@
         <mark key="^" line="61" column="27" />
         <mark key="." line="61" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/personalizations/preview/digital_token.phtml" timestamp="1529002430591">
-        <mark key="[" line="258" column="8" />
-        <mark key="]" line="258" column="8" />
-        <mark key="^" line="258" column="9" />
-        <mark key="." line="258" column="8" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/personalizations/preview/digital_token.phtml" timestamp="1529004361913">
+        <mark key="[" line="83" column="100" />
+        <mark key="]" line="83" column="117" />
+        <mark key="^" line="83" column="117" />
+        <mark key="." line="83" column="117" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_badge_email.html" timestamp="1527007710307">
         <mark key="[" line="357" column="103" />
@@ -400,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="8" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxTokenManager.js" />
       <jump line="1105" column="39" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" />
       <jump line="13" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/js/gci/radialcapture.js" />
       <jump line="336" column="35" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/digital/giftcards/activate.phtml" />
@@ -500,13 +505,14 @@
       <jump line="91" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outback/template/persistent/checkout/onepage/billing.phtml" />
       <jump line="173" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outback/template/personalizations/preview/digital_token.phtml" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/style-token.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/style-token-mobile.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Bonefish Grill</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Bonefish Grill</text>
       </register>
       <register name="/" type="4">
         <text>#530c1c</text>
@@ -515,34 +521,34 @@
         <text encoding="base64">YmFja2dyb3VuZC1pbWFnZTogdXJsKDw/cGhwIGVjaG8gJHRoaXMtPmdldFNraW5VcmwoJ2ltYWdlcy90b2tlbm9mL2JnLnBuZycpOyA/Pik7IGJhY2tncm91bmQtcmVwZWF0OiByZXBlYXQteDs=</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>Bonefish Grill</text>
       </register>
       <register name="2" type="4">
         <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>gift-cards/send-a-friend-a-cocktail</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YmFja2dyb3VuZDog</text>
+        <text>bonefishgrill</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6ICdLRyBUYW5nbGVkIFVwIEluIFlvdSAyJztjb2xvcjojRkZGRkZGO3Bvc2l0aW9uOmFic29sdXRlO3dpZHRoOjA7aGVpZ2h0OjA7dG9wOjA7bGVmdDowOyI+LjwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text>Bonefish</text>
       </register>
       <register name="6" type="4">
-        <text>bonefish_mobile_header.</text>
+        <text>/gift-cards</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>bonefishgrill</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/#530c1c/#d14947/g</text>
       </register>
     </registers>
     <search>
@@ -596,8 +602,8 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>%s/#530c1b/#d14947/g</entry>
-        <entry>%s/#530c1c/#d14947/g</entry>
         <entry>w</entry>
+        <entry>%s/#530c1c/#d14947/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
