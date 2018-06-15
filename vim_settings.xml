@@ -15,6 +15,11 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="33" column="96" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/delivery/main.less" timestamp="1528913688271">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1529005346232">
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="27" />
@@ -132,6 +137,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/page/template/links.phtml" timestamp="1529069087070">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1529005333021">
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="26" />
@@ -176,6 +186,11 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/gifttokens/design/style.css" timestamp="1528726701911">
         <mark key="'" line="295" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/tokenofpage/index.phtml" timestamp="1529001501900">
+        <mark key="[" line="217" column="55" />
+        <mark key="]" line="217" column="55" />
+        <mark key="." line="217" column="55" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/ebay_catalog.less" timestamp="1525890455541">
         <mark key="[" line="1" column="0" />
@@ -389,6 +404,11 @@
         <mark key="." line="28" column="60" />
         <mark key="^" line="28" column="60" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Model/Store/Observer.php" timestamp="1528730064985">
+        <mark key="[" line="139" column="57" />
+        <mark key="]" line="139" column="57" />
+        <mark key="." line="139" column="63" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/email/style.less" timestamp="1525889730378">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
@@ -521,22 +541,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2JpbGxpbmctaW5mby1maWVsZHMgLmJpbGxpbmctaW5wdXQtc3BhbiB7CiAgICBwYWRkaW5nLWxlZnQ6IDM5cHg7Cn0K</text>
+        <text encoding="base64">JGJhbGFuY2UgPSBNYWdlOjpoZWxwZXIoJ3BlcnNvbmFsaXphdGlvbnMnKS0+Z2V0U3RvcmVDcmVkaXRCYWxhbmNlKCk7CiRiYWxhbmNlRm9ybWF0dGVkID0gbnVtYmVyX2Zvcm1hdCgkYmFsYW5jZS0+Z2V0QW1vdW50KCksMik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>2</text>
-      </register>
-      <register name="4" type="4">
-        <text>v</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>bonefish</text>
+      <register name="4" type="2">
+        <text encoding="base64">I2JpbGxpbmctaW5mby1maWVsZHMgLmJpbGxpbmctaW5wdXQtc3BhbiB7CiAgICBwYWRkaW5nLWxlZnQ6IDM5cHg7Cn0K</text>
       </register>
-      <register name="7" type="4">
-        <text>bonefish</text>
+      <register name="5" type="4">
+        <text>2</text>
+      </register>
+      <register name="6" type="4">
+        <text>v</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
         <text>bonefish</text>
