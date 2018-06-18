@@ -23,11 +23,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1529005346232">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="27" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1529331981574">
+        <mark key="[" line="352" column="111" />
+        <mark key="]" line="352" column="111" />
         <mark key="^" line="457" column="130" />
-        <mark key="." line="254" column="0" />
+        <mark key="." line="352" column="111" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/sales/order/totals.phtml" timestamp="1528212829494">
         <mark key="[" line="0" column="0" />
@@ -155,11 +155,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1529005333021">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="26" />
-        <mark key="." line="254" column="25" />
-        <mark key="^" line="254" column="25" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_email.html" timestamp="1529331961558">
+        <mark key="[" line="348" column="114" />
+        <mark key="]" line="348" column="114" />
+        <mark key="." line="348" column="114" />
+        <mark key="^" line="352" column="115" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/coupon/index.phtml" timestamp="1527735944641">
         <mark key="[" line="73" column="168" />
@@ -229,10 +229,10 @@
         <mark key="^" line="304" column="21" />
         <mark key="." line="304" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1529005339022">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="26" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_nogift_email.html" timestamp="1529331970143">
+        <mark key="[" line="352" column="111" />
+        <mark key="]" line="352" column="111" />
+        <mark key="." line="352" column="111" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/catalog/category/view.phtml" timestamp="1528747956103">
         <mark key="[" line="81" column="32" />
@@ -564,11 +564,11 @@
       <jump line="421" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/beer_demo.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJldmlldyAgICAgICAgcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
       <register name="-" type="4">
-        <text>, '{VideoUrl}'</text>
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
@@ -576,32 +576,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIAkkcmVwbGFjZSA9IGFycmF5KCd7U2VuZGVyTmFtZX0nLCAne1JlY2lwaWVudE5hbWV9JywgJ3tNZXNzYWdlfScsICd7VmlkZW9Vcmx9Jyk7CiAgICAJJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ109IHByZWdfcmVwbGFjZSgiL1xiKFx3KylccytcXDFcYi9pIiwgIiQxIiwgJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ10pOwogICAgCSRyZXBsYWNlV2l0aCA9IGFycmF5KHJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbJ3NlbmRlck5hbWUnXSksCiAgICAJCQlyYXd1cmxlbmNvZGUoJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ10pLAogICAgCQkJcmF3dXJsZW5jb2RlKCRwcmV2aWV3RGF0YVsnaW5zaWRlTWVzc2FnZSddKSwKICAgIAkJCXJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbJ3ZpZGVvVXJsJ10pLAogICAgCSk7CiAgICAJCiAgICAJcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJldmlldyAgICAgICAgcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
+      <register name="1" type="4">
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJldmlld3RyX3JlcGxhY2UoJHJlcGxhY2UsICRyZXBsYWNlV2l0aCwgJHVybCk7Cg==</text>
+      <register name="2" type="4">
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
       <register name="3" type="4">
-        <text>, '{VideoUrl}'</text>
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmF3dXJsZW5jb2RlKCRwcmV2aWV3RGF0YVsndmlkZW9VcmwnXSksCg==</text>
+      <register name="4" type="4">
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJldmlldyAgICAgICAgcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjaXBpZW50TmFtZT0gcHJlZ19yZXBsYWNlKCIvXGIoXHcrKVxzK1xcMVxiL2kiLCAiJDEiLCAkcHJldmlld0RhdGFbJ3JlY2lwaWVudEZpcnN0TmFtZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJldmlld3RyX3JlcGxhY2UoJHJlcGxhY2UsICRyZXBsYWNlV2l0aCwgJHVybCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>, '{VideoUrl}'</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmF3dXJsZW5jb2RlKCRwcmV2aWV3RGF0YVsndmlkZW9VcmwnXSksCg==</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>%s/#530c1b/#d14947/g</text>
