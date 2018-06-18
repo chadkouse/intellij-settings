@@ -86,6 +86,11 @@
         <mark key="^" line="87" column="18" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/product/delivery/index.phtml" timestamp="1529341003480">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/styles.less" timestamp="1525890208116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
@@ -564,11 +569,11 @@
       <jump line="421" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/beer_demo.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDw/cGhwIGlmIChlbXB0eSgkcHJldmlld0RhdGFbImZhbGxiYWNrX3VybCJdKSkgeyA/PgogICAgICAgIDw/cGhwIGlmIChpc3NldCgkcHJldmlld0RhdGFbImluc2lkZU1lc3NhZ2VDb25maWciXSkpIHsgPz4KICAgICAgICAgICAgPGRpdiBpZD0iYm90dG9tRWxlbWVudCIgY2xhc3M9ImdjaV90b2tlbl9ib3R0b21fd3JhcHBlciI+CiAgICAgICAgICAgICAgICA8c2VjdGlvbiBpZD0iZ2NpX3Rva2VuX2N1c3RvbS1tZXNzYWdlIiBjbGFzcz0iZ2NpX3Rva2VuX2ZhZGVpbiIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+PD9waHAgZWNobyAkcHJldmlld0RhdGFbImluc2lkZU1lc3NhZ2VDb25maWciXVsnbWVzc2FnZSddID8+PC9zZWN0aW9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8P3BocCB9CiAgICB9ID8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
@@ -576,32 +581,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIAkkcmVwbGFjZSA9IGFycmF5KCd7U2VuZGVyTmFtZX0nLCAne1JlY2lwaWVudE5hbWV9JywgJ3tNZXNzYWdlfScsICd7VmlkZW9Vcmx9Jyk7CiAgICAJJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ109IHByZWdfcmVwbGFjZSgiL1xiKFx3KylccytcXDFcYi9pIiwgIiQxIiwgJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ10pOwogICAgCSRyZXBsYWNlV2l0aCA9IGFycmF5KHJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbJ3NlbmRlck5hbWUnXSksCiAgICAJCQlyYXd1cmxlbmNvZGUoJHByZXZpZXdEYXRhWydyZWNpcGllbnROYW1lJ10pLAogICAgCQkJcmF3dXJsZW5jb2RlKCRwcmV2aWV3RGF0YVsnaW5zaWRlTWVzc2FnZSddKSwKICAgIAkJCXJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbJ3ZpZGVvVXJsJ10pLAogICAgCSk7CiAgICAJCiAgICAJcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDw/cGhwIGlmIChlbXB0eSgkcHJldmlld0RhdGFbImZhbGxiYWNrX3VybCJdKSkgeyA/PgogICAgICAgIDw/cGhwIGlmIChpc3NldCgkcHJldmlld0RhdGFbImluc2lkZU1lc3NhZ2VDb25maWciXSkpIHsgPz4KICAgICAgICAgICAgPGRpdiBpZD0iYm90dG9tRWxlbWVudCIgY2xhc3M9ImdjaV90b2tlbl9ib3R0b21fd3JhcHBlciI+CiAgICAgICAgICAgICAgICA8c2VjdGlvbiBpZD0iZ2NpX3Rva2VuX2N1c3RvbS1tZXNzYWdlIiBjbGFzcz0iZ2NpX3Rva2VuX2ZhZGVpbiIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+PD9waHAgZWNobyAkcHJldmlld0RhdGFbImluc2lkZU1lc3NhZ2VDb25maWciXVsnbWVzc2FnZSddID8+PC9zZWN0aW9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8P3BocCB9CiAgICB9ID8+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
+        <text>!</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
       <register name="4" type="4">
         <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="6" type="4">
+        <text>../../../../../../skin/frontend/gci/giftcardshopb2c/images/tgcs_email_header.png</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcHJldmlldyAgICAgICAgcmV0dXJuIHN0cl9yZXBsYWNlKCRyZXBsYWNlLCAkcmVwbGFjZVdpdGgsICR1cmwpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkcHJldmlld3RyX3JlcGxhY2UoJHJlcGxhY2UsICRyZXBsYWNlV2l0aCwgJHVybCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>, '{VideoUrl}'</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmF3dXJsZW5jb2RlKCRwcmV2aWV3RGF0YVsndmlkZW9VcmwnXSksCg==</text>
-      </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>, '{VideoUrl}'</text>
       </register>
       <register name=":" type="4">
         <text>%s/#530c1b/#d14947/g</text>
