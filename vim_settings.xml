@@ -369,11 +369,8 @@
         <mark key="^" line="452" column="45" />
         <mark key="." line="452" column="45" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1526992177010">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="41" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1529429669992">
         <mark key="^" line="33" column="40" />
-        <mark key="." line="33" column="41" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/custom.less" timestamp="1525889904422">
         <mark key="[" line="1" column="0" />
@@ -660,8 +657,8 @@
       <jump line="421" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/beer_demo.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>trade</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNxc191cmwgdHJhbnNsYXRlPSJsYWJlbCBjb21tZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5TUVMgVXJsPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb21tZW50PjwhW0NEQVRBW0lucHV0IFNRUyB1cmwgaGVyZS5dXT48L2NvbW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c29ydF9vcmRlcj4xNTwvc29ydF9vcmRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG93X2luX2RlZmF1bHQ+MTwvc2hvd19pbl9kZWZhdWx0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNob3dfaW5fd2Vic2l0ZT4xPC9zaG93X2luX3dlYnNpdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2hvd19pbl9zdG9yZT4wPC9zaG93X2luX3N0b3JlPgogICAgICAgICAgICAgICAgICAgICAgICA8L3Nxc191cmw+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>trade</text>
@@ -670,7 +667,7 @@
         <text>#530c1b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNxc191cmwgdHJhbnNsYXRlPSJsYWJlbCBjb21tZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5TUVMgVXJsPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb21tZW50PjwhW0NEQVRBW0lucHV0IFNRUyB1cmwgaGVyZS5dXT48L2NvbW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c29ydF9vcmRlcj4xNTwvc29ydF9vcmRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG93X2luX2RlZmF1bHQ+MTwvc2hvd19pbl9kZWZhdWx0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNob3dfaW5fd2Vic2l0ZT4xPC9zaG93X2luX3dlYnNpdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2hvd19pbl9zdG9yZT4wPC9zaG93X2luX3N0b3JlPgogICAgICAgICAgICAgICAgICAgICAgICA8L3Nxc191cmw+Cg==</text>
       </register>
       <register name="1" type="4">
         <text>trade</text>
