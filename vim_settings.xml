@@ -150,6 +150,12 @@
         <mark key="]" line="39" column="121" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/config.xml" timestamp="1529431779169">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="45" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outback/template/personalizations/gifttokens/bonefishPoweredBy.phtml" timestamp="1529416049753">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="23" column="22" />
@@ -260,6 +266,12 @@
         <mark key="^" line="612" column="27" />
         <mark key="." line="612" column="27" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1529431418802">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="107" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1529329169462">
         <mark key="[" line="377" column="0" />
         <mark key="]" line="377" column="0" />
@@ -363,20 +375,29 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Image.php" timestamp="1529414742677">
+        <mark key="[" line="43" column="21" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_token_email.html" timestamp="1525917964720">
         <mark key="[" line="451" column="124" />
         <mark key="]" line="452" column="45" />
         <mark key="^" line="452" column="45" />
         <mark key="." line="452" column="45" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1529429669992">
-        <mark key="^" line="33" column="40" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/etc/system.xml" timestamp="1529431167068">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="46" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="56" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/custom.less" timestamp="1525889904422">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Corpbudget/etc/system.xml" timestamp="1529432086950">
+        <mark key="[" line="55" column="42" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/digital/checkout.less" timestamp="1525889713202">
         <mark key="[" line="0" column="0" />
@@ -541,6 +562,9 @@
         <mark key="^" line="343" column="86" />
         <mark key="." line="343" column="86" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/aarp/template/page/html/headerImage.phtml" timestamp="1529350964449">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/TCP/Coupon/controllers/IndexController.php" timestamp="1527735460128">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -658,43 +682,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNxc191cmwgdHJhbnNsYXRlPSJsYWJlbCBjb21tZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5TUVMgVXJsPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb21tZW50PjwhW0NEQVRBW0lucHV0IFNRUyB1cmwgaGVyZS5dXT48L2NvbW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c29ydF9vcmRlcj4xNTwvc29ydF9vcmRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG93X2luX2RlZmF1bHQ+MTwvc2hvd19pbl9kZWZhdWx0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNob3dfaW5fd2Vic2l0ZT4xPC9zaG93X2luX3dlYnNpdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2hvd19pbl9zdG9yZT4wPC9zaG93X2luX3N0b3JlPgogICAgICAgICAgICAgICAgICAgICAgICA8L3Nxc191cmw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmVlID0gaW50dmFsKCRmZWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>trade</text>
+        <text>0.5;</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNxc191cmwgdHJhbnNsYXRlPSJsYWJlbCBjb21tZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5TUVMgVXJsPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb21tZW50PjwhW0NEQVRBW0lucHV0IFNRUyB1cmwgaGVyZS5dXT48L2NvbW1lbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c29ydF9vcmRlcj4xNTwvc29ydF9vcmRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG93X2luX2RlZmF1bHQ+MTwvc2hvd19pbl9kZWZhdWx0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNob3dfaW5fd2Vic2l0ZT4xPC9zaG93X2luX3dlYnNpdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2hvd19pbl9zdG9yZT4wPC9zaG93X2luX3N0b3JlPgogICAgICAgICAgICAgICAgICAgICAgICA8L3Nxc191cmw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5hYmxlZCA9IE1hZ2U6OmdldFN0b3JlQ29uZmlnKCdnY2lfY29vcGVyX3JlY29nbml0aW9uL2dlbmVyYWwvZW5hYmxlZCcpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>trade</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkZmVlID0gaW50dmFsKCRmZWUpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>erade</text>
+        <text>0.5;</text>
       </register>
-      <register name="3" type="4">
-        <text>trade</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>black</text>
+        <text>enabled</text>
       </register>
       <register name="5" type="4">
-        <text>#00c0d9</text>
+        <text>enabled</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>http://cooper.webservicespros.com/</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>base_url</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>Input SQS url here.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
