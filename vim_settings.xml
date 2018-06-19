@@ -15,6 +15,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tokenofpage/controllers/IndexController.php" timestamp="1529414895919">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="48" />
+        <mark key="." line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/delivery/main.less" timestamp="1528913688271">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -93,6 +99,9 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Image.php" timestamp="1529414742677">
+        <mark key="[" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/photobook/styles.less" timestamp="1525890208116">
         <mark key="[" line="0" column="0" />
@@ -429,6 +438,7 @@
         <mark key="." line="488" column="33" />
         <mark key="^" line="488" column="33" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/lib/Varien/File/Uploader.php" timestamp="1529414678148" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/page/html/header.phtml" timestamp="1529006056601">
         <mark key="[" line="28" column="54" />
         <mark key="]" line="28" column="60" />
@@ -589,10 +599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>104px</text>
+        <text>Tokenof</text>
       </register>
       <register name="-" type="4">
-        <text>104px</text>
+        <text>Tokenof</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
@@ -601,31 +611,31 @@
         <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5nZXRMYXlvdXQoKS0+Y3JlYXRlQmxvY2soJ2NvcmUvdGVtcGxhdGUnKS0+c2V0VGVtcGxhdGUoJ3BhZ2UvaHRtbC9oZWFkZXJJbWFnZS5waHRtbCcpLT50b0h0bWwoKTsgPz4K</text>
       </register>
       <register name="1" type="4">
-        <text>104px</text>
+        <text>Tokenof</text>
       </register>
       <register name="2" type="4">
-        <text>absolute</text>
+        <text>Tokenof</text>
       </register>
       <register name="3" type="4">
-        <text>180px</text>
+        <text>tokenof</text>
       </register>
       <register name="4" type="4">
+        <text>Tokenof</text>
+      </register>
+      <register name="5" type="4">
+        <text>104px</text>
+      </register>
+      <register name="6" type="4">
         <text>absolute</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5nZXRMYXlvdXQoKS0+Y3JlYXRlQmxvY2soJ2NvcmUvdGVtcGxhdGUnKS0+c2V0VGVtcGxhdGUoJ3BhZ2UvaHRtbC9oZWFkZXJJbWFnZS5waHRtbCcpLT50b0h0bWwoKTsgPz4K</text>
+      <register name="7" type="4">
+        <text>180px</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+      <register name="8" type="4">
+        <text>absolute</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEBjYXRlZ29yeSAgICBJbmNob28KICogQHBhY2thZ2UgICAgIEluY2hvb19GYWNlYm9vawogKiBAYXV0aG9yICAgICAgSXZhbiBXZWlsZXIgPGl2YW4ud2VpbGVyQGdtYWlsLmNvbT4KICogQGNvcHlyaWdodCAgIEluY2hvbyAoaHR0cDovL2luY2hvby5uZXQpCiAqIEBsaWNlbnNlICAgICBodHRwOi8vb3BlbnNvdXJjZS5vcmcvbGljZW5zZXMvb3NsLTMuMC5waHAgIE9wZW4gU29mdHdhcmUgTGljZW5zZSAoT1NMIDMuMCkKICovCg==</text>
+        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5nZXRMYXlvdXQoKS0+Y3JlYXRlQmxvY2soJ2NvcmUvdGVtcGxhdGUnKS0+c2V0VGVtcGxhdGUoJ3BhZ2UvaHRtbC9oZWFkZXJJbWFnZS5waHRtbCcpLT50b0h0bWwoKTsgPz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
