@@ -248,6 +248,12 @@
         <mark key="^" line="71" column="81" />
         <mark key="." line="71" column="81" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Data.php" timestamp="1529517157877">
+        <mark key="[" line="815" column="13" />
+        <mark key="]" line="816" column="11" />
+        <mark key="." line="816" column="11" />
+        <mark key="^" line="816" column="11" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/page/homepage.phtml" timestamp="1529350850613">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="121" />
@@ -277,11 +283,11 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="107" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1529329169462">
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
-        <mark key="^" line="377" column="88" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1529517546838">
+        <mark key="[" line="1666" column="71" />
+        <mark key="]" line="1666" column="62" />
+        <mark key="." line="1666" column="62" />
+        <mark key="^" line="1666" column="62" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/gifttokens/design/style.less" timestamp="1525889835429">
         <mark key="[" line="0" column="0" />
@@ -673,44 +679,44 @@
       <jump line="51" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlkZW8gPSB2aWRlb19vdmVybGF5LmZpbmQK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>sample_overlay</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19vdmVybGF5LmZhZGVJbigpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBpc0dpZnRDYXJkKCRwcm9kdWN0KXsKCQlpZiAoJHByb2R1Y3QpewoJCQlpZiAoICRwcm9kdWN0LT5nZXREYXRhKCdhdHRyaWJ1dGVfc2V0X2lkJykgPT0gc2VsZjo6UFJPRFVDVFRZUEVJRF9HSUZUQ0FSRCl7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQllbHNlewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJfQoJCWVsc2V7CgkJCXJldHVybiBmYWxzZTsKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlkZW8gPSB2aWRlb19vdmVybGF5LmZpbmQK</text>
+        <text encoding="base64">CSAgICBpZiAoJHRoaXMtPmlzR2lmdFRva2VuKCRwcm9kdWN0KSkgewoJICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgI2ludHJvX3ZpZGVvIHsKICAgICAgICBwb3NpdGlvbjogZml4ZWQ7CiAgICAgICAgbGVmdDogMDsKICAgICAgICByaWdodDogMDsKICAgICAgICB0b3A6IDA7CiAgICAgICAgYm90dG9tOiAwOwogICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuNzUpOwogICAgICAgIHotaW5kZXg6IDk5OTk5OTk7CiAgICB9Cjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdmlkZW8gPSB2aWRlb19vdmVybGF5LmZpbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHN0eWxlPgogICAgI2ludHJvX3ZpZGVvIHsKICAgICAgICBwb3NpdGlvbjogZml4ZWQ7CiAgICAgICAgbGVmdDogMDsKICAgICAgICByaWdodDogMDsKICAgICAgICB0b3A6IDA7CiAgICAgICAgYm90dG9tOiAwOwogICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuNzUpOwogICAgICAgIHotaW5kZXg6IDk5OTk5OTk7CiAgICB9Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dmlkZW8gY29udHJvbHM9ImNvbnRyb2xzIiBzcmM9Ii8vZ2NpLXN0YXRpY2Nkbi5zMy5hbWF6b25hd3MuY29tL21lZGlhL2dpZnR0b2tlbnMvZGVtb3Mvb3V0YmFjay9kZW1vIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dmlkZW8gc3JjPSIvL2djaS1zdGF0aWMiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8dmlkZW8gY29udHJvbHM9ImNvbnRyb2xzIiBzcmM9Ii8vZ2NpLXN0YXRpY2Nkbi5zMy5hbWF6b25hd3MuY29tL21lZGlhL2dpZnR0b2tlbnMvZGVtb3Mvb3V0YmFjay9kZW1vIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDw/cGhwIGlmICgkc3RvcmUgPT0gIm91dGJhY2siKTogPz4K</text>
+        <text encoding="base64">ICAgICAgICA8dmlkZW8gc3JjPSIvL2djaS1zdGF0aWMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
