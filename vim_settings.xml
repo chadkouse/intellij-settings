@@ -575,15 +575,15 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1529419538875">
-        <mark key="[" line="222" column="73" />
-        <mark key="]" line="222" column="79" />
-        <mark key="." line="222" column="79" />
-        <mark key="^" line="222" column="79" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1529513663192">
+        <mark key="'" line="52" column="29" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="12" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" />
       <jump line="31" column="22" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/sounds/ajaxSoundManager.js" />
       <jump line="6" column="33" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxTokenManager.js" />
       <jump line="17" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/ajaxTokenManager.js" />
@@ -683,19 +683,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/checkoutonepage_mobile.css" />
       <jump line="134" column="54" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/beer_demo.phtml" />
       <jump line="421" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/beer_demo.phtml" />
+      <jump line="51" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdNeSBmcmllbmQganVzdCBzZW50IG1lIGEgPD9waHAgZWNobyByYXd1cmxlbmNvZGUoJHByZXZpZXdEYXRhWyJwcm9kdWN0X25hbWUiXSk7ID8+IGZyb20gT3V0YmFjayBTdGVha2hvdXNlLiBTYXkgQ2hlZXJzLCBDb25ncmF0cyBvciBUaGFuayBZb3UuIFNlbmQgYSBGcmllbmQgYSA8P3BocCBlY2hvIHJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbInByb2R1Y3RfbmFtZSJdKTsgPz4gdG9kYXkuJywK</text>
+      <register name="&quot;" type="4">
+        <text>Carrabbas</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>Carrabbas</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdNeSBmcmllbmQganVzdCBzZW50IG1lIGEgPD9waHAgZWNobyByYXd1cmxlbmNvZGUoJHByZXZpZXdEYXRhWyJwcm9kdWN0X25hbWUiXSk7ID8+IGZyb20gT3V0YmFjayBTdGVha2hvdXNlLiBTYXkgQ2hlZXJzLCBDb25ncmF0cyBvciBUaGFuayBZb3UuIFNlbmQgYSBGcmllbmQgYSA8P3BocCBlY2hvIHJhd3VybGVuY29kZSgkcHJldmlld0RhdGFbInByb2R1Y3RfbmFtZSJdKTsgPz4gdG9kYXkuJywK</text>
+        <text encoding="base64">aWYoJHN0b3JlPT0iY2FycmFiYmFzIikgJGlzQ2FycmFiYmFzPXRydWU7IGVsc2UgICRpc0NhcnJhYmJhcz1mYWxzZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdNeSBmcmllbmQganVzdCBzZW50IG1lIGEgPD9waHAgZWNobyAkcHJldmlld0RhdGFbInByb2R1Y3RfbmFtZSJdOyA/PiBmcm9tIE91dGJhY2sgU3RlYWtob3VzZS4gU2F5IENoZWVycywgQ29uZ3JhdHMgb3IgVGhhbmsgWW91LiBTZW5kIGEgRnJpZW5kIGEgPD9waHAgZWNobyAkcHJldmlld0RhdGFbInByb2R1Y3RfbmFtZSJdOyA/PiB0b2RheS4nLAo=</text>
@@ -735,7 +736,7 @@
       <last-replace>#d14947</last-replace>
       <last-substitute>#530c1b</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
