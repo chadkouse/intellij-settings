@@ -403,7 +403,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobileb2c/template/personalizations/preview/digital_sanbox_panel_v2.phtml" timestamp="1529518756935" />
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Image.php" timestamp="1529414742677">
         <mark key="[" line="43" column="21" />
       </file>
@@ -548,6 +547,11 @@
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Guestorders/Helper/Data.php" timestamp="1529534724644">
+        <mark key="[" line="150" column="35" />
+        <mark key="]" line="150" column="35" />
+        <mark key="." line="150" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/generic.less" timestamp="1525890464942">
         <mark key="[" line="1" column="0" />
@@ -703,11 +707,11 @@
       <jump line="51" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ijw/cGhwIGVjaG8gJGJ1c2luZXNzTGluazsgPz4iPkJ1c2luZXNzIGJ1bGs8L2E+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
@@ -753,7 +757,7 @@
       <last-replace>#d14947</last-replace>
       <last-substitute>#530c1b</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
