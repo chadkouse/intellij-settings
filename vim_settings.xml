@@ -311,6 +311,12 @@
         <mark key="^" line="612" column="27" />
         <mark key="." line="612" column="27" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1529693835978">
+        <mark key="[" line="81" column="54" />
+        <mark key="]" line="81" column="56" />
+        <mark key="." line="81" column="56" />
+        <mark key="^" line="81" column="56" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Servicefee/etc/system.xml" timestamp="1529683321644">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="48" />
@@ -721,11 +727,11 @@
       <jump line="51" column="29" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDw/cGhwIGlmICgkZmVlID4gMCkgOiA/Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>Amount</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDAuNTs=</text>
+        <text>Amount</text>
       </register>
       <register name="/" type="4">
         <text>#530c1b</text>
