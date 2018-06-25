@@ -347,11 +347,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1529961567519">
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-        <mark key="^" line="303" column="35" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1529962842216">
+        <mark key="[" line="302" column="33" />
+        <mark key="]" line="302" column="39" />
+        <mark key="." line="302" column="39" />
+        <mark key="^" line="302" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/etc/config.xml" timestamp="1529071790569">
         <mark key="[" line="4" column="25" />
@@ -740,7 +740,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNkZXNpZ25fcHJldmlldywucGxheScpLnNob3coKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0ncGxheV9hcnJvdyc+PC9kaXY+IFBsYXk8L2Rpdj4=</text>
@@ -749,7 +749,7 @@
         <text>#530c1b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoL3NraW4vZnJvbnRlbmQvZ2NpL3RjcC9pbWFnZXMvYW5pbWF0aW9uL3BsYXlfYnV0dG9uLnBuZykgbm8tcmVwZWF0OwogICAgICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNkZXNpZ25fcHJldmlldywucGxheScpLnNob3coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
