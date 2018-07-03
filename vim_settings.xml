@@ -359,11 +359,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1529962842216">
-        <mark key="[" line="302" column="33" />
-        <mark key="]" line="302" column="39" />
-        <mark key="." line="302" column="39" />
-        <mark key="^" line="302" column="39" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/animation/design/app.js" timestamp="1530628094826">
+        <mark key="[" line="204" column="25" />
+        <mark key="]" line="206" column="24" />
+        <mark key="." line="206" column="24" />
+        <mark key="^" line="206" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/style.less" timestamp="1529354390054">
         <mark key="[" line="13721" column="9" />
@@ -502,11 +502,11 @@
         <mark key="^" line="304" column="21" />
         <mark key="." line="304" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Scene7Service.php" timestamp="1530210230526">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Scene7Service.php" timestamp="1530628010816">
         <mark key="[" line="1307" column="37" />
-        <mark key="]" line="1307" column="23" />
-        <mark key="^" line="1307" column="23" />
-        <mark key="." line="1307" column="23" />
+        <mark key="]" line="1302" column="1" />
+        <mark key="^" line="1302" column="1" />
+        <mark key="." line="1302" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/carrabbas_token_email.html" timestamp="1530019691465">
         <mark key="[" line="89" column="7827" />
@@ -551,9 +551,9 @@
         <mark key="." line="5" column="63" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/preview/beer_demo.phtml" timestamp="1530209762020">
-        <mark key="[" line="336" column="24" />
-        <mark key="]" line="336" column="25" />
-        <mark key="." line="336" column="24" />
+        <mark key="[" line="337" column="24" />
+        <mark key="]" line="337" column="25" />
+        <mark key="." line="337" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/checkoutonepage_out.less" timestamp="1530130108175">
         <mark key="[" line="110" column="1" />
@@ -783,7 +783,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/#13c0d7/#d14947/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -835,10 +835,10 @@
         <entry>wq</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
         <entry>%s/#530c1b/#d14947/g</entry>
         <entry>%s/#530c1c/#d14947/g</entry>
         <entry>%s/#13c0d7/#d14947/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
