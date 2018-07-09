@@ -426,8 +426,8 @@
         <mark key="." line="176" column="29" />
         <mark key="^" line="176" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/outback_token_email.html" timestamp="1530020484115">
-        <mark key="[" line="145" column="60" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/outback_token_email.html" timestamp="1531155399120">
+        <mark key="[" line="107" column="59" />
         <mark key="]" line="144" column="61" />
         <mark key="^" line="144" column="61" />
         <mark key="." line="144" column="61" />
@@ -592,20 +592,16 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/static/haptic/spinner/index.html" timestamp="1530806489421">
-        <mark key="[" line="1186" column="0" />
-        <mark key="]" line="1209" column="75" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish2_token_email.html" timestamp="1530019686747">
         <mark key="[" line="119" column="494" />
         <mark key="]" line="119" column="496" />
         <mark key="." line="119" column="496" />
         <mark key="^" line="119" column="496" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/personalizations/gifttokens/design.phtml" timestamp="1530804545953">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/personalizations/gifttokens/design.phtml" timestamp="1531155149449">
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="14" />
         <mark key="^" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/animation/design.phtml" timestamp="1530837293926">
@@ -778,11 +774,11 @@
       <jump line="58" column="15" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/product/delivery/main.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKHN1YnN0cigkcmVkZWVtVXJsLCAwLCA0KSAhPSAnaHR0cCcpIHsKICAgICRyZWRlZW1VcmwgPSBNYWdlOjpnZXRCYXNlVXJsKCkgLiAkcmVkZWVtVXJsOwp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.outback.com</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>#13c0d7</text>
