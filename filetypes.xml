@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="apple-app-site-association" type="JSON" />
+      <mapping ext="ttf" type="Native" />
     </extensionMap>
   </component>
 </application>
