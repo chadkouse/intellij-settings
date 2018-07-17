@@ -15,6 +15,13 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/product/delivery/main.less" timestamp="1530129781252">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="157" column="24" />
+        <mark key="^" line="58" column="15" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Sales/Block/Order/Totals.php" timestamp="1528213010699">
         <mark key="[" line="121" column="38" />
         <mark key="]" line="121" column="40" />
@@ -224,6 +231,13 @@
         <mark key="]" line="56" column="58" />
         <mark key="^" line="56" column="58" />
         <mark key="." line="56" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/styles.min.css" timestamp="1531844552968">
+        <mark key="'" line="8307" column="17" />
+        <mark key="[" line="9825" column="17" />
+        <mark key="]" line="9825" column="17" />
+        <mark key="^" line="8307" column="30" />
+        <mark key="." line="9825" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/email/order/items.phtml" timestamp="1527884891350">
         <mark key="[" line="74" column="34" />
@@ -701,7 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/sql/personalizations_setup/mysql4-upgrade-0.8.2-0.8.3.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Tcp/Model/Cart/Observer.php" />
       <jump line="51" column="23" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.0-0.2.1.php" />
       <jump line="4683" column="25" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
@@ -801,16 +814,17 @@
       <jump line="3445" column="40" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="21" column="24" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/gifttokens/design/style.less" />
       <jump line="448" column="20" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/gifttokens/design/style.less" />
+      <jump line="8307" column="17" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/styles.min.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hide</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Veneer</text>
+        <text>Open Sans</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAkgICAgalF1ZXJ5KCcudG9wJykuaGlkZSgpOwo=</text>
@@ -843,15 +857,15 @@
         <text encoding="base64">ICAgICAgICAgICAgalF1ZXJ5KCcuZm9vdGVyJykuY3NzKCd3aWR0aCcsICcxMDYwcHgnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1ZlbmVlci9WZW5lZXJDbGVhbi1SZWcvZw==</text>
+        <text>%s/Open Sans/GothamBook/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Veneer</last-search>
+      <last-search>Open Sans</last-search>
       <last-offset />
-      <last-pattern>Veneer</last-pattern>
-      <last-replace>VeneerClean-Reg</last-replace>
-      <last-substitute>Veneer</last-substitute>
+      <last-pattern>Open Sans</last-pattern>
+      <last-replace>GothamBook</last-replace>
+      <last-substitute>Open Sans</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -878,6 +892,7 @@
         <entry encoding="base64">dGhpcy0+Z2V0UmVxdWVzdCgp</entry>
         <entry encoding="base64">PT4=</entry>
         <entry>Veneer</entry>
+        <entry>Open Sans</entry>
       </history-search>
       <history-cmd>
         <entry>%s/currentTokenList/currentSoundsList/g</entry>
@@ -901,6 +916,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLz0+Lz0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1ZlbmVlci9WZW5lZXJDbGVhbi1SZWcvZw==</entry>
+        <entry>%s/Open Sans/GothamBook/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
