@@ -338,11 +338,21 @@
         <mark key="." line="36" column="31" />
         <mark key="^" line="36" column="31" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/GifTango.php" timestamp="1531935414807">
+        <mark key="[" line="202" column="39" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="199" column="84" />
+        <mark key="." line="203" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Servicefee/etc/system.xml" timestamp="1529683321644">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="48" />
         <mark key="^" line="32" column="90" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1531935093717">
+        <mark key="[" line="879" column="0" />
+        <mark key="]" line="887" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/gifttokens/design/style.less" timestamp="1525889835429">
         <mark key="[" line="0" column="0" />
@@ -832,44 +842,44 @@
       <jump line="9" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/styles.min.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KyAiPGJyLz4tLSIgKyBmcm9tTmFtZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJtaXR0ZWRHaWZ0YW5nbyA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAiPGJyLz4tLSIgKyBmcm9tTmFtZQ==</text>
+        <text encoding="base64">cGVySXRlbS0+Z2V0SWQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2hlY2sgR2lmdCBBbmdvIHJlc3VsdAogICAgICAgICAgICAkZ2lmVGFuZ29SZXN1bHQgPSBNYWdlOjpnZXRNb2RlbCgncGVyc29uYWxpemF0aW9ucy9naWZ0YW5nb1Jlc3VsdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAncGVyc29uYWxpemF0aW9uc19pdGVtX2lkJyk7CiAgICAgICAgICAgICRzdWJtaXR0ZWRHaWZ0YW5nbyA9IGZhbHNlOwogICAgICAgICAgICBpZiAoJGdpZlRhbmdvUmVzdWx0LT5nZXRJZCgpID4gMCkgewogICAgICAgICAgICAgICAgJGxhbmRpbmdMaW5rID0gJGdpZlRhbmdvUmVzdWx0LT5nZXRWaXJ0dWFsQ2VydExhbmRpbmdMaW5rKCk7CiAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRsYW5kaW5nTGluaykpIHsKICAgICAgICAgICAgICAgICAgICRzdWJtaXR0ZWRHaWZ0YW5nbyA9IHRydWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxicj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJtaXR0ZWRHaWZ0YW5nbyA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxici8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3VibWl0dGVkR2lmdGFuZ28gPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3JlY2lwaWVudCcpLnRleHQodG9OYW1lLnRvVXBwZXJDYXNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2hlY2sgR2lmdCBBbmdvIHJlc3VsdAogICAgICAgICAgICAkZ2lmVGFuZ29SZXN1bHQgPSBNYWdlOjpnZXRNb2RlbCgncGVyc29uYWxpemF0aW9ucy9naWZ0YW5nb1Jlc3VsdCcpLT5sb2FkKCRwZXJJdGVtLT5nZXRJZCgpLCAncGVyc29uYWxpemF0aW9uc19pdGVtX2lkJyk7CiAgICAgICAgICAgICRzdWJtaXR0ZWRHaWZ0YW5nbyA9IGZhbHNlOwogICAgICAgICAgICBpZiAoJGdpZlRhbmdvUmVzdWx0LT5nZXRJZCgpID4gMCkgewogICAgICAgICAgICAgICAgJGxhbmRpbmdMaW5rID0gJGdpZlRhbmdvUmVzdWx0LT5nZXRWaXJ0dWFsQ2VydExhbmRpbmdMaW5rKCk7CiAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRsYW5kaW5nTGluaykpIHsKICAgICAgICAgICAgICAgICAgICAkc3VibWl0dGVkR2lmdGFuZ28gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxicj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgIDxici8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2Y2ZjJlOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI3JlY2lwaWVudCcpLnRleHQodG9OYW1lLnRvVXBwZXJDYXNlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb250LXdlaWdodDogYm9sZCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTJweCAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgCn0K</text>
+        <text encoding="base64">I2Y2ZjJlOAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuXC5cLy8vZw==</text>
