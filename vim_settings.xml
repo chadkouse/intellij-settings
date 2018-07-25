@@ -391,6 +391,10 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="32" column="90" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Personalization.php" timestamp="1532541281510">
+        <mark key="[" line="879" column="0" />
+        <mark key="]" line="887" column="12" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/gifttokens/design/style.less" timestamp="1525889835429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -477,6 +481,12 @@
         <mark key="[" line="3569" column="0" />
         <mark key="]" line="3569" column="0" />
         <mark key="." line="3569" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1532541290581">
+        <mark key="[" line="192" column="82" />
+        <mark key="]" line="192" column="90" />
+        <mark key="." line="192" column="90" />
+        <mark key="^" line="192" column="90" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/catalog/product/list.phtml" timestamp="1530195234463">
         <mark key="[" line="149" column="109" />
@@ -891,11 +901,11 @@
       <jump line="6139" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZyYW1lQXV0b1NjYWxlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sticker_back_anim_image_url</text>
       </register>
       <register name="-" type="4">
-        <text>320</text>
+        <text>sticker_back_anim_image_url</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\/</text>
