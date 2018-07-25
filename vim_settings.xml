@@ -228,6 +228,12 @@
         <mark key="." line="266" column="73" />
         <mark key="^" line="266" column="29" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/email/order/open.phtml" timestamp="1532546761132">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="160" column="6" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/sql/digital_setup/mysql4-upgrade-0.2.4-0.2.5.php" timestamp="1529071784380">
         <mark key="[" line="34" column="92" />
         <mark key="]" line="34" column="92" />
@@ -720,11 +726,11 @@
         <mark key="." line="94" column="20" />
         <mark key="^" line="94" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Guestorders/Helper/Data.php" timestamp="1532544363725">
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="199" column="103" />
-        <mark key="." line="199" column="103" />
-        <mark key="^" line="199" column="101" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Guestorders/Helper/Data.php" timestamp="1532547574472">
+        <mark key="[" line="76" column="75" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/generic.less" timestamp="1525890464942">
         <mark key="[" line="1" column="0" />
@@ -784,6 +790,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="31" column="12" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Queue.php" timestamp="1532546705734">
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1531772761798">
         <mark key="[" line="98" column="21" />
@@ -902,43 +912,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIlRlbXBsYXRlIiAuICR0ZW1wbGF0ZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICI8aHRtbD48aGVhZD48Ym9keT48ZGl2PlRoaXMgaXMgYSB0ZXN0ITwvZGl2PjwvYm9keT48L2hlYWQ+PC9odG1sPiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gIiA9ICIgLiAkdmFsdWU=</text>
+        <text>TML</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCJUZW1wbGF0ZSB2YXIiIC4gJGtleSAuICIgPSAiIC4gJHZhbHVlLCBudWxsLCAnc3lzdGVtLmxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJvZHkgPSAiPGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIlRlbXBsYXRlIiAuICR0ZW1wbGF0ZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICI8aHRtbD48aGVhZD48Ym9keT48ZGl2PlRoaXMgaXMgYSB0ZXN0ITwvZGl2PjwvYm9keT48L2hlYWQ+PC9odG1sPiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIkdldHRpbmcgZW1haWwgY29udGVudCBmb3Igc3RvcmUgY29kZSAvIFR5cGU6ICIgLiAkc3RvcmVDb2RlIC4gIiAvICIgLiAkdHlwZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCJUZW1wbGF0ZSBjYXIiIC4gJHRlbXBsYXRlLCBudWxsLCAnc3lzdGVtLmxvZycpOwo=</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIlRlbXBsYXRlIiAuICR0ZW1wbGF0ZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZyYW1lQXV0b1NjYWxlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNwaG90b2Jvb2tfZnJhbWUnKS5jc3MoJ2hlaWdodCcsICczMjBweCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIlRlbXBsYXRlIiAuICR0ZW1wbGF0ZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpRdWVyeSgnI3Bob3RvYm9va19mcmFtZScpLmNzcygnaGVpZ2h0JywgbWFpbl9pbWFlZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIkdldHRpbmcgZW1haWwgY29udGVudCBmb3Igc3RvcmUgY29kZSAvIFR5cGU6ICIgLiAkc3RvcmVDb2RlIC4gIiAvICIgLiAkdHlwZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqUXVlcnkoJyNwaG90b2Jvb2tfZnJhbWUnKS5hdHRyKCdzcmMnLCB1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCJUZW1wbGF0ZSBjYXIiIC4gJHRlbXBsYXRlLCBudWxsLCAnc3lzdGVtLmxvZycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJsID0gJzw/cGhwIGVjaG8gJF9oZWxwZXItPmdldFBlcnNvbmFsaXphdGlvbkRlbGl2ZXJ5VXJsKCRfbWFpblByb2R1Y3QsICR0aGlzLT5nZXRQZXJJdGVtKCkpPz4nOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coIlRlbXBsYXRlIiAuICR0ZW1wbGF0ZSwgbnVsbCwgJ3N5c3RlbS5sb2cnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
