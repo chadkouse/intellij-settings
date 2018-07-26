@@ -48,12 +48,6 @@
         <mark key="." line="106" column="146" />
         <mark key="^" line="106" column="146" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/preview/digital_animation.phtml" timestamp="1532617147249">
-        <mark key="[" line="149" column="106" />
-        <mark key="]" line="149" column="66" />
-        <mark key="." line="149" column="66" />
-        <mark key="^" line="149" column="66" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardmobile/template/tokenofpage/index.phtml" timestamp="1529438464958">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="12" />
@@ -348,11 +342,6 @@
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Catalog/Block/Category/View.php" timestamp="1532028058626">
         <mark key="[" line="93" column="5" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcpmobile/template/personalizations/animation/design.phtml" timestamp="1532618771031">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="47" />
-        <mark key="." line="167" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/b2b/template/personalizations/personalization/schedule.phtml" timestamp="1526916451595">
         <mark key="[" line="612" column="20" />
         <mark key="]" line="612" column="27" />
@@ -600,7 +589,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/animation/design/style_mobile.less" timestamp="1532618916404">
         <mark key="[" line="158" column="0" />
-        <mark key="]" line="169" column="5" />
         <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/TokensController.php" timestamp="1530837523236">
