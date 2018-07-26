@@ -677,6 +677,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/layout/digitalapi.xml" timestamp="1532626847677">
+        <mark key="'" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/bonefish2_token_email.html" timestamp="1530019686747">
         <mark key="[" line="119" column="494" />
         <mark key="]" line="119" column="496" />
@@ -731,10 +734,11 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/etc/config.xml" timestamp="1531500888249">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/etc/config.xml" timestamp="1532627853522">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/slide-menu.less" timestamp="1525890489563">
         <mark key="[" line="1" column="0" />
@@ -784,7 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/tcp/css/coupon.style.css" />
       <jump line="6023" column="19" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
       <jump line="517" column="31" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Customer/controllers/AccountController.php" />
@@ -884,6 +887,7 @@
       <jump line="9" column="4" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/styles.min.css" />
       <jump line="69" column="3" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/Helper/Data.php" />
       <jump line="6139" column="27" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/ApiController.php" />
+      <jump line="2" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/layout/digitalapi.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -893,7 +897,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.\.\/</text>
+        <text>spaapi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5wbGF5LWJ1dHRvbiB7CiAgICAgIHBvc2l0aW9uOmFic29sdXRlOwogICAgICAuc2l6ZSgxMDApOwogICAgICBtYXJnaW4tbGVmdDogLTUwcHg7CiAgICAgIG1hcmdpbi10b3A6IC01MHB4OwogICAgICBsZWZ0OiA1MCU7CiAgICAgIHRvcDogNTAlOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgIGJhY2tncm91bmQ6IHVybCgvc2tpbi9mcm9udGVuZC9nY2kvdGNwL2ltYWdlcy9hbmltYXRpb24vcGxheV9idXR0b24ucG5nKSBuby1yZXBlYXQ7CiAgICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsKICAgICAgZGlzcGxheTpub25lOwogICAgfQo=</text>
@@ -926,17 +930,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/spaapi/digitalapi/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\.\.\/</last-search>
+      <last-search>spaapi</last-search>
       <last-offset />
-      <last-pattern>\.\.\/</last-pattern>
-      <last-replace />
-      <last-substitute>\.\.\/</last-substitute>
+      <last-pattern>spaapi</last-pattern>
+      <last-replace>digitalapi</last-replace>
+      <last-substitute>spaapi</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -960,6 +964,7 @@
         <entry>Veneer</entry>
         <entry>Open Sans</entry>
         <entry>\.\.\/</entry>
+        <entry>spaapi</entry>
       </history-search>
       <history-cmd>
         <entry>set lnu</entry>
@@ -982,6 +987,7 @@
         <entry encoding="base64">JzwsJz5zL1wuXC5cLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1wuXC5cLy8vZw==</entry>
         <entry>w</entry>
+        <entry>%s/spaapi/digitalapi/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
