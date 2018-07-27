@@ -700,11 +700,11 @@
         <mark key="^" line="343" column="86" />
         <mark key="." line="337" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1531775800228">
-        <mark key="[" line="522" column="27" />
-        <mark key="]" line="522" column="30" />
-        <mark key="^" line="522" column="30" />
-        <mark key="." line="522" column="30" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/giftcardshopv2/js/gifttokens/design/app.js" timestamp="1532710691114">
+        <mark key="[" line="395" column="15" />
+        <mark key="]" line="395" column="18" />
+        <mark key="^" line="395" column="18" />
+        <mark key="." line="395" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/TCP/Coupon/controllers/IndexController.php" timestamp="1527735460128">
         <mark key="[" line="19" column="0" />
@@ -832,17 +832,17 @@
       <jump line="2" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/layout/digitalapi.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>hide</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hide</text>
       </register>
       <register name="/" type="4">
         <text>spaapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5wbGF5LWJ1dHRvbiB7CiAgICAgIHBvc2l0aW9uOmFic29sdXRlOwogICAgICAuc2l6ZSgxMDApOwogICAgICBtYXJnaW4tbGVmdDogLTUwcHg7CiAgICAgIG1hcmdpbi10b3A6IC01MHB4OwogICAgICBsZWZ0OiA1MCU7CiAgICAgIHRvcDogNTAlOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgIGJhY2tncm91bmQ6IHVybCgvc2tpbi9mcm9udGVuZC9nY2kvdGNwL2ltYWdlcy9hbmltYXRpb24vcGxheV9idXR0b24ucG5nKSBuby1yZXBlYXQ7CiAgICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsKICAgICAgZGlzcGxheTpub25lOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93LmhpZGUoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
