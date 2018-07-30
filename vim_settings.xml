@@ -455,6 +455,12 @@
         <mark key="." line="13746" column="13" />
         <mark key="^" line="13746" column="13" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/js/es6/giftcard/send.js" timestamp="1532977839468">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/whitelabel/css/product/main.less" timestamp="1529526546888">
         <mark key="[" line="33" column="13" />
         <mark key="]" line="33" column="13" />
@@ -917,8 +923,8 @@
       <jump line="2" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/layout/digitalapi.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGJyLz4gLTw/cGhwIGVjaG8gaHRtbGVudGl0aWVzKCRwcmV2aWV3RGF0YVsic2VuZGVyRmlyc3ROYW1lIl0pOyA/Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZW9yCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGJyLz4gLTw/cGhwIGVjaG8gaHRtbGVudGl0aWVzKCRwcmV2aWV3RGF0YVsic2VuZGVyRmlyc3ROYW1lIl0pOyA/Pg==</text>
@@ -930,10 +936,10 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hhZG93LmhpZGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICByZW9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -942,19 +948,19 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGF1dG8gYXV0bzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaWZyYW1lU3JjID0gJGJhc2V1cmwgLiAnZGlnaXRhbC9waG90b2Jvb2svZW1iZWQ/dz04NzkmaD01MTAmdmlkPScgLiAkcGVySXRlbS0+Z2V0VGVhc2VyVm1zSWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGF1dG8gYXV0bzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICI8aHRtbD48aGVhZD48Ym9keT48ZGl2PlRoaXMgaXMgYSB0ZXN0ITwvZGl2PjwvYm9keT48L2hlYWQ+PC9odG1sPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWZyYW1lU3JjID0gJGJhc2V1cmwgLiAnZGlnaXRhbC9waG90b2Jvb2svZW1iZWQ/dz04NzkmaD01MTAmdmlkPScgLiAkcGVySXRlbS0+Z2V0VGVhc2VyVm1zSWQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICI8aHRtbD48aGVhZD48Ym9keT48ZGl2PlRoaXMgaXMgYSB0ZXN0ITwvZGl2PjwvYm9keT48L2hlYWQ+PC9odG1sPiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/spaapi/digitalapi/g</text>
