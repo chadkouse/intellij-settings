@@ -266,6 +266,12 @@
         <mark key="^" line="56" column="58" />
         <mark key="." line="56" column="58" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/controllers/Api/TokenController.php" timestamp="1532978967282">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="16" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/outback/css/styles.min.css" timestamp="1532119508351">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="1231" column="11" />
@@ -807,6 +813,12 @@
         <mark key="[" line="384" column="0" />
         <mark key="]" line="384" column="47" />
       </file>
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/Controller/ApiController.php" timestamp="1532978947186">
+        <mark key="[" line="134" column="16" />
+        <mark key="]" line="130" column="38" />
+        <mark key="^" line="130" column="38" />
+        <mark key="." line="130" column="38" />
+      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/giftcardshopv2/template/personalizations/gifttokens/design.phtml" timestamp="1531772761798">
         <mark key="[" line="98" column="21" />
         <mark key="]" line="98" column="22" />
@@ -923,11 +935,11 @@
       <jump line="2" column="16" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/layout/digitalapi.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZW9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>(bool)$cached;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyLz4gLTw/cGhwIGVjaG8gaHRtbGVudGl0aWVzKCRwcmV2aWV3RGF0YVsic2VuZGVyRmlyc3ROYW1lIl0pOyA/Pg==</text>
+        <text>(bool)$cached;</text>
       </register>
       <register name="/" type="4">
         <text>spaapi</text>
