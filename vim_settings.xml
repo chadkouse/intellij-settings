@@ -373,11 +373,11 @@
         <mark key="." line="119" column="496" />
         <mark key="^" line="119" column="496" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1531422115546">
-        <mark key="[" line="193" column="73" />
-        <mark key="]" line="194" column="9" />
-        <mark key="." line="194" column="9" />
-        <mark key="^" line="194" column="9" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Cooper/Helper/Data.php" timestamp="1533064068026">
+        <mark key="[" line="192" column="73" />
+        <mark key="]" line="144" column="9" />
+        <mark key="." line="144" column="9" />
+        <mark key="^" line="144" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Webservice/controllers/DigitalApiController.php" timestamp="1532381679714">
         <mark key="[" line="1" column="21" />
@@ -595,10 +595,6 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/tcp/template/personalizations/preview/digital_animation.phtml" timestamp="1532617134571">
-        <mark key="[" line="170" column="68" />
-        <mark key="]" line="170" column="106" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/layout/topbar.xml" timestamp="1529353382191">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -808,10 +804,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="31" column="12" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/Helper/Queue.php" timestamp="1532546705734">
-        <mark key="[" line="384" column="0" />
-        <mark key="]" line="384" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Product/Controller/ApiController.php" timestamp="1532978947186">
         <mark key="[" line="134" column="16" />
