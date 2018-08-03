@@ -384,9 +384,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1533239356559">
-        <mark key="[" line="1036" column="86" />
-        <mark key="]" line="1036" column="90" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/Mage/Checkout/controllers/OnepageController.php" timestamp="1533316553190">
+        <mark key="[" line="897" column="0" />
+        <mark key="]" line="898" column="113" />
         <mark key="." line="1036" column="90" />
         <mark key="^" line="1036" column="90" />
       </file>
@@ -497,12 +497,12 @@
         <mark key="." line="206" column="24" />
         <mark key="^" line="206" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533315378582">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533316491909">
         <mark key="u" line="59" column="54" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="171" column="42" />
+        <mark key="[" line="228" column="43" />
+        <mark key="]" line="228" column="45" />
+        <mark key="." line="228" column="45" />
+        <mark key="^" line="228" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Digital/etc/config.xml" timestamp="1533225291941">
         <mark key="[" line="4" column="25" />
@@ -997,47 +997,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwZXJJdGVtSWQgPSAkaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVySXRlbSA9IE1hZ2U6OmdldE1vZGVsKCJwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfaXRlbSIpLT5sb2FkKCRwZXJJdGVtSWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;Test&quot;</text>
       </register>
       <register name="/" type="4">
         <text>spaapi</text>
       </register>
-      <register name="0" type="4">
-        <text>array(
-                &quot;Authorization: Bearer &quot; . $auth_token,
-                &quot;Content-Type: application/json&quot;,
-                &quot;ProgramId: 2561&quot;
-            )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwZXJJdGVtSWQgPSAkaXRlbS0+Z2V0UGVyc29uYWxpemF0aW9uSXRlbUlkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcGVySXRlbSA9IE1hZ2U6OmdldE1vZGVsKCJwZXJzb25hbGl6YXRpb25zL3BlcnNvbmFsaXphdGlvbnNfaXRlbSIpLT5sb2FkKCRwZXJJdGVtSWQpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvKgogICAgICAgICB7CiAgIlB1cmNoYXNlT3JkZXJOdW1iZXIiOiAiMTIzNCIsCiAgIk1ldGFkYXRhIjogIlRlc3QgVHJhc25hY3Rpb24iLAogICJDdXN0b21lck9yZGVySWQiOiAiMjUwMDAwMDAwMTAxIiwKICAiUmVjaXBpZW50cyI6IFsKICAgIHsKICAgICAgIlNoaXBwaW5nTWV0aG9kIjogIkVtYWlsIiwKICAgICAgIkxhbmd1YWdlQ3VsdHVyZUNvZGUiOiAic3RyaW5nIiwKICAgICAgIkZpcnN0TmFtZSI6ICJUZXN0IiwKICAgICAgIkxhc3ROYW1lIjogIlRlc3QiLAogICAgICAiRW1haWxBZGRyZXNzIjogIlRlc3RAZ21haWwuY29tIiwKICAgICAgIkFkZHJlc3MxIjogIlRlc3QiLAogICAgICAiQWRkcmVzczIiOiAiVGVzdCIsCiAgICAgICJDaXR5IjogIlRlc3QiLAogICAgICAiU3RhdGVQcm92aW5jZUNvZGUiOiAiS1MiLAogICAgICAiUG9zdGFsQ29kZSI6ICI2NDEwNSIsCiAgICAgICJDb3VudHJ5Q29kZSI6ICJVUyIsCiAgICAgICJEZWxpdmVyRW1haWwiOiB0cnVlLAogICAgICAiUHJvZHVjdHMiOiBbCiAgICAgICAgewogICAgICAgICAgIlNrdSI6ICJWVVNELUQtVi0wMCIsCiAgICAgICAgICAiVmFsdWUiOiAyNSwKICAgICAgICAgICJRdWFudGl0eSI6IDEsCiAgICAgICAgICAiRW1ib3NzZWRUZXh0SWQiOiAwLAogICAgICAgICAgIkVtYm9zc2VkVGV4dCI6ICIwIiwKICAgICAgICAgICJQYWNrYWdpbmciOiAiMCIsCiAgICAgICAgICAiTWVzc2FnZVRleHQiOiAiVGVzdCIsCiAgICAgICAgICAiTWVzc2FnZVJlY2lwaWVudE5hbWUiOiAiVGVzdCIKICAgICAgICB9CiAgICAgIF0KICAgIH0KICBdCn0KICAgICAgICAgKi8K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IGFycmF5KAogICAgICAgICAgICAgICAgIkF1dGhvcml6YXRpb246IEJlYXJlciAiIC4gJGF1dGhfdG9rZW4sCiAgICAgICAgICAgICAgICAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAgICAgICAgICJQcm9ncmFtSWQ6IDI1NjEi</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJQcm9ncmFtSWQ6IDI1NjEiCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGFycmF5KCJBdXRoIikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcmVzcG9uc2U7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiY1VSTCBFcnJvciAjOiIgLiAkZXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
