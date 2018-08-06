@@ -486,12 +486,12 @@
         <mark key="." line="206" column="24" />
         <mark key="^" line="206" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533572537193">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533573412039">
         <mark key="u" line="71" column="54" />
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="133" column="44" />
-        <mark key="^" line="129" column="44" />
-        <mark key="." line="133" column="44" />
+        <mark key="[" line="124" column="57" />
+        <mark key="]" line="124" column="58" />
+        <mark key="^" line="124" column="58" />
+        <mark key="." line="124" column="58" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/style.less" timestamp="1529354390054">
         <mark key="[" line="13721" column="9" />
@@ -949,11 +949,11 @@
       <jump line="404" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/etc/system.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCJPcmRlciBJdGVtIEZBSUxVUkUgKDEpIiwgbnVsbCwgJ2FsZGVyLmxvZycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>personalizationId</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>personalizationId</text>
       </register>
       <register name="/" type="4">
         <text>spaapi</text>
