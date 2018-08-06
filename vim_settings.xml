@@ -486,12 +486,12 @@
         <mark key="." line="206" column="24" />
         <mark key="^" line="206" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533573412039">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/Helper/Data.php" timestamp="1533574663807">
         <mark key="u" line="71" column="54" />
-        <mark key="[" line="124" column="57" />
-        <mark key="]" line="124" column="58" />
-        <mark key="^" line="124" column="58" />
-        <mark key="." line="124" column="58" />
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="^" line="433" column="24" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/aarp/css/style.less" timestamp="1529354390054">
         <mark key="[" line="13721" column="9" />
@@ -949,8 +949,8 @@
       <jump line="404" column="0" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/etc/system.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>personalizationId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>personalizationId</text>
@@ -959,34 +959,34 @@
         <text>spaapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFnZTo6bG9nKCJPcmRlciBJdGVtIEZBSUxVUkUgKDEpIiwgbnVsbCwgJ2FsZGVyLmxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYWdlOjpsb2coImhlcmUxIiwgbnVsbCwgJ2FsZGVyLmxvZycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpUmVzdWx0ID0gJHRoaXMtPnJ1bkFwaU1ldGhvZCgnL29yZGVycy9pbW1lZGlhdGUnLCAnUE9TVCcsICRkYXRhU3RyaW5nLCBhcnJheSgicHJvZ3JhbWlkIj0+MjU2MSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpUmVzdWx0ID0gJHRoaXMtPnJ1bkFwaU1ldGhvZCgnL29yZGVycy9pbW1lZGlhdGUnLCAnUE9TVCcsICRkYXRhU3RyaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXBpUmVzdWx0ID0gJHRoaXMtPnJ1bkFwaU1ldGhvZCgnL29yZGVycy9pbW1lZGlhdGUnLCAnUE9TVCcsICRkYXRhU3RyaW5nLCBhcnJheSgicHJvZ3JhbWlkIj0+MjU2MSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGNoYWRrb3VzZQogKiBEYXRlOiA4LzYvMTgK</text>
+        <text encoding="base64">ICAgICAgICAkYXBpUmVzdWx0ID0gJHRoaXMtPnJ1bkFwaU1ldGhvZCgnL29yZGVycy9pbW1lZGlhdGUnLCAnUE9TVCcsICRkYXRhU3RyaW5nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVGltZTogMTE6NTAgQU0K</text>
+        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGNoYWRrb3VzZQogKiBEYXRlOiA4LzYvMTgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICogVGltZTogMTE6NTAgQU0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb2R1Y3QgPSAkcGVySXRlbS0+Z2V0UHJvZHVjdCgpOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcHJvZHVjdCA9ICRpdGVtLT5nZXRQcm9kdWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByb2R1Y3QgPSAkcGVySXRlbS0+Z2V0UHJvZHVjdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcHJvZHVjdCA9ICRpdGVtLT5nZXRQcm9kdWN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
