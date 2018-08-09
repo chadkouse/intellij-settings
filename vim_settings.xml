@@ -314,9 +314,9 @@
         <mark key="]" line="157" column="23" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1529331981574">
-        <mark key="[" line="352" column="111" />
-        <mark key="]" line="352" column="111" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/gs_token_email.html" timestamp="1533845773779">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="82" />
         <mark key="^" line="457" column="130" />
         <mark key="." line="352" column="111" />
       </file>
@@ -1081,8 +1081,8 @@
       <jump line="15" column="5" filename="$USER_HOME$/src/github.com/giftcardimpressions/magento/skin/frontend/gci/bonefish/css/gifttokens/design/style.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>block</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CiAgICAgICAgQGltcG9ydCB1cmwoaHR0cHM6Ly9nY2ktcHJvZC1jZG4uczMuYW1hem9uYXdzLmNvbS9mb250cy9ncy9zdHlsZXMuY3NzP3Y9MSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>block</text>
@@ -1091,7 +1091,7 @@
         <text>spaapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnRva2VuX21hbnVmYWN0dXJlcl9uYW1lIHsKICAgICAgICBjb2xvcjogQHBhc3NpdmVfY29sb3JfMjsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CiAgICAgICAgQGltcG9ydCB1cmwoaHR0cHM6Ly9nY2ktcHJvZC1jZG4uczMuYW1hem9uYXdzLmNvbS9mb250cy9ncy9zdHlsZXMuY3NzP3Y9MSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgI3NlbnRpbWVudF9uYW1lIHsKICAgICAgfQo=</text>
