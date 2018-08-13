@@ -78,11 +78,6 @@
         <mark key="." line="67" column="30" />
         <mark key="^" line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/sql/gci_alder_setup/mysql4-upgrade-0.1.1-0.1.2.php" timestamp="1533587485745">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="8" column="33" />
-      </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/design/taylor_badge_email.html" timestamp="1527007710307">
         <mark key="[" line="357" column="103" />
         <mark key="]" line="358" column="57" />
@@ -308,11 +303,11 @@
         <mark key="[" line="78" column="0" />
         <mark key="]" line="98" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1533931027330">
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/PreviewController.php" timestamp="1534176091888">
         <mark key="[" line="630" column="146" />
-        <mark key="]" line="632" column="50" />
-        <mark key="." line="632" column="50" />
-        <mark key="^" line="632" column="50" />
+        <mark key="]" line="648" column="29" />
+        <mark key="." line="648" column="29" />
+        <mark key="^" line="648" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Personalizations/controllers/CardsController.php" timestamp="1531417357599">
         <mark key="[" line="775" column="32" />
@@ -771,10 +766,8 @@
         <mark key="." line="179" column="34" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/code/local/GCI/Alder/sql/gci_alder_setup/mysql4-upgrade-0.1.2-0.1.3.php" timestamp="1533587492346">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/whitelabel/template/personalizations/preview/embedded.phtml" timestamp="1534177010228">
+        <mark key="[" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/giftcardimpressions/magento/app/design/frontend/gci/outbackmobile/template/catalog/product/list.phtml" timestamp="1530195234463">
         <mark key="[" line="149" column="109" />
